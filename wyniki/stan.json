@@ -4,10 +4,12 @@
     "126976": {
       "channel": "Biały Bór",
       "checked_ts": 1795610552.760743,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "126976",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356409721.mp4",
       "page": "https://bialybor.tv-polska.eu/film/126976-inwestycje-i-rozwoj-powiatu-szczecineckiego-2010-2014",
+      "published": "2014-01-01",
       "title": "Inwestycje i rozwój Powiatu Szczecineckiego 2010-2014",
       "tourism": false,
       "updated": "2026-11-25"
@@ -15,10 +17,12 @@
     "13255": {
       "channel": "Dębno",
       "checked_ts": 1795611039.428936,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13255",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358622729.mp4",
       "page": "https://debno.tv-polska.eu/film/13255-biblioteka-w-debnie",
+      "published": "2009-01-01",
       "title": "Biblioteka w Dębnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -26,10 +30,12 @@
     "13262": {
       "channel": "Dolice",
       "checked_ts": 1795611086.2390594,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13262",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358602437.mp4",
       "page": "https://dolice.tv-polska.eu/film/13262-krepcewo",
+      "published": "2009-01-01",
       "title": "Krępcewo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -37,10 +43,12 @@
     "13263": {
       "channel": "Kalisz Pomorski",
       "checked_ts": 1795611774.0379715,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13263",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358599831.mp4",
       "page": "https://kaliszpomorski.tv-polska.eu/film/13263-krople-pradu",
+      "published": "2008-01-01",
       "title": "Krople prądu",
       "tourism": false,
       "updated": "2026-11-25"
@@ -48,10 +56,12 @@
     "13265": {
       "channel": "Lipiany",
       "checked_ts": 1795612271.9360812,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13265",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358595300.mp4",
       "page": "https://lipiany.tv-polska.eu/film/13265-lipiany",
+      "published": "2009-01-01",
       "title": "Lipiany",
       "tourism": false,
       "updated": "2026-11-25"
@@ -59,10 +69,12 @@
     "13272": {
       "channel": "Chojna",
       "checked_ts": 1795610735.180359,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13272",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358579850.mp4",
       "page": "https://chojna.tv-polska.eu/film/13272-paradoks-historii",
+      "published": "2008-01-01",
       "title": "Paradoks historii",
       "tourism": true,
       "updated": "2026-11-25"
@@ -70,10 +82,12 @@
     "13278": {
       "channel": "Darłowo",
       "checked_ts": 1795610965.019009,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "13278",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358565364.mp4",
       "page": "https://darlowo.tv-polska.eu/film/13278-swiatynia-gertrudy",
+      "published": "2009-01-01",
       "title": "Świątynia Gertrudy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -81,10 +95,12 @@
     "13299": {
       "channel": "Darłowo",
       "checked_ts": 1795610966.2203221,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "13299",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358505699.mp4",
       "page": "https://darlowo.tv-polska.eu/film/13299-darlowo",
+      "published": "2009-01-01",
       "title": "Darłowo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -92,10 +108,12 @@
     "13326": {
       "channel": "Goleniów",
       "checked_ts": 1795611458.7631798,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13326",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358451335.mp4",
       "page": "https://goleniow.tv-polska.eu/film/13326-goleniow",
+      "published": "2009-01-01",
       "title": "Goleniów",
       "tourism": false,
       "updated": "2026-11-25"
@@ -103,10 +121,12 @@
     "13331": {
       "channel": "Drawsko Pomorskie",
       "checked_ts": 1795611160.6358669,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13331",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358444521.mp4",
       "page": "https://drawskopomorskie.tv-polska.eu/film/13331-drawsko-pomorskie",
+      "published": "2009-01-01",
       "title": "Drawsko Pomorskie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -114,10 +134,12 @@
     "13332": {
       "channel": "Gryfino",
       "checked_ts": 1795611503.189735,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13332",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358442224.mp4",
       "page": "https://gryfino.tv-polska.eu/film/13332-gryfino",
+      "published": "2009-01-01",
       "title": "Gryfino",
       "tourism": false,
       "updated": "2026-11-25"
@@ -125,10 +147,12 @@
     "13341": {
       "channel": "Kobylanka",
       "checked_ts": 1795611948.0547197,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13341",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358423446.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/13341-zaproszenie-do-gminy-kobylanka",
+      "published": "2008-01-01",
       "title": "Zaproszenie do Gminy Kobylanka",
       "tourism": false,
       "updated": "2026-11-25"
@@ -136,10 +160,12 @@
     "13344": {
       "channel": "Dębno",
       "checked_ts": 1795611047.8244565,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13344",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358414660.mp4",
       "page": "https://debno.tv-polska.eu/film/13344-debno-i-okolice---1999r-",
+      "published": "1999-01-01",
       "title": "Dębno i okolice - 1999r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -147,10 +173,12 @@
     "13346": {
       "channel": "Gorzów Wlkp.",
       "checked_ts": 1795611495.9943852,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "13346",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358407297.mp4",
       "page": "https://gorzow.tv-polska.eu/film/13346-gorzow-wielkopolski---1992r-",
+      "published": "1992-01-01",
       "title": "Gorzów Wielkopolski - 1992r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -158,10 +186,12 @@
     "13349": {
       "channel": "Dębno",
       "checked_ts": 1795611046.631,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13349",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358398580.mp4",
       "page": "https://debno.tv-polska.eu/film/13349-bitwa",
+      "published": "2008-01-01",
       "title": "Bitwa",
       "tourism": false,
       "updated": "2026-11-25"
@@ -169,10 +199,12 @@
     "13350": {
       "channel": "Goleniów",
       "checked_ts": 1795611456.3608072,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13350",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358393568.mp4",
       "page": "https://goleniow.tv-polska.eu/film/13350-okno-na-swiat",
+      "published": "2009-01-01",
       "title": "Okno na świat",
       "tourism": false,
       "updated": "2026-11-25"
@@ -180,10 +212,12 @@
     "13351": {
       "channel": "Lębork",
       "checked_ts": 1795612237.130757,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "13351",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358388316.mp4",
       "page": "https://lebork.tv-polska.eu/film/13351-lebork---1995r-",
+      "published": "1995-01-01",
       "title": "Lębork - 1995r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -191,10 +225,12 @@
     "13352": {
       "channel": "Kobylanka",
       "checked_ts": 1795611946.8498495,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13352",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358383029.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/13352-otwarcie-promenady-miedwie",
+      "published": "2007-01-01",
       "title": "Otwarcie promenady Miedwie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -202,10 +238,12 @@
     "13362": {
       "channel": "Kujawsko-Pomorskie",
       "checked_ts": 1795612155.534238,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "13362",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358333827.mp4",
       "page": "https://kujawsko-pomorskie.tv-polska.eu/film/13362-w-samym-sercu-polski----wloclawskie---1993r-",
+      "published": "1993-01-01",
       "title": "W samym sercu Polski... Włocławskie - 1993r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -213,10 +251,12 @@
     "13364": {
       "channel": "Banie",
       "checked_ts": 1795609817.0969055,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13364",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358319325.mp4",
       "page": "https://banie.tv-polska.eu/film/13364-banie",
+      "published": "2009-01-01",
       "title": "Banie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -224,10 +264,12 @@
     "13365": {
       "channel": "Chojna",
       "checked_ts": 1795610736.377645,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13365",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358312408.mp4",
       "page": "https://chojna.tv-polska.eu/film/13365-chojna",
+      "published": "2007-01-01",
       "title": "Chojna",
       "tourism": false,
       "updated": "2026-11-25"
@@ -235,10 +277,12 @@
     "13366": {
       "channel": "Dębno",
       "checked_ts": 1795611045.4288533,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13366",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358305946.mp4",
       "page": "https://debno.tv-polska.eu/film/13366-debno",
+      "published": "2008-01-01",
       "title": "Dębno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -246,10 +290,12 @@
     "13370": {
       "channel": "Chodzież",
       "checked_ts": 1795610730.3766372,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "13370",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358283551.mp4",
       "page": "https://chodziez.tv-polska.eu/film/13370-chodziez---1993r-",
+      "published": "1993-01-01",
       "title": "Chodzież - 1993r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -257,10 +303,12 @@
     "13371": {
       "channel": "Goleniów",
       "checked_ts": 1795611457.5611382,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13371",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358278838.mp4",
       "page": "https://goleniow.tv-polska.eu/film/13371-goleniow---1992r-",
+      "published": "1992-01-01",
       "title": "Goleniów - 1992r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -268,10 +316,12 @@
     "13372": {
       "channel": "Kołobrzeg",
       "checked_ts": 1795612047.5224185,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "13372",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358274234.mp4",
       "page": "https://kolobrzeg.tv-polska.eu/film/13372-kolobrzeg---2004r-",
+      "published": "2004-01-01",
       "title": "Kołobrzeg - 2004r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -279,10 +329,12 @@
     "13373": {
       "channel": "Łódź",
       "checked_ts": 1795612405.1367793,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "13373",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358269976.mp4",
       "page": "https://lodz.tv-polska.eu/film/13373-lodz---1992r-",
+      "published": "1992-01-01",
       "title": "Łódź - 1992r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -290,10 +342,12 @@
     "13375": {
       "channel": "Ciechocinek",
       "checked_ts": 1795610783.1842747,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13375",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358261095.mp4",
       "page": "https://ciechocinek.tv-polska.eu/film/13375-uzdrowisko-ciechocinek---1993r-",
+      "published": "1993-01-01",
       "title": "Uzdrowisko Ciechocinek - 1993r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -301,10 +355,12 @@
     "13380": {
       "channel": "Gryfino",
       "checked_ts": 1795611511.5918975,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13380",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358240646.mp4",
       "page": "https://gryfino.tv-polska.eu/film/13380-gryfino-wczoraj-i-dzis---2003r-",
+      "published": "2003-01-01",
       "title": "Gryfino wczoraj i dziś - 2003r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -312,10 +368,12 @@
     "13384": {
       "channel": "Choszczno",
       "checked_ts": 1795610749.5801709,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13384",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358228300.mp4",
       "page": "https://choszczno.tv-polska.eu/film/13384-dzialki-w-choszcznie",
+      "published": "2009-01-01",
       "title": "Działki w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -323,10 +381,12 @@
     "13385": {
       "channel": "Gryfino",
       "checked_ts": 1795611510.3870218,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13385",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358225286.mp4",
       "page": "https://gryfino.tv-polska.eu/film/13385-gryfino---1992r-",
+      "published": "1992-01-01",
       "title": "Gryfino - 1992r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -334,10 +394,12 @@
     "13390": {
       "channel": "Gryfino",
       "checked_ts": 1795611509.1943915,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13390",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358210056.mp4",
       "page": "https://gryfino.tv-polska.eu/film/13390-gryfino----1995r-",
+      "published": "1995-01-01",
       "title": "Gryfino  - 1995r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -345,10 +407,12 @@
     "13391": {
       "channel": "Gryfino",
       "checked_ts": 1795611507.9906015,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13391",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358206779.mp4",
       "page": "https://gryfino.tv-polska.eu/film/13391-gryfino---750-lat-historii-ktora-laczy",
+      "published": "2005-01-01",
       "title": "Gryfino - 750 lat historii która łączy",
       "tourism": true,
       "updated": "2026-11-25"
@@ -356,10 +420,12 @@
     "13398": {
       "channel": "Kępice",
       "checked_ts": 1795611878.456241,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "13398",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358179097.mp4",
       "page": "https://kepice.tv-polska.eu/film/13398-kegar---kepice---1994r-",
+      "published": "1994-01-01",
       "title": "Kegar - Kępice - 1994r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -367,10 +433,12 @@
     "13401": {
       "channel": "Koszalin",
       "checked_ts": 1795612053.5225976,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "13401",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358161171.mp4",
       "page": "https://koszalin.tv-polska.eu/film/13401-koszalinskie---panorama-biznesu--1994r-",
+      "published": "1994-01-01",
       "title": "Koszalińskie - panorama biznesu -1994r.",
       "tourism": true,
       "updated": "2026-11-25"
@@ -378,10 +446,12 @@
     "13408": {
       "channel": "Kalisz Pomorski",
       "checked_ts": 1795611772.8440769,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13408",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358115664.mp4",
       "page": "https://kaliszpomorski.tv-polska.eu/film/13408-kalisz-pomorski",
+      "published": "2008-01-01",
       "title": "Kalisz Pomorski",
       "tourism": false,
       "updated": "2026-11-25"
@@ -389,10 +459,12 @@
     "13426": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611052.6309118,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13426",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358007620.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/13426-dobra",
+      "published": "2001-01-01",
       "title": "Dobra",
       "tourism": false,
       "updated": "2026-11-25"
@@ -400,10 +472,12 @@
     "13435": {
       "channel": "Farmutil",
       "checked_ts": 1795611294.344811,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13435",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357983270.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13435-x-lecie-farmutilu-h-s-",
+      "published": "1993-01-01",
       "title": "X-lecie Farmutilu H.S.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -411,10 +485,12 @@
     "13445": {
       "channel": "Kujawsko-Pomorskie",
       "checked_ts": 1795612156.7176325,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "13445",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357946741.mp4",
       "page": "https://kujawsko-pomorskie.tv-polska.eu/film/13445-panorama-biznesu-woj--wloclawskiego---1994r-",
+      "published": "1994-01-01",
       "title": "Panorama biznesu woj. Włocławskiego - 1994r.",
       "tourism": true,
       "updated": "2026-11-25"
@@ -422,10 +498,12 @@
     "13446": {
       "channel": "Chojna",
       "checked_ts": 1795610738.7773657,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13446",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357941933.mp4",
       "page": "https://chojna.tv-polska.eu/film/13446-ziemia-chojenska---1993r-",
+      "published": "1993-01-01",
       "title": "Ziemia Chojeńska - 1993r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -433,10 +511,12 @@
     "13447": {
       "channel": "Gryfino",
       "checked_ts": 1795611506.7919638,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13447",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357936583.mp4",
       "page": "https://gryfino.tv-polska.eu/film/13447-elektrownia-dolna-odra---1992r-",
+      "published": "1992-01-01",
       "title": "Elektrownia Dolna Odra - 1992r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -444,10 +524,12 @@
     "13448": {
       "channel": "Chojna",
       "checked_ts": 1795610737.57875,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13448",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357930866.mp4",
       "page": "https://chojna.tv-polska.eu/film/13448-chojna-i-okolice---1999r-",
+      "published": "1999-01-01",
       "title": "Chojna i okolice - 1999r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -455,10 +537,12 @@
     "13453": {
       "channel": "Lębork",
       "checked_ts": 1795612238.328158,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "13453",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357905824.mp4",
       "page": "https://lebork.tv-polska.eu/film/13453-farm-frites---1994r-",
+      "published": "1994-01-01",
       "title": "Farm Frites - 1994r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -466,10 +550,12 @@
     "13474": {
       "channel": "Gmina Słupsk",
       "checked_ts": 1795611337.5492566,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "13474",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357777798.mp4",
       "page": "https://gminaslupsk.tv-polska.eu/film/13474-famarol---slupsk---1996r-",
+      "published": "1996-01-01",
       "title": "Famarol - Słupsk - 1996r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -477,10 +563,12 @@
     "13476": {
       "channel": "Kołobrzeg",
       "checked_ts": 1795612045.117304,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "13476",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357765767.mp4",
       "page": "https://kolobrzeg.tv-polska.eu/film/13476-polska-zegluga-baltycka---1997r-",
+      "published": "1997-01-01",
       "title": "Polska Żegluga Bałtycka - 1997r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -488,10 +576,12 @@
     "13478": {
       "channel": "Gryfino",
       "checked_ts": 1795611504.3924112,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13478",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357745525.mp4",
       "page": "https://gryfino.tv-polska.eu/film/13478-taras-polnoc---gryfino-1993r-",
+      "published": "1993-01-01",
       "title": "Taras Północ - Gryfino 1993r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -499,10 +589,12 @@
     "13479": {
       "channel": "Gryfino",
       "checked_ts": 1795611501.9910424,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13479",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357741530.mp4",
       "page": "https://gryfino.tv-polska.eu/film/13479-laguna---2001r-",
+      "published": "2001-01-01",
       "title": "Laguna - 2001r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -510,10 +602,12 @@
     "13481": {
       "channel": "Farmutil",
       "checked_ts": 1795611293.1451707,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13481",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357733544.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13481-zaklady-utylizacyjne-farmutil",
+      "published": "2005-01-01",
       "title": "Zakłady Utylizacyjne Farmutil",
       "tourism": false,
       "updated": "2026-11-25"
@@ -521,10 +615,12 @@
     "13533": {
       "channel": "Choszczno",
       "checked_ts": 1795610748.3846514,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13533",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357554297.mp4",
       "page": "https://choszczno.tv-polska.eu/film/13533-choszczno---inwestycje-i-rozwoj-w-latach--2006---2010",
+      "published": "2010-01-01",
       "title": "Choszczno - inwestycje i rozwój w latach  2006 - 2010",
       "tourism": false,
       "updated": "2026-11-25"
@@ -532,10 +628,12 @@
     "13553": {
       "channel": "Farmutil",
       "checked_ts": 1795611291.9462206,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13553",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357501913.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13553-farmutil-hs-2001",
+      "published": "2001-01-01",
       "title": "Farmutil HS 2001",
       "tourism": false,
       "updated": "2026-11-25"
@@ -543,10 +641,12 @@
     "13554": {
       "channel": "Farmutil",
       "checked_ts": 1795611290.742744,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13554",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357498222.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13554-insefarm",
+      "published": "2002-01-01",
       "title": "Insefarm",
       "tourism": false,
       "updated": "2026-11-25"
@@ -554,10 +654,12 @@
     "13555": {
       "channel": "Farmutil",
       "checked_ts": 1795611289.5459564,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13555",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357490906.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13555-zd-kozieglowy",
+      "published": "2005-01-01",
       "title": "ZD Koziegłowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -565,10 +667,12 @@
     "13556": {
       "channel": "Farmutil",
       "checked_ts": 1795611288.3447511,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13556",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357487346.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13556-farmutil-hs-1993",
+      "published": "1993-01-01",
       "title": "Farmutil HS 1993",
       "tourism": false,
       "updated": "2026-11-25"
@@ -576,10 +680,12 @@
     "13557": {
       "channel": "Farmutil",
       "checked_ts": 1795611287.1438348,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13557",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357484256.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13557-zaklady-miesne-lmeat-lukow",
+      "published": "2007-01-01",
       "title": "Zakłady Mięsne Łmeat Łuków",
       "tourism": false,
       "updated": "2026-11-25"
@@ -587,10 +693,12 @@
     "13558": {
       "channel": "Farmutil",
       "checked_ts": 1795611284.7432196,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13558",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357481397.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13558-farmutil-holding-hs-1997",
+      "published": "1997-01-01",
       "title": "Farmutil Holding HS 1997",
       "tourism": false,
       "updated": "2026-11-25"
@@ -598,10 +706,12 @@
     "13559": {
       "channel": "Farmutil",
       "checked_ts": 1795611283.5442736,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13559",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357478463.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13559-insefarm---otwarcie",
+      "published": "2002-01-01",
       "title": "Insefarm - otwarcie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -609,10 +719,12 @@
     "13560": {
       "channel": "Farmutil",
       "checked_ts": 1795611282.3451748,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13560",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357475565.mp4",
       "page": "https://farmutil.tv-polska.eu/film/13560-farmutil-holding-hs-2005",
+      "published": "2005-01-01",
       "title": "Farmutil Holding HS 2005",
       "tourism": false,
       "updated": "2026-11-25"
@@ -620,10 +732,12 @@
     "13562": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611355.5558574,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13562",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357469146.mp4",
       "page": "https://gminastargard.tv-polska.eu/film/13562-60-lat-spoldzielczej-agrofirmy-witkowo",
+      "published": "2011-01-01",
       "title": "60 lat Spółdzielczej Agrofirmy Witkowo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -631,10 +745,12 @@
     "13574": {
       "channel": "Międzyzdroje",
       "checked_ts": 1795612740.440303,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "13574",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357436336.mp4",
       "page": "https://miedzyzdroje.tv-polska.eu/film/13574-muzyka-i-fale",
+      "published": "2011-01-01",
       "title": "Muzyka i fale",
       "tourism": false,
       "updated": "2026-11-25"
@@ -642,10 +758,12 @@
     "13589": {
       "channel": "Lasy",
       "checked_ts": 1795612199.9397445,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13589",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357374129.mp4",
       "page": "https://lasy.tv-polska.eu/film/13589-grozny-czerwony-kur",
+      "published": "2011-01-01",
       "title": "Groźny czerwony kur",
       "tourism": false,
       "updated": "2026-11-25"
@@ -653,10 +771,12 @@
     "13590": {
       "channel": "Lasy",
       "checked_ts": 1795612198.7290754,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13590",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357362726.mp4",
       "page": "https://lasy.tv-polska.eu/film/13590-bezpieczniej-cieszmy-sie-lasem",
+      "published": "2011-01-01",
       "title": "Bezpieczniej cieszmy się lasem",
       "tourism": false,
       "updated": "2026-11-25"
@@ -664,10 +784,12 @@
     "13617": {
       "channel": "Manowo",
       "checked_ts": 1795612409.936224,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13617",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357265449.mp4",
       "page": "https://manowo.tv-polska.eu/film/13617-niecodzienne-miejsca-okolic-manowa",
+      "published": "2012-01-01",
       "title": "Niecodzienne miejsca okolic Manowa",
       "tourism": false,
       "updated": "2026-11-25"
@@ -675,10 +797,12 @@
     "13619": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611354.3561277,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13619",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357259793.mp4",
       "page": "https://gminastargard.tv-polska.eu/film/13619-dozynki-witkowo---2011",
+      "published": "2012-01-01",
       "title": "Dożynki Witkowo - 2011",
       "tourism": false,
       "updated": "2026-11-25"
@@ -686,10 +810,12 @@
     "13620": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611353.155103,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13620",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357257211.mp4",
       "page": "https://gminastargard.tv-polska.eu/film/13620-prezes-marian-ilnicki--80-urodziny---55-lat-w-sluzbie-spoldzielczej",
+      "published": "2012-01-01",
       "title": "Prezes Marian Ilnicki. 80 urodziny - 55 lat w służbie spółdzielczej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -697,10 +823,12 @@
     "13625": {
       "channel": "Choszczno",
       "checked_ts": 1795610745.9825277,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13625",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357242579.mp4",
       "page": "https://choszczno.tv-polska.eu/film/13625-wokol-jeziora-klukom-",
+      "published": "2012-01-01",
       "title": "Wokół jeziora Klukom",
       "tourism": true,
       "updated": "2026-11-25"
@@ -708,10 +836,12 @@
     "13641": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611351.9697971,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13641",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357191989.mp4",
       "page": "https://gminastargard.tv-polska.eu/film/13641-nieco-na-polnoc-od-stargardu",
+      "published": "2012-01-01",
       "title": "Nieco na północ od Stargardu",
       "tourism": false,
       "updated": "2026-11-25"
@@ -719,10 +849,12 @@
     "13651": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609800.3762774,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "13651",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357177710.mp4",
       "page": "https://witkowo.tv-polska.eu/film/13651-dozynki-2012",
+      "published": "2012-01-01",
       "title": "Dożynki 2012",
       "tourism": false,
       "updated": "2026-11-25"
@@ -730,10 +862,12 @@
     "13655": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611350.7528946,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13655",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357167267.mp4",
       "page": "https://gminastargard.tv-polska.eu/film/13655-paciorki-rozanca",
+      "published": "2013-01-01",
       "title": "Paciorki różańca",
       "tourism": false,
       "updated": "2026-11-25"
@@ -741,10 +875,12 @@
     "13658": {
       "channel": "Drawno",
       "checked_ts": 1795611127.0389853,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13658",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357160580.mp4",
       "page": "https://drawno.tv-polska.eu/film/13658-kiedy-historia-byla-codziennoscia----drawno-wczoraj-i-dzis-----okolice-na-starej-pocztowce-i-fotografii-",
+      "published": "2013-01-01",
       "title": "Kiedy historia była codziennością. \\\"Drawno wczoraj i dziś\\\" - okolice na starej pocztówce i fotografii.",
       "tourism": true,
       "updated": "2026-11-25"
@@ -752,10 +888,12 @@
     "13660": {
       "channel": "Drawno",
       "checked_ts": 1795611121.0385678,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13660",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357156379.mp4",
       "page": "https://drawno.tv-polska.eu/film/13660-700-lat-nad-drawa",
+      "published": "2013-01-01",
       "title": "700 lat nad Drawą",
       "tourism": false,
       "updated": "2026-11-25"
@@ -763,10 +901,12 @@
     "13691": {
       "channel": "Biały Bór",
       "checked_ts": 1795610550.360867,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "13691",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357097766.mp4",
       "page": "https://bialybor.tv-polska.eu/film/13691-bialy-bor",
+      "published": "2013-01-01",
       "title": "Biały Bór",
       "tourism": false,
       "updated": "2026-11-25"
@@ -774,10 +914,12 @@
     "13697": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611349.555882,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "13697",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357079668.mp4",
       "page": "https://gminastargard.tv-polska.eu/film/13697-z-biegiem-krapieli",
+      "published": "2013-01-01",
       "title": "Z biegiem Krąpieli",
       "tourism": false,
       "updated": "2026-11-25"
@@ -785,10 +927,12 @@
     "138861": {
       "channel": "Drawno",
       "checked_ts": 1795611123.445757,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "138861",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356330667.mp4",
       "page": "https://drawno.tv-polska.eu/film/138861-letnie-drawno-widziane-okiem-drona",
+      "published": "2014-01-01",
       "title": "Letnie Drawno widziane okiem drona",
       "tourism": true,
       "updated": "2026-11-25"
@@ -796,10 +940,12 @@
     "144042": {
       "channel": "Choszczno",
       "checked_ts": 1795610743.5862794,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "144042",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356308427.mp4",
       "page": "https://choszczno.tv-polska.eu/film/144042-otwarcie-wyremontowanej-biblioteki-w-choszcznie",
+      "published": "2014-01-01",
       "title": "Otwarcie wyremontowanej biblioteki w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -807,10 +953,12 @@
     "147794": {
       "channel": "Lipiany",
       "checked_ts": 1795612273.1299777,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "147794",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356279615.mp4",
       "page": "https://lipiany.tv-polska.eu/film/147794-kosciol-pw--najswietszej-maryji-panny-w-lipianach",
+      "published": "2000-01-01",
       "title": "Kościół pw. Najświętszej Maryji Panny w Lipianach",
       "tourism": true,
       "updated": "2026-11-25"
@@ -818,10 +966,12 @@
     "148418": {
       "channel": "Międzyzdroje",
       "checked_ts": 1795612739.2437153,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "148418",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356242704.mp4",
       "page": "https://miedzyzdroje.tv-polska.eu/film/148418-kwiaty---miedzyzdroje-",
+      "published": "2014-01-01",
       "title": "Kwiaty - Międzyzdroje",
       "tourism": false,
       "updated": "2026-11-25"
@@ -829,10 +979,12 @@
     "155861": {
       "channel": "Choszczno",
       "checked_ts": 1795610747.1817715,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "155861",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356194079.mp4",
       "page": "https://choszczno.tv-polska.eu/film/155861-choszczenskie-refleksje",
+      "published": "2014-01-01",
       "title": "Choszczeńskie refleksje",
       "tourism": false,
       "updated": "2026-11-25"
@@ -840,10 +992,12 @@
     "168882": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612088.3178837,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "168882",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356134645.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/168882-kosciol-pw--matki-boskiej-czestochowskiej-w-maszewie",
+      "published": "2001-01-01",
       "title": "Kościół pw. Matki Boskiej Częstochowskiej w Maszewie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -851,10 +1005,12 @@
     "169473": {
       "channel": "Choszczno",
       "checked_ts": 1795610744.7800508,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "169473",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356131047.mp4",
       "page": "https://choszczno.tv-polska.eu/film/169473-ziemia-choszczenska",
+      "published": "2014-01-01",
       "title": "Ziemia Choszczeńska",
       "tourism": false,
       "updated": "2026-11-25"
@@ -862,10 +1018,12 @@
     "173139": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612087.113483,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "173139",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356124255.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/173139-kosciol-ksiezy-jezuitow-w-szczecinie",
+      "published": "2001-01-01",
       "title": "Kościół Księży Jezuitów w Szczecinie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -873,10 +1031,12 @@
     "173140": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612085.9110441,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "173140",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356121066.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/173140-kosciol-pw-matki-boskiej-jasnogorskiej-w-szczecinie",
+      "published": "2001-01-01",
       "title": "Kościół pw Matki Boskiej Jasnogórskiej w Szczecinie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -884,10 +1044,12 @@
     "173142": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612084.7148924,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "173142",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356117993.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/173142-sanktuarium-milosierdzia-bozego-w-szczecinie",
+      "published": "2001-01-01",
       "title": "Sanktuarium Miłosierdzia Bożego w Szczecinie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -895,10 +1057,12 @@
     "177438": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612083.5128913,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "177438",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356115132.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/177438-kosciol-p-w--sw-rodziny-w-szczecinie",
+      "published": "2001-01-01",
       "title": "Kościół p.w. św Rodziny w Szczecinie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -906,10 +1070,12 @@
     "177439": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612082.3145552,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "177439",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356112457.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/177439-kosciol-w-zaborsku",
+      "published": "2001-01-01",
       "title": "Kościół w Zaborsku",
       "tourism": true,
       "updated": "2026-11-25"
@@ -917,10 +1083,12 @@
     "177440": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612081.1133542,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "177440",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356109604.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/177440-kosciol-w-krepcewie",
+      "published": "2001-01-01",
       "title": "Kościół w Krępcewie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -928,10 +1096,12 @@
     "181742": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612079.91212,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "181742",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356106580.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/181742-kosciol-pw--swietego-jozefa-w-wierzbnie",
+      "published": "2001-01-01",
       "title": "Kościół pw. Świętego Józefa w Wierzbnie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -939,10 +1109,12 @@
     "181745": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612077.5147865,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "181745",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356103665.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/181745-swiatynia-na-wysokosci---kosciol-w-cedyni",
+      "published": "2001-01-01",
       "title": "Świątynia na wysokości - Kościół w Cedyni",
       "tourism": true,
       "updated": "2026-11-25"
@@ -950,10 +1122,12 @@
     "181747": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612076.3110425,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "181747",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356100842.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/181747-kosciol-pw--mb-krolowej-polski-w-loznicy",
+      "published": "2001-01-01",
       "title": "Kościół pw. MB Królowej Polski w Łożnicy",
       "tourism": true,
       "updated": "2026-11-25"
@@ -961,10 +1135,12 @@
     "186155": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612075.1119237,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "186155",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356094640.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/186155-kosciol-parafialny-w-tucznie",
+      "published": "2001-01-01",
       "title": "Kościół Parafialny w Tucznie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -972,10 +1148,12 @@
     "186160": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612073.9115748,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "186160",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356091638.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/186160-kosciol-pw--matki-boskiej-nieustajacej-pomocy-w-drawnie",
+      "published": "2001-01-01",
       "title": "Kościół pw. Matki Boskiej Nieustającej Pomocy w Drawnie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -983,10 +1161,12 @@
     "186164": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612072.7223442,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "186164",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356088573.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/186164-kosciol-pw--chrystusa-krola-w-reczu",
+      "published": "2001-01-01",
       "title": "Kościół pw. Chrystusa Króla w Reczu",
       "tourism": true,
       "updated": "2026-11-25"
@@ -994,10 +1174,12 @@
     "194931": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612071.525464,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "194931",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356078399.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/194931-kosciol-parafialny-w-baniach",
+      "published": "2001-01-01",
       "title": "Kościół parafialny w Baniach",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1005,10 +1187,12 @@
     "194932": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612070.309149,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "194932",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356075065.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/194932-kosciol-pw--sw--stanislawa-kostki-w-witnie",
+      "published": "2001-01-01",
       "title": "Kościół pw. św. Stanisława Kostki w Witnie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1016,10 +1200,12 @@
     "194934": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612069.1129696,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "194934",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356071204.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/194934-kosciol-pw--sw--jana-chrzciciela",
+      "published": "2001-01-01",
       "title": "Kościół pw. św. Jana Chrzciciela",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1027,10 +1213,12 @@
     "195611": {
       "channel": "Kołobrzeg",
       "checked_ts": 1795612046.3310943,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "195611",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356066869.mp4",
       "page": "https://kolobrzeg.tv-polska.eu/film/195611-kontrasty-kolobrzegu",
+      "published": "2014-01-01",
       "title": "Kontrasty Kołobrzegu",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1038,10 +1226,12 @@
     "19592": {
       "channel": "Koszalin",
       "checked_ts": 1795612052.3122709,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "19592",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356820899.mp4",
       "page": "https://koszalin.tv-polska.eu/film/19592-ryszard-ulicki-",
+      "published": "2001-01-01",
       "title": "Ryszard Ulicki",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1049,10 +1239,12 @@
     "19593": {
       "channel": "Dębno",
       "checked_ts": 1795611041.8265963,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "19593",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356818228.mp4",
       "page": "https://debno.tv-polska.eu/film/19593-ryszard-swiecicki---2002-r-",
+      "published": "2002-01-01",
       "title": "Ryszard Święcicki - 2002 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1060,10 +1252,12 @@
     "19594": {
       "channel": "Farmutil",
       "checked_ts": 1795611295.5515468,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "19594",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356815637.mp4",
       "page": "https://farmutil.tv-polska.eu/film/19594-henryk-stoklosa",
+      "published": "2001-01-01",
       "title": "Henryk Stokłosa",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1071,10 +1265,12 @@
     "19596": {
       "channel": "Kołobrzeg",
       "checked_ts": 1795612043.909455,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "19596",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356807416.mp4",
       "page": "https://kolobrzeg.tv-polska.eu/film/19596-bogdan-blaszczyk",
+      "published": "2001-01-01",
       "title": "Bogdan Błaszczyk",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1082,10 +1278,12 @@
     "19597": {
       "channel": "Gryfino",
       "checked_ts": 1795611505.5893888,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "19597",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356804647.mp4",
       "page": "https://gryfino.tv-polska.eu/film/19597-wojciech-dlugoborski",
+      "published": "2001-01-01",
       "title": "Wojciech Długoborski",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1093,10 +1291,12 @@
     "19646": {
       "channel": "Międzyzdroje",
       "checked_ts": 1795612741.6463687,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "19646",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356601267.mp4",
       "page": "https://miedzyzdroje.tv-polska.eu/film/19646-poznawanie-teatru-natury",
+      "published": "2014-01-01",
       "title": "Poznawanie teatru natury",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1104,10 +1304,12 @@
     "217513": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612066.713384,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "217513",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355980546.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/217513-kosciol-gwiazdy-morza-w-swinoujsciu",
+      "published": "2001-01-01",
       "title": "Kościół Gwiazdy Morza w Świnoujściu",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1115,10 +1317,12 @@
     "218156": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612065.510228,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "218156",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355923909.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/218156-kosciol-mariacki-w-trzebiatowie",
+      "published": "2001-01-01",
       "title": "Kościół Mariacki w Trzebiatowie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1126,10 +1330,12 @@
     "218161": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612064.3111756,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "218161",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355920893.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/218161-kosciol-wiary-i-polskosci--kosciol-sw--krzyza--w-mysliborzu",
+      "published": "2001-01-01",
       "title": "Kościół Wiary i polskości (kościół św. Krzyża) w Myśliborzu",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1137,10 +1343,12 @@
     "233778": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609787.5739918,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "233778",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355871148.mp4",
       "page": "https://witkowo.tv-polska.eu/film/233778-dozynki--2014---witkowo",
+      "published": "2015-01-01",
       "title": "Dożynki  2014 - Witkowo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1148,10 +1356,12 @@
     "235383": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612063.1245494,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "235383",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355865716.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/235383-kolobrzeska-bazylika-cz-i",
+      "published": "2002-01-01",
       "title": "Kołobrzeska Bazylika cz I",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1159,10 +1369,12 @@
     "235384": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612061.915695,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "235384",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355862842.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/235384-kolobrzeska-bazylika-cz-ii",
+      "published": "2002-01-01",
       "title": "Kołobrzeska Bazylika cz II",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1170,10 +1382,12 @@
     "235387": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612060.7130523,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "235387",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355859853.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/235387-kolobrzeska-bazylika-cz-iii",
+      "published": "2002-01-01",
       "title": "Kołobrzeska Bazylika cz III",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1181,10 +1395,12 @@
     "235389": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612058.3141644,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "235389",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355856855.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/235389-zachowane-piekno---kosciol-w-jarszewie",
+      "published": "2002-01-01",
       "title": "Zachowane Piękno - Kościół w Jarszewie",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1192,10 +1408,12 @@
     "267331": {
       "channel": "Cewice",
       "checked_ts": 1795610694.3768694,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "267331",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355725562.mp4",
       "page": "https://cewice.tv-polska.eu/film/267331-splyw-kajakowy-rzeka-bukowina--gmina-cewice-",
+      "published": "2015-01-01",
       "title": "Spływ kajakowy rzeką Bukowiną (Gmina Cewice)",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1203,10 +1421,12 @@
     "273213": {
       "channel": "Cewice",
       "checked_ts": 1795610695.5821068,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "273213",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355620561.mp4",
       "page": "https://cewice.tv-polska.eu/film/273213-taczi-kaszebe",
+      "published": "2015-01-01",
       "title": "Taczi Kaszëbë",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1214,10 +1434,12 @@
     "281039": {
       "channel": "Barlinek",
       "checked_ts": 1795610503.6268477,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "281039",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355494566.mp4",
       "page": "https://barlinek.tv-polska.eu/film/281039-barlinek---nie-tylko-nordic-walking",
+      "published": "2015-01-01",
       "title": "Barlinek – nie tylko Nordic Walking",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1225,10 +1447,12 @@
     "281063": {
       "channel": "Barlinek",
       "checked_ts": 1795610502.4128017,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "281063",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355487748.mp4",
       "page": "https://barlinek.tv-polska.eu/film/281063-barlinek---zdjecia-z-drona",
+      "published": "2015-01-01",
       "title": "Barlinek - zdjęcia z drona",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1236,10 +1460,12 @@
     "284515": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609788.3723712,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "284515",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/355475770.mp4",
       "page": "https://witkowo.tv-polska.eu/film/284515-agrofirma-witkowo---zniwa-2015",
+      "published": "2015-01-01",
       "title": "Agrofirma Witkowo - Żniwa 2015",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1247,10 +1473,12 @@
     "31911": {
       "channel": "Kuźnia Raciborska",
       "checked_ts": 1795612193.9242954,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "09 Śląskie i Małopolskie",
       "id": "31911",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356569835.mp4",
       "page": "https://kuzniaraciborska.tv-polska.eu/film/31911-las-utracony---las-odzyskany",
+      "published": "2012-01-01",
       "title": "Las utracony - Las odzyskany",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1258,10 +1486,12 @@
     "354603": {
       "channel": "Dębno",
       "checked_ts": 1795611044.2910187,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "354603",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354691471.mp4",
       "page": "https://debno.tv-polska.eu/film/354603-43--maraton-debno-2016-z-drona---3-04-2016",
+      "published": "2016-04-03",
       "title": "43. Maraton Dębno 2016 z drona - 3.04.2016",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1269,10 +1499,12 @@
     "365491": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609798.7738216,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "365491",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354597087.mp4",
       "page": "https://witkowo.tv-polska.eu/film/365491-spoldzielcza-agrofirma-witkowo---dozynki-2015",
+      "published": "2016-01-01",
       "title": "Spółdzielcza Agrofirma Witkowo - Dożynki 2015",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1280,10 +1512,12 @@
     "365492": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609789.1760988,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "365492",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354594406.mp4",
       "page": "https://witkowo.tv-polska.eu/film/365492-65-lat---spoldzielcza-agrofirma-witkowo",
+      "published": "2016-01-01",
       "title": "65 lat - Spółdzielcza Agrofirma Witkowo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1291,10 +1525,12 @@
     "384243": {
       "channel": "Międzyzdroje",
       "checked_ts": 1795612744.1502352,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "384243",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354473662.mp4",
       "page": "https://miedzyzdroje.tv-polska.eu/film/384243-gmina-miedzyzdroje-z-drona-z-komentarzem-lektorskim",
+      "published": "2017-01-01",
       "title": "Gmina Międzyzdroje z drona z komentarzem lektorskim",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1302,10 +1538,12 @@
     "387396": {
       "channel": "Drawno",
       "checked_ts": 1795611124.8022497,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "387396",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/230746414.mp4",
       "page": "https://drawno.tv-polska.eu/film/387396-gmina-drawno-z-drona-z-komentarzem-lektorskim",
+      "published": "2017-01-01",
       "title": "Gmina Drawno z drona z komentarzem lektorskim",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1313,10 +1551,12 @@
     "388912": {
       "channel": "Dębno",
       "checked_ts": 1795611040.7909498,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "388912",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354467344.mp4",
       "page": "https://debno.tv-polska.eu/film/388912-gmina-debno-z-drona-z-komentarzem-lektorskim",
+      "published": "2017-01-01",
       "title": "Gmina Dębno z drona z komentarzem lektorskim",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1324,10 +1564,12 @@
     "397375": {
       "channel": "Dębno",
       "checked_ts": 1795611043.0828779,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "397375",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354435629.mp4",
       "page": "https://debno.tv-polska.eu/film/397375-zainwestuj-w-gminie-debno",
+      "published": "2016-01-01",
       "title": "Zainwestuj w Gminie Dębno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1335,10 +1577,12 @@
     "404029": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609798.0344148,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "404029",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354353304.mp4",
       "page": "https://witkowo.tv-polska.eu/film/404029-spoldzielcza-agrofirma-witkowo",
+      "published": "2016-01-01",
       "title": "Spółdzielcza Agrofirma Witkowo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1346,10 +1590,12 @@
     "405640": {
       "channel": "Cewice",
       "checked_ts": 1795610696.7798448,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "405640",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354315761.mp4",
       "page": "https://cewice.tv-polska.eu/film/405640-gmina-cewice---tu-sie-dzieje",
+      "published": "2016-01-01",
       "title": "Gmina Cewice - tu się dzieje",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1357,10 +1603,12 @@
     "405711": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609797.2357917,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "405711",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354308863.mp4",
       "page": "https://witkowo.tv-polska.eu/film/405711-agrofirma-witkowo-cooperative--english-",
+      "published": "2016-01-01",
       "title": "Agrofirma Witkowo Cooperative (English)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1368,10 +1616,12 @@
     "406647": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609795.6317735,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "406647",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354262577.mp4",
       "page": "https://witkowo.tv-polska.eu/film/406647-spoldzielcza-agrofirma-witkowo--deutsch-version-",
+      "published": "2016-01-01",
       "title": "Spółdzielcza Agrofirma Witkowo (Deutsch Version)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1379,10 +1629,12 @@
     "410196": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609794.7728946,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "410196",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354137357.mp4",
       "page": "https://witkowo.tv-polska.eu/film/410196-spoldzielcza-agrofirma-witkowo---dozynki-2016",
+      "published": "2016-01-01",
       "title": "Spółdzielcza Agrofirma Witkowo - Dożynki 2016",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1390,10 +1642,12 @@
     "422750": {
       "channel": "Cewice",
       "checked_ts": 1795610693.180445,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "422750",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/353668322.mp4",
       "page": "https://cewice.tv-polska.eu/film/422750-dzien-kobiet-w-domu-kultury-w-maszewie-leborskim-2017-r-",
+      "published": "2017-01-01",
       "title": "Dzień Kobiet w Domu Kultury w Maszewie Lęborskim 2017 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1401,10 +1655,12 @@
     "424422": {
       "channel": "Drawno",
       "checked_ts": 1795611122.3118916,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "424422",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/353602976.mp4",
       "page": "https://drawno.tv-polska.eu/film/424422-solectwa-gminy-drawno-z-drona",
+      "published": "2017-01-01",
       "title": "Sołectwa Gminy Drawno z drona",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1412,10 +1668,12 @@
     "425614": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612059.5182734,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "425614",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/353570378.mp4",
       "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/425614-sanktuarium-nadodrzanskiej-krolowej-pokoju",
+      "published": "2000-01-01",
       "title": "Sanktuarium Nadodrzańskiej Królowej Pokoju",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1423,10 +1681,12 @@
     "426707": {
       "channel": "Drawno",
       "checked_ts": 1795611125.8402445,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "426707",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/353519241.mp4",
       "page": "https://drawno.tv-polska.eu/film/426707-los-pani-bogdany-winnickiej--sybiraczki-z-drawna",
+      "published": "2017-01-01",
       "title": "Los Pani Bogdany Winnickiej- Sybiraczki z Drawna",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1434,10 +1694,12 @@
     "428376": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609793.979363,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "428376",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/353501669.mp4",
       "page": "https://witkowo.tv-polska.eu/film/428376-powodz-w-agrofirmie-witkowo-2017",
+      "published": "2017-01-01",
       "title": "Powódź w Agrofirmie Witkowo 2017",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1445,10 +1707,12 @@
     "431744": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611346.1085114,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "431744",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/248461609.mp4",
       "page": "https://gminastargard.tv-polska.eu/film/431744-zabytki-stargardu-z-komentarzem-lektorskim",
+      "published": "2017-01-01",
       "title": "Zabytki Stargardu z komentarzem lektorskim",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1456,10 +1720,12 @@
     "431749": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611343.555803,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "431749",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/245162656.mp4",
       "page": "https://gminastargard.tv-polska.eu/film/431749-pezino-z-drona",
+      "published": "2017-01-01",
       "title": "Pęzino z drona",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1467,10 +1733,12 @@
     "432135": {
       "channel": "Karnice",
       "checked_ts": 1795611843.660444,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "432135",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/246057412.mp4",
       "page": "https://karnice.tv-polska.eu/film/432135-gmina-karnice-z-drona-z-komentarzem-lektorskim",
+      "published": "2017-01-01",
       "title": "Gmina Karnice z drona z komentarzem lektorskim",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1478,10 +1746,12 @@
     "433348": {
       "channel": "Kobylanka",
       "checked_ts": 1795611945.6565034,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "433348",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/248316852.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/433348-gmina-kobylanka-z-drona",
+      "published": "2017-01-01",
       "title": "Gmina Kobylanka z drona",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1489,10 +1759,12 @@
     "446317": {
       "channel": "alfaTV",
       "checked_ts": 1795609815.2809484,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "446317",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/281620198.mp4",
       "page": "https://alfatv.tv-polska.eu/film/446317-prezentacja-systemu-rada---urzad-gminy-gorzkowice",
+      "published": "2018-01-01",
       "title": "Prezentacja Systemu Rada - Urząd Gminy Gorzkowice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1500,10 +1772,12 @@
     "446449": {
       "channel": "alfaTV",
       "checked_ts": 1795609814.473995,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "446449",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/281954458.mp4",
       "page": "https://alfatv.tv-polska.eu/film/446449-prezentacja-systemu-rada---urzad-miejski-w-resku",
+      "published": "2018-01-01",
       "title": "Prezentacja Systemu Rada - Urząd Miejski w Resku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1511,10 +1785,12 @@
     "446671": {
       "channel": "alfaTV",
       "checked_ts": 1795609813.676357,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "446671",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/282488886.mp4",
       "page": "https://alfatv.tv-polska.eu/film/446671-prezentacja-systemu-rada---starostwo-powiatowe-we-wloclawku",
+      "published": "2018-01-01",
       "title": "Prezentacja Systemu Rada - Starostwo Powiatowe we Włocławku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1522,10 +1798,12 @@
     "446842": {
       "channel": "alfaTV",
       "checked_ts": 1795609812.8721628,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "446842",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/282848910.mp4",
       "page": "https://alfatv.tv-polska.eu/film/446842-prezentacja-systemu-rada---urzad-gminy-osina",
+      "published": "2018-01-01",
       "title": "Prezentacja Systemu Rada - Urząd Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1533,10 +1811,12 @@
     "448010": {
       "channel": "alfaTV",
       "checked_ts": 1795609812.082678,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "448010",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/286478605.mp4",
       "page": "https://alfatv.tv-polska.eu/film/448010-prezentacja-systemu-rada---suchan",
+      "published": "2018-01-01",
       "title": "Prezentacja Systemu Rada - Suchań",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1544,10 +1824,12 @@
     "448847": {
       "channel": "alfaTV",
       "checked_ts": 1795609811.2738268,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "448847",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/288488314.mp4",
       "page": "https://alfatv.tv-polska.eu/film/448847-prezentacja-systemu-rada---nowe-miasto-lubawskie",
+      "published": "2018-01-01",
       "title": "Prezentacja Systemu Rada - Nowe Miasto Lubawskie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1555,10 +1837,12 @@
     "449663": {
       "channel": "Farmutil",
       "checked_ts": 1795611281.1425664,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "449663",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/291065981.mp4",
       "page": "https://farmutil.tv-polska.eu/film/449663-farmutil-holding-hs-1997-english-ver-",
+      "published": "1997-01-01",
       "title": "Farmutil Holding HS 1997 English Ver.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1566,10 +1850,12 @@
     "449664": {
       "channel": "Farmutil",
       "checked_ts": 1795611279.9459713,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "449664",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/291065927.mp4",
       "page": "https://farmutil.tv-polska.eu/film/449664-farmutil-hs-1993-english-ver-",
+      "published": "1993-01-01",
       "title": "Farmutil HS 1993 English ver.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1577,10 +1863,12 @@
     "449666": {
       "channel": "Farmutil",
       "checked_ts": 1795611277.5454302,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "449666",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/291066037.mp4",
       "page": "https://farmutil.tv-polska.eu/film/449666-farmutil-hs-2001-english-ver-",
+      "published": "2001-01-01",
       "title": "Farmutil HS 2001 English ver.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1588,10 +1876,12 @@
     "449668": {
       "channel": "Farmutil",
       "checked_ts": 1795611276.3423364,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "449668",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/291066088.mp4",
       "page": "https://farmutil.tv-polska.eu/film/449668-farmutil-holding-hs-2005-english-ver-",
+      "published": "2005-01-01",
       "title": "Farmutil Holding HS 2005 English ver.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1599,10 +1889,12 @@
     "449669": {
       "channel": "Farmutil",
       "checked_ts": 1795611278.743069,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "449669",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/291066139.mp4",
       "page": "https://farmutil.tv-polska.eu/film/449669-zaklady-miesne-lmeat-lukow-english-ver-",
+      "published": "2007-01-01",
       "title": "Zakłady Mięsne Łmeat Łuków English ver.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1610,10 +1902,12 @@
     "452312": {
       "channel": "alfaTV",
       "checked_ts": 1795609810.4728236,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "452312",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/297313339.mp4",
       "page": "https://alfatv.tv-polska.eu/film/452312-prezentacja-systemu-rada---starostwo-powiatowe-w-szczecinku",
+      "published": "2018-01-01",
       "title": "Prezentacja Systemu Rada - Starostwo Powiatowe w Szczecinku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1621,10 +1915,12 @@
     "452636": {
       "channel": "alfaTV",
       "checked_ts": 1795609809.6712375,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "452636",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/298534311.mp4",
       "page": "https://alfatv.tv-polska.eu/film/452636-prezentacja-systemu-rada---gmina-rogowo",
+      "published": "2018-01-01",
       "title": "Prezentacja Systemu Rada - Gmina Rogowo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1632,10 +1928,12 @@
     "453437": {
       "channel": "Czerwin",
       "checked_ts": 1795610930.2193081,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "453437",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/352906586.mp4",
       "page": "https://czerwin.tv-polska.eu/film/453437-gmina-czerwin---reportaz-2018",
+      "published": "2018-01-01",
       "title": "Gmina Czerwin - reportaż 2018",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1643,10 +1941,12 @@
     "454207": {
       "channel": "Kępice",
       "checked_ts": 1795611877.2529302,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "454207",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/352664228.mp4",
       "page": "https://kepice.tv-polska.eu/film/454207-gmina-kepice",
+      "published": "2017-01-01",
       "title": "Gmina Kepice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1654,10 +1954,12 @@
     "454908": {
       "channel": "Będzino",
       "checked_ts": 1795610545.5642304,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "454908",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/352273848.mp4",
       "page": "https://bedzino.tv-polska.eu/film/454908-i-sesja-rady-gminy-w-bedzinie",
+      "published": "2018-01-01",
       "title": "I Sesja Rady Gminy w Będzinie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1665,10 +1967,12 @@
     "455882": {
       "channel": "alfaTV",
       "checked_ts": 1795609802.4712172,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "455882",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/306988323.mp4",
       "page": "https://alfatv.tv-polska.eu/film/455882-prezentacja-systemu-rada---starostwo-powiatowe-w-dzialdowie",
+      "published": "2018-01-01",
       "title": "Prezentacja Systemu Rada - Starostwo Powiatowe w Działdowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1676,10 +1980,12 @@
     "457329": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611664.7777646,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "457329",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/351818651.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/457329-mikolajki-2018",
+      "published": "2018-01-01",
       "title": "Mikołajki 2018",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1687,10 +1993,12 @@
     "460002": {
       "channel": "Będzino",
       "checked_ts": 1795610544.3611743,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "460002",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/351019777.mp4",
       "page": "https://bedzino.tv-polska.eu/film/460002-ii-sesja-rady-gminy-w-bedzinie",
+      "published": "2018-01-01",
       "title": "II Sesja Rady Gminy w Będzinie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1698,10 +2006,12 @@
     "460004": {
       "channel": "Będzino",
       "checked_ts": 1795610543.165819,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "460004",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/351013708.mp4",
       "page": "https://bedzino.tv-polska.eu/film/460004-iii-sesja-rady-gminy-w-bedzinie",
+      "published": "2018-01-01",
       "title": "III Sesja Rady Gminy w Będzinie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1709,10 +2019,12 @@
     "460008": {
       "channel": "Będzino",
       "checked_ts": 1795610541.9610553,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "460008",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/351007391.mp4",
       "page": "https://bedzino.tv-polska.eu/film/460008-iv-sesja-rady-gminy-w-bedzinie",
+      "published": "2018-01-01",
       "title": "IV Sesja Rady Gminy w Będzinie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1720,10 +2032,12 @@
     "460009": {
       "channel": "Będzino",
       "checked_ts": 1795610540.7612414,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "460009",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/351000981.mp4",
       "page": "https://bedzino.tv-polska.eu/film/460009-v-sesja-rady-gminy-w-bedzinie",
+      "published": "2019-01-01",
       "title": "V Sesja Rady Gminy w Będzinie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1731,10 +2045,12 @@
     "461227": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609793.1772163,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "461227",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/323131770.mp4",
       "page": "https://witkowo.tv-polska.eu/film/461227-a-to-polska-wlasnie",
+      "published": "1996-01-01",
       "title": "A to Polska właśnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1742,10 +2058,12 @@
     "461339": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609792.374739,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "461339",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/323446663.mp4",
       "page": "https://witkowo.tv-polska.eu/film/461339-spoldzielcza-agrofirma-witkowo---dozynki-2018",
+      "published": "2019-01-01",
       "title": "Spółdzielcza Agrofirma Witkowo - Dożynki 2018",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1753,10 +2071,12 @@
     "463799": {
       "channel": "Gorzów Wlkp.",
       "checked_ts": 1795611497.2480242,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "463799",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/330996073.mp4",
       "page": "https://gorzow.tv-polska.eu/film/463799-s3-od-swiebodzina-do-szczecina",
+      "published": "2019-01-01",
       "title": "S3 od Świebodzina do Szczecina",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1764,10 +2084,12 @@
     "467608": {
       "channel": "Gmina Słupsk",
       "checked_ts": 1795611338.8099997,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "467608",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/341795806.mp4",
       "page": "https://gminaslupsk.tv-polska.eu/film/467608-slupsk-z-drona",
+      "published": "2019-01-01",
       "title": "Słupsk z drona",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1775,10 +2097,12 @@
     "470707": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611344.75279,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "470707",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/351338975.mp4",
       "page": "https://gminastargard.tv-polska.eu/film/470707-dozynki-gminne---strachocin-2019",
+      "published": "2019-01-01",
       "title": "Dożynki Gminne - Strachocin 2019",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1786,10 +2110,12 @@
     "479748": {
       "channel": "Maszewo",
       "checked_ts": 1795612477.1457472,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "479748",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/379731745.mp4",
       "page": "https://maszewo.tv-polska.eu/film/479748-sukcesy-poli-w-gimnastyce-sportowej",
+      "published": "2019-01-01",
       "title": "Sukcesy Poli w gimnastyce sportowej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1797,10 +2123,12 @@
     "479901": {
       "channel": "Czarne",
       "checked_ts": 1795610859.4151764,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "479901",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/380015850.mp4",
       "page": "https://czarne.tv-polska.eu/film/479901-vi-jarmark-bozonarodzeniowy-czarne-2019",
+      "published": "2019-01-01",
       "title": "VI Jarmark Bożonarodzeniowy Czarne 2019",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1808,10 +2136,12 @@
     "481195": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609791.573382,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "481195",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/384522674.mp4",
       "page": "https://witkowo.tv-polska.eu/film/481195-spoldzielcza-agrofirma-witkowo---dozynki-2019",
+      "published": "2020-01-01",
       "title": "Spółdzielcza Agrofirma Witkowo - Dożynki 2019",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1819,10 +2149,12 @@
     "483378": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609790.8400183,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "483378",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/392439769.mp4",
       "page": "https://witkowo.tv-polska.eu/film/483378-70-lat-spoldzielczej-agrofirmy-witkowo",
+      "published": "2020-01-01",
       "title": "70 lat Spółdzielczej Agrofirmy Witkowo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1830,10 +2162,12 @@
     "483507": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609790.0309741,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "483507",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/392962715.mp4",
       "page": "https://witkowo.tv-polska.eu/film/483507-spoldzielcza-agrofirma-witkowo-1994",
+      "published": "1994-01-01",
       "title": "Spółdzielcza Agrofirma Witkowo 1994",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1841,10 +2175,12 @@
     "485154": {
       "channel": "Czarna Dąbrowka",
       "checked_ts": 1795610820.4136767,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "485154",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/397484685.mp4",
       "page": "https://czarnadabrowka.tv-polska.eu/film/485154-komunikat-gzzk-czarna-dabrowka",
+      "published": "2020-01-01",
       "title": "Komunikat GZZK Czarna Dąbrówka",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1852,10 +2188,12 @@
     "487626": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611422.773042,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "487626",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/411001712.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/487626-film-promocyjny",
+      "published": "2019-01-01",
       "title": "Film promocyjny",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1863,10 +2201,12 @@
     "490609": {
       "channel": "Manowo",
       "checked_ts": 1795612411.1463082,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "490609",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/429964407.mp4",
       "page": "https://manowo.tv-polska.eu/film/490609-podrozowanie-na-rowerze-po-gminie-manowo",
+      "published": "2020-01-01",
       "title": "Podróżowanie na rowerze po Gminie Manowo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1874,10 +2214,12 @@
     "492131": {
       "channel": "alfaTV",
       "checked_ts": 1795609808.50442,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "492131",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/438119174.mp4",
       "page": "https://alfatv.tv-polska.eu/film/492131-xiii-sesja-nadzwyczajna-rady-miejskiej-w-zninie",
+      "published": "2019-01-01",
       "title": "XIII Sesja nadzwyczajna Rady Miejskiej w Żninie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1885,10 +2227,12 @@
     "494098": {
       "channel": "alfaTV",
       "checked_ts": 1795609804.0679975,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "494098",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/451101769.mp4",
       "page": "https://alfatv.tv-polska.eu/film/494098-przykladowa-sesja-w-kamieniu-pomorskim",
+      "published": "2020-01-01",
       "title": "Przykładowa sesja w Kamieniu Pomorskim",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1896,10 +2240,12 @@
     "495817": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612575.6081965,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "495817",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/461767739.mp4",
       "page": "https://miastoturek.tv-polska.eu/film/495817-turek-z-drona",
+      "published": "2020-01-01",
       "title": "Turek z drona",
       "tourism": true,
       "updated": "2026-11-25"
@@ -1907,10 +2253,12 @@
     "497691": {
       "channel": "Czarna Dąbrowka",
       "checked_ts": 1795610825.1883388,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "497691",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/472965505.mp4",
       "page": "https://czarnadabrowka.tv-polska.eu/film/497691-xix-sesja-rady-gminy-czarna-dabrowka",
+      "published": "2020-01-01",
       "title": "XIX Sesja Rady Gminy Czarna Dąbrówka",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1918,10 +2266,12 @@
     "499017": {
       "channel": "Gmina Drawsko",
       "checked_ts": 1795611299.145317,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "499017",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/482613235.mp4",
       "page": "https://gminadrawsko.tv-polska.eu/film/499017-xxiii-sesja-rady-gminy-drawsko",
+      "published": "2020-01-01",
       "title": "XXIII sesja Rady Gminy Drawsko",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1929,10 +2279,12 @@
     "499142": {
       "channel": "Łanięta",
       "checked_ts": 1795612310.3377576,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "499142",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/483791139.mp4",
       "page": "https://lanieta.tv-polska.eu/film/499142-xxv-sesja-rady-gminy-lanieta--powiat-kutnowski---24-11-2020-r----transmisja-na-zywo",
+      "published": "2020-11-24",
       "title": "XXV Sesja Rady Gminy Łanięta, powiat kutnowski - 24.11.2020 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1940,10 +2292,12 @@
     "499215": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611516.3962429,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "499215",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/484207084.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/499215-xxvi-sesja-rady-gminy-ilowo-osada",
+      "published": "2020-01-01",
       "title": "XXVI Sesja Rady Gminy Iłowo-Osada",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1951,10 +2305,12 @@
     "499538": {
       "channel": "Czarna Dąbrowka",
       "checked_ts": 1795610823.9875581,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "499538",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/486785219.mp4",
       "page": "https://czarnadabrowka.tv-polska.eu/film/499538-xx-sesja-rady-gminy-czarna-dabrowka",
+      "published": "2020-01-01",
       "title": "XX Sesja Rady Gminy Czarna Dąbrówka",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1962,10 +2318,12 @@
     "500405": {
       "channel": "Czarna Dąbrowka",
       "checked_ts": 1795610821.5889752,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "500405",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/493245975.mp4",
       "page": "https://czarnadabrowka.tv-polska.eu/film/500405-swiateczne-zyczenia-gckib-w-czarnej-dabrowce",
+      "published": "2020-01-01",
       "title": "Świąteczne życzenia GCKiB w Czarnej Dąbrówce",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1973,10 +2331,12 @@
     "501058": {
       "channel": "Gmina Drawsko",
       "checked_ts": 1795611300.347407,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "501058",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/496807161.mp4",
       "page": "https://gminadrawsko.tv-polska.eu/film/501058-xxv-sesja-rady-gminy-drawsko---30-12-2020-r-",
+      "published": "2020-12-30",
       "title": "XXV sesja Rady Gminy Drawsko - 30.12.2020 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1984,10 +2344,12 @@
     "502407": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610622.3717606,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "502407",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/507404489.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/502407-dzien-babci-i-dziadka-w-przedszkolu-gminnym-w-boleszkowicach",
+      "published": "2021-01-01",
       "title": "Dzień Babci i Dziadka w Przedszkolu Gminnym w Boleszkowicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -1995,10 +2357,12 @@
     "505841": {
       "channel": "Drawno",
       "checked_ts": 1795611128.2409067,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "505841",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/539040930.mp4",
       "page": "https://drawno.tv-polska.eu/film/505841-drawno---bezpiecznie-z-natura",
+      "published": "2021-01-01",
       "title": "Drawno - bezpiecznie z naturą",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2006,10 +2370,12 @@
     "515702": {
       "channel": "Międzyzdroje",
       "checked_ts": 1795612742.8511608,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "515702",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/648528179.mp4",
       "page": "https://miedzyzdroje.tv-polska.eu/film/515702-bal-seniora-60--",
+      "published": "2021-01-01",
       "title": "Bal Seniora 60 +",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2017,10 +2383,12 @@
     "519032": {
       "channel": "Łanięta",
       "checked_ts": 1795612311.53931,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "519032",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/678433813.mp4",
       "page": "https://lanieta.tv-polska.eu/film/519032-podsumowanie-roku-2021-w-gminie-lanieta",
+      "published": "2022-01-01",
       "title": "Podsumowanie roku 2021 w Gminie Łanięta",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2028,10 +2396,12 @@
     "520536": {
       "channel": "Czarna Dąbrowka",
       "checked_ts": 1795610822.7889001,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "520536",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/691718250.mp4",
       "page": "https://czarnadabrowka.tv-polska.eu/film/520536-xxxiii-sesja-rady-gminy-czarna-dabrowka",
+      "published": "2022-01-01",
       "title": "XXXIII Sesja Rady Gminy Czarna Dąbrówka",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2039,10 +2409,12 @@
     "521703": {
       "channel": "Choszczno",
       "checked_ts": 1795610780.78438,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "521703",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/702820961.mp4",
       "page": "https://choszczno.tv-polska.eu/film/521703-sesja-xxxv-rady-miejskiej-w-choszcznie",
+      "published": "2022-01-01",
       "title": "Sesja XXXV Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2050,10 +2422,12 @@
     "521704": {
       "channel": "Choszczno",
       "checked_ts": 1795610779.5869186,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "521704",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/702826964.mp4",
       "page": "https://choszczno.tv-polska.eu/film/521704-sesja-xxxvi-rady-miejskiej-w-choszcznie",
+      "published": "2022-01-01",
       "title": "Sesja XXXVI Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2061,10 +2435,12 @@
     "523788": {
       "channel": "Choszczno",
       "checked_ts": 1795610778.386515,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "523788",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/722491394.mp4",
       "page": "https://choszczno.tv-polska.eu/film/523788-sesja-xxxvii-rady-miejskiej-w-choszcznie",
+      "published": "2022-01-01",
       "title": "Sesja XXXVII Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2072,10 +2448,12 @@
     "523792": {
       "channel": "Choszczno",
       "checked_ts": 1795610777.1894996,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "523792",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/722497244.mp4",
       "page": "https://choszczno.tv-polska.eu/film/523792-sesja-xxxviii-rady-miejskiej-w-choszcznie",
+      "published": "2022-01-01",
       "title": "Sesja XXXVIII Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2083,10 +2461,12 @@
     "526878": {
       "channel": "Choszczno",
       "checked_ts": 1795610775.98346,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "526878",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/752448947.mp4",
       "page": "https://choszczno.tv-polska.eu/film/526878-sesja-xxxix-rady-miejskiej-w-choszcznie",
+      "published": "2022-01-01",
       "title": "Sesja XXXIX Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2094,10 +2474,12 @@
     "526881": {
       "channel": "Choszczno",
       "checked_ts": 1795610774.7905025,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "526881",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/752461643.mp4",
       "page": "https://choszczno.tv-polska.eu/film/526881-sesja-xlrady-miejskiej-w-choszcznie",
+      "published": "2022-01-01",
       "title": "Sesja XLRady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2105,10 +2487,12 @@
     "528055": {
       "channel": "Kępice",
       "checked_ts": 1795611879.649066,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "528055",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/763683690.mp4",
       "page": "https://kepice.tv-polska.eu/film/528055-przystan-wiedzy",
+      "published": "2022-01-01",
       "title": "Przystań Wiedzy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2116,10 +2500,12 @@
     "530162": {
       "channel": "Biały Bór",
       "checked_ts": 1795610551.5824294,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "530162",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/782479997.mp4",
       "page": "https://bialybor.tv-polska.eu/film/530162-blizna",
+      "published": "1996-01-01",
       "title": "Blizna",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2127,10 +2513,12 @@
     "530732": {
       "channel": "Choszczno",
       "checked_ts": 1795610773.5840285,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "530732",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/787538207.mp4",
       "page": "https://choszczno.tv-polska.eu/film/530732-sesja-xli-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja XLI Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2138,10 +2526,12 @@
     "530733": {
       "channel": "Choszczno",
       "checked_ts": 1795610772.3862371,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "530733",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/787539081.mp4",
       "page": "https://choszczno.tv-polska.eu/film/530733-sesja-xlii-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja XLII Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2149,10 +2539,12 @@
     "530736": {
       "channel": "Choszczno",
       "checked_ts": 1795610769.984677,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "530736",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/787544340.mp4",
       "page": "https://choszczno.tv-polska.eu/film/530736-sesja-xliii-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja XLIII Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2160,10 +2552,12 @@
     "530737": {
       "channel": "Choszczno",
       "checked_ts": 1795610768.7836285,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "530737",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/787551302.mp4",
       "page": "https://choszczno.tv-polska.eu/film/530737-sesja-xliv-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja XLIV Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2171,10 +2565,12 @@
     "530738": {
       "channel": "Choszczno",
       "checked_ts": 1795610767.5979257,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "530738",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/787552701.mp4",
       "page": "https://choszczno.tv-polska.eu/film/530738-sesja-xlv-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja XLV Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2182,10 +2578,12 @@
     "532189": {
       "channel": "Choszczno",
       "checked_ts": 1795610766.3817806,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "532189",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/803786453.mp4",
       "page": "https://choszczno.tv-polska.eu/film/532189-sesja-xlvi-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja XLVI Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2193,10 +2591,12 @@
     "532190": {
       "channel": "Choszczno",
       "checked_ts": 1795610765.183426,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "532190",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/803790640.mp4",
       "page": "https://choszczno.tv-polska.eu/film/532190-sesja-xlvii-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja XLVII Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2204,10 +2604,12 @@
     "532740": {
       "channel": "Cewice",
       "checked_ts": 1795610727.9806468,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "532740",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/810441837.mp4",
       "page": "https://cewice.tv-polska.eu/film/532740-xl-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2022-01-01",
       "title": "XL Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2215,10 +2617,12 @@
     "532743": {
       "channel": "Cewice",
       "checked_ts": 1795610726.7818477,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "532743",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/810447964.mp4",
       "page": "https://cewice.tv-polska.eu/film/532743-xli-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2022-01-01",
       "title": "XLI Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2226,10 +2630,12 @@
     "532744": {
       "channel": "Cewice",
       "checked_ts": 1795610725.5820706,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "532744",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/810450399.mp4",
       "page": "https://cewice.tv-polska.eu/film/532744-xlii-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2022-01-01",
       "title": "XLII Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2237,10 +2643,12 @@
     "532750": {
       "channel": "Cewice",
       "checked_ts": 1795610724.3824618,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "532750",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/810456345.mp4",
       "page": "https://cewice.tv-polska.eu/film/532750-xliii-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2022-01-01",
       "title": "XLIII Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2248,10 +2656,12 @@
     "532751": {
       "channel": "Cewice",
       "checked_ts": 1795610723.1813655,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "532751",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/810458953.mp4",
       "page": "https://cewice.tv-polska.eu/film/532751-xliv-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "XLIV Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2259,10 +2669,12 @@
     "532754": {
       "channel": "Cewice",
       "checked_ts": 1795610721.9851875,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "532754",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/810472162.mp4",
       "page": "https://cewice.tv-polska.eu/film/532754-xlv-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "XLV Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2270,10 +2682,12 @@
     "533023": {
       "channel": "Łanięta",
       "checked_ts": 1795612342.7369084,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "533023",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/813360063.mp4",
       "page": "https://lanieta.tv-polska.eu/film/533023-lix-sesja-rady-gminy-lanieta--powiat-kutnowski---27-03-2023-r----transmisja-na-zywo",
+      "published": "2023-03-27",
       "title": "LIX Sesja Rady Gminy Łanięta, powiat kutnowski - 27.03.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2281,10 +2695,12 @@
     "533169": {
       "channel": "Czerwin",
       "checked_ts": 1795610931.4184659,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "533169",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/814859162.mp4",
       "page": "https://czerwin.tv-polska.eu/film/533169-i-wielkanocny-jarmark-czerwinski",
+      "published": "2023-01-01",
       "title": "I Wielkanocny Jarmark Czerwiński",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2292,10 +2708,12 @@
     "533204": {
       "channel": "Czarnocin",
       "checked_ts": 1795610895.409429,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "533204",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/815136546.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/533204-koszyczek-wielkanocny-2023",
+      "published": "2023-01-01",
       "title": "Koszyczek Wielkanocny 2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2303,10 +2721,12 @@
     "533360": {
       "channel": "Czarnocin",
       "checked_ts": 1795610896.6105118,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "533360",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/816990240.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/533360-rola-ekosfery-w-gminie-czarnocin",
+      "published": "2023-01-01",
       "title": "Rola EKOSFERY w Gminie Czarnocin",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2314,10 +2734,12 @@
     "533489": {
       "channel": "Choszczno",
       "checked_ts": 1795610763.9945226,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "533489",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/818667881.mp4",
       "page": "https://choszczno.tv-polska.eu/film/533489-sesja-xlviii-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja XLVIII Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2325,10 +2747,12 @@
     "534421": {
       "channel": "Choszczno",
       "checked_ts": 1795610762.7845726,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "534421",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/829741263.mp4",
       "page": "https://choszczno.tv-polska.eu/film/534421-sesja-xlix-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja XLIX Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2336,10 +2760,12 @@
     "534586": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611667.1921933,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "534586",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/831440953.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/534586-uroczystosc-uhonorowania-par-za-dlugoletnie-pozycie-malzenskie-",
+      "published": "2023-01-01",
       "title": "Uroczystość uhonorowania par za długoletnie pożycie małżeńskie.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2347,10 +2773,12 @@
     "534589": {
       "channel": "Kobylanka",
       "checked_ts": 1795611976.8536239,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "534589",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/831439485.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/534589-lxii-sesja-rady-gminy---25-05-2023",
+      "published": "2023-05-25",
       "title": "LXII sesja Rady Gminy – 25.05.2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2358,10 +2786,12 @@
     "534617": {
       "channel": "Łanięta",
       "checked_ts": 1795612341.5399568,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "534617",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/831590587.mp4",
       "page": "https://lanieta.tv-polska.eu/film/534617-lx-sesja-rady-gminy-lanieta--powiat-kutnowski---30-05-2023-r----transmisja-na-zywo",
+      "published": "2023-05-30",
       "title": "LX Sesja Rady Gminy Łanięta, powiat kutnowski - 30.05.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2369,10 +2799,12 @@
     "534640": {
       "channel": "Brusy",
       "checked_ts": 1795610655.9755628,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "534640",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/831816805.mp4",
       "page": "https://brusy.tv-polska.eu/film/534640-wiesci-z-zaborow---marzec-2023-r-",
+      "published": "2023-01-01",
       "title": "Wieści z Zaborów - marzec 2023 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2380,10 +2812,12 @@
     "535543": {
       "channel": "Łanięta",
       "checked_ts": 1795612340.341328,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "535543",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/841975729.mp4",
       "page": "https://lanieta.tv-polska.eu/film/535543-lxi-sesja-rady-gminy-lanieta--powiat-kutnowski---29-06-2023-r----transmisja-na-zywo",
+      "published": "2023-06-29",
       "title": "LXI Sesja Rady Gminy Łanięta, powiat kutnowski - 29.06.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2391,10 +2825,12 @@
     "536154": {
       "channel": "Łanięta",
       "checked_ts": 1795612339.137608,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "536154",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/850133403.mp4",
       "page": "https://lanieta.tv-polska.eu/film/536154-lxii-sesja-rady-gminy-lanieta--powiat-kutnowski---31-07-2023-r----transmisja-na-zywo",
+      "published": "2023-07-31",
       "title": "LXII Sesja Rady Gminy Łanięta, powiat kutnowski - 31.07.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2402,10 +2838,12 @@
     "536307": {
       "channel": "Kobylanka",
       "checked_ts": 1795611975.669658,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "536307",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/852932943.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/536307-lxiii-sesja-rady-gminy---29-06-2023",
+      "published": "2023-06-29",
       "title": "LXIII sesja Rady Gminy - 29.06.2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2413,10 +2851,12 @@
     "536711": {
       "channel": "Kobylanka",
       "checked_ts": 1795611974.453509,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "536711",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/859659500.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/536711-nadzwyczajna-sesja-rady-gminy-30-08-2023",
+      "published": "2023-08-30",
       "title": "Nadzwyczajna sesja Rady Gminy 30.08.2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2424,10 +2864,12 @@
     "536746": {
       "channel": "Łanięta",
       "checked_ts": 1795612337.937956,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "536746",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/859759735.mp4",
       "page": "https://lanieta.tv-polska.eu/film/536746-lxiii-sesja-rady-gminy-lanieta--powiat-kutnowski---30-08-2023-r----transmisja-na-zywo",
+      "published": "2023-08-30",
       "title": "LXIII Sesja Rady Gminy Łanięta, powiat kutnowski - 30.08.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2435,10 +2877,12 @@
     "537227": {
       "channel": "Choszczno",
       "checked_ts": 1795610761.5923738,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "537227",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/867103714.mp4",
       "page": "https://choszczno.tv-polska.eu/film/537227-sesja-l-rady-miejskiej-w-choszcznie-cz1",
+      "published": "2023-01-01",
       "title": "Sesja L Rady Miejskiej w Choszcznie cz1",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2446,10 +2890,12 @@
     "537229": {
       "channel": "Choszczno",
       "checked_ts": 1795610759.1843925,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "537229",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/867104760.mp4",
       "page": "https://choszczno.tv-polska.eu/film/537229-sesja-l-rady-miejskiej-w-choszcznie-cz2",
+      "published": "2023-01-01",
       "title": "Sesja L Rady Miejskiej w Choszcznie cz2",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2457,10 +2903,12 @@
     "537399": {
       "channel": "Kobylanka",
       "checked_ts": 1795611973.2551496,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "537399",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/870183631.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/537399-lxv-sesja--rady-gminy---29-09-2023",
+      "published": "2023-09-29",
       "title": "LXV Sesja  Rady Gminy - 29.09.2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2468,10 +2916,12 @@
     "537417": {
       "channel": "Łanięta",
       "checked_ts": 1795612336.7377198,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "537417",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/870213598.mp4",
       "page": "https://lanieta.tv-polska.eu/film/537417-lxiv-sesja-rady-gminy-lanieta--powiat-kutnowski---26-09-2023-r----transmisja-na-zywo",
+      "published": "2023-09-26",
       "title": "LXIV Sesja Rady Gminy Łanięta, powiat kutnowski - 26.09.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2479,10 +2929,12 @@
     "538172": {
       "channel": "Łanięta",
       "checked_ts": 1795612335.5419178,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "538172",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/879735759.mp4",
       "page": "https://lanieta.tv-polska.eu/film/538172-lxv-sesja-rady-gminy-lanieta--powiat-kutnowski---31-10-2023-r----transmisja-na-zywo",
+      "published": "2023-10-31",
       "title": "LXV Sesja Rady Gminy Łanięta, powiat kutnowski - 31.10.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2490,10 +2942,12 @@
     "538211": {
       "channel": "alfaTV",
       "checked_ts": 1795609807.2728136,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "538211",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/880456246.mp4",
       "page": "https://alfatv.tv-polska.eu/film/538211-e-doreczenia-w-ezd",
+      "published": "2023-01-01",
       "title": "e-Doręczenia w EZD",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2501,10 +2955,12 @@
     "538251": {
       "channel": "Choszczno",
       "checked_ts": 1795610757.9894783,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "538251",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/880861592.mp4",
       "page": "https://choszczno.tv-polska.eu/film/538251-sesja-li-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja LI Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2512,10 +2968,12 @@
     "538252": {
       "channel": "Kobylanka",
       "checked_ts": 1795611972.0527213,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "538252",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/880873103.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/538252-lxvi-sesja-rady-gminy---26-10-2023",
+      "published": "2023-10-26",
       "title": "LXVI Sesja Rady Gminy – 26.10.2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2523,10 +2981,12 @@
     "538253": {
       "channel": "Kobylanka",
       "checked_ts": 1795611970.8545258,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "538253",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/880875722.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/538253-lxvi-sesja-rady-gminy---02-11-2023",
+      "published": "2023-11-02",
       "title": "LXVI Sesja Rady Gminy – 02.11.2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2534,10 +2994,12 @@
     "538843": {
       "channel": "Łanięta",
       "checked_ts": 1795612334.3393037,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "538843",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/889316545.mp4",
       "page": "https://lanieta.tv-polska.eu/film/538843-lxvi-sesja-rady-gminy-lanieta--powiat-kutnowski---28-11-2023-r----transmisja-na-zywo",
+      "published": "2023-11-28",
       "title": "LXVI Sesja Rady Gminy Łanięta, powiat kutnowski - 28.11.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2545,10 +3007,12 @@
     "538937": {
       "channel": "Choszczno",
       "checked_ts": 1795610756.7887466,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "538937",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/890281622.mp4",
       "page": "https://choszczno.tv-polska.eu/film/538937-sesja-lii-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja LII Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2556,10 +3020,12 @@
     "538950": {
       "channel": "Kobylanka",
       "checked_ts": 1795611968.453102,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "538950",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/890246563.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/538950-lxvii-sesja-rady-gminy---30-11-2023",
+      "published": "2023-11-30",
       "title": "LXVII Sesja Rady Gminy - 30.11.2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2567,10 +3033,12 @@
     "539132": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612307.9301217,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "539132",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/892549600.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/539132-xlvii-sesja-rady-miejskiej",
+      "published": "2023-01-01",
       "title": "XLVII Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2578,10 +3046,12 @@
     "539591": {
       "channel": "Łanięta",
       "checked_ts": 1795612331.9384568,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "539591",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/898316768.mp4",
       "page": "https://lanieta.tv-polska.eu/film/539591-lxvii-sesja-rady-gminy-lanieta--powiat-kutnowski---28-12-2023-r----transmisja-na-zywo",
+      "published": "2023-12-28",
       "title": "LXVII Sesja Rady Gminy Łanięta, powiat kutnowski - 28.12.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2589,10 +3059,12 @@
     "539623": {
       "channel": "Choszczno",
       "checked_ts": 1795610755.5879512,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "539623",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/898509125.mp4",
       "page": "https://choszczno.tv-polska.eu/film/539623-sesja-liii-rady-miejskiej-w-choszcznie",
+      "published": "2023-01-01",
       "title": "Sesja LIII Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2600,10 +3072,12 @@
     "539658": {
       "channel": "Karnice",
       "checked_ts": 1795611874.853578,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "539658",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/899184227.mp4",
       "page": "https://karnice.tv-polska.eu/film/539658-sesja-rady-gminy-karnice-29-12-2023",
+      "published": "2023-12-29",
       "title": "Sesja Rady Gminy Karnice 29.12.2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2611,10 +3085,12 @@
     "539662": {
       "channel": "Kobylanka",
       "checked_ts": 1795611967.2547512,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "539662",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/899163513.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/539662-lxviii-sesja-rady-gminy-20-12-2023",
+      "published": "2023-12-20",
       "title": "LXVIII sesja Rady Gminy 20.12.2023",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2622,10 +3098,12 @@
     "539691": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612306.740503,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "539691",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/899762694.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/539691-xlviii-sesja-rady-miejskiej",
+      "published": "2024-01-01",
       "title": "XLVIII Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2633,10 +3111,12 @@
     "540212": {
       "channel": "Gniewino",
       "checked_ts": 1795611420.3595111,
+      "date_source": "data opisana",
       "group": "04 Pomorskie i Żuławy",
       "id": "540212",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/906279470.mp4",
       "page": "https://gniewino.tv-polska.eu/film/540212-liv-sesja-rady-gminy-gniewino",
+      "published": "2024-01-23",
       "title": "LIV Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2644,10 +3124,12 @@
     "540248": {
       "channel": "Choszczno",
       "checked_ts": 1795610754.3836176,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "540248",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/906659356.mp4",
       "page": "https://choszczno.tv-polska.eu/film/540248-sesja-liv-rady-miejskiej-w-choszcznie",
+      "published": "2024-01-01",
       "title": "Sesja LIV Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2655,10 +3137,12 @@
     "540277": {
       "channel": "Łanięta",
       "checked_ts": 1795612330.735559,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "540277",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/907289665.mp4",
       "page": "https://lanieta.tv-polska.eu/film/540277-lxviii-sesja-rady-gminy-lanieta--powiat-kutnowski---26-01-2024-r----transmisja-na-zywo",
+      "published": "2024-01-26",
       "title": "LXVIII Sesja Rady Gminy Łanięta, powiat kutnowski - 26.01.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2666,10 +3150,12 @@
     "540514": {
       "channel": "Karnice",
       "checked_ts": 1795611873.657011,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "540514",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/910729720.mp4",
       "page": "https://karnice.tv-polska.eu/film/540514-sesja-rady-gminy-karnice-01-02-2024",
+      "published": "2024-02-01",
       "title": "Sesja Rady Gminy Karnice 01.02.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2677,10 +3163,12 @@
     "540523": {
       "channel": "Kobylanka",
       "checked_ts": 1795611966.0557003,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "540523",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/910704936.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/540523-lxix-sesja-rady-gminy-25-01-2024-",
+      "published": "2024-01-25",
       "title": "LXIX Sesja Rady Gminy 25.01.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2688,10 +3176,12 @@
     "540607": {
       "channel": "Łanięta",
       "checked_ts": 1795612329.5359185,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "540607",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/912182482.mp4",
       "page": "https://lanieta.tv-polska.eu/film/540607-lxix-sesja-rady-gminy-lanieta--powiat-kutnowski---12-02-2024-r----transmisja-na-zywo",
+      "published": "2024-02-12",
       "title": "LXIX Sesja Rady Gminy Łanięta, powiat kutnowski - 12.02.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2699,10 +3189,12 @@
     "541121": {
       "channel": "Kobylanka",
       "checked_ts": 1795611964.8532987,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "541121",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/919496359.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/541121-lxx-sesja-rady-gminy-kobylanka---29-02-2024",
+      "published": "2024-02-29",
       "title": "LXX Sesja Rady Gminy Kobylanka – 29.02.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2710,10 +3202,12 @@
     "541131": {
       "channel": "Barcin",
       "checked_ts": 1795610468.7582865,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "541131",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/919907958.mp4",
       "page": "https://barcin.tv-polska.eu/film/541131-gmina-barcin---tutaj-jestem--tutaj-zyje---odc-4-",
+      "published": "2024-01-01",
       "title": "Gmina Barcin | Tutaj jestem, tutaj żyję | ODC.4",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2721,10 +3215,12 @@
     "541139": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612305.5316749,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "541139",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/919946918.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/541139-xlix-sesja-rady-miejskiej",
+      "published": "2024-01-01",
       "title": "XLIX Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2732,10 +3228,12 @@
     "541399": {
       "channel": "Łanięta",
       "checked_ts": 1795612328.3379047,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "541399",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/923707895.mp4",
       "page": "https://lanieta.tv-polska.eu/film/541399-lxx-sesja-rady-gminy-lanieta--powiat-kutnowski---15-03-2024-r----transmisja-na-zywo",
+      "published": "2024-03-15",
       "title": "LXX Sesja Rady Gminy Łanięta, powiat kutnowski - 15.03.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -2743,10 +3241,12 @@
     "541435": {
       "channel": "Gniewino",
       "checked_ts": 1795611419.1593597,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "541435",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/924563259.mp4",
       "page": "https://gniewino.tv-polska.eu/film/541435-lv-sesja-rady-gminy-gniewino",
+      "published": "2024-01-01",
       "title": "LV Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
