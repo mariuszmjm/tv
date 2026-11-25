@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-25T13:53:15.420589+00:00
+# Aktualizacja: 2026-11-25T13:54:34.325387+00:00
+#EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXV Sesja Rady Miejskiej Mielna 19.11.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1248308295.mp4
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXIV Sesja Rady Miejskiej Mielna 23.10.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1239403290.mp4
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXIII Sesja Rady Miejskiej Mielna 25.09.2026
@@ -315,6 +317,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1214216664.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1231049748.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Drawno | XXXII sesja Rady Miejskiej w Drawnie
 https://film.alfatv.pl/~tv/backup_vimeo/1232022014.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Drawno | XXXIII sesja Rady Miejskiej w Drawnie
+https://film.alfatv.pl/~tv/backup_vimeo/1248240138.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XVI Sesja Rady Gminy Manowo -  2025-12-19 -  godz. 9:30
 https://film.alfatv.pl/~tv/backup_vimeo/1148037343.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XV Sesja Rady Gminy Manowo -  2025-11-28 -  godz. 8:00
@@ -387,6 +391,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1207984074.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1231595559.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Brusy | XXIV sesja IX kadencji
 https://film.alfatv.pl/~tv/backup_vimeo/1237598074.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Brusy | XXV sesja IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1249323874.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Cewice | XXXII Sesja Rady Gminy Cewice dziewiątej kadencji
 https://film.alfatv.pl/~tv/backup_vimeo/1236492801.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Gniew | XIX sesja Rady Miejskiej w Gniewie z 14 stycznia 2026 r.
@@ -557,10 +563,14 @@ https://film.alfatv.pl/~tv/backup_vimeo/1213491642.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1228033056.mp4
 #EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Gmina Miejska Szczytno | XXXIV Sesja Rady Miejskiej w Szczytnie
 https://film.alfatv.pl/~tv/backup_vimeo/1240768500.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Gmina Miejska Szczytno | XXXV Sesja Rady Miejskiej w Szczytnie
+https://film.alfatv.pl/~tv/backup_vimeo/1249237966.mp4
 #EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Ilowo Osada | XXVI Sesja Rady Gminy Iłowo-Osada z dnia 30.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1150440982.mp4
 #EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Ilowo Osada | XXV Sesja Rady Gminy Iłowo-Osada z dnia 08.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1144528037.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji do spraw Skarg -  Wniosków i Petycji Rady Miejskiej w Janowcu Wielkopolskim 24.11.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1249693554.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | XXIV Sesja Rady Miejskiej w Janowcu Wielkopolskim 05.11.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1243750014.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji do spraw Gminnych Rady Miejskiej w Janowcu Wielkopolskim 03.11.2026
@@ -705,16 +715,28 @@ https://film.alfatv.pl/~tv/backup_vimeo/1178470793.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1148591444.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Międzychód | XXVI SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 25.11.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1148591090.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXXIV Rady Gminy Łęki Szlacheckie z dnia 23.11.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1249923406.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXXII Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029 część 1
+https://film.alfatv.pl/~tv/backup_vimeo/1249699208.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXXII Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029 część 2
+https://film.alfatv.pl/~tv/backup_vimeo/1249699561.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXXI sesja Rady Gminy Czerwin 10.11.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1246242208.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XXX Sesja Rady Gminy Jednorożec 30.10.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1241239727.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXXIII Rady Gminy Łęki Szlacheckie z dnia 27.10.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1240159531.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXXI Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1249691068.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXX sesja Rady Gminy Czerwin 06.10.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1233661393.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXXII Rady Gminy Łęki Szlacheckie z dnia 29.09.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1237163321.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXX Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029 część 1
+https://film.alfatv.pl/~tv/backup_vimeo/1249581666.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXX Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029 część 2
+https://film.alfatv.pl/~tv/backup_vimeo/1249689868.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XXIX Sesja Rady Gminy Jednorożec 22.09.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1232925927.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXXI Rady Gminy Łęki Szlacheckie z dnia 31.08.2026 r.
@@ -727,34 +749,46 @@ https://film.alfatv.pl/~tv/backup_vimeo/1217589988.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1213844893.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XXVII Sesja Rady Gminy Jednorożec 16.07.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1213197630.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXIX Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1249575192.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXVIII sesja Rady Gminy Czerwin 23.06.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1204182997.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXIX Rady Gminy Łęki Szlacheckie z dnia 23.06.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1204444829.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XXVI Sesja Rady Gminy Jednorożec 19.06.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1204471200.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXVIII Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1249328277.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXVII sesja Rady Gminy Czerwin 09.06.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1199992190.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XXV Sesja Rady Gminy Jednorożec 29.05.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1197345693.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXVIII Rady Gminy Łęki Szlacheckie z dnia 26.05.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1197368393.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXVII Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1249318079.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXVI sesja Rady Gminy Czerwin 05.05.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1189643155.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XXIV Sesja Rady Gminy Jednorożec 28.04.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1188989785.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXVII Rady Gminy Łęki Szlacheckie z dnia 28.04.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1187343707.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXVI Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1249236698.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXV sesja Rady Gminy Czerwin 31.03.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1184764803.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XXIII Sesja Rady Gminy Jednorożec 30.03.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1179830426.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXVI Rady Gminy Łęki Szlacheckie z dnia 24.03.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1177211541.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXV Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1248658394.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXIV sesja Rady Gminy Czerwin 03.03.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1170237870.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XXII Sesja Rady Gminy Jednorożec 26.02.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1169825914.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXIV Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1248644889.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXV Rady Gminy Łęki Szlacheckie z dnia 17.02.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1166253595.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XXI Sesja Rady Gminy Jednorożec 28.01.2026 r.
@@ -763,6 +797,24 @@ https://film.alfatv.pl/~tv/backup_vimeo/1161024258.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1159139691.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXVI Rady Gminy Łęki Szlacheckie z dnia 20.01.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1156509104.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Dąbrowice | XXIX Sesja Rady Gminy Dąbrowice
+https://film.alfatv.pl/~tv/backup_vimeo/1248116122.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Dąbrowice | XXVI Sesja Rady Gminy Dąbrowice
+https://film.alfatv.pl/~tv/backup_vimeo/1248080062.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Dąbrowice | XXVII Sesja Rady Gminy Dąbrowice
+https://film.alfatv.pl/~tv/backup_vimeo/1248087326.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Dąbrowice | XXVIII Sesja Rady Gminy Dąbrowice
+https://film.alfatv.pl/~tv/backup_vimeo/1248107555.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Dąbrowice | XXX Sesja Rady Gminy Dąbrowice
+https://film.alfatv.pl/~tv/backup_vimeo/1248124812.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Dąbrowice | XXXI Sesja Rady Gminy Dąbrowice
+https://film.alfatv.pl/~tv/backup_vimeo/1248132259.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Dąbrowice | XXXII Sesja Rady Gminy Dąbrowice
+https://film.alfatv.pl/~tv/backup_vimeo/1248136060.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Dąbrowice | XXXIII Sesja Rady Miejskiej Dąbrowice
+https://film.alfatv.pl/~tv/backup_vimeo/1249953543.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Dąbrowice | XXXIV Sesja Rady Miejskiej Dąbrowice
+https://film.alfatv.pl/~tv/backup_vimeo/1249954986.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Gniewoszów | XX Sesja Rady Gminy w Gniewoszowie
 https://film.alfatv.pl/~tv/backup_vimeo/1164639451.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Gniewoszów | XXI Sesja Rady Gminy w Gniewoszowie
@@ -779,6 +831,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1213864118.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1231963742.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Gniewoszów | XXVII Sesja Rady Gminy w Gniewoszowie
 https://film.alfatv.pl/~tv/backup_vimeo/1241273396.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Gniewoszów | XXVIII Sesja Rady Gminy w Gniewoszowie
+https://film.alfatv.pl/~tv/backup_vimeo/1249272399.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Gorzkowice | XXIV Sesja Rady Gminy Gorzkowice kadencji 2024-2029
 https://film.alfatv.pl/~tv/backup_vimeo/1164266360.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Gorzkowice | XXIX Absolutoryjna Sesja Rady Gminy Gorzkowice kadencji 2024-2029
@@ -949,6 +1003,10 @@ https://film.alfatv.pl/~tv/backup_vimeo/1150624418.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1156508303.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XX Sesja Rady Gminy Jednorożec 22.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1148847250.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXIII Nadzwyczajna Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029 część 1
+https://film.alfatv.pl/~tv/backup_vimeo/1248641608.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXIII Nadzwyczajna Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029 część 2
+https://film.alfatv.pl/~tv/backup_vimeo/1248642509.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXI sesja Rady Gminy Czerwin 09.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1145163666.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXII Rady Gminy Łęki Szlacheckie z dnia 02.12.2025 r.
@@ -1011,6 +1069,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1221093917.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1231216882.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Deszczno | XXXII Zwyczajna Sesja Rady Gminy Deszczno 26.10.2026r. (2024-2029r.)
 https://film.alfatv.pl/~tv/backup_vimeo/1239748612.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Deszczno | XXXIII Zwyczajna Sesja Rady Gminy Deszczno 23.11.2026r. (2024-2029r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1249581968.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Cisna | Sesja nr XXXIX Rady Gminy Cisna z dnia 28.10.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1240341786.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Miasto Leżajsk | XXXII Sesja Rady Miejskiej w Leżajsku. 26.10.2026
