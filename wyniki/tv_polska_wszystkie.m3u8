@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-25T13:06:16.883980+00:00
+# Aktualizacja: 2026-11-25T13:12:50.393713+00:00
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Darłowo | Darłowo
 https://film.alfatv.pl/~tv/backup_vimeo/358505699.mp4
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Darłowo | Świątynia Gertrudy
@@ -149,6 +149,18 @@ https://film.alfatv.pl/~tv/backup_vimeo/1202536476.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1221063991.mp4
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Kamień Pomorski | XXVII Sesja Rady Miejskiej (2024-2029)
 https://film.alfatv.pl/~tv/backup_vimeo/1234066946.mp4
+#EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Koszalin | Koszalińskie - panorama biznesu -1994r.
+https://film.alfatv.pl/~tv/backup_vimeo/358161171.mp4
+#EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Koszalin | Ryszard Ulicki
+https://film.alfatv.pl/~tv/backup_vimeo/356820899.mp4
+#EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Kołobrzeg | Bogdan Błaszczyk
+https://film.alfatv.pl/~tv/backup_vimeo/356807416.mp4
+#EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Kołobrzeg | Kontrasty Kołobrzegu
+https://film.alfatv.pl/~tv/backup_vimeo/356066869.mp4
+#EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Kołobrzeg | Kołobrzeg - 2004r.
+https://film.alfatv.pl/~tv/backup_vimeo/358274234.mp4
+#EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Kołobrzeg | Polska Żegluga Bałtycka - 1997r.
+https://film.alfatv.pl/~tv/backup_vimeo/357765767.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Bielice | IX Nadzwyczajna Sesja Rady Gminy Bielice
 https://film.alfatv.pl/~tv/backup_vimeo/1040333639.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Bielice | VI Sesja Rady Gminy Bielice
@@ -563,6 +575,10 @@ https://film.alfatv.pl/~tv/backup_vimeo/1026428275.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1036250195.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Kobylanka | Zaproszenie do Gminy Kobylanka
 https://film.alfatv.pl/~tv/backup_vimeo/358423446.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Lipiany | Kościół pw. Najświętszej Maryji Panny w Lipianach
+https://film.alfatv.pl/~tv/backup_vimeo/356279615.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Lipiany | Lipiany
+https://film.alfatv.pl/~tv/backup_vimeo/358595300.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Barlinek | Barlinek - zdjęcia z drona
 https://film.alfatv.pl/~tv/backup_vimeo/355487748.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Barlinek | Barlinek – nie tylko Nordic Walking
@@ -1125,6 +1141,106 @@ https://film.alfatv.pl/~tv/backup_vimeo/1222606904.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1240249441.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Kępice | XXXI sesja IX kadencji Rady Miejskiej w Kępicach
 https://film.alfatv.pl/~tv/backup_vimeo/1241200392.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | Nadzwyczajna XXIV sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1137631028.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | Nadzwyczajna XXVI sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1146025311.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | Nadzwyczajna XXX Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1172813493.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | Nadzwyczajna XXXV sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1205363435.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | Nadzwyczajna XXXVI sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1208668093.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | Nadzwyczajna XXXVII sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1214516454.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XIX Nadzwyczajna Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1098502674.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XL Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1241201605.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XVII Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1093956548.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XVIII Nadzwyczajna Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1094948699.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XX Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1115419839.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXI Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1122122855.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXII Nadzwyczajna Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1126778657.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXIII Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1132442275.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXIX Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1168837424.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXV Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1145936461.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXVII Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1148649377.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXVIII Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1160095512.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXXI sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1178745468.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXXII sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1187987796.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXXIII sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1196594587.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXXIV sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1201917864.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXXIX Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1229788822.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXXVIII Sesja Rady Gminy Krokowa IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1223909041.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | Farm Frites - 1994r.
+https://film.alfatv.pl/~tv/backup_vimeo/357905824.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | IV Sesja Rady Miejskiej w Lęborku (23.09.2024) Kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1012312955.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | IX Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (31.01.2025 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1052929598.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | Lębork - 1995r.
+https://film.alfatv.pl/~tv/backup_vimeo/358388316.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | V sesja Rady Miejskiej w Lęborku -  kadencja 2024-2029 (24.10.2024 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1023856583.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | VI Sesja Rady Miejskiej w Lęborku -  kadencja 2024-2029 (29.11.2024 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1035204233.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | VII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (20.12.2024 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1041896935.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | VIII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (17.01.2025 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1052202634.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | X Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (07.03.2025 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1064264574.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XI Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (31.03.2025 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1071377345.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XII Sesja Rady Miejskiej w Lęborku IX kadencji 09.05.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1083842105.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XIII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (27.06.2025 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1097741667.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XIV Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (12.09.2025 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1118669143.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XIX Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (27.02.2026 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1169490664.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XV sesja Rady Miejskiej w Lęborku -  kadencja 2024-2029 (24.10.2025 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1130839622.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XVI Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (27.11.2025 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1141958393.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XVII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (19.12.2025 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1148635623.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XVIII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (16.01.2026 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1158322324.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XX Sesja Rady Miejskiej w Lęborku IX kadencji 27.03.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1178348148.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXI Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (24.04.2026 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1186894826.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXII Sesja Rady Miejskiej w Lęborku IX kadencji 2024-2029 (29.05.2026 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1197322866.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXIII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (26.06.2026 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1205749750.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXIV Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (27.08.2026 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1222028749.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXV Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (25.09.2026 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1243160231.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXVI Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (29.10.2026 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1243160504.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXVII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (12.11.2026 r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1247198841.mp4
 #EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Gmina Miejska Szczytno | XII Sesja Rady Miejskiej w Szczytnie
 https://film.alfatv.pl/~tv/backup_vimeo/1041654480.mp4
 #EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Gmina Miejska Szczytno | XIV Sesja Rady Miejskiej w Szczytnie
@@ -1377,6 +1493,58 @@ https://film.alfatv.pl/~tv/backup_vimeo/1205404328.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1221719087.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Kamień Krajeński | XXX Sesja Rady Miejskiej w Kamieniu Krajeńskim (Kadencja 2024 - 2029)
 https://film.alfatv.pl/~tv/backup_vimeo/1240711141.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Kujawsko-Pomorskie | Panorama biznesu woj. Włocławskiego - 1994r.
+https://film.alfatv.pl/~tv/backup_vimeo/357946741.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Kujawsko-Pomorskie | W samym sercu Polski... Włocławskie - 1993r.
+https://film.alfatv.pl/~tv/backup_vimeo/358333827.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | I Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/945735897.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | II Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/957682169.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | III Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/982460845.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | IV Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1006881723.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | IX Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1086684281.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | L Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/928729479.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | V Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1040762441.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | VI Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1040764307.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | VII Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1049648015.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | VIII Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1068814070.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | X Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1102097180.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XI Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1117002051.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XII Sesja Rady Miejskiej w Łabiszynie ( nadzwyczajna)
+https://film.alfatv.pl/~tv/backup_vimeo/1121476579.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XIII Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1131302121.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XIV Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1138834549.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XIX Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1206405900.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XLIX Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/919946918.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XLVII Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/892549600.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XLVIII Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/899762694.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XV Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1152212195.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XVI Sesja Rady Miejskiej w Łabjszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1156391444.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XVII Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1169914050.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XVIII Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1187594043.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XX Sesja Rady Miejskiej w Łabiszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1231963595.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | Gmina Czerwin - reportaż 2018
 https://film.alfatv.pl/~tv/backup_vimeo/352906586.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | I Wielkanocny Jarmark Czerwiński
@@ -1793,6 +1961,286 @@ https://film.alfatv.pl/~tv/backup_vimeo/1231602105.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1233864889.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kiernozia | 37 SESJA RADY MIASTA I GMINY KIERNOZIA 03.11.26
 https://film.alfatv.pl/~tv/backup_vimeo/1247552637.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | IX sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1054091563.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | V sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1054074683.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | VI sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1054075530.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | VII sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1054080856.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | VIII sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1054085209.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | X sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1061218433.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XI sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201684981.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XII sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201689258.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XIII sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201692006.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XIV sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201695110.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XIX sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201707090.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XV sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201696137.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XVI sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201698951.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XVII sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201700020.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XVIII sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201704786.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XX sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201754347.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XXI sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201756002.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XXII sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201763178.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XXIII sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1201766956.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XXIV sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1237534962.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XXV sesja nadzwyczajna Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1237535524.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XXVI sesja nadzwyczajna Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1237535894.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XXVII sesja Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1237536473.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kocierzew Południowy | XXVIII sesja nadzwyczajna Rady Gminy Kocierzew Południowy
+https://film.alfatv.pl/~tv/backup_vimeo/1237538438.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | IX Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1035119869.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | X Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1044561636.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XI Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1044902217.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XII Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1060790747.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XIII Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1070273447.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XIV Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1084517786.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XIX Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1127789267.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XV Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1095829471.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XVI Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1113551229.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XVII Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1115726358.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XVIII Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1126720918.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XX Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1141043482.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXI Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1152785439.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXII Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1152796060.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXIII Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1176116313.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXIV Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1176123287.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXIX Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1217913480.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXV Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1187210335.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXVI Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1204065811.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXVII Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1207283282.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXVIII Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1214232233.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXX Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1218819836.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXXI Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1226879366.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Krzynowłoga Mała | XXXII Sesja Rady Gminy w Krzynowłodze Małej
+https://film.alfatv.pl/~tv/backup_vimeo/1242716988.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 14 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231595426.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 15 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231597733.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 16 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231599058.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 17 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231602712.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 18 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231604735.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 18 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231603499.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 19 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231606874.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 20 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231608119.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 22 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231609700.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 23 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231611276.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 24 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231620367.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 25 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231621545.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 26 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231622642.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 27 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231628595.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 28 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231630254.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 28 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231629237.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 29 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231631450.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 30 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231632356.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 31 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231633664.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 32 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1231634586.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 33 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1237556676.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 34 Rady Gminy Kutno
+https://film.alfatv.pl/~tv/backup_vimeo/1237209655.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | Sesja nr 35 Rady Gminy Kutno Część I
+https://film.alfatv.pl/~tv/backup_vimeo/1240754724.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | XXXV Sesja Rady Gminy Kutno Część II
+https://film.alfatv.pl/~tv/backup_vimeo/1240761278.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | I Sesja 9 kadencji Rady Gminy Łanięta -  powiat kutnowski - 06.05.2024 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/943409094.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | II Sesja 9 kadencji Rady Gminy Łanięta -  powiat kutnowski - 27.05.2024 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/950832062.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | III Sesja 9 kadencji Rady Gminy Łanięta -   powiat kutnowski - 28.06.2024 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/970571008.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | IV Sesja 9 kadencji Rady Gminy Łanięta -   powiat kutnowski - 18.07.2024 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/986347113.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | IX Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 29.11.2024r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/1034492107.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LIX Sesja Rady Gminy Łanięta -  powiat kutnowski - 27.03.2023 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/813360063.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LX Sesja Rady Gminy Łanięta -  powiat kutnowski - 30.05.2023 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/831590587.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXI Sesja Rady Gminy Łanięta -  powiat kutnowski - 29.06.2023 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/841975729.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXII Sesja Rady Gminy Łanięta -  powiat kutnowski - 31.07.2023 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/850133403.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXIII Sesja Rady Gminy Łanięta -  powiat kutnowski - 30.08.2023 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/859759735.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXIV Sesja Rady Gminy Łanięta -  powiat kutnowski - 26.09.2023 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/870213598.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXIX Sesja Rady Gminy Łanięta -  powiat kutnowski - 12.02.2024 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/912182482.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXV Sesja Rady Gminy Łanięta -  powiat kutnowski - 31.10.2023 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/879735759.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXVI Sesja Rady Gminy Łanięta -  powiat kutnowski - 28.11.2023 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/889316545.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXVII Sesja Rady Gminy Łanięta -  powiat kutnowski - 28.12.2023 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/898316768.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXVIII Sesja Rady Gminy Łanięta -  powiat kutnowski - 26.01.2024 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/907289665.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXX Sesja Rady Gminy Łanięta -  powiat kutnowski - 15.03.2024 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/923707895.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | LXXI Sesja Rady Gminy Łanięta -  powiat kutnowski - 26.04.2024 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/939519941.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | Podsumowanie roku 2021 w Gminie Łanięta
+https://film.alfatv.pl/~tv/backup_vimeo/678433813.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | V Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 30.08.2024r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/1004422805.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | VI Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 10.09.2024r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/1007962046.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | VII Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 24.09.2024r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/1012335025.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | VIII Nadzwyczajna Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 12.11.2024r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/1028741260.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | X Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 19.12.2024r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/1040946084.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | XI Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 23.01.2025r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/1049645482.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łanięta | XXV Sesja Rady Gminy Łanięta -  powiat kutnowski - 24.11.2020 r. - transmisja na żywo
+https://film.alfatv.pl/~tv/backup_vimeo/483791139.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XIX Rady Gminy Łęki Szlacheckie z dnia 23.09.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1129845017.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XVIII Rady Gminy Łęki Szlacheckie z dnia 26.08.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1119343969.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XX Rady Gminy Łęki Szlacheckie z dnia 21.10.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1129845945.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXI Rady Gminy Łęki Szlacheckie z dnia 12.11.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1138062092.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXII Rady Gminy Łęki Szlacheckie z dnia 02.12.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1143737768.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXIII Rady Gminy Łęki Szlacheckie z dnia 30.12.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1156508303.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXIX Rady Gminy Łęki Szlacheckie z dnia 23.06.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1204444829.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXV Rady Gminy Łęki Szlacheckie z dnia 17.02.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1166253595.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXVI Rady Gminy Łęki Szlacheckie z dnia 20.01.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1156509104.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXVI Rady Gminy Łęki Szlacheckie z dnia 24.03.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1177211541.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXVII Rady Gminy Łęki Szlacheckie z dnia 28.04.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1187343707.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXVIII Rady Gminy Łęki Szlacheckie z dnia 26.05.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1197368393.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXX Rady Gminy Łęki Szlacheckie z dnia 28.07.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1213844893.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXXI Rady Gminy Łęki Szlacheckie z dnia 31.08.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1223011172.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXXII Rady Gminy Łęki Szlacheckie z dnia 29.09.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1237163321.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXXIII Rady Gminy Łęki Szlacheckie z dnia 27.10.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1240159531.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXXIV Rady Gminy Łęki Szlacheckie z dnia 23.11.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1249923406.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | IX Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1031016536.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | X Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1034987557.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XI Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1040379054.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XII Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1043062800.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XIII Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1062296704.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XIV Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1070941931.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XIX Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1109578640.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XV Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1080068779.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XVI Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1088291638.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XVII Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1092404397.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XVIII Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1096811549.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XX Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1113462719.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXI Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1123456650.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXII Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1132409800.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXIII Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1136033628.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXIV Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1144451550.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXIX Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1202461151.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXV Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1150576332.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXVI Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1165272820.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXVII Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1180782889.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXVIII Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1195275199.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXX Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1227996564.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXXI Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1231914440.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXXII Sesja Rady Gminy Lewin Kłodzki
+https://film.alfatv.pl/~tv/backup_vimeo/1242705274.mp4
+#EXTINF:-1 group-title="09 Śląskie i Małopolskie",Kuźnia Raciborska | Las utracony - Las odzyskany
+https://film.alfatv.pl/~tv/backup_vimeo/356569835.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Deszczno | X Zwyczajna Sesja Rady Gminy Deszczno 16.12.2024r. (2024-2029)
 https://film.alfatv.pl/~tv/backup_vimeo/1039930324.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Deszczno | XI Zwyczajna Sesja Rady Gminy Deszczno 10.02.2025r. (2024-2029)
@@ -2081,3 +2529,55 @@ https://film.alfatv.pl/~tv/backup_vimeo/291066139.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/357733544.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Farmutil | ZD Koziegłowy
 https://film.alfatv.pl/~tv/backup_vimeo/357490906.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół Gwiazdy Morza w Świnoujściu
+https://film.alfatv.pl/~tv/backup_vimeo/355980546.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół Księży Jezuitów w Szczecinie
+https://film.alfatv.pl/~tv/backup_vimeo/356124255.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół Mariacki w Trzebiatowie
+https://film.alfatv.pl/~tv/backup_vimeo/355923909.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół p.w. św Rodziny w Szczecinie
+https://film.alfatv.pl/~tv/backup_vimeo/356115132.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół parafialny w Baniach
+https://film.alfatv.pl/~tv/backup_vimeo/356078399.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół Parafialny w Tucznie
+https://film.alfatv.pl/~tv/backup_vimeo/356094640.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół pw Matki Boskiej Jasnogórskiej w Szczecinie
+https://film.alfatv.pl/~tv/backup_vimeo/356121066.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół pw. Chrystusa Króla w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/356088573.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół pw. Matki Boskiej Częstochowskiej w Maszewie
+https://film.alfatv.pl/~tv/backup_vimeo/356134645.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół pw. Matki Boskiej Nieustającej Pomocy w Drawnie
+https://film.alfatv.pl/~tv/backup_vimeo/356091638.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół pw. MB Królowej Polski w Łożnicy
+https://film.alfatv.pl/~tv/backup_vimeo/356100842.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół pw. św. Jana Chrzciciela
+https://film.alfatv.pl/~tv/backup_vimeo/356071204.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół pw. św. Stanisława Kostki w Witnie
+https://film.alfatv.pl/~tv/backup_vimeo/356075065.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół pw. Świętego Józefa w Wierzbnie
+https://film.alfatv.pl/~tv/backup_vimeo/356106580.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół w Krępcewie
+https://film.alfatv.pl/~tv/backup_vimeo/356109604.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół w Zaborsku
+https://film.alfatv.pl/~tv/backup_vimeo/356112457.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kościół Wiary i polskości (kościół św. Krzyża) w Myśliborzu
+https://film.alfatv.pl/~tv/backup_vimeo/355920893.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kołobrzeska Bazylika cz I
+https://film.alfatv.pl/~tv/backup_vimeo/355865716.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kołobrzeska Bazylika cz II
+https://film.alfatv.pl/~tv/backup_vimeo/355862842.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Kołobrzeska Bazylika cz III
+https://film.alfatv.pl/~tv/backup_vimeo/355859853.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Sanktuarium Miłosierdzia Bożego w Szczecinie
+https://film.alfatv.pl/~tv/backup_vimeo/356117993.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Sanktuarium Nadodrzańskiej Królowej Pokoju
+https://film.alfatv.pl/~tv/backup_vimeo/353570378.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Świątynia na wysokości - Kościół w Cedyni
+https://film.alfatv.pl/~tv/backup_vimeo/356103665.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Kościoły Pomorza Zachodniego | Zachowane Piękno - Kościół w Jarszewie
+https://film.alfatv.pl/~tv/backup_vimeo/355856855.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Lasy | Bezpieczniej cieszmy się lasem
+https://film.alfatv.pl/~tv/backup_vimeo/357362726.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Lasy | Groźny czerwony kur
+https://film.alfatv.pl/~tv/backup_vimeo/357374129.mp4

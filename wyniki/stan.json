@@ -1,5 +1,5 @@
 {
-  "cursor": 65,
+  "cursor": 82,
   "items": {
     "126976": {
       "channel": "Biały Bór",
@@ -42,6 +42,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358599831.mp4",
       "page": "https://kaliszpomorski.tv-polska.eu/film/13263-krople-pradu",
       "title": "Krople prądu",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13265": {
+      "channel": "Lipiany",
+      "checked_ts": 1795612271.9360812,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13265",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358595300.mp4",
+      "page": "https://lipiany.tv-polska.eu/film/13265-lipiany",
+      "title": "Lipiany",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -166,6 +177,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13351": {
+      "channel": "Lębork",
+      "checked_ts": 1795612237.130757,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "13351",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358388316.mp4",
+      "page": "https://lebork.tv-polska.eu/film/13351-lebork---1995r-",
+      "title": "Lębork - 1995r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13352": {
       "channel": "Kobylanka",
       "checked_ts": 1795611946.8498495,
@@ -174,6 +196,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358383029.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/13352-otwarcie-promenady-miedwie",
       "title": "Otwarcie promenady Miedwie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13362": {
+      "channel": "Kujawsko-Pomorskie",
+      "checked_ts": 1795612155.534238,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "13362",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358333827.mp4",
+      "page": "https://kujawsko-pomorskie.tv-polska.eu/film/13362-w-samym-sercu-polski----wloclawskie---1993r-",
+      "title": "W samym sercu Polski... Włocławskie - 1993r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -229,6 +262,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358278838.mp4",
       "page": "https://goleniow.tv-polska.eu/film/13371-goleniow---1992r-",
       "title": "Goleniów - 1992r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13372": {
+      "channel": "Kołobrzeg",
+      "checked_ts": 1795612047.5224185,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13372",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358274234.mp4",
+      "page": "https://kolobrzeg.tv-polska.eu/film/13372-kolobrzeg---2004r-",
+      "title": "Kołobrzeg - 2004r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -309,6 +353,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13401": {
+      "channel": "Koszalin",
+      "checked_ts": 1795612053.5225976,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13401",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358161171.mp4",
+      "page": "https://koszalin.tv-polska.eu/film/13401-koszalinskie---panorama-biznesu--1994r-",
+      "title": "Koszalińskie - panorama biznesu -1994r.",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
     "13408": {
       "channel": "Kalisz Pomorski",
       "checked_ts": 1795611772.8440769,
@@ -340,6 +395,17 @@
       "page": "https://farmutil.tv-polska.eu/film/13435-x-lecie-farmutilu-h-s-",
       "title": "X-lecie Farmutilu H.S.",
       "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13445": {
+      "channel": "Kujawsko-Pomorskie",
+      "checked_ts": 1795612156.7176325,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "13445",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/357946741.mp4",
+      "page": "https://kujawsko-pomorskie.tv-polska.eu/film/13445-panorama-biznesu-woj--wloclawskiego---1994r-",
+      "title": "Panorama biznesu woj. Włocławskiego - 1994r.",
+      "tourism": true,
       "updated": "2026-11-25"
     },
     "13446": {
@@ -375,6 +441,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13453": {
+      "channel": "Lębork",
+      "checked_ts": 1795612238.328158,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "13453",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/357905824.mp4",
+      "page": "https://lebork.tv-polska.eu/film/13453-farm-frites---1994r-",
+      "title": "Farm Frites - 1994r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13474": {
       "channel": "Gmina Słupsk",
       "checked_ts": 1795611337.5492566,
@@ -383,6 +460,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/357777798.mp4",
       "page": "https://gminaslupsk.tv-polska.eu/film/13474-famarol---slupsk---1996r-",
       "title": "Famarol - Słupsk - 1996r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13476": {
+      "channel": "Kołobrzeg",
+      "checked_ts": 1795612045.117304,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13476",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/357765767.mp4",
+      "page": "https://kolobrzeg.tv-polska.eu/film/13476-polska-zegluga-baltycka---1997r-",
+      "title": "Polska Żegluga Bałtycka - 1997r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -529,6 +617,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13589": {
+      "channel": "Lasy",
+      "checked_ts": 1795612199.9397445,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13589",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/357374129.mp4",
+      "page": "https://lasy.tv-polska.eu/film/13589-grozny-czerwony-kur",
+      "title": "Groźny czerwony kur",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13590": {
+      "channel": "Lasy",
+      "checked_ts": 1795612198.7290754,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13590",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/357362726.mp4",
+      "page": "https://lasy.tv-polska.eu/film/13590-bezpieczniej-cieszmy-sie-lasem",
+      "title": "Bezpieczniej cieszmy się lasem",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13619": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611354.3561277,
@@ -661,6 +771,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "147794": {
+      "channel": "Lipiany",
+      "checked_ts": 1795612273.1299777,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "147794",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356279615.mp4",
+      "page": "https://lipiany.tv-polska.eu/film/147794-kosciol-pw--najswietszej-maryji-panny-w-lipianach",
+      "title": "Kościół pw. Najświętszej Maryji Panny w Lipianach",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
     "155861": {
       "channel": "Choszczno",
       "checked_ts": 1795610747.1817715,
@@ -672,6 +793,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "168882": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612088.3178837,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "168882",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356134645.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/168882-kosciol-pw--matki-boskiej-czestochowskiej-w-maszewie",
+      "title": "Kościół pw. Matki Boskiej Częstochowskiej w Maszewie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
     "169473": {
       "channel": "Choszczno",
       "checked_ts": 1795610744.7800508,
@@ -680,6 +812,193 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356131047.mp4",
       "page": "https://choszczno.tv-polska.eu/film/169473-ziemia-choszczenska",
       "title": "Ziemia Choszczeńska",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "173139": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612087.113483,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "173139",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356124255.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/173139-kosciol-ksiezy-jezuitow-w-szczecinie",
+      "title": "Kościół Księży Jezuitów w Szczecinie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "173140": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612085.9110441,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "173140",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356121066.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/173140-kosciol-pw-matki-boskiej-jasnogorskiej-w-szczecinie",
+      "title": "Kościół pw Matki Boskiej Jasnogórskiej w Szczecinie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "173142": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612084.7148924,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "173142",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356117993.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/173142-sanktuarium-milosierdzia-bozego-w-szczecinie",
+      "title": "Sanktuarium Miłosierdzia Bożego w Szczecinie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "177438": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612083.5128913,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "177438",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356115132.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/177438-kosciol-p-w--sw-rodziny-w-szczecinie",
+      "title": "Kościół p.w. św Rodziny w Szczecinie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "177439": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612082.3145552,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "177439",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356112457.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/177439-kosciol-w-zaborsku",
+      "title": "Kościół w Zaborsku",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "177440": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612081.1133542,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "177440",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356109604.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/177440-kosciol-w-krepcewie",
+      "title": "Kościół w Krępcewie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "181742": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612079.91212,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "181742",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356106580.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/181742-kosciol-pw--swietego-jozefa-w-wierzbnie",
+      "title": "Kościół pw. Świętego Józefa w Wierzbnie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "181745": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612077.5147865,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "181745",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356103665.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/181745-swiatynia-na-wysokosci---kosciol-w-cedyni",
+      "title": "Świątynia na wysokości - Kościół w Cedyni",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "181747": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612076.3110425,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "181747",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356100842.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/181747-kosciol-pw--mb-krolowej-polski-w-loznicy",
+      "title": "Kościół pw. MB Królowej Polski w Łożnicy",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "186155": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612075.1119237,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "186155",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356094640.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/186155-kosciol-parafialny-w-tucznie",
+      "title": "Kościół Parafialny w Tucznie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "186160": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612073.9115748,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "186160",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356091638.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/186160-kosciol-pw--matki-boskiej-nieustajacej-pomocy-w-drawnie",
+      "title": "Kościół pw. Matki Boskiej Nieustającej Pomocy w Drawnie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "186164": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612072.7223442,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "186164",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356088573.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/186164-kosciol-pw--chrystusa-krola-w-reczu",
+      "title": "Kościół pw. Chrystusa Króla w Reczu",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "194931": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612071.525464,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "194931",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356078399.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/194931-kosciol-parafialny-w-baniach",
+      "title": "Kościół parafialny w Baniach",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "194932": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612070.309149,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "194932",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356075065.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/194932-kosciol-pw--sw--stanislawa-kostki-w-witnie",
+      "title": "Kościół pw. św. Stanisława Kostki w Witnie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "194934": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612069.1129696,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "194934",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356071204.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/194934-kosciol-pw--sw--jana-chrzciciela",
+      "title": "Kościół pw. św. Jana Chrzciciela",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "195611": {
+      "channel": "Kołobrzeg",
+      "checked_ts": 1795612046.3310943,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "195611",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356066869.mp4",
+      "page": "https://kolobrzeg.tv-polska.eu/film/195611-kontrasty-kolobrzegu",
+      "title": "Kontrasty Kołobrzegu",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "19592": {
+      "channel": "Koszalin",
+      "checked_ts": 1795612052.3122709,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "19592",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356820899.mp4",
+      "page": "https://koszalin.tv-polska.eu/film/19592-ryszard-ulicki-",
+      "title": "Ryszard Ulicki",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -705,6 +1024,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "19596": {
+      "channel": "Kołobrzeg",
+      "checked_ts": 1795612043.909455,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "19596",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356807416.mp4",
+      "page": "https://kolobrzeg.tv-polska.eu/film/19596-bogdan-blaszczyk",
+      "title": "Bogdan Błaszczyk",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "19597": {
       "channel": "Gryfino",
       "checked_ts": 1795611505.5893888,
@@ -716,6 +1046,39 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "217513": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612066.713384,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "217513",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/355980546.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/217513-kosciol-gwiazdy-morza-w-swinoujsciu",
+      "title": "Kościół Gwiazdy Morza w Świnoujściu",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "218156": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612065.510228,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "218156",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/355923909.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/218156-kosciol-mariacki-w-trzebiatowie",
+      "title": "Kościół Mariacki w Trzebiatowie",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "218161": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612064.3111756,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "218161",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/355920893.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/218161-kosciol-wiary-i-polskosci--kosciol-sw--krzyza--w-mysliborzu",
+      "title": "Kościół Wiary i polskości (kościół św. Krzyża) w Myśliborzu",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
     "233778": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609787.5739918,
@@ -725,6 +1088,50 @@
       "page": "https://witkowo.tv-polska.eu/film/233778-dozynki--2014---witkowo",
       "title": "Dożynki  2014 - Witkowo",
       "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "235383": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612063.1245494,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "235383",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/355865716.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/235383-kolobrzeska-bazylika-cz-i",
+      "title": "Kołobrzeska Bazylika cz I",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "235384": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612061.915695,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "235384",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/355862842.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/235384-kolobrzeska-bazylika-cz-ii",
+      "title": "Kołobrzeska Bazylika cz II",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "235387": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612060.7130523,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "235387",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/355859853.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/235387-kolobrzeska-bazylika-cz-iii",
+      "title": "Kołobrzeska Bazylika cz III",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "235389": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612058.3141644,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "235389",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/355856855.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/235389-zachowane-piekno---kosciol-w-jarszewie",
+      "title": "Zachowane Piękno - Kościół w Jarszewie",
+      "tourism": true,
       "updated": "2026-11-25"
     },
     "267331": {
@@ -780,6 +1187,17 @@
       "page": "https://witkowo.tv-polska.eu/film/284515-agrofirma-witkowo---zniwa-2015",
       "title": "Agrofirma Witkowo - Żniwa 2015",
       "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "31911": {
+      "channel": "Kuźnia Raciborska",
+      "checked_ts": 1795612193.9242954,
+      "group": "09 Śląskie i Małopolskie",
+      "id": "31911",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356569835.mp4",
+      "page": "https://kuzniaraciborska.tv-polska.eu/film/31911-las-utracony---las-odzyskany",
+      "title": "Las utracony - Las odzyskany",
+      "tourism": true,
       "updated": "2026-11-25"
     },
     "354603": {
@@ -922,6 +1340,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/353602976.mp4",
       "page": "https://drawno.tv-polska.eu/film/424422-solectwa-gminy-drawno-z-drona",
       "title": "Sołectwa Gminy Drawno z drona",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "425614": {
+      "channel": "Kościoły Pomorza Zachodniego",
+      "checked_ts": 1795612059.5182734,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "425614",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/353570378.mp4",
+      "page": "https://kosciolypomorzazachodniego.tv-polska.eu/film/425614-sanktuarium-nadodrzanskiej-krolowej-pokoju",
+      "title": "Sanktuarium Nadodrzańskiej Królowej Pokoju",
       "tourism": true,
       "updated": "2026-11-25"
     },
@@ -1398,6 +1827,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "499142": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612310.3377576,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "499142",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/483791139.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/499142-xxv-sesja-rady-gminy-lanieta--powiat-kutnowski---24-11-2020-r----transmisja-na-zywo",
+      "title": "XXV Sesja Rady Gminy Łanięta, powiat kutnowski - 24.11.2020 r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "499215": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611516.3962429,
@@ -1461,6 +1901,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/539040930.mp4",
       "page": "https://drawno.tv-polska.eu/film/505841-drawno---bezpiecznie-z-natura",
       "title": "Drawno - bezpiecznie z naturą",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "519032": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612311.53931,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "519032",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/678433813.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/519032-podsumowanie-roku-2021-w-gminie-lanieta",
+      "title": "Podsumowanie roku 2021 w Gminie Łanięta",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1706,6 +2157,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "533023": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612342.7369084,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "533023",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/813360063.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/533023-lix-sesja-rady-gminy-lanieta--powiat-kutnowski---27-03-2023-r----transmisja-na-zywo",
+      "title": "LIX Sesja Rady Gminy Łanięta, powiat kutnowski - 27.03.2023 r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "533169": {
       "channel": "Czerwin",
       "checked_ts": 1795610931.4184659,
@@ -1783,6 +2245,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "534617": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612341.5399568,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "534617",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/831590587.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/534617-lx-sesja-rady-gminy-lanieta--powiat-kutnowski---30-05-2023-r----transmisja-na-zywo",
+      "title": "LX Sesja Rady Gminy Łanięta, powiat kutnowski - 30.05.2023 r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "534640": {
       "channel": "Brusy",
       "checked_ts": 1795610655.9755628,
@@ -1791,6 +2264,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/831816805.mp4",
       "page": "https://brusy.tv-polska.eu/film/534640-wiesci-z-zaborow---marzec-2023-r-",
       "title": "Wieści z Zaborów - marzec 2023 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "535543": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612340.341328,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "535543",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/841975729.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/535543-lxi-sesja-rady-gminy-lanieta--powiat-kutnowski---29-06-2023-r----transmisja-na-zywo",
+      "title": "LXI Sesja Rady Gminy Łanięta, powiat kutnowski - 29.06.2023 r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "536154": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612339.137608,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "536154",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/850133403.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/536154-lxii-sesja-rady-gminy-lanieta--powiat-kutnowski---31-07-2023-r----transmisja-na-zywo",
+      "title": "LXII Sesja Rady Gminy Łanięta, powiat kutnowski - 31.07.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1813,6 +2308,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/859659500.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/536711-nadzwyczajna-sesja-rady-gminy-30-08-2023",
       "title": "Nadzwyczajna sesja Rady Gminy 30.08.2023",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "536746": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612337.937956,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "536746",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/859759735.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/536746-lxiii-sesja-rady-gminy-lanieta--powiat-kutnowski---30-08-2023-r----transmisja-na-zywo",
+      "title": "LXIII Sesja Rady Gminy Łanięta, powiat kutnowski - 30.08.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1846,6 +2352,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/870183631.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/537399-lxv-sesja--rady-gminy---29-09-2023",
       "title": "LXV Sesja  Rady Gminy - 29.09.2023",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "537417": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612336.7377198,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "537417",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/870213598.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/537417-lxiv-sesja-rady-gminy-lanieta--powiat-kutnowski---26-09-2023-r----transmisja-na-zywo",
+      "title": "LXIV Sesja Rady Gminy Łanięta, powiat kutnowski - 26.09.2023 r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "538172": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612335.5419178,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "538172",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/879735759.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/538172-lxv-sesja-rady-gminy-lanieta--powiat-kutnowski---31-10-2023-r----transmisja-na-zywo",
+      "title": "LXV Sesja Rady Gminy Łanięta, powiat kutnowski - 31.10.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1893,6 +2421,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "538843": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612334.3393037,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "538843",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/889316545.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/538843-lxvi-sesja-rady-gminy-lanieta--powiat-kutnowski---28-11-2023-r----transmisja-na-zywo",
+      "title": "LXVI Sesja Rady Gminy Łanięta, powiat kutnowski - 28.11.2023 r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "538937": {
       "channel": "Choszczno",
       "checked_ts": 1795610756.7887466,
@@ -1912,6 +2451,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/890246563.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/538950-lxvii-sesja-rady-gminy---30-11-2023",
       "title": "LXVII Sesja Rady Gminy - 30.11.2023",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "539132": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612307.9301217,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "539132",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/892549600.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/539132-xlvii-sesja-rady-miejskiej",
+      "title": "XLVII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "539591": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612331.9384568,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "539591",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/898316768.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/539591-lxvii-sesja-rady-gminy-lanieta--powiat-kutnowski---28-12-2023-r----transmisja-na-zywo",
+      "title": "LXVII Sesja Rady Gminy Łanięta, powiat kutnowski - 28.12.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1948,6 +2509,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "539691": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612306.740503,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "539691",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/899762694.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/539691-xlviii-sesja-rady-miejskiej",
+      "title": "XLVIII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "540212": {
       "channel": "Gniewino",
       "checked_ts": 1795611420.3595111,
@@ -1967,6 +2539,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/906659356.mp4",
       "page": "https://choszczno.tv-polska.eu/film/540248-sesja-liv-rady-miejskiej-w-choszcznie",
       "title": "Sesja LIV Rady Miejskiej w Choszcznie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "540277": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612330.735559,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "540277",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/907289665.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/540277-lxviii-sesja-rady-gminy-lanieta--powiat-kutnowski---26-01-2024-r----transmisja-na-zywo",
+      "title": "LXVIII Sesja Rady Gminy Łanięta, powiat kutnowski - 26.01.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1992,6 +2575,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "540607": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612329.5359185,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "540607",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/912182482.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/540607-lxix-sesja-rady-gminy-lanieta--powiat-kutnowski---12-02-2024-r----transmisja-na-zywo",
+      "title": "LXIX Sesja Rady Gminy Łanięta, powiat kutnowski - 12.02.2024 r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "541121": {
       "channel": "Kobylanka",
       "checked_ts": 1795611964.8532987,
@@ -2011,6 +2605,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/919907958.mp4",
       "page": "https://barcin.tv-polska.eu/film/541131-gmina-barcin---tutaj-jestem--tutaj-zyje---odc-4-",
       "title": "Gmina Barcin | Tutaj jestem, tutaj żyję | ODC.4",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "541139": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612305.5316749,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "541139",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/919946918.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/541139-xlix-sesja-rady-miejskiej",
+      "title": "XLIX Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "541399": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612328.3379047,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "541399",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/923707895.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/541399-lxx-sesja-rady-gminy-lanieta--powiat-kutnowski---15-03-2024-r----transmisja-na-zywo",
+      "title": "LXX Sesja Rady Gminy Łanięta, powiat kutnowski - 15.03.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2044,6 +2660,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/928378057.mp4",
       "page": "https://karnice.tv-polska.eu/film/541777-sesja-rady-gminy-karnice-28-03-2024",
       "title": "Sesja Rady Gminy Karnice 28.03.2024",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "541807": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612304.3339705,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "541807",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/928729479.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/541807-l-sesja-rady-miejskiej",
+      "title": "L Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "542385": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612327.1365626,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "542385",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/939519941.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/542385-lxxi-sesja-rady-gminy-lanieta--powiat-kutnowski---26-04-2024-r----transmisja-na-zywo",
+      "title": "LXXI Sesja Rady Gminy Łanięta, powiat kutnowski - 26.04.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2089,6 +2727,17 @@
       "page": "https://alfatv.tv-polska.eu/film/542498-szczecin-aus-der-drohnenperspektive",
       "title": "Szczecin aus der Drohnenperspektive",
       "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "542561": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612325.947432,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "542561",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/943409094.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/542561-i-sesja-9-kadencji-rady-gminy-lanieta--powiat-kutnowski---06-05-2024-r----transmisja-na-zywo",
+      "title": "I Sesja 9 kadencji Rady Gminy Łanięta, powiat kutnowski - 06.05.2024 r. - transmisja na żywo",
+      "tourism": false,
       "updated": "2026-11-25"
     },
     "542581": {
@@ -2165,6 +2814,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/944730886.mp4",
       "page": "https://gniewino.tv-polska.eu/film/542707-i-sesja-rady-gminy-gniewino",
       "title": "I Sesja Rady Gminy Gniewino",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "542741": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612303.1302984,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "542741",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/945735897.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/542741-i-sesja-rady-miejskiej-",
+      "title": "I Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2264,6 +2924,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/950768735.mp4",
       "page": "https://cewice.tv-polska.eu/film/543198-l-sesja-rady-gminy-cewice-osmej-kadencji",
       "title": "L Sesja Rady Gminy Cewice ósmej kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "543202": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612324.7374337,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "543202",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/950832062.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/543202-ii-sesja-9-kadencji-rady-gminy-lanieta--powiat-kutnowski---27-05-2024-r----transmisja-na-zywo",
+      "title": "II Sesja 9 kadencji Rady Gminy Łanięta, powiat kutnowski - 27.05.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2399,6 +3070,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "543656": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612301.9339268,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "543656",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/957682169.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/543656-ii-sesja-rady-miejskiej",
+      "title": "II Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "543854": {
       "channel": "Kobylanka",
       "checked_ts": 1795611956.4553692,
@@ -2418,6 +3100,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/969592894.mp4",
       "page": "https://karnice.tv-polska.eu/film/543985-sesja-rady-gminy-karnice-26-06-2024",
       "title": "Sesja Rady Gminy Karnice 26.06.2024",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "544040": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612323.5359166,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "544040",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/970571008.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/544040-iii-sesja-9-kadencji-rady-gminy-lanieta---powiat-kutnowski---28-06-2024-r----transmisja-na-zywo",
+      "title": "III Sesja 9 kadencji Rady Gminy Łanięta,  powiat kutnowski - 28.06.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2454,6 +3147,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "544319": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612300.7450032,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "544319",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/982460845.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/544319-iii-sesja-rady-miejskiej",
+      "title": "III Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "544326": {
       "channel": "Cewice",
       "checked_ts": 1795610701.5773034,
@@ -2487,6 +3191,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "544498": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612321.1350877,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "544498",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/986347113.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/544498-iv-sesja-9-kadencji-rady-gminy-lanieta---powiat-kutnowski---18-07-2024-r----transmisja-na-zywo",
+      "title": "IV Sesja 9 kadencji Rady Gminy Łanięta,  powiat kutnowski - 18.07.2024 r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "544766": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610619.9753032,
@@ -2509,6 +3224,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545248": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612319.9343364,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "545248",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1004422805.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/545248-v-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---30-08-2024r----transmisja-na-zywo",
+      "title": "V Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 30.08.2024r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "545292": {
       "channel": "Karnice",
       "checked_ts": 1795611866.4544415,
@@ -2517,6 +3243,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1005370099.mp4",
       "page": "https://karnice.tv-polska.eu/film/545292-sesja-rady-gminy-karnice-30-08-2024",
       "title": "Sesja Rady Gminy Karnice 30.08.2024",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545458": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612299.5302713,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "545458",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1006881723.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/545458-iv-sesja-rady-miejskiej",
+      "title": "IV Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2542,6 +3279,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545520": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612318.7386892,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "545520",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1007962046.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/545520-vi-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---10-09-2024r----transmisja-na-zywo",
+      "title": "VI Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 10.09.2024r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "545859": {
       "channel": "Brusy",
       "checked_ts": 1795610684.7906883,
@@ -2550,6 +3298,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1012297039.mp4",
       "page": "https://brusy.tv-polska.eu/film/545859-iv-sesja-ix-kadencji",
       "title": "IV sesja IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545864": {
+      "channel": "Lębork",
+      "checked_ts": 1795612269.5383723,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "545864",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1012312955.mp4",
+      "page": "https://lebork.tv-polska.eu/film/545864-iv-sesja-rady-miejskiej-w-leborku--23-09-2024--kadencja-2024-2029",
+      "title": "IV Sesja Rady Miejskiej w Lęborku (23.09.2024) Kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545871": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612317.534082,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "545871",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1012335025.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/545871-vii-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---24-09-2024r----transmisja-na-zywo",
+      "title": "VII Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 24.09.2024r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2707,6 +3477,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546710": {
+      "channel": "Lębork",
+      "checked_ts": 1795612268.3387768,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546710",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1023856583.mp4",
+      "page": "https://lebork.tv-polska.eu/film/546710-v-sesja-rady-miejskiej-w-leborku--kadencja-2024-2029--24-10-2024-r--",
+      "title": "V sesja Rady Miejskiej w Lęborku, kadencja 2024-2029 (24.10.2024 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "546771": {
       "channel": "Dygowo",
       "checked_ts": 1795611195.4407418,
@@ -2795,6 +3576,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547058": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612316.3515778,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "547058",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1028741260.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/547058-viii-nadzwyczajna-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---12-11-2024r----transmisja-na-zywo",
+      "title": "VIII Nadzwyczajna Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 12.11.2024r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547104": {
       "channel": "Dziwnów",
       "checked_ts": 1795611272.7437801,
@@ -2814,6 +3606,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1029935337.mp4",
       "page": "https://karnice.tv-polska.eu/film/547172-sesja-rady-gminy-karnice-15-11-2024",
       "title": "Sesja Rady Gminy Karnice 15-11-2024",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547232": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612234.7270935,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "547232",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1031016536.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/547232-ix-sesja-rady-gminy-lewin-klodzki-",
+      "title": "IX Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2916,6 +3719,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547517": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612315.1450353,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "547517",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034492107.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/547517-ix-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---29-11-2024r----transmisja-na-zywo",
+      "title": "IX Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 29.11.2024r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547519": {
       "channel": "Barcin",
       "checked_ts": 1795610497.5662823,
@@ -2927,6 +3741,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547551": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612233.5292594,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "547551",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034987557.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/547551-x-sesja-rady-gminy-lewin-klodzki",
+      "title": "X Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547561": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612153.1270957,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "547561",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1035119869.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/547561-ix-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "IX Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547578": {
       "channel": "Jednorożec",
       "checked_ts": 1795611763.235991,
@@ -2935,6 +3771,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1035184551.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/547578--vi-zwyczajna-sesja-rady-gminy-jednorozec-02-12-2024-r-",
       "title": "VI zwyczajna sesja Rady Gminy Jednorożec 02.12.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547586": {
+      "channel": "Lębork",
+      "checked_ts": 1795612267.1377723,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "547586",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1035204233.mp4",
+      "page": "https://lebork.tv-polska.eu/film/547586-vi-sesja-rady-miejskiej-w-leborku--kadencja-2024-2029--29-11-2024-r--",
+      "title": "VI Sesja Rady Miejskiej w Lęborku, kadencja 2024-2029 (29.11.2024 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3070,6 +3917,39 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547953": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612232.3278427,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "547953",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040379054.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/547953-xi-sesja-rady-gminy-lewin-klodzki",
+      "title": "XI Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547998": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612297.1327984,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "547998",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040762441.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/547998-v-sesja-rady-miejskiej",
+      "title": "V Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547999": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612295.9314172,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "547999",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040764307.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/547999-vi-sesja-rady-miejskiej",
+      "title": "VI Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548015": {
       "channel": "Jaktorów",
       "checked_ts": 1795611661.181435,
@@ -3078,6 +3958,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040841778.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/548015-ix-sesja-rady-gminy-jaktorow---19-12-2024--godz--15-00",
       "title": "IX Sesja Rady Gminy Jaktorów - 19-12-2024, godz. 15 00",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548029": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612313.935197,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548029",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040946084.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/548029-x-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---19-12-2024r----transmisja-na-zywo",
+      "title": "X Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 19.12.2024r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3147,6 +4038,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548149": {
+      "channel": "Lębork",
+      "checked_ts": 1795612265.9393787,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "548149",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041896935.mp4",
+      "page": "https://lebork.tv-polska.eu/film/548149-vii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--20-12-2024-r--",
+      "title": "VII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (20.12.2024 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548153": {
       "channel": "Jednorożec",
       "checked_ts": 1795611762.0409563,
@@ -3191,6 +4093,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548224": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612231.1277955,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "548224",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1043062800.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/548224-xii-sesja-rady-gminy-lewin-klodzki",
+      "title": "XII Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548240": {
       "channel": "Karnice",
       "checked_ts": 1795611860.4516296,
@@ -3224,6 +4137,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548339": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612151.919894,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548339",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1044561636.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/548339-x-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "X Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548355": {
       "channel": "Bielice",
       "checked_ts": 1795610582.7697048,
@@ -3232,6 +4156,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1044665058.mp4",
       "page": "https://bielice.tv-polska.eu/film/548355-x-sesja-rady-gminy-bielice",
       "title": "X Sesja Rady Gminy Bielice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548360": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612150.7179673,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548360",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1044902217.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/548360-xi-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XI Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3298,6 +4233,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1049260504.mp4",
       "page": "https://czerwin.tv-polska.eu/film/548675-x-sesja-rady-gminy-czerwin-21-01-2025",
       "title": "X sesja Rady Gminy Czerwin 21.01.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548706": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612294.7458746,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "548706",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1049648015.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/548706-vii-sesja-rady-miejskiej",
+      "title": "VII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548710": {
+      "channel": "Łanięta",
+      "checked_ts": 1795612312.7329423,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548710",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1049645482.mp4",
+      "page": "https://lanieta.tv-polska.eu/film/548710-xi-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---23-01-2025r----transmisja-na-zywo",
+      "title": "XI Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 23.01.2025r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3389,6 +4346,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548869": {
+      "channel": "Lębork",
+      "checked_ts": 1795612264.7360268,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "548869",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1052202634.mp4",
+      "page": "https://lebork.tv-polska.eu/film/548869-viii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--17-01-2025-r--",
+      "title": "VIII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (17.01.2025 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548909": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610612.773962,
@@ -3411,6 +4379,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548912": {
+      "channel": "Lębork",
+      "checked_ts": 1795612263.5368707,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "548912",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1052929598.mp4",
+      "page": "https://lebork.tv-polska.eu/film/548912-ix-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--31-01-2025-r--",
+      "title": "IX Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (31.01.2025 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548965": {
       "channel": "Dygowo",
       "checked_ts": 1795611191.8432426,
@@ -3430,6 +4409,61 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1053774552.mp4",
       "page": "https://ilow.tv-polska.eu/film/548986-xii-sesja-rady-gminy-ilow-z-dnia-30-01-2025r-",
       "title": "XII Sesja Rady Gminy Iłów z dnia 30.01.2025r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548993": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612041.523363,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548993",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054074683.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/548993-v-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "V sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548996": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612040.312211,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548996",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054075530.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/548996-vi-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "VI sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548997": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612039.1142497,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548997",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054080856.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/548997-vii-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "VII sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548998": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612037.9163744,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548998",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054085209.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/548998-viii-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "VIII sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549001": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612036.713859,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "549001",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054091563.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/549001-ix-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "IX sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3620,6 +4654,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549439": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612149.5200458,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "549439",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1060790747.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/549439-xii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XII Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "549447": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611077.8534,
@@ -3675,6 +4720,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549484": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612035.515534,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "549484",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061218433.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/549484-x-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "X sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "549486": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611449.1677032,
@@ -3694,6 +4750,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061931008.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/549503-xii-sesja-rady-miejskiej-w-kamieniu-krajenskim",
       "title": "XII Sesja Rady Miejskiej w Kamieniu Krajeńskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549529": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612229.931904,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "549529",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1062296704.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/549529-xiii-sesja-rady-gminy-lewin-klodzki",
+      "title": "XIII Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3749,6 +4816,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1064234022.mp4",
       "page": "https://karnice.tv-polska.eu/film/549658-sesja-rady-gminy-karnice-07-03-2025",
       "title": "Sesja Rady Gminy Karnice 07-03-2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549663": {
+      "channel": "Lębork",
+      "checked_ts": 1795612262.351156,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "549663",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1064264574.mp4",
+      "page": "https://lebork.tv-polska.eu/film/549663-x-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--07-03-2025-r--",
+      "title": "X Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (07.03.2025 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3815,6 +4893,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1068362997.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/549933-13-sesja-rady-miasta-i-gminy-kiernozia-21-03-2025",
       "title": "13 SESJA RADY MIASTA I GMINY KIERNOZIA 21-03-2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549955": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612293.5389593,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "549955",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1068814070.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/549955-viii-sesja-rady-miejskiej-w-labiszynie",
+      "title": "VIII Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3917,6 +5006,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550069": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612148.3209298,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "550069",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070273447.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/550069-xiii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XIII Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "550072": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611491.1963353,
@@ -3947,6 +5047,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070935084.mp4",
       "page": "https://miastoszczytno.tv-polska.eu/film/550109-xvi-sesja-rady-miejskiej-w-szczytnie",
       "title": "XVI Sesja Rady Miejskiej w Szczytnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550113": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612228.7276278,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "550113",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070941931.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/550113-xiv-sesja-rady-gminy-lewin-klodzki",
+      "title": "XIV Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3991,6 +5102,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1071313325.mp4",
       "page": "https://karnice.tv-polska.eu/film/550151-sesja-rady-gminy-karnice-31-03-2025",
       "title": "Sesja Rady Gminy Karnice 31-03-2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550165": {
+      "channel": "Lębork",
+      "checked_ts": 1795612261.1338453,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "550165",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1071377345.mp4",
+      "page": "https://lebork.tv-polska.eu/film/550165-xi-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--31-03-2025-r--",
+      "title": "XI Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (31.03.2025 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4236,6 +5358,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550841": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612227.5376365,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "550841",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1080068779.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/550841-xv-sesja-rady-gminy-lewin-klodzki",
+      "title": "XV Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "550914": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611798.0410488,
@@ -4302,6 +5435,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551117": {
+      "channel": "Lębork",
+      "checked_ts": 1795612258.7341182,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551117",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1083842105.mp4",
+      "page": "https://lebork.tv-polska.eu/film/551117-xii-sesja-rady-miejskiej-w-leborku-ix-kadencji-09-05-2025-r--",
+      "title": "XII Sesja Rady Miejskiej w Lęborku IX kadencji 09.05.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551151": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612147.1265223,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "551151",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1084517786.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/551151-xiv-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XIV Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551188": {
       "channel": "Czerwin",
       "checked_ts": 1795610957.8221295,
@@ -4332,6 +5487,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1086345785.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/551269-16_xvi-sesja-rady-gminy-czarnocin_ix-kadencja",
       "title": "16_XVI Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551287": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612292.3313818,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "551287",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1086684281.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/551287-ix-sesja-rady-miejskiej-w-labiszynie",
+      "title": "IX Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4409,6 +5575,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1087956424.mp4",
       "page": "https://deszczno.tv-polska.eu/film/551406-xvi-zwyczajna-sesja-rady-gminy-deszczno-26-05-2025r---2024-2029-",
       "title": "XVI Zwyczajna Sesja Rady Gminy Deszczno 26.05.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551427": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612226.3331065,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "551427",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1088291638.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/551427-xvi-sesja-rady-gminy-lewin-klodzki",
+      "title": "XVI Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4599,6 +5776,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551799": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612223.9260318,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "551799",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1092404397.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/551799-xvii-sesja-rady-gminy-lewin-klodzki",
+      "title": "XVII Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551847": {
       "channel": "Cisna",
       "checked_ts": 1795610816.7964056,
@@ -4607,6 +5795,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1092954393.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/551847-sesja-nr-xvii-rady-gminy-cisna-z-dnia-10-06-2025",
       "title": "Sesja nr XVII Rady Gminy Cisna z dnia 10.06.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551916": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612120.7205968,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551916",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1093956548.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/551916-xvii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XVII Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4640,6 +5839,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1094111868.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/551933-xviii-sesja-rady-gminy-ilowo-osada-z-dnia-17-06-2025",
       "title": "XVIII Sesja Rady Gminy Iłowo-Osada z dnia 17.06.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551968": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612119.5272262,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551968",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1094948699.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/551968-xviii-nadzwyczajna-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XVIII Nadzwyczajna Sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552039": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612145.9297743,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552039",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1095829471.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/552039-xv-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XV Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4764,6 +5985,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552145": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612222.7338939,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "552145",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1096811549.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/552145-xviii-sesja-rady-gminy-lewin-klodzki",
+      "title": "XVIII Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "552151": {
       "channel": "Jastarnia",
       "checked_ts": 1795611720.0360398,
@@ -4805,6 +6037,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1097493383.mp4",
       "page": "https://karnice.tv-polska.eu/film/552199-sesja-rady-gminy-karnice-30-06-2025",
       "title": "Sesja Rady Gminy Karnice 30-06-2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552226": {
+      "channel": "Lębork",
+      "checked_ts": 1795612257.5342286,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "552226",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1097741667.mp4",
+      "page": "https://lebork.tv-polska.eu/film/552226-xiii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--27-06-2025-r--",
+      "title": "XIII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (27.06.2025 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4882,6 +6125,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1098146607.mp4",
       "page": "https://gniew.tv-polska.eu/film/552286-xiii-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-25-czerwca-2025-r-",
       "title": "XIII sesja Rady Miejskiej w Gniewie IX kadencji z dnia 25 czerwca 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552323": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612118.31798,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "552323",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1098502674.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/552323-xix-nadzwyczajna-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XIX Nadzwyczajna Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5003,6 +6257,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1101811917.mp4",
       "page": "https://gorzkowice.tv-polska.eu/film/552582--xvi-absolutoryjna-sesja-rady-gminy-gorzkowice-kadencji-2024---2029",
       "title": "XVI Absolutoryjna Sesja Rady Gminy Gorzkowice kadencji 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552598": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612291.132635,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "552598",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1102097180.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/552598-x-sesja-rady-miejskiej-w-labiszynie",
+      "title": "X Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5138,6 +6403,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553115": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612221.5264113,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "553115",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1109578640.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/553115-xix-sesja-rady-gminy-lewin-klodzki",
+      "title": "XIX Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "553140": {
       "channel": "Cisna",
       "checked_ts": 1795610813.1943374,
@@ -5226,6 +6502,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553338": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612220.3266962,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "553338",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1113462719.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/553338-xx-sesja-rady-gminy-lewin-klodzki",
+      "title": "XX Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "553339": {
       "channel": "Jastarnia",
       "checked_ts": 1795611717.6322548,
@@ -5245,6 +6532,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1113473373.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/553341-20_xx-sesja-rady-gminy-czarnocin_ix-kadencja",
       "title": "20_XX Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553365": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612144.7218583,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "553365",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1113551229.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/553365-xvi-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XVI Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5435,6 +6733,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553560": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612117.121439,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "553560",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1115419839.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/553560-xx-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XX Sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553582": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612142.3198426,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "553582",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1115726358.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/553582-xvii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XVII Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "553594": {
       "channel": "Dziwnów",
       "checked_ts": 1795611260.744707,
@@ -5465,6 +6785,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1116684747.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/553627-xvii-sesja-rady-gminy-jaktorow---28-08-2025--godz--15-00",
       "title": "XVII Sesja Rady Gminy Jaktorów - 28-08-2025, godz. 15:00",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553676": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612289.931804,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "553676",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1117002051.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/553676-xi-sesja-rady-miejskiej-w-labiszynie",
+      "title": "XI Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5501,6 +6832,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553821": {
+      "channel": "Lębork",
+      "checked_ts": 1795612256.335628,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "553821",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1118669143.mp4",
+      "page": "https://lebork.tv-polska.eu/film/553821-xiv-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--12-09-2025-r--",
+      "title": "XIV Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (12.09.2025 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553885": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612370.357392,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "553885",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1119343969.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/553885-sesja-nr-xviii-rady-gminy-leki-szlacheckie-z-dnia-26-08-2025-r-",
+      "title": "Sesja nr XVIII Rady Gminy Łęki Szlacheckie z dnia 26.08.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "553898": {
       "channel": "Czerwin",
       "checked_ts": 1795610951.8239348,
@@ -5531,6 +6884,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1124186193.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/554012-sesja-nr-xix-rady-miejskiej-w-dziwnowie",
       "title": "Sesja Nr XIX Rady Miejskiej w Dziwnowie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554024": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612288.7452488,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "554024",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1121476579.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/554024-xii-sesja-rady-miejskiej-w-labiszynie---nadzwyczajna-",
+      "title": "XII Sesja Rady Miejskiej w Łabiszynie ( nadzwyczajna)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5619,6 +6983,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1121966687.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/554093-xvi-sesja-rady-miejskiej-w-dobrej",
       "title": "XVI sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554106": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612115.9175467,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554106",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1122122855.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/554106-xxi-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXI Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5732,6 +7107,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554200": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612219.1268072,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "554200",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1123456650.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/554200-xxi-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXI Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554203": {
       "channel": "Karnice",
       "checked_ts": 1795611850.850476,
@@ -5831,6 +7217,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554439": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612141.1227765,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "554439",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1126720918.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/554439-xviii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XVIII Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554451": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612114.7173762,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554451",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1126778657.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/554451-xxii-nadzwyczajna-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXII Nadzwyczajna Sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554460": {
       "channel": "Kiernozia",
       "checked_ts": 1795611932.4535668,
@@ -5864,6 +7272,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554546": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612139.9223301,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "554546",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1127789267.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/554546-xix-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XIX Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554604": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611665.9780388,
@@ -5872,6 +7291,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1128753081.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/554604-spotkanie-dot--mozliwosc-przywrocenia-ruchu-pasazerskiego-na-linii-kolejowej-nr-281-od-gniezna-do-kcyni-17-10-2025-r-",
       "title": "Spotkanie dot. możliwość przywrócenia ruchu pasażerskiego na linii kolejowej nr 281 od Gniezna do Kcyni.17.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554701": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612367.9442356,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "554701",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1129845017.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/554701-sesja-nr-xix-rady-gminy-leki-szlacheckie-z-dnia-23-09-2025-r-",
+      "title": "Sesja nr XIX Rady Gminy Łęki Szlacheckie z dnia 23.09.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554702": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612366.7430177,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "554702",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1129845945.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/554702-sesja-nr-xx-rady-gminy-leki-szlacheckie-z-dnia-21-10-2025-r-",
+      "title": "Sesja nr XX Rady Gminy Łęki Szlacheckie z dnia 21.10.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5919,6 +7360,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554763": {
+      "channel": "Lębork",
+      "checked_ts": 1795612255.1336827,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554763",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1130839622.mp4",
+      "page": "https://lebork.tv-polska.eu/film/554763-xv-sesja-rady-miejskiej-w-leborku--kadencja-2024-2029--24-10-2025-r--",
+      "title": "XV sesja Rady Miejskiej w Lęborku, kadencja 2024-2029 (24.10.2025 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554780": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611541.6109233,
@@ -5949,6 +7401,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1131268099.mp4",
       "page": "https://deszczno.tv-polska.eu/film/554796-xx-zwyczajna-sesja-rady-gminy-deszczno-27-10-2025r---2024-2029-",
       "title": "XX Zwyczajna Sesja Rady Gminy Deszczno 27.10.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554800": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612286.3335507,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "554800",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1131302121.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/554800-xiii-sesja-rady-miejskiej-w-labiszynie",
+      "title": "XIII Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6073,6 +7536,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554900": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612217.9281588,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "554900",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1132409800.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/554900-xxii-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXII Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554904": {
       "channel": "Jastarnia",
       "checked_ts": 1795611716.4337125,
@@ -6103,6 +7577,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1132424575.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/554907-xix-sesja-rady-gminy-jaktorow---30-10-2025--godz--13-00",
       "title": "XIX Sesja Rady Gminy Jaktorów - 30-10-2025, godz. 13:00",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554910": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612113.518394,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554910",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1132442275.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/554910-xxiii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXIII Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6150,6 +7635,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555149": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612216.7297368,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "555149",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1136033628.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/555149-xxiii-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXIII Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555166": {
       "channel": "Kępice",
       "checked_ts": 1795611898.8591883,
@@ -6172,6 +7668,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555244": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612112.3158448,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555244",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1137631028.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/555244-nadzwyczajna-xxiv-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "Nadzwyczajna XXIV sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555273": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611539.195885,
@@ -6180,6 +7687,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1138054590.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/555273-xxiv-nadzwyczajna-sesja-rady-gminy-ilowo-osada-z-dnia-18-11-2025",
       "title": "XXIV Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 18.11.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555276": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612365.543877,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "555276",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1138062092.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/555276-sesja-nr-xxi-rady-gminy-leki-szlacheckie-z-dnia-12-11-2025-r-",
+      "title": "Sesja nr XXI Rady Gminy Łęki Szlacheckie z dnia 12.11.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6224,6 +7742,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1138629841.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/555313-sesja-nr-xxiv-rady-gminy-cisna-z-dnia-18-11-2025",
       "title": "Sesja nr XXIV Rady Gminy Cisna z dnia 18.11.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555318": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612285.1371586,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "555318",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1138834549.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/555318-xiv-sesja-rady-miejskiej-w-labiszynie",
+      "title": "XIV Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6403,6 +7932,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555495": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612138.7180936,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "555495",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1141043482.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/555495-xx-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XX Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555497": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610600.7741766,
@@ -6477,6 +8017,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1141359871.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/555546-xx-sesja-rady-gminy-jaktorow---27-11-2025--godz--13-00",
       "title": "XX Sesja Rady Gminy Jaktorów - 27-11-2025, godz. 13:00",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555576": {
+      "channel": "Lębork",
+      "checked_ts": 1795612253.9359076,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555576",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1141958393.mp4",
+      "page": "https://lebork.tv-polska.eu/film/555576-xvi-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--27-11-2025-r--",
+      "title": "XVI Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (27.11.2025 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6590,6 +8141,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555735": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612364.3419123,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "555735",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1143737768.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/555735-sesja-nr-xxii-rady-gminy-leki-szlacheckie-z-dnia-02-12-2025-r-",
+      "title": "Sesja nr XXII Rady Gminy Łęki Szlacheckie z dnia 02.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555757": {
       "channel": "Dziwnów",
       "checked_ts": 1795611258.3424246,
@@ -6623,6 +8185,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555779": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612215.527258,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "555779",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1144451550.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/555779-xxiv-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXIV Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555800": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611536.7971582,
@@ -6653,6 +8226,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1145620029.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/555875-25-sesja-rady-miasta-i-gminy-kiernozia-9-12-2025",
       "title": "25 SESJA RADY MIASTA I GMINY KIERNOZIA 9-12-2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555908": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612109.9176226,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555908",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1145936461.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/555908-xxv-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXV Sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555909": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612108.7155786,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555909",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1146025311.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/555909--nadzwyczajna-xxvi-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "Nadzwyczajna XXVI sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6763,6 +8358,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148616445.mp4",
       "page": "https://drawno.tv-polska.eu/film/556127-xxiii-sesja-rady-miejskiej-w-drawnie",
       "title": "XXIII Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556132": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612107.5210993,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556132",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148649377.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/556132-xxvii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXVII Sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556133": {
+      "channel": "Lębork",
+      "checked_ts": 1795612252.7433105,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556133",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148635623.mp4",
+      "page": "https://lebork.tv-polska.eu/film/556133-xvii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--19-12-2025-r--",
+      "title": "XVII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (19.12.2025 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6898,6 +8515,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556269": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612213.1272998,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "556269",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150576332.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/556269-xxv-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXV Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556277": {
       "channel": "Kiernozia",
       "checked_ts": 1795611927.6555433,
@@ -6942,6 +8570,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556387": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612283.934956,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "556387",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1152212195.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/556387-xv-sesja-rady-miejskiej-w-labiszynie",
+      "title": "XV Sesja Rady Miejskiej w Łabiszynie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556414": {
       "channel": "Dziwnów",
       "checked_ts": 1795611255.9432445,
@@ -6961,6 +8600,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1153113369.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/556416-sesja-nr-xxii-rady-miejskiej-w-dziwnowie",
       "title": "Sesja Nr XXII Rady Miejskiej w Dziwnowie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556425": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612137.527681,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556425",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1152785439.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/556425-xxi-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXI Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556429": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612136.3311837,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556429",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1152796060.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/556429-xxii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXII Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6994,6 +8655,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1154994281.mp4",
       "page": "https://drawno.tv-polska.eu/film/556585-jarmark-bozonarodzeniowy-w-drawnie-2025",
       "title": "Jarmark bożonarodzeniowy w Drawnie 2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556632": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612282.730921,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "556632",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1156391444.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/556632-xvi-sesja-rady-miejskiej-w-labjszynie",
+      "title": "XVI Sesja Rady Miejskiej w Łabjszynie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556649": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612363.1414917,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556649",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1156508303.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/556649-sesja-nr-xxiii-rady-gminy-leki-szlacheckie-z-dnia-30-12-2025-r-",
+      "title": "Sesja nr XXIII Rady Gminy Łęki Szlacheckie z dnia 30.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556650": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612361.9373612,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556650",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1156509104.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/556650-sesja-nr-xxvi-rady-gminy-leki-szlacheckie-z-dnia-20-01-2026-r-",
+      "title": "Sesja nr XXVI Rady Gminy Łęki Szlacheckie z dnia 20.01.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7093,6 +8787,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1158303097.mp4",
       "page": "https://gniewino.tv-polska.eu/film/556731-xxiii-nadzwyczajna-sesja-rady-gminy-gniewino",
       "title": "XXIII Nadzwyczajna Sesja Rady Gminy Gniewino",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556738": {
+      "channel": "Lębork",
+      "checked_ts": 1795612251.5318317,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556738",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1158322324.mp4",
+      "page": "https://lebork.tv-polska.eu/film/556738-xviii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--16-01-2026-r--",
+      "title": "XVIII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (16.01.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7225,6 +8930,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160091510.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/556861-xxii-zwyczajna-sesja-rady-miejskiej-jastarni",
       "title": "XXII zwyczajna sesja Rady Miejskiej Jastarni",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556863": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612106.3171043,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556863",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160095512.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/556863-xxviii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXVIII Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7459,6 +9175,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557152": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612211.929183,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "557152",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1165272820.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/557152-xxvi-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXVI Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557178": {
       "channel": "Cisna",
       "checked_ts": 1795610802.3894937,
@@ -7489,6 +9216,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1165651725.mp4",
       "page": "https://miastoszczytno.tv-polska.eu/film/557197-xxv-sesje-rady-miejskiej-w-szczytnie",
       "title": "XXV Sesje Rady Miejskiej w Szczytnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557227": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612360.7375593,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "557227",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1166253595.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/557227-sesja-nr-xxv-rady-gminy-leki-szlacheckie-z-dnia-17-02-2026-r-",
+      "title": "Sesja nr XXV Rady Gminy Łęki Szlacheckie z dnia 17.02.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7591,6 +9329,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557441": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612105.1172884,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557441",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168837424.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/557441-xxix-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXIX Sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557452": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611818.4457626,
@@ -7610,6 +9359,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169488887.mp4",
       "page": "https://kepice.tv-polska.eu/film/557461-xxi-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
       "title": "XXI sesja IX kadencji Rady Miejskiej w Kępicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557465": {
+      "channel": "Lębork",
+      "checked_ts": 1795612250.3349395,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557465",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169490664.mp4",
+      "page": "https://lebork.tv-polska.eu/film/557465-xix-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--27-02-2026-r--",
+      "title": "XIX Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (27.02.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7643,6 +9403,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169832133.mp4",
       "page": "https://deszczno.tv-polska.eu/film/557487-xxv-zwyczajna-sesja-rady-gminy-deszczno-02-03-2026-r---2024-2029-",
       "title": "XXV Zwyczajna Sesja Rady Gminy Deszczno 02.03.2026 r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557509": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612281.5312276,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "557509",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169914050.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/557509-xvii-sesja-rady-miejskiej-w-labiszynie",
+      "title": "XVII Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7789,6 +9560,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557688": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612103.9165998,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557688",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1172813493.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/557688-nadzwyczajna-xxx-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "Nadzwyczajna XXX Sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557716": {
       "channel": "Drawno",
       "checked_ts": 1795611152.2422297,
@@ -7921,6 +9703,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557930": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612135.1332479,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "557930",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1176116313.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/557930-xxiii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXIII Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557933": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612133.9191647,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "557933",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1176123287.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/557933-xxiv-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXIV Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557961": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611530.8002734,
@@ -7976,6 +9780,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558010": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612359.539814,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "558010",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177211541.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/558010-sesja-nr-xxvi-rady-gminy-leki-szlacheckie-z-dnia-24-03-2026-r-",
+      "title": "Sesja nr XXVI Rady Gminy Łęki Szlacheckie z dnia 24.03.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558014": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611694.787169,
@@ -8028,6 +9843,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177604655.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/558051-xxiv-zwyczajna-sesja-rady-miejskiej-jastarni",
       "title": "XXIV zwyczajna sesja Rady Miejskiej Jastarni",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558089": {
+      "channel": "Lębork",
+      "checked_ts": 1795612247.934953,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558089",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178348148.mp4",
+      "page": "https://lebork.tv-polska.eu/film/558089-xx-sesja-rady-miejskiej-w-leborku-ix-kadencji-27-03-2026-r--",
+      "title": "XX Sesja Rady Miejskiej w Lęborku IX kadencji 27.03.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -8119,6 +9945,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558132": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612102.7155442,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558132",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178745468.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/558132-xxxi-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXXI sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558148": {
       "channel": "Kępice",
       "checked_ts": 1795611892.8522348,
@@ -8149,6 +9986,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1179830426.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/558239-xxiii-sesja-rady-gminy-jednorozec-30-03-2026-r-",
       "title": "XXIII Sesja Rady Gminy Jednorożec 30.03.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558276": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612210.735242,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "558276",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1180782889.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/558276-xxvii-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXVII Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -8339,6 +10187,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558695": {
+      "channel": "Lębork",
+      "checked_ts": 1795612246.7312791,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558695",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186894826.mp4",
+      "page": "https://lebork.tv-polska.eu/film/558695-xxi-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--24-04-2026-r--",
+      "title": "XXI Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (24.04.2026 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558698": {
       "channel": "Czarne",
       "checked_ts": 1795610875.0124362,
@@ -8358,6 +10217,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187000527.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/558711-xxxii-nadzwyczajna-sesja-rady-gminy-ilowo-osada-z-dnia-27-04-2026",
       "title": "XXXII Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 27.04.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558719": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612131.5172503,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "558719",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187210335.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/558719-xxv-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXV Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558747": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612357.1428785,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "558747",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187343707.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/558747-sesja-nr-xxvii-rady-gminy-leki-szlacheckie-z-dnia-28-04-2026-r-",
+      "title": "Sesja nr XXVII Rady Gminy Łęki Szlacheckie z dnia 28.04.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558755": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612280.329652,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "558755",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187594043.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/558755-xviii-sesja-rady-miejskiej-w-labiszynie",
+      "title": "XVIII Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -8402,6 +10294,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187821214.mp4",
       "page": "https://drawno.tv-polska.eu/film/558777-ii-jarmark-wielkanocny-w-drawnie",
       "title": "II Jarmark wielkanocny w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558784": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612101.5181384,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558784",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187987796.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/558784-xxxii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXXII sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -8658,6 +10561,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559253": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612209.5325663,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "559253",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1195275199.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/559253-xxviii-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXVIII Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559268": {
       "channel": "Dziwnów",
       "checked_ts": 1795611247.5510666,
@@ -8801,6 +10715,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559402": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612099.119943,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "559402",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196594587.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/559402-xxxiii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXXIII sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559414": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611814.8413522,
@@ -8834,6 +10759,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559455": {
+      "channel": "Lębork",
+      "checked_ts": 1795612245.5346193,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "559455",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197322866.mp4",
+      "page": "https://lebork.tv-polska.eu/film/559455-xxii-sesja-rady-miejskiej-w-leborku-ix-kadencji-2024-2029--29-05-2026-r--",
+      "title": "XXII Sesja Rady Miejskiej w Lęborku IX kadencji 2024-2029 (29.05.2026 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559459": {
       "channel": "Jednorożec",
       "checked_ts": 1795611739.2358654,
@@ -8853,6 +10789,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197295770.mp4",
       "page": "https://brusy.tv-polska.eu/film/559464-xxi-sesja-ix-kadencji",
       "title": "XXI sesja IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559470": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612355.9370527,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559470",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197368393.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/559470-sesja-nr-xxviii-rady-gminy-leki-szlacheckie-z-dnia-26-05-2026-r-",
+      "title": "Sesja nr XXVIII Rady Gminy Łęki Szlacheckie z dnia 26.05.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -9010,6 +10957,83 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559748": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612034.316039,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559748",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201684981.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559748-xi-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XI sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559750": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612033.1175737,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559750",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201689258.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559750-xii-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XII sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559751": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612030.7189057,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559751",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201692006.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559751-xiii-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XIII sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559753": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612029.517736,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559753",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201695110.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559753-xiv-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XIV sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559754": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612028.3137536,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559754",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201696137.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559754-xv-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XV sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559756": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612027.129195,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559756",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201698951.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559756-xvi-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XVI sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559758": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612025.9144604,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559758",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201700020.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559758-xvii-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XVII sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559759": {
       "channel": "Kępice",
       "checked_ts": 1795611889.2527235,
@@ -9018,6 +11042,83 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201687749.mp4",
       "page": "https://kepice.tv-polska.eu/film/559759-xxiv-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
       "title": "XXIV sesja IX kadencji Rady Miejskiej w Kępicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559762": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612024.7311268,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559762",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201704786.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559762-xviii-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XVIII sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559765": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612023.514623,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559765",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201707090.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559765-xix-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XIX sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559769": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612022.309375,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559769",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201754347.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559769-xx-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XX sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559770": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612019.918615,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559770",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201756002.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559770-xxi-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XXI sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559774": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612018.7124286,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559774",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201763178.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559774-xxii-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XXII sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559775": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612017.5165875,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559775",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201766956.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/559775-xxiii-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XXIII sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559782": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612097.9155242,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "559782",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201917864.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/559782-xxxiv-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXXIV sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -9065,6 +11166,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559826": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612208.327005,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "559826",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202461151.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/559826-xxix-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXIX Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559839": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611813.6433442,
@@ -9098,6 +11210,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559938": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612130.3185205,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559938",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204065811.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/559938-xxvi-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXVI Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559939": {
       "channel": "Kępice",
       "checked_ts": 1795611888.0538156,
@@ -9128,6 +11251,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204182997.mp4",
       "page": "https://czerwin.tv-polska.eu/film/559967-xxviii-sesja-rady-gminy-czerwin-23-06-2026",
       "title": "XXVIII sesja Rady Gminy Czerwin 23.06.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559983": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612354.7392921,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559983",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204444829.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/559983-sesja-nr-xxix-rady-gminy-leki-szlacheckie-z-dnia-23-06-2026-r-",
+      "title": "Sesja nr XXIX Rady Gminy Łęki Szlacheckie z dnia 23.06.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -9197,6 +11331,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560058": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612096.7170389,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560058",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205363435.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/560058-nadzwyczajna-xxxv-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "Nadzwyczajna XXXV sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560060": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611468.389375,
@@ -9252,6 +11397,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560109": {
+      "channel": "Lębork",
+      "checked_ts": 1795612244.333506,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560109",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205749750.mp4",
+      "page": "https://lebork.tv-polska.eu/film/560109-xxiii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--26-06-2026-r--",
+      "title": "XXIII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (26.06.2026 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560115": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611429.9686937,
@@ -9260,6 +11416,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205785753.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/560115-xxiv-sesja-rady-gminy-w-gniewoszowie",
       "title": "XXIV Sesja Rady Gminy w Gniewoszowie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560164": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612279.1319163,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "560164",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206405900.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/560164-xix-sesja-rady-miejskiej",
+      "title": "XIX Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -9307,6 +11474,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560221": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612129.117834,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560221",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1207283282.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/560221-xxvii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXVII Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560264": {
       "channel": "Brusy",
       "checked_ts": 1795610660.7769773,
@@ -9348,6 +11526,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208227994.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/560282--sesja-nr-xxxiii-rady-gminy-cisna-z-dnia-29-06-2026",
       "title": "Sesja nr XXXIII Rady Gminy Cisna z dnia 29.06.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560302": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612095.5153162,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560302",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208668093.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/560302-nadzwyczajna-xxxvi-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "Nadzwyczajna XXXVI sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -9538,6 +11727,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560647": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612353.5402517,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560647",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213844893.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/560647-sesja-nr-xxx-rady-gminy-leki-szlacheckie-z-dnia-28-07-2026-r-",
+      "title": "Sesja nr XXX Rady Gminy Łęki Szlacheckie z dnia 28.07.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560651": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611428.7658072,
@@ -9582,6 +11782,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560679": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612127.9183152,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560679",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214232233.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/560679-xxviii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXVIII Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560691": {
       "channel": "Drawno",
       "checked_ts": 1795611139.0424385,
@@ -9623,6 +11834,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214499340.mp4",
       "page": "https://drawno.tv-polska.eu/film/560696-lato-nad-drawa",
       "title": "Lato nad Drawą",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560711": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612094.3171656,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560711",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214516454.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/560711-nadzwyczajna-xxxvii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "Nadzwyczajna XXXVII sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -9689,6 +11911,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1217589988.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/560878-xxviii-sesja-rady-gminy-jednorozec-12-08-2026-r-",
       "title": "XXVIII Sesja Rady Gminy Jednorożec 12.08.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560892": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612126.7323747,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560892",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1217913480.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/560892-xxix-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXIX Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560923": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612125.5171726,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560923",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218819836.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/560923-xxx-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXX Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -9846,6 +12090,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561145": {
+      "channel": "Lębork",
+      "checked_ts": 1795612243.1326194,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561145",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222028749.mp4",
+      "page": "https://lebork.tv-polska.eu/film/561145-xxiv-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--27-08-2026-r--",
+      "title": "XXIV Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (27.08.2026 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561149": {
       "channel": "Jastarnia",
       "checked_ts": 1795611702.0319426,
@@ -9890,6 +12145,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561218": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612352.3395724,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561218",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223011172.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/561218-sesja-nr-xxxi-rady-gminy-leki-szlacheckie-z-dnia-31-08-2026-r-",
+      "title": "Sesja nr XXXI Rady Gminy Łęki Szlacheckie z dnia 31.08.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561234": {
       "channel": "Gniewino",
       "checked_ts": 1795611391.5604248,
@@ -9909,6 +12175,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223657232.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/561245-xxix-sesja-rady-gminy-jaktorow",
       "title": "XXIX Sesja Rady Gminy Jaktorów",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561255": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612093.115583,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561255",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223909041.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/561255-xxxviii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXXVIII Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10077,6 +12354,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561412": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612124.317189,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561412",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226879366.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/561412-xxxi-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXXI Sesja Rady Gminy w Krzynowłodze Małej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561428": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611521.2030327,
@@ -10121,6 +12409,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561485": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612207.1472528,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "561485",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227996564.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/561485-xxx-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXX Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561490": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611307.5529003,
@@ -10151,6 +12450,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1228816966.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/561521-xxx-sesja-rady-gminy-jaktorow",
       "title": "XXX Sesja Rady Gminy Jaktorów",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561569": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612091.9168727,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561569",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229788822.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/561569-xxxix-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XXXIX Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10206,6 +12516,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230858015.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/561635-xxviii-sesja-rady-gminy-bierzwnik",
       "title": "XXVIII Sesja Rady Gminy Bierzwnik",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561642": {
+      "channel": "Lębork",
+      "checked_ts": 1795612241.9334755,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561642",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243160231.mp4",
+      "page": "https://lebork.tv-polska.eu/film/561642-xxv-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--25-09-2026-r--",
+      "title": "XXV Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (25.09.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10297,6 +12618,105 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561699": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612191.523426,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561699",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231595426.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561699-sesja-nr-14-rady-gminy-kutno",
+      "title": "Sesja nr 14 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561702": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612190.3224072,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561702",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231597733.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561702-sesja-nr-15-rady-gminy-kutno",
+      "title": "Sesja nr 15 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561703": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612189.125272,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561703",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231599058.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561703-sesja-nr-16-rady-gminy-kutno",
+      "title": "Sesja nr 16 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561705": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612187.9256992,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561705",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231602712.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561705-sesja-nr-17-rady-gminy-kutno",
+      "title": "Sesja nr 17 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561706": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612186.7236044,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561706",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231603499.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561706-sesja-nr-18-rady-gminy-kutno",
+      "title": "Sesja nr 18 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561707": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612185.5227852,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561707",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231604735.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561707-sesja-nr-18-rady-gminy-kutno",
+      "title": "Sesja nr 18 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561708": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612184.3241844,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561708",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231606874.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561708-sesja-nr-19-rady-gminy-kutno",
+      "title": "Sesja nr 19 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561709": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612183.122036,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561709",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231608119.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561709-sesja-nr-20-rady-gminy-kutno",
+      "title": "Sesja nr 20 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561710": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612180.7224412,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561710",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231609700.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561710-sesja-nr-22-rady-gminy-kutno",
+      "title": "Sesja nr 22 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561711": {
       "channel": "Brusy",
       "checked_ts": 1795610659.5765061,
@@ -10308,6 +12728,39 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561713": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612179.5307105,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561713",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231611276.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561713-sesja-nr-23-rady-gminy-kutno",
+      "title": "Sesja nr 23 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561714": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612178.320293,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561714",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231620367.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561714-sesja-nr-24-rady-gminy-kutno",
+      "title": "Sesja nr 24 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561715": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612177.1350644,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561715",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231621545.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561715-sesja-nr-25-rady-gminy-kutno",
+      "title": "Sesja nr 25 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561716": {
       "channel": "Kiernozia",
       "checked_ts": 1795611915.6476996,
@@ -10316,6 +12769,94 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231602105.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/561716-35-sesja-rady-miasta-i-gminy-kiernozia-27-08-2026",
       "title": "35 SESJA RADY MIASTA I GMINY KIERNOZIA 27-08-2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561718": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612175.923554,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561718",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231622642.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561718-sesja-nr-26-rady-gminy-kutno",
+      "title": "Sesja nr 26 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561719": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612174.721783,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561719",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231628595.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561719-sesja-nr-27-rady-gminy-kutno",
+      "title": "Sesja nr 27 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561720": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612173.5219083,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561720",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231629237.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561720-sesja-nr-28-rady-gminy-kutno",
+      "title": "Sesja nr 28 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561721": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612172.3320894,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561721",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231630254.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561721-sesja-nr-28-rady-gminy-kutno",
+      "title": "Sesja nr 28 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561722": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612169.9270535,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561722",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231631450.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561722-sesja-nr-29-rady-gminy-kutno",
+      "title": "Sesja nr 29 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561724": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612168.7223794,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561724",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231632356.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561724-sesja-nr-30-rady-gminy-kutno",
+      "title": "Sesja nr 30 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561725": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612167.5272481,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561725",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231633664.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561725-sesja-nr-31-rady-gminy-kutno",
+      "title": "Sesja nr 31 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561726": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612166.3254414,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561726",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231634586.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/561726-sesja-nr-32-rady-gminy-kutno",
+      "title": "Sesja nr 32 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10341,6 +12882,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561739": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612205.924945,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "561739",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231914440.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/561739-xxxi-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXXI Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561744": {
       "channel": "Barwice",
       "checked_ts": 1795610509.5649323,
@@ -10349,6 +12901,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231920399.mp4",
       "page": "https://barwice.tv-polska.eu/film/561744-xxxvi-sesja-rady-miejskiej-w-barwicach",
       "title": "XXXVI Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561750": {
+      "channel": "Łabiszyn",
+      "checked_ts": 1795612277.9320657,
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "561750",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231963595.mp4",
+      "page": "https://labiszyn.tv-polska.eu/film/561750-xx-sesja-rady-miejskiej-w-labiszynie",
+      "title": "XX Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10528,6 +13091,94 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562011": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612351.1402,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562011",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237163321.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/562011-sesja-nr-xxxii-rady-gminy-leki-szlacheckie-z-dnia-29-09-2026-r-",
+      "title": "Sesja nr XXXII Rady Gminy Łęki Szlacheckie z dnia 29.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562018": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612165.1199834,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562018",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237209655.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/562018-sesja-nr-34-rady-gminy-kutno",
+      "title": "Sesja nr 34 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562040": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612016.3115883,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562040",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237534962.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/562040-xxiv-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XXIV sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562041": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612015.108995,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562041",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237535524.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/562041-xxv-sesja-nadzwyczajna-rady-gminy-kocierzew-poludniowy",
+      "title": "XXV sesja nadzwyczajna Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562042": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612013.9125023,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562042",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237535894.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/562042-xxvi-sesja-nadzwyczajna-rady-gminy-kocierzew-poludniowy",
+      "title": "XXVI sesja nadzwyczajna Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562044": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612012.7099848,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562044",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237536473.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/562044-xxvii-sesja-rady-gminy-kocierzew-poludniowy",
+      "title": "XXVII sesja Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562045": {
+      "channel": "Kocierzew Południowy",
+      "checked_ts": 1795612011.515,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562045",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237538438.mp4",
+      "page": "https://kocierzew.tv-polska.eu/film/562045-xxviii-sesja-nadzwyczajna-rady-gminy-kocierzew-poludniowy",
+      "title": "XXVIII sesja nadzwyczajna Rady Gminy Kocierzew Południowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562050": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612163.9210215,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562050",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237556676.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/562050-sesja-nr-33-rady-gminy-kutno",
+      "title": "Sesja nr 33 Rady Gminy Kutno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562057": {
       "channel": "Brusy",
       "checked_ts": 1795610658.3775194,
@@ -10613,6 +13264,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240146109.mp4",
       "page": "https://barwice.tv-polska.eu/film/562098-xxxvii-sesja-rady-miejskiej-w-barwicach",
       "title": "XXXVII Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562099": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612349.941877,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562099",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240159531.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/562099-sesja-nr-xxxiii-rady-gminy-leki-szlacheckie-z-dnia-27-10-2026-r-",
+      "title": "Sesja nr XXXIII Rady Gminy Łęki Szlacheckie z dnia 27.10.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10726,6 +13388,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562119": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612162.7204373,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562119",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240754724.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/562119-sesja-nr-35-rady-gminy-kutno-czesc-i",
+      "title": "Sesja nr 35 Rady Gminy Kutno Część I",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562121": {
+      "channel": "Kutno Gmina",
+      "checked_ts": 1795612161.5208802,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562121",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240761278.mp4",
+      "page": "https://gminakutno.tv-polska.eu/film/562121-xxxv-sesja-rady-gminy-kutno-czesc-ii",
+      "title": "XXXV Sesja Rady Gminy Kutno Część II",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562122": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611306.349318,
@@ -10781,6 +13465,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562132": {
+      "channel": "Krokowa",
+      "checked_ts": 1795612090.7168314,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562132",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241201605.mp4",
+      "page": "https://krokowa.tv-polska.eu/film/562132-xl-sesja-rady-gminy-krokowa-ix-kadencji",
+      "title": "XL Sesja Rady Gminy Krokowa IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562136": {
       "channel": "Jednorożec",
       "checked_ts": 1795611733.2340913,
@@ -10825,6 +13520,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562146": {
+      "channel": "Lębork",
+      "checked_ts": 1795612240.732034,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562146",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243160504.mp4",
+      "page": "https://lebork.tv-polska.eu/film/562146-xxvi-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--29-10-2026-r--",
+      "title": "XXVI Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (29.10.2026 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562151": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610623.5717876,
@@ -10833,6 +13539,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242385776.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/562151-xxv-sesja-rady-gminy-boleszkowice-w-dniu-28-10-2026-r-",
       "title": "XXV SESJA RADY GMINY BOLESZKOWICE w dniu 28.10.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562157": {
+      "channel": "Lewin Kłodzki",
+      "checked_ts": 1795612204.7351289,
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "562157",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242705274.mp4",
+      "page": "https://lewinklodzki.tv-polska.eu/film/562157-xxxii-sesja-rady-gminy-lewin-klodzki",
+      "title": "XXXII Sesja Rady Gminy Lewin Kłodzki",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562160": {
+      "channel": "Krzynowłoga Mała",
+      "checked_ts": 1795612123.118907,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562160",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242716988.mp4",
+      "page": "https://krzynowloga.tv-polska.eu/film/562160-xxxii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "title": "XXXII Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10910,6 +13638,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1246242208.mp4",
       "page": "https://czerwin.tv-polska.eu/film/562247-xxxi-sesja-rady-gminy-czerwin-10-11-2026",
       "title": "XXXI sesja Rady Gminy Czerwin 10.11.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562261": {
+      "channel": "Lębork",
+      "checked_ts": 1795612239.5342207,
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562261",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247198841.mp4",
+      "page": "https://lebork.tv-polska.eu/film/562261-xxvii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--12-11-2026-r--",
+      "title": "XXVII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (12.11.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -11408,6 +14147,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562378": {
+      "channel": "Łęki Szlacheckie",
+      "checked_ts": 1795612348.738331,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562378",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1249923406.mp4",
+      "page": "https://lekiszlacheckie.tv-polska.eu/film/562378-sesja-nr-xxxiv-rady-gminy-leki-szlacheckie-z-dnia-23-11-2026-r-",
+      "title": "Sesja nr XXXIV Rady Gminy Łęki Szlacheckie z dnia 23.11.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562379": {
       "channel": "Dąbrowice",
       "checked_ts": 1795610972.233303,
@@ -11442,7 +14192,7 @@
       "updated": "2026-11-25"
     }
   },
-  "last_run": "2026-11-25T13:06:16.853729+00:00",
+  "last_run": "2026-11-25T13:12:50.357469+00:00",
   "page_cursors": {
     "alfatv": 3,
     "barcin": 4,
@@ -11479,6 +14229,7 @@
     "filmowepanoramysferycznezdrona": 2,
     "gminacisna": 4,
     "gminadrawsko": 2,
+    "gminakutno": 4,
     "gminaslupsk": 2,
     "gminastargard": 4,
     "gniew": 4,
@@ -11503,6 +14254,22 @@
     "kepice": 4,
     "kiernozia": 4,
     "kobylanka": 3,
+    "kocierzew": 4,
+    "kolobrzeg": 2,
+    "kosciolypomorzazachodniego": 4,
+    "koszalin": 2,
+    "krokowa": 4,
+    "krzynowloga": 4,
+    "kujawsko-pomorskie": 2,
+    "kuzniaraciborska": 2,
+    "labiszyn": 4,
+    "lanieta": 4,
+    "lasy": 2,
+    "leba": 2,
+    "lebork": 4,
+    "lekiszlacheckie": 3,
+    "lewinklodzki": 4,
+    "lipiany": 2,
     "miastoszczytno": 4,
     "ugjoniec": 2,
     "witkowo": 3
