@@ -16254,10 +16254,12 @@
     "560218": {
       "channel": "Kępice",
       "checked_ts": 1795611886.8497548,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560218",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1207301167.mp4",
       "page": "https://kepice.tv-polska.eu/film/560218--xxvi-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
+      "published": "2026-01-01",
       "title": "XXVI sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16265,10 +16267,12 @@
     "560221": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612129.117834,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560221",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1207283282.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/560221-xxvii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2026-01-01",
       "title": "XXVII Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16276,10 +16280,12 @@
     "560235": {
       "channel": "Międzychód",
       "checked_ts": 1795612710.1769764,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "560235",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1207628026.mp4",
       "page": "https://miedzychod.tv-polska.eu/film/560235-xxxiv-sesja-rady-miejskiej-miedzychodu---23-06-2026",
+      "published": "2026-06-23",
       "title": "XXXIV SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 23.06.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16287,10 +16293,12 @@
     "560264": {
       "channel": "Brusy",
       "checked_ts": 1795610660.7769773,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560264",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1207984074.mp4",
       "page": "https://brusy.tv-polska.eu/film/560264-xxii-sesja-ix-kadencji",
+      "published": "2026-01-01",
       "title": "XXII sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16298,10 +16306,12 @@
     "560272": {
       "channel": "Międzybórz",
       "checked_ts": 1795612676.5810153,
+      "date_source": "data w tytule",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "560272",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208061967.mp4",
       "page": "https://miedzyborz.tv-polska.eu/film/560272-xxxiii-sesja-rady-miejskiej-w-miedzyborzu-24-06-2026-r-",
+      "published": "2026-06-24",
       "title": "XXXIII Sesja Rady Miejskiej w Międzyborzu 24.06.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16309,10 +16319,12 @@
     "560280": {
       "channel": "Czarnocin",
       "checked_ts": 1795610902.6191907,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "560280",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208105420.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/560280-33_xxxiii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "published": "2026-01-01",
       "title": "33_XXXIII Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16320,10 +16332,12 @@
     "560281": {
       "channel": "Cisna",
       "checked_ts": 1795610796.3903768,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "560281",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208217517.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/560281-sesja-nr-xxxii-rady-gminy-cisna-z-dnia-15-06-2026",
+      "published": "2026-06-15",
       "title": "Sesja nr XXXII Rady Gminy Cisna z dnia 15.06.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16331,10 +16345,12 @@
     "560282": {
       "channel": "Cisna",
       "checked_ts": 1795610795.1866455,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "560282",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208227994.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/560282--sesja-nr-xxxiii-rady-gminy-cisna-z-dnia-29-06-2026",
+      "published": "2026-06-29",
       "title": "Sesja nr XXXIII Rady Gminy Cisna z dnia 29.06.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16342,10 +16358,12 @@
     "560302": {
       "channel": "Krokowa",
       "checked_ts": 1795612095.5153162,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560302",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208668093.mp4",
       "page": "https://krokowa.tv-polska.eu/film/560302-nadzwyczajna-xxxvi-sesja-rady-gminy-krokowa-ix-kadencji",
+      "published": "2026-01-01",
       "title": "Nadzwyczajna XXXVI sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16353,10 +16371,12 @@
     "560305": {
       "channel": "Miastko",
       "checked_ts": 1795612517.9514983,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "560305",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208693578.mp4",
       "page": "https://miastko.tv-polska.eu/film/560305-xxxii-sesja-rady-miejskiej-w-miastku-09-07-2026",
+      "published": "2026-07-09",
       "title": "XXXII Sesja Rady Miejskiej w Miastku 09.07.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16364,10 +16384,12 @@
     "560306": {
       "channel": "Manowo",
       "checked_ts": 1795612417.1392653,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560306",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208705366.mp4",
       "page": "https://manowo.tv-polska.eu/film/560306-xxiii-sesja-rady-gminy-manowo--2026-07-10--godz--8-00",
+      "published": "2026-07-10",
       "title": "XXIII Sesja Rady Gminy Manowo, 2026-07-10, godz. 8:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16375,10 +16397,12 @@
     "560307": {
       "channel": "Banie",
       "checked_ts": 1795609821.9047344,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "560307",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208714232.mp4",
       "page": "https://banie.tv-polska.eu/film/560307-xx-sesja-rady-gminy-banie",
+      "published": "2026-01-01",
       "title": "XX sesja Rady Gminy Banie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16386,10 +16410,12 @@
     "560313": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611523.596649,
+      "date_source": "data w tytule",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "560313",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208835037.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/560313--xxxv-nadzwyczajna-sesja-rady-gminy-ilowo-osada-z-dnia-09-07-2026-",
+      "published": "2026-07-09",
       "title": "XXXV Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 09.07.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16397,10 +16423,12 @@
     "560314": {
       "channel": "Czarne",
       "checked_ts": 1795610870.2119963,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560314",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208927313.mp4",
       "page": "https://czarne.tv-polska.eu/film/560314-xxx-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16408,10 +16436,12 @@
     "560347": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611309.9519339,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "560347",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1209792619.mp4",
       "page": "https://miastoszczytno.tv-polska.eu/film/560347-xxxi-sesja-rady-miejskiej-w-szczytnie",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16419,10 +16449,12 @@
     "560433": {
       "channel": "Jastarnia",
       "checked_ts": 1795611704.4335241,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560433",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1210706589.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/560433-xxviii-nadzwyczajna-sesja-rady-miejskiej-jastarni",
+      "published": "2026-01-01",
       "title": "XXVIII nadzwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16430,10 +16462,12 @@
     "560478": {
       "channel": "Bielice",
       "checked_ts": 1795610559.9676006,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "560478",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1211282249.mp4",
       "page": "https://bielice.tv-polska.eu/film/560478-xxvii-nadzwyczajna-sesja-rady-gminy-bielice",
+      "published": "2026-01-01",
       "title": "XXVII Nadzwyczajna Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16441,10 +16475,12 @@
     "560511": {
       "channel": "Gniewino",
       "checked_ts": 1795611392.7597184,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560511",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1211584412.mp4",
       "page": "https://gniewino.tv-polska.eu/film/560511-xxxiv-sesja-rady-gminy-gniewino",
+      "published": "2026-01-01",
       "title": "XXXIV Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16452,10 +16488,12 @@
     "560533": {
       "channel": "Gniew",
       "checked_ts": 1795611366.3562427,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560533",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1211947576.mp4",
       "page": "https://gniew.tv-polska.eu/film/560533-xxii-sesja-rady-miejskiej-w-gniewie-z-29-kwietnia-2026-r-",
+      "published": "2026-01-01",
       "title": "XXII sesja Rady Miejskiej w Gniewie z 29 kwietnia 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16463,10 +16501,12 @@
     "560536": {
       "channel": "Gniew",
       "checked_ts": 1795611365.1565504,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560536",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1211955359.mp4",
       "page": "https://gniew.tv-polska.eu/film/560536-xxiii-sesja-rady-miejskiej-w-gniewie-z-27-maja-2026-r-",
+      "published": "2026-01-01",
       "title": "XXIII sesja Rady Miejskiej w Gniewie z 27 maja 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16474,10 +16514,12 @@
     "560538": {
       "channel": "Gniew",
       "checked_ts": 1795611363.9613507,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560538",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1211962600.mp4",
       "page": "https://gniew.tv-polska.eu/film/560538-xxiv-sesja-rady-miejskiej-w-gniewie-z-23-czerwca-2026-r-",
+      "published": "2026-01-01",
       "title": "XXIV sesja Rady Miejskiej w Gniewie z 23 czerwca 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16485,10 +16527,12 @@
     "560539": {
       "channel": "Gniew",
       "checked_ts": 1795611362.7516384,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560539",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1211969679.mp4",
       "page": "https://gniew.tv-polska.eu/film/560539-xxv-nadzwyczajna-sesja-rady-miejskiej-w-gniewie-z-8-lipca-2026-r-",
+      "published": "2026-01-01",
       "title": "XXV nadzwyczajna sesja Rady Miejskiej w Gniewie z 8 lipca 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16496,10 +16540,12 @@
     "560547": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612580.3974512,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "560547",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212249993.mp4",
       "page": "https://miastoturek.tv-polska.eu/film/560547-xxviii-sesja-rady-miejskiej-turku-z-dnia-21-lipca-2026r-",
+      "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Miejskiej Turku z dnia 21 lipca 2026r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16507,10 +16553,12 @@
     "560560": {
       "channel": "Dygowo",
       "checked_ts": 1795611169.0413003,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "560560",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212289050.mp4",
       "page": "https://dygowo.tv-polska.eu/film/560560-xxvii-sesja-rady-gminy-dygowo-z-dnia-12-czerwca-2026-roku-",
+      "published": "2026-01-01",
       "title": "XXVII Sesja Rady Gminy Dygowo z dnia 12 czerwca 2026 roku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16518,10 +16566,12 @@
     "560563": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611467.186935,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560563",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212324694.mp4",
       "page": "https://gorzkowice.tv-polska.eu/film/560563-xxx-sesja-rady-gminy-gorzkowice-kadencji-2024-2029",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Gminy Gorzkowice kadencji 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16529,10 +16579,12 @@
     "560566": {
       "channel": "Jaktorów",
       "checked_ts": 1795611637.1769695,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560566",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212368732.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/560566-xxviii-sesja-rady-gminy-jaktorow",
+      "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Gminy Jaktorów",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16540,10 +16592,12 @@
     "560567": {
       "channel": "Kiernozia",
       "checked_ts": 1795611919.2556157,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560567",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212401376.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/560567-32-sesja-rady-miasta-i-gminy-kiernozia-22-07-2026",
+      "published": "2026-01-01",
       "title": "32 SESJA RADY MIASTA I GMINY KIERNOZIA 22-07-2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16551,10 +16605,12 @@
     "560572": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612546.7549288,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "560572",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212553094.mp4",
       "page": "https://miastolezajsk.tv-polska.eu/film/560572-xxix-sesja-rady-miejskiej-w-lezajsku-",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Miejskiej w Leżajsku.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16562,10 +16618,12 @@
     "560605": {
       "channel": "Jednorożec",
       "checked_ts": 1795611736.8391368,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560605",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213197630.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/560605-xxvii-sesja-rady-gminy-jednorozec-16-07-2026-r-",
+      "published": "2026-07-16",
       "title": "XXVII Sesja Rady Gminy Jednorożec 16.07.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16573,10 +16631,12 @@
     "560626": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611308.7482495,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "560626",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213491642.mp4",
       "page": "https://miastoszczytno.tv-polska.eu/film/560626-xxxii-sesja-rady-miejskiej-w-szczytnie",
+      "published": "2026-01-01",
       "title": "XXXII Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16584,10 +16644,12 @@
     "560647": {
       "channel": "Łęki Szlacheckie",
       "checked_ts": 1795612353.5402517,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560647",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213844893.mp4",
       "page": "https://lekiszlacheckie.tv-polska.eu/film/560647-sesja-nr-xxx-rady-gminy-leki-szlacheckie-z-dnia-28-07-2026-r-",
+      "published": "2026-07-28",
       "title": "Sesja nr XXX Rady Gminy Łęki Szlacheckie z dnia 28.07.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16595,10 +16657,12 @@
     "560648": {
       "channel": "Manowo",
       "checked_ts": 1795612415.938626,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560648",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213853394.mp4",
       "page": "https://manowo.tv-polska.eu/film/560648-xxiv-sesja-rady-gminy-manowo--2026-07-29--godz--9-00",
+      "published": "2026-07-29",
       "title": "XXIV Sesja Rady Gminy Manowo, 2026-07-29, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16606,10 +16670,12 @@
     "560651": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611428.7658072,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560651",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213864118.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/560651-xxv-sesja-rady-gminy-w-gniewoszowie",
+      "published": "2026-01-01",
       "title": "XXV Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16617,10 +16683,12 @@
     "560656": {
       "channel": "Drawno",
       "checked_ts": 1795611141.4423852,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560656",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213887563.mp4",
       "page": "https://drawno.tv-polska.eu/film/560656-xxix-sesja-rady-miejskiej-w-drawnie",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Miejskiej w Drawnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16628,10 +16696,12 @@
     "560674": {
       "channel": "Drawno",
       "checked_ts": 1795611140.2389336,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560674",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214216664.mp4",
       "page": "https://drawno.tv-polska.eu/film/560674-xxx-sesja-rady-miejskiej-w-drawnie",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Miejskiej w Drawnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16639,10 +16709,12 @@
     "560677": {
       "channel": "Dolice",
       "checked_ts": 1795611091.040534,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "560677",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214234780.mp4",
       "page": "https://dolice.tv-polska.eu/film/560677-xxvii-sesja-rady-gminy-dolice",
+      "published": "2026-01-01",
       "title": "XXVII Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16650,10 +16722,12 @@
     "560679": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612127.9183152,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560679",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214232233.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/560679-xxviii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16661,10 +16735,12 @@
     "560691": {
       "channel": "Drawno",
       "checked_ts": 1795611139.0424385,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560691",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214495708.mp4",
       "page": "https://drawno.tv-polska.eu/film/560691-zawody-wedkarskie-o-puchar-burmistrza-drawna-2026",
+      "published": "2026-01-01",
       "title": "Zawody wędkarskie o Puchar Burmistrza Drawna 2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16672,10 +16748,12 @@
     "560692": {
       "channel": "Jastarnia",
       "checked_ts": 1795611703.2353234,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560692",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214496106.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/560692--xxix-zwyczajna-sesja-rady-miejskiej-jastarni",
+      "published": "2026-01-01",
       "title": "XXIX zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16683,10 +16761,12 @@
     "560694": {
       "channel": "Drawno",
       "checked_ts": 1795611136.6382532,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560694",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214496277.mp4",
       "page": "https://drawno.tv-polska.eu/film/560694-dzien-dziecka-w-drawnie",
+      "published": "2026-01-01",
       "title": "Dzień Dziecka w Drawnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16694,10 +16774,12 @@
     "560696": {
       "channel": "Drawno",
       "checked_ts": 1795611135.4404821,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560696",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214499340.mp4",
       "page": "https://drawno.tv-polska.eu/film/560696-lato-nad-drawa",
+      "published": "2026-01-01",
       "title": "Lato nad Drawą",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16705,10 +16787,12 @@
     "560711": {
       "channel": "Krokowa",
       "checked_ts": 1795612094.3171656,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560711",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214516454.mp4",
       "page": "https://krokowa.tv-polska.eu/film/560711-nadzwyczajna-xxxvii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "published": "2026-01-01",
       "title": "Nadzwyczajna XXXVII sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16716,10 +16800,12 @@
     "560713": {
       "channel": "Drawno",
       "checked_ts": 1795611134.2531292,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560713",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214501435.mp4",
       "page": "https://drawno.tv-polska.eu/film/560713-jubileusz-xv-lecia-dzialalnosci-drawienskiego-uniwersytetu-trzeciego-wieku",
+      "published": "2026-01-01",
       "title": "Jubileusz XV lecia działalności Drawieńskiego Uniwersytetu Trzeciego Wieku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16727,10 +16813,12 @@
     "560735": {
       "channel": "Iłów",
       "checked_ts": 1795611554.798562,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560735",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1215094494.mp4",
       "page": "https://ilow.tv-polska.eu/film/560735-xxxi-sesja-rady-gminy-ilow-z-dnia-27-07-2026r-",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Gminy Iłów z dnia 27.07.2026r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16738,10 +16826,12 @@
     "560743": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610592.3721077,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "560743",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1215181285.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/560743-xxvi-sesja-rady-gminy-bierzwnik",
+      "published": "2026-01-01",
       "title": "XXVI Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16749,10 +16839,12 @@
     "560771": {
       "channel": "Manowo",
       "checked_ts": 1795612414.7364879,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560771",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1215709973.mp4",
       "page": "https://manowo.tv-polska.eu/film/560771-xxv-sesja-rady-gminy-manowo--2026-08-05--godz--7-30",
+      "published": "2026-08-05",
       "title": "XXV Sesja Rady Gminy Manowo, 2026-08-05, godz. 7:30",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16760,10 +16852,12 @@
     "560788": {
       "channel": "Marianowo",
       "checked_ts": 1795612448.3461266,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "560788",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1216021436.mp4",
       "page": "https://marianowo.tv-polska.eu/film/560788-xxiv-sesja-rady-gminy-marianowo-w-dniu-17-lipca-2026-r-",
+      "published": "2026-01-01",
       "title": "XXIV sesja Rady Gminy Marianowo w dniu 17 lipca 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16771,10 +16865,12 @@
     "560815": {
       "channel": "Czarne",
       "checked_ts": 1795610869.0129304,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560815",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1216598829.mp4",
       "page": "https://czarne.tv-polska.eu/film/560815-xxxi-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16782,10 +16878,12 @@
     "560816": {
       "channel": "Czarne",
       "checked_ts": 1795610867.813735,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "560816",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1216636759.mp4",
       "page": "https://czarne.tv-polska.eu/film/560816-xxxii-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "published": "2026-01-01",
       "title": "XXXII Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16793,10 +16891,12 @@
     "560850": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612648.832861,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "560850",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1217235144.mp4",
       "page": "https://mieszkowice.tv-polska.eu/film/560850-w-czelinie-ruszyla-budowa-drogi-gminnej-",
+      "published": "2026-01-01",
       "title": "W Czelinie ruszyła budowa drogi gminnej.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16804,10 +16904,12 @@
     "560851": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612641.6338375,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "560851",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1217242897.mp4",
       "page": "https://mieszkowice.tv-polska.eu/film/560851-powrot-do-natury-",
+      "published": "2026-01-01",
       "title": "Powrót do natury!",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16815,10 +16917,12 @@
     "560878": {
       "channel": "Jednorożec",
       "checked_ts": 1795611735.6342292,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560878",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1217589988.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/560878-xxviii-sesja-rady-gminy-jednorozec-12-08-2026-r-",
+      "published": "2026-08-12",
       "title": "XXVIII Sesja Rady Gminy Jednorożec 12.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16826,10 +16930,12 @@
     "560892": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612126.7323747,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560892",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1217913480.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/560892-xxix-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16837,10 +16943,12 @@
     "560923": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612125.5171726,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "560923",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218819836.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/560923-xxx-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16848,10 +16956,12 @@
     "560925": {
       "channel": "Kępice",
       "checked_ts": 1795611885.6518435,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "560925",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218829950.mp4",
       "page": "https://kepice.tv-polska.eu/film/560925-xxvii-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
+      "published": "2026-01-01",
       "title": "XXVII sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16859,10 +16969,12 @@
     "560932": {
       "channel": "Międzybórz",
       "checked_ts": 1795612675.381094,
+      "date_source": "data w tytule",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "560932",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218878354.mp4",
       "page": "https://miedzyborz.tv-polska.eu/film/560932-xxxiv-sesja-rady-miejskiej-w-miedzyborzu-21-07-2026-r-",
+      "published": "2026-07-21",
       "title": "XXXIV Sesja Rady Miejskiej w Międzyborzu 21.07.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16870,10 +16982,12 @@
     "560933": {
       "channel": "Międzybórz",
       "checked_ts": 1795612674.1791162,
+      "date_source": "data w tytule",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "560933",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218878800.mp4",
       "page": "https://miedzyborz.tv-polska.eu/film/560933-xxxv-sesja-rady-miejskiej-w-miedzyborzu-11-08-2026-r-",
+      "published": "2026-08-11",
       "title": "XXXV Sesja Rady Miejskiej w Międzyborzu 11.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16881,10 +16995,12 @@
     "560954": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611522.3955846,
+      "date_source": "data w tytule",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "560954",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218965098.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/560954-xxxvi-nadzwyczajna-sesja-rady-gminy-ilowo-osada-z-dnia-17-08-2026-",
+      "published": "2026-08-17",
       "title": "XXXVI Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 17.08.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16892,10 +17008,12 @@
     "560965": {
       "channel": "Czarnocin",
       "checked_ts": 1795610901.4127643,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "560965",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1219189918.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/560965-34_xxxiv-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "published": "2026-01-01",
       "title": "34_XXXIV Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16903,10 +17021,12 @@
     "560969": {
       "channel": "Banie",
       "checked_ts": 1795609821.101018,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "560969",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1219198513.mp4",
       "page": "https://banie.tv-polska.eu/film/560969-xxi-nadzwyczajna-sesja-rady-gminy-banie",
+      "published": "2026-01-01",
       "title": "XXI nadzwyczajna sesja Rady Gminy Banie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16914,10 +17034,12 @@
     "561039": {
       "channel": "Międzychód",
       "checked_ts": 1795612708.9946878,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561039",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1220739894.mp4",
       "page": "https://miedzychod.tv-polska.eu/film/561039-xxxv-sesja-rady-miejskiej-miedzychodu---07-07-2026",
+      "published": "2026-07-07",
       "title": "XXXV SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 07.07.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16925,10 +17047,12 @@
     "561040": {
       "channel": "Międzychód",
       "checked_ts": 1795612707.7918606,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561040",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1220740156.mp4",
       "page": "https://miedzychod.tv-polska.eu/film/561040-xxxvi-sesja-rady-miejskiej-miedzychodu---22-07-2026-",
+      "published": "2026-07-22",
       "title": "XXXVI SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 22.07.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16936,10 +17060,12 @@
     "561041": {
       "channel": "Międzychód",
       "checked_ts": 1795612706.588283,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561041",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1220740293.mp4",
       "page": "https://miedzychod.tv-polska.eu/film/561041-xxxvii-sesja-rady-miejskiej-miedzychodu---28-07-2026",
+      "published": "2026-07-28",
       "title": "XXXVII SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 28.07.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16947,10 +17073,12 @@
     "561049": {
       "channel": "Barcin",
       "checked_ts": 1795610472.3592126,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561049",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1220775033.mp4",
       "page": "https://barcin.tv-polska.eu/film/561049-gmina-barcin---xxvii-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
+      "published": "2026-01-01",
       "title": "Gmina Barcin | XXVII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16958,10 +17086,12 @@
     "561058": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611812.4421709,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "561058",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221063991.mp4",
       "page": "https://kamienpomorski.tv-polska.eu/film/561058-xxvi-sesja-rady-miejskiej--2024-2029-",
+      "published": "2026-01-01",
       "title": "XXVI Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16969,10 +17099,12 @@
     "561064": {
       "channel": "Deszczno",
       "checked_ts": 1795611007.0269125,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "561064",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221093917.mp4",
       "page": "https://deszczno.tv-polska.eu/film/561064-xxx-zwyczajna-sesja-rady-gminy-deszczno-24-08-2026r---2024-2029r--",
+      "published": "2026-01-01",
       "title": "XXX Zwyczajna Sesja Rady Gminy Deszczno 24.08.2026r. (2024-2029r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16980,10 +17112,12 @@
     "561081": {
       "channel": "Banie",
       "checked_ts": 1795609820.2990987,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "561081",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221376930.mp4",
       "page": "https://banie.tv-polska.eu/film/561081-xxii-nadzwyczajna-sesja-rady-gminy-banie",
+      "published": "2026-01-01",
       "title": "XXII nadzwyczajna sesja Rady Gminy Banie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -16991,10 +17125,12 @@
     "561093": {
       "channel": "Dziwnów",
       "checked_ts": 1795611245.1411839,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "561093",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1224851273.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/561093-sesja-nr-xxix-rady-miejskiej-w-dziwnowie",
+      "published": "2026-01-01",
       "title": "Sesja Nr XXIX Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17002,10 +17138,12 @@
     "561109": {
       "channel": "Mielno",
       "checked_ts": 1795612612.8006175,
+      "date_source": "data w tytule",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "561109",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221713500.mp4",
       "page": "https://gminamielno.tv-polska.eu/film/561109-xxxii-nadzwyczajna-sesja-rady-miejskiej-mielna-26-08-2026",
+      "published": "2026-08-26",
       "title": "XXXII Nadzwyczajna Sesja Rady Miejskiej Mielna 26.08.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17013,10 +17151,12 @@
     "561111": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611781.2404418,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561111",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221719087.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/561111-xxviii-sesja-rady-miejskiej-w-kamieniu-krajenskim--kadencja-2024---2029-",
+      "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Miejskiej w Kamieniu Krajeńskim (Kadencja 2024 - 2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17024,10 +17164,12 @@
     "561112": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611681.5779984,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561112",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221727593.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/561112-posiedzenie-komisji-rewizyjnej-rady-miejskiej-w-janowcu-wielkopolskim-25-08-2026-r-",
+      "published": "2026-08-25",
       "title": "Posiedzenie Komisji Rewizyjnej Rady Miejskiej w Janowcu Wielkopolskim 25.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17035,10 +17177,12 @@
     "561119": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611680.3850622,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561119",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221765791.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/561119-posiedzenie-komisji-do-spraw-gminnych-rady-miejskiej-w-janowcu-wielkopolskim-27-08-2026",
+      "published": "2026-08-27",
       "title": "Posiedzenie Komisji do spraw Gminnych Rady Miejskiej w Janowcu Wielkopolskim 27.08.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17046,10 +17190,12 @@
     "561120": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611679.1952577,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561120",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221766209.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/561120-xxii-sesja-rady-miejskiej-w-janowcu-wielkopolskim---27-08-2026",
+      "published": "2026-08-27",
       "title": "XXII Sesja Rady Miejskiej w Janowcu Wielkopolskim - 27.08.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17057,10 +17203,12 @@
     "561129": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611056.2356994,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561129",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221849475.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/561129-xxvi-sesja-rady-miejskiej-w-dobrej",
+      "published": "2026-01-01",
       "title": "XXVI sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17068,10 +17216,12 @@
     "561145": {
       "channel": "Lębork",
       "checked_ts": 1795612243.1326194,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "561145",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222028749.mp4",
       "page": "https://lebork.tv-polska.eu/film/561145-xxiv-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--27-08-2026-r--",
+      "published": "2026-08-27",
       "title": "XXIV Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (27.08.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17079,10 +17229,12 @@
     "561149": {
       "channel": "Jastarnia",
       "checked_ts": 1795611702.0319426,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "561149",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222051388.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/561149-xxx-zwyczajna-sesja-rady-miejskiej-jastarni",
+      "published": "2026-01-01",
       "title": "XXX zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17090,10 +17242,12 @@
     "561150": {
       "channel": "Drawno",
       "checked_ts": 1795611133.0390913,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "561150",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222052113.mp4",
       "page": "https://drawno.tv-polska.eu/film/561150-regaty-zeglarskie-w-drawnie",
+      "published": "2026-01-01",
       "title": "Regaty żeglarskie w Drawnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17101,10 +17255,12 @@
     "561158": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612647.6325316,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561158",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222276992.mp4",
       "page": "https://mieszkowice.tv-polska.eu/film/561158-sesja-nr-xxii-2026-rady-miejskiej-w-mieszkowicach---kadencja-ix",
+      "published": "2026-01-01",
       "title": "Sesja Nr XXII/2026 Rady Miejskiej w Mieszkowicach - Kadencja IX",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17112,10 +17268,12 @@
     "561173": {
       "channel": "Kępice",
       "checked_ts": 1795611884.4506195,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "561173",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222606904.mp4",
       "page": "https://kepice.tv-polska.eu/film/561173-xxviii-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
+      "published": "2026-01-01",
       "title": "XXVIII sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17123,10 +17281,12 @@
     "561197": {
       "channel": "Iłów",
       "checked_ts": 1795611553.597814,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561197",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222916826.mp4",
       "page": "https://ilow.tv-polska.eu/film/561197-xxxii-sesja-rady-gminy-ilow-z-dnia-27-08-2026r-",
+      "published": "2026-01-01",
       "title": "XXXII Sesja Rady Gminy Iłów z dnia 27.08.2026r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17134,10 +17294,12 @@
     "561201": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612579.1976995,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561201",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222923938.mp4",
       "page": "https://miastoturek.tv-polska.eu/film/561201-xxix-sesja-rady-miejskiej-turku-z-dnia-26-sierpnia-2026r-",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Miejskiej Turku z dnia 26 sierpnia 2026r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17145,10 +17307,12 @@
     "561207": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612545.5517516,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "561207",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222955770.mp4",
       "page": "https://miastolezajsk.tv-polska.eu/film/561207-xxx-sesja-rady-miejskiej-w-lezajsku--31-08-2026-",
+      "published": "2026-08-31",
       "title": "XXX Sesja Rady Miejskiej w Leżajsku (31.08.2026)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17156,10 +17320,12 @@
     "561212": {
       "channel": "Miastko",
       "checked_ts": 1795612516.7545412,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "561212",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222995882.mp4",
       "page": "https://miastko.tv-polska.eu/film/561212-xxxiii-sesja-rady-miejskiej-w-miastku-21-07-2026",
+      "published": "2026-07-21",
       "title": "XXXIII sesja Rady Miejskiej w Miastku 21.07.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17167,10 +17333,12 @@
     "561218": {
       "channel": "Łęki Szlacheckie",
       "checked_ts": 1795612352.3395724,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561218",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223011172.mp4",
       "page": "https://lekiszlacheckie.tv-polska.eu/film/561218-sesja-nr-xxxi-rady-gminy-leki-szlacheckie-z-dnia-31-08-2026-r-",
+      "published": "2026-08-31",
       "title": "Sesja nr XXXI Rady Gminy Łęki Szlacheckie z dnia 31.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17178,10 +17346,12 @@
     "561228": {
       "channel": "Miastko",
       "checked_ts": 1795612515.5540626,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "561228",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223256918.mp4",
       "page": "https://miastko.tv-polska.eu/film/561228-xxxiv-sesja-rady-miejskiej-w-miastku-28-08-2026",
+      "published": "2026-08-28",
       "title": "XXXIV sesja Rady Miejskiej w Miastku 28.08.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17189,10 +17359,12 @@
     "561234": {
       "channel": "Gniewino",
       "checked_ts": 1795611391.5604248,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "561234",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223477078.mp4",
       "page": "https://gniewino.tv-polska.eu/film/561234-xxxv-sesja-rady-gminy-gniewino",
+      "published": "2026-01-01",
       "title": "XXXV Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17200,10 +17372,12 @@
     "561236": {
       "channel": "Marianowo",
       "checked_ts": 1795612447.1431222,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561236",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223570746.mp4",
       "page": "https://marianowo.tv-polska.eu/film/561236-xxv-sesja-rady-gminy-marianowo-w-dniu-28-sierpnia-2026-r-",
+      "published": "2026-01-01",
       "title": "XXV sesja Rady Gminy Marianowo w dniu 28 sierpnia 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17211,10 +17385,12 @@
     "561245": {
       "channel": "Jaktorów",
       "checked_ts": 1795611635.977176,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561245",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223657232.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/561245-xxix-sesja-rady-gminy-jaktorow",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Gminy Jaktorów",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17222,10 +17398,12 @@
     "561255": {
       "channel": "Krokowa",
       "checked_ts": 1795612093.115583,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "561255",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223909041.mp4",
       "page": "https://krokowa.tv-polska.eu/film/561255-xxxviii-sesja-rady-gminy-krokowa-ix-kadencji",
+      "published": "2026-01-01",
       "title": "XXXVIII Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17233,10 +17411,12 @@
     "561261": {
       "channel": "Dygowo",
       "checked_ts": 1795611167.83951,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "561261",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223955447.mp4",
       "page": "https://dygowo.tv-polska.eu/film/561261-xxix-sesja-rady-gminy-dygowo-z-dnia-28-sierpnia-2026-roku",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Gminy Dygowo z dnia 28 sierpnia 2026 roku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17244,10 +17424,12 @@
     "561262": {
       "channel": "Bielice",
       "checked_ts": 1795610558.766938,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561262",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223963419.mp4",
       "page": "https://bielice.tv-polska.eu/film/561262-xxviii-sesja-rady-gminy-bielice",
+      "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17255,10 +17437,12 @@
     "561270": {
       "channel": "Barwice",
       "checked_ts": 1795610510.7609699,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "561270",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1224507460.mp4",
       "page": "https://barwice.tv-polska.eu/film/561270-xxxv-nadzwyczajna-sesja-rady-miejskiej-w-barwicach",
+      "published": "2026-01-01",
       "title": "XXXV Nadzwyczajna Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17266,10 +17450,12 @@
     "561316": {
       "channel": "Czerwin",
       "checked_ts": 1795610936.2187638,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561316",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1224846076.mp4",
       "page": "https://czerwin.tv-polska.eu/film/561316-xxix-sesja-rady-gminy-czerwin-27-08-2026",
+      "published": "2026-08-27",
       "title": "XXIX sesja Rady Gminy Czerwin 27.08.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17277,10 +17463,12 @@
     "561323": {
       "channel": "Dolice",
       "checked_ts": 1795611089.8378136,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "561323",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1224921528.mp4",
       "page": "https://dolice.tv-polska.eu/film/561323-xxviii-sesja-rady-gminy-dolice",
+      "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17288,10 +17476,12 @@
     "561327": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611676.7784507,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561327",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1225170933.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/561327-posiedzenie-komisji-skarg--wnioskow-i-petycji-rady-miejskiej-w-janowcu-wielkopolskim-08-09-2026",
+      "published": "2026-09-08",
       "title": "Posiedzenie Komisji Skarg, Wniosków i Petycji Rady Miejskiej w Janowcu Wielkopolskim 08.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17299,10 +17489,12 @@
     "561328": {
       "channel": "Banie",
       "checked_ts": 1795609819.4967935,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "561328",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1225192940.mp4",
       "page": "https://banie.tv-polska.eu/film/561328-xxiii-nadzwyczajna-sesja-rady-gminy-banie",
+      "published": "2026-01-01",
       "title": "XXIII nadzwyczajna sesja Rady Gminy Banie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17310,10 +17502,12 @@
     "561361": {
       "channel": "Czarne",
       "checked_ts": 1795610866.6227782,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "561361",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1225875097.mp4",
       "page": "https://czarne.tv-polska.eu/film/561361-xxxiii-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "published": "2026-01-01",
       "title": "XXXIII Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17321,10 +17515,12 @@
     "561370": {
       "channel": "Maszewo",
       "checked_ts": 1795612479.548677,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561370",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226028960.mp4",
       "page": "https://maszewo.tv-polska.eu/film/561370-sesja-nr-xxviii-rady-miejskiej-w-maszewie---11-wrzesnia-2026-rok-",
+      "published": "2026-01-01",
       "title": "Sesja nr XXVIII Rady Miejskiej w Maszewie - 11 września 2026 rok.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17332,10 +17528,12 @@
     "561372": {
       "channel": "Cisna",
       "checked_ts": 1795610793.9878545,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "561372",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226434627.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/561372-sesja-nr-xxxiv-rady-gminy-cisna-z-dnia-29-07-2026",
+      "published": "2026-07-29",
       "title": "Sesja nr XXXIV Rady Gminy Cisna z dnia 29.07.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17343,10 +17541,12 @@
     "561373": {
       "channel": "Cisna",
       "checked_ts": 1795610792.8015435,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "561373",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226435006.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/561373-sesja-nr-xxxv-rady-gminy-cisna-z-dnia-14-08-2026",
+      "published": "2026-08-14",
       "title": "Sesja nr XXXV Rady Gminy Cisna z dnia 14.08.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17354,10 +17554,12 @@
     "561374": {
       "channel": "Cisna",
       "checked_ts": 1795610791.587187,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "561374",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226435501.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/561374-sesja-nr-xxxvi-rady-gminy-cisna-z-dnia-07-09-2026",
+      "published": "2026-09-07",
       "title": "Sesja nr XXXVI Rady Gminy Cisna z dnia 07.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17365,10 +17567,12 @@
     "561377": {
       "channel": "Dygowo",
       "checked_ts": 1795611166.6361961,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "561377",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226502052.mp4",
       "page": "https://dygowo.tv-polska.eu/film/561377-xxx-nadzwyczajna-sesja-rady-gminy-dygowo-z-dnia-11-wrzesnia-2026-roku-",
+      "published": "2026-01-01",
       "title": "XXX Nadzwyczajna Sesja Rady Gminy Dygowo z dnia 11 września 2026 roku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17376,10 +17580,12 @@
     "561403": {
       "channel": "Kiernozia",
       "checked_ts": 1795611918.0506966,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561403",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226746910.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/561403-33-sesja-rady-miasta-i-gminy-kiernozia-13-08-2026",
+      "published": "2026-01-01",
       "title": "33 SESJA RADY MIASTA I GMINY KIERNOZIA 13-08-2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17387,10 +17593,12 @@
     "561406": {
       "channel": "Kiernozia",
       "checked_ts": 1795611916.8476112,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561406",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226841296.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/561406-34-sesja-rady-miasta-i-gminy-kiernozia-27-08-2026",
+      "published": "2026-01-01",
       "title": "34 SESJA RADY MIASTA I GMINY KIERNOZIA 27-08-2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17398,10 +17606,12 @@
     "561407": {
       "channel": "Dolice",
       "checked_ts": 1795611088.6404033,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "561407",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226853760.mp4",
       "page": "https://dolice.tv-polska.eu/film/561407-xxix-sesja-rady-gminy-dolice",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17409,10 +17619,12 @@
     "561412": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612124.317189,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561412",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226879366.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/561412-xxxi-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17420,10 +17632,12 @@
     "561428": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611521.2030327,
+      "date_source": "data w tytule",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "561428",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227047030.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/561428-xxxvii-sesja-rady-gminy-ilowo-osada-z-dnia-15-09-2026",
+      "published": "2026-09-15",
       "title": "XXXVII Sesja Rady Gminy Iłowo-Osada z dnia 15.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17431,10 +17645,12 @@
     "561450": {
       "channel": "Dynów",
       "checked_ts": 1795611201.4394577,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "561450",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227294042.mp4",
       "page": "https://dynow.tv-polska.eu/film/561450-xxviii-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Miasta Dynów IX kadencji 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17442,10 +17658,12 @@
     "561451": {
       "channel": "Dynów",
       "checked_ts": 1795611200.2377713,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "561451",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227307648.mp4",
       "page": "https://dynow.tv-polska.eu/film/561451-xxix-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Miasta Dynów IX kadencji 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17453,10 +17671,12 @@
     "561453": {
       "channel": "Dynów",
       "checked_ts": 1795611199.0386138,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "561453",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227309527.mp4",
       "page": "https://dynow.tv-polska.eu/film/561453-xxx-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Miasta Dynów IX kadencji 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17464,10 +17684,12 @@
     "561475": {
       "channel": "Miastko",
       "checked_ts": 1795612514.3487065,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "561475",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227957255.mp4",
       "page": "https://miastko.tv-polska.eu/film/561475-xxxv-sesja-rady-miejskiej-w-miastku-04-09-2026",
+      "published": "2026-09-04",
       "title": "XXXV sesja Rady Miejskiej w Miastku 04.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17475,10 +17697,12 @@
     "561476": {
       "channel": "Miastko",
       "checked_ts": 1795612513.1490376,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "561476",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227958141.mp4",
       "page": "https://miastko.tv-polska.eu/film/561476-xxxvi-sesja-rady-miejskiej-w-miastku-11-09-2026",
+      "published": "2026-09-11",
       "title": "XXXVI sesja Rady Miejskiej w Miastku 11.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17486,10 +17710,12 @@
     "561485": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612207.1472528,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "561485",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227996564.mp4",
       "page": "https://lewinklodzki.tv-polska.eu/film/561485-xxx-sesja-rady-gminy-lewin-klodzki",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17497,10 +17723,12 @@
     "561490": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611307.5529003,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "561490",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1228033056.mp4",
       "page": "https://miastoszczytno.tv-polska.eu/film/561490-xxxiii-sesja-rady-miejskiej-w-szczytnie",
+      "published": "2026-01-01",
       "title": "XXXIII Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17508,10 +17736,12 @@
     "561499": {
       "channel": "Iłów",
       "checked_ts": 1795611552.4002266,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561499",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1228557755.mp4",
       "page": "https://ilow.tv-polska.eu/film/561499-xxxiii-sesja-rady-gminy-ilow-z-dnia-18-09-2026r-",
+      "published": "2026-01-01",
       "title": "XXXIII Sesja Rady Gminy Iłów z dnia 18.09.2026r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17519,10 +17749,12 @@
     "561521": {
       "channel": "Jaktorów",
       "checked_ts": 1795611634.7752414,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561521",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1228816966.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/561521-xxx-sesja-rady-gminy-jaktorow",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Gminy Jaktorów",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17530,10 +17762,12 @@
     "561569": {
       "channel": "Krokowa",
       "checked_ts": 1795612091.9168727,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "561569",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229788822.mp4",
       "page": "https://krokowa.tv-polska.eu/film/561569-xxxix-sesja-rady-gminy-krokowa-ix-kadencji",
+      "published": "2026-01-01",
       "title": "XXXIX Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17541,10 +17775,12 @@
     "561572": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611780.0371637,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561572",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229795432.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/561572-xxix-sesja-rady-miejskiej-w-kamieniu-krajenskim--kadencja-2024---2029-",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Miejskiej w Kamieniu Krajeńskim (Kadencja 2024 - 2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17552,10 +17788,12 @@
     "561593": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611465.990016,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561593",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229871484.mp4",
       "page": "https://gorzkowice.tv-polska.eu/film/561593-xxxi-sesja-rady-gminy-gorzkowice",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Gminy Gorzkowice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17563,10 +17801,12 @@
     "561597": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611675.5776517,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561597",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229888000.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/561597-posiedzenie-komisji-skarg--wnioskow-i-petycji-rady-miejskiej-w-janowcu-wielkopolskim---24-09-2026",
+      "published": "2026-09-24",
       "title": "Posiedzenie Komisji Skarg, Wniosków i Petycji Rady Miejskiej w Janowcu Wielkopolskim - 24.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17574,10 +17814,12 @@
     "561608": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612646.4372048,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561608",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230167890.mp4",
       "page": "https://mieszkowice.tv-polska.eu/film/561608-sesja-nr-xxiii-2026-rady-miejskiej-w-mieszkowicach---kadencja-ix",
+      "published": "2026-01-01",
       "title": "Sesja Nr XXIII/2026 Rady Miejskiej w Mieszkowicach - Kadencja IX",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17585,10 +17827,12 @@
     "561613": {
       "channel": "Manowo",
       "checked_ts": 1795612413.5391781,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "561613",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230176837.mp4",
       "page": "https://manowo.tv-polska.eu/film/561613-xxvi-sesja-rady-gminy-manowo--2026-09-25--godz--9-00",
+      "published": "2026-09-25",
       "title": "XXVI Sesja Rady Gminy Manowo, 2026-09-25, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17596,10 +17840,12 @@
     "561634": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610591.1719809,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561634",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230856955.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/561634-xxvii-sesja-rady-gminy-bierzwnik",
+      "published": "2026-01-01",
       "title": "XXVII Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17607,10 +17853,12 @@
     "561635": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610589.9746966,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561635",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230858015.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/561635-xxviii-sesja-rady-gminy-bierzwnik",
+      "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17618,10 +17866,12 @@
     "561642": {
       "channel": "Lębork",
       "checked_ts": 1795612241.9334755,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "561642",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243160231.mp4",
       "page": "https://lebork.tv-polska.eu/film/561642-xxv-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--25-09-2026-r--",
+      "published": "2026-09-25",
       "title": "XXV Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (25.09.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17629,10 +17879,12 @@
     "561652": {
       "channel": "Drawno",
       "checked_ts": 1795611131.8376791,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "561652",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231049748.mp4",
       "page": "https://drawno.tv-polska.eu/film/561652-xxxi-sesja-rady-miejskiej-w-drawnie",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Miejskiej w Drawnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17640,10 +17892,12 @@
     "561653": {
       "channel": "Czarne",
       "checked_ts": 1795610865.4102993,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "561653",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231036733.mp4",
       "page": "https://czarne.tv-polska.eu/film/561653-xxxiv-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "published": "2026-01-01",
       "title": "XXXIV Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17651,10 +17905,12 @@
     "561655": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611674.3796282,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561655",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231179581.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/561655-posiedzenie-komisji-ds--gminnych-rady-miejskiej-w-janowcu-wielkopolskim---28-09-2026",
+      "published": "2026-09-28",
       "title": "Posiedzenie Komisji ds. Gminnych Rady Miejskiej w Janowcu Wielkopolskim - 28.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17662,10 +17918,12 @@
     "561656": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611673.1800191,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561656",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231179861.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/561656-xxiii-sesja-rady-miejskiej-w-janowcu-wielkopolskim---28-09-2026",
+      "published": "2026-09-28",
       "title": "XXIII SESJA RADY MIEJSKIEJ W JANOWCU WIELKOPOLSKIM - 28.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17673,10 +17931,12 @@
     "561658": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612544.3636026,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "561658",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231235749.mp4",
       "page": "https://miastolezajsk.tv-polska.eu/film/561658-xxxi-sesja-rady-miejskiej-w-lezajsku--25-09-2026",
+      "published": "2026-09-25",
       "title": "XXXI Sesja Rady Miejskiej w Leżajsku. 25.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17684,10 +17944,12 @@
     "561664": {
       "channel": "Deszczno",
       "checked_ts": 1795611005.8260033,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "561664",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231216882.mp4",
       "page": "https://deszczno.tv-polska.eu/film/561664-xxxi-zwyczajna-sesja-rady-gminy-deszczno-28-09-2026r---2024-2029r--",
+      "published": "2026-01-01",
       "title": "XXXI Zwyczajna Sesja Rady Gminy Deszczno 28.09.2026r. (2024-2029r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17695,10 +17957,12 @@
     "561665": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611464.78862,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561665",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231242652.mp4",
       "page": "https://gorzkowice.tv-polska.eu/film/561665-xxxii-sesja-rady-gminy-gorzkowice-kadencji-2024-2029",
+      "published": "2026-01-01",
       "title": "XXXII Sesja Rady Gminy Gorzkowice kadencji 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17706,10 +17970,12 @@
     "561690": {
       "channel": "Barcin",
       "checked_ts": 1795610471.159545,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561690",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231547693.mp4",
       "page": "https://barcin.tv-polska.eu/film/561690-gmina-barcin---xxviii-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
+      "published": "2026-01-01",
       "title": "Gmina Barcin | XXVIII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17717,10 +17983,12 @@
     "561696": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610625.971619,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561696",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231574994.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/561696-xxiii-sesja-rady-gminy-boleszkowice-zwolana-w-trybie-nadzwyczajnym-w-dniu-21-09-2026-r-",
+      "published": "2026-09-21",
       "title": "XXIII SESJA RADY GMINY BOLESZKOWICE zwołana w trybie nadzwyczajnym w dniu 21.09.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17728,10 +17996,12 @@
     "561699": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612191.523426,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561699",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231595426.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561699-sesja-nr-14-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 14 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17739,10 +18009,12 @@
     "561702": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612190.3224072,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561702",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231597733.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561702-sesja-nr-15-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 15 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17750,10 +18022,12 @@
     "561703": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612189.125272,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561703",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231599058.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561703-sesja-nr-16-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 16 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17761,10 +18035,12 @@
     "561705": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612187.9256992,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561705",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231602712.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561705-sesja-nr-17-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 17 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17772,10 +18048,12 @@
     "561706": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612186.7236044,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561706",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231603499.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561706-sesja-nr-18-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 18 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17783,10 +18061,12 @@
     "561707": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612185.5227852,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561707",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231604735.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561707-sesja-nr-18-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 18 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17794,10 +18074,12 @@
     "561708": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612184.3241844,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561708",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231606874.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561708-sesja-nr-19-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 19 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17805,10 +18087,12 @@
     "561709": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612183.122036,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561709",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231608119.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561709-sesja-nr-20-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 20 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17816,10 +18100,12 @@
     "561710": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612180.7224412,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561710",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231609700.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561710-sesja-nr-22-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 22 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17827,10 +18113,12 @@
     "561711": {
       "channel": "Brusy",
       "checked_ts": 1795610659.5765061,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "561711",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231595559.mp4",
       "page": "https://brusy.tv-polska.eu/film/561711-xxiii-sesja-ix-kadencji",
+      "published": "2026-01-01",
       "title": "XXIII sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17838,10 +18126,12 @@
     "561713": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612179.5307105,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561713",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231611276.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561713-sesja-nr-23-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 23 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17849,10 +18139,12 @@
     "561714": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612178.320293,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561714",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231620367.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561714-sesja-nr-24-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 24 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17860,10 +18152,12 @@
     "561715": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612177.1350644,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561715",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231621545.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561715-sesja-nr-25-rady-gminy-kutno",
+      "published": "2025-01-01",
       "title": "Sesja nr 25 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17871,10 +18165,12 @@
     "561716": {
       "channel": "Kiernozia",
       "checked_ts": 1795611915.6476996,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561716",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231602105.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/561716-35-sesja-rady-miasta-i-gminy-kiernozia-27-08-2026",
+      "published": "2026-01-01",
       "title": "35 SESJA RADY MIASTA I GMINY KIERNOZIA 27-08-2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17882,10 +18178,12 @@
     "561718": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612175.923554,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561718",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231622642.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561718-sesja-nr-26-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 26 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17893,10 +18191,12 @@
     "561719": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612174.721783,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561719",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231628595.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561719-sesja-nr-27-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 27 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17904,10 +18204,12 @@
     "561720": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612173.5219083,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561720",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231629237.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561720-sesja-nr-28-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 28 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17915,10 +18217,12 @@
     "561721": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612172.3320894,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561721",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231630254.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561721-sesja-nr-28-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 28 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17926,10 +18230,12 @@
     "561722": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612169.9270535,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561722",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231631450.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561722-sesja-nr-29-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 29 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17937,10 +18243,12 @@
     "561724": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612168.7223794,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561724",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231632356.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561724-sesja-nr-30-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 30 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17948,10 +18256,12 @@
     "561725": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612167.5272481,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561725",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231633664.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561725-sesja-nr-31-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 31 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17959,10 +18269,12 @@
     "561726": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612166.3254414,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561726",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231634586.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/561726-sesja-nr-32-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 32 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17970,10 +18282,12 @@
     "561730": {
       "channel": "Czarnocin",
       "checked_ts": 1795610900.2171702,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561730",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231642447.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/561730-35_xxxv-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "published": "2026-01-01",
       "title": "35_XXXV Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17981,10 +18295,12 @@
     "561737": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611055.030921,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561737",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231785076.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/561737-xxvii-sesja-rady-miejskiej-w-dobrej",
+      "published": "2026-01-01",
       "title": "XXVII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -17992,10 +18308,12 @@
     "561739": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612205.924945,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "561739",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231914440.mp4",
       "page": "https://lewinklodzki.tv-polska.eu/film/561739-xxxi-sesja-rady-gminy-lewin-klodzki",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18003,10 +18321,12 @@
     "561744": {
       "channel": "Barwice",
       "checked_ts": 1795610509.5649323,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "561744",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231920399.mp4",
       "page": "https://barwice.tv-polska.eu/film/561744-xxxvi-sesja-rady-miejskiej-w-barwicach",
+      "published": "2026-01-01",
       "title": "XXXVI Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18014,10 +18334,12 @@
     "561750": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612277.9320657,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "561750",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231963595.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/561750-xx-sesja-rady-miejskiej-w-labiszynie",
+      "published": "2026-01-01",
       "title": "XX Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18025,10 +18347,12 @@
     "561751": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611427.5654986,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561751",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231963742.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/561751-xxvi-sesja-rady-gminy-w-gniewoszowie",
+      "published": "2026-01-01",
       "title": "XXVI Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18036,10 +18360,12 @@
     "561755": {
       "channel": "Drawno",
       "checked_ts": 1795611130.6696482,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "561755",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232022014.mp4",
       "page": "https://drawno.tv-polska.eu/film/561755-xxxii-sesja-rady-miejskiej-w-drawnie",
+      "published": "2026-01-01",
       "title": "XXXII sesja Rady Miejskiej w Drawnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18047,10 +18373,12 @@
     "561762": {
       "channel": "Cisna",
       "checked_ts": 1795610790.3878572,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "561762",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232158068.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/561762-sesja-nr-xxxvii-rady-gminy-cisna-z-dnia-17-09-2026",
+      "published": "2026-09-17",
       "title": "Sesja nr XXXVII Rady Gminy Cisna z dnia 17.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18058,10 +18386,12 @@
     "561764": {
       "channel": "Marianowo",
       "checked_ts": 1795612445.9426475,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561764",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232291438.mp4",
       "page": "https://marianowo.tv-polska.eu/film/561764-xxvi-sesja-rady-gminy-marianowo-w-dniu-24-wrzesnia-2026-r-",
+      "published": "2026-01-01",
       "title": "XXVI sesja Rady Gminy Marianowo w dniu 24 września 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18069,10 +18399,12 @@
     "561785": {
       "channel": "Iłów",
       "checked_ts": 1795611551.20325,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561785",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232824332.mp4",
       "page": "https://ilow.tv-polska.eu/film/561785-xxxiv-uroczysta-sesja-rady-gminy-ilow-z-dnia-02-10-2026",
+      "published": "2026-01-01",
       "title": "XXXIV Uroczysta sesja Rady Gminy Iłów z dnia 02-10-2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18080,10 +18412,12 @@
     "561788": {
       "channel": "Miastko",
       "checked_ts": 1795612511.9501576,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "561788",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232915517.mp4",
       "page": "https://miastko.tv-polska.eu/film/561788-xxxvii-sesja-rady-miejskiej-w-miastku-02-10-2026",
+      "published": "2026-10-02",
       "title": "XXXVII sesja Rady Miejskiej w Miastku 02.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18091,10 +18425,12 @@
     "561790": {
       "channel": "Jednorożec",
       "checked_ts": 1795611734.4392133,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561790",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232925927.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/561790-xxix-sesja-rady-gminy-jednorozec-22-09-2026-r-",
+      "published": "2026-09-22",
       "title": "XXIX Sesja Rady Gminy Jednorożec 22.09.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18102,10 +18438,12 @@
     "561823": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610624.7794287,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561823",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233316464.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/561823-xxiv-sesja-rady-gminy-boleszkowice-w-dniu-30-09-2026-r-",
+      "published": "2026-09-30",
       "title": "XXIV SESJA RADY GMINY BOLESZKOWICE w dniu 30.09.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18113,10 +18451,12 @@
     "561831": {
       "channel": "Czarnocin",
       "checked_ts": 1795610899.0152042,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561831",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233607944.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/561831-36_xxxvi-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "published": "2026-01-01",
       "title": "36_XXXVI Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18124,10 +18464,12 @@
     "561841": {
       "channel": "Czerwin",
       "checked_ts": 1795610935.0173097,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561841",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233661393.mp4",
       "page": "https://czerwin.tv-polska.eu/film/561841-xxx-sesja-rady-gminy-czerwin-06-10-2026",
+      "published": "2026-10-06",
       "title": "XXX sesja Rady Gminy Czerwin 06.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18135,10 +18477,12 @@
     "561856": {
       "channel": "Kiernozia",
       "checked_ts": 1795611914.4493284,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "561856",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233864889.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/561856-36-sesja-rady-miasta-i-gminy-kiernozia-06-10-26",
+      "published": "2026-01-01",
       "title": "36 SESJA RADY MIASTA I GMINY KIERNOZIA 06.10.26",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18146,10 +18490,12 @@
     "561861": {
       "channel": "Gniewino",
       "checked_ts": 1795611390.358686,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "561861",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1234032287.mp4",
       "page": "https://gniewino.tv-polska.eu/film/561861-xxxvi-sesja-rady-gminy-gniewino",
+      "published": "2026-01-01",
       "title": "XXXVI Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18157,10 +18503,12 @@
     "561866": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611811.2425485,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "561866",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1234066946.mp4",
       "page": "https://kamienpomorski.tv-polska.eu/film/561866-xxvii-sesja-rady-miejskiej--2024-2029-",
+      "published": "2026-01-01",
       "title": "XXVII Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18168,10 +18516,12 @@
     "561867": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611519.9972916,
+      "date_source": "data w tytule",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "561867",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1234131614.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/561867-xxxviii-nadzwyczajna-sesja-rady-gminy-ilowo-osada-z-dnia-08-10-2026-",
+      "published": "2026-10-08",
       "title": "XXXVIII Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 08.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18179,10 +18529,12 @@
     "561898": {
       "channel": "Bielice",
       "checked_ts": 1795610557.567384,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "561898",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1234952220.mp4",
       "page": "https://bielice.tv-polska.eu/film/561898-xxix-sesja-rady-gminy-bielice",
+      "published": "2026-01-01",
       "title": "XXIX Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18190,10 +18542,12 @@
     "561904": {
       "channel": "Kępice",
       "checked_ts": 1795611883.2498205,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "561904",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1234966437.mp4",
       "page": "https://kepice.tv-polska.eu/film/561904-xxix-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
+      "published": "2026-01-01",
       "title": "XXIX sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18201,10 +18555,12 @@
     "561919": {
       "channel": "Mielno",
       "checked_ts": 1795612611.5939004,
+      "date_source": "data w tytule",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "561919",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1235025655.mp4",
       "page": "https://gminamielno.tv-polska.eu/film/561919-xxxiii-sesja-rady-miejskiej-mielna-25-09-2026",
+      "published": "2026-09-25",
       "title": "XXXIII Sesja Rady Miejskiej Mielna 25.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18212,10 +18568,12 @@
     "561968": {
       "channel": "Dziwnów",
       "checked_ts": 1795611243.9421313,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "561968",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1238798128.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/561968-sesja-nr-xxx-rady-miejskiej-w-dziwnowie",
+      "published": "2026-01-01",
       "title": "Sesja Nr XXX Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18223,10 +18581,12 @@
     "561998": {
       "channel": "Cewice",
       "checked_ts": 1795610697.9907913,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "561998",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1236492801.mp4",
       "page": "https://cewice.tv-polska.eu/film/561998-xxxii-sesja-rady-gminy-cewice-dziewiatej-kadencji",
+      "published": "2026-01-01",
       "title": "XXXII Sesja Rady Gminy Cewice dziewiątej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18234,10 +18594,12 @@
     "562011": {
       "channel": "Łęki Szlacheckie",
       "checked_ts": 1795612351.1402,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562011",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237163321.mp4",
       "page": "https://lekiszlacheckie.tv-polska.eu/film/562011-sesja-nr-xxxii-rady-gminy-leki-szlacheckie-z-dnia-29-09-2026-r-",
+      "published": "2026-09-29",
       "title": "Sesja nr XXXII Rady Gminy Łęki Szlacheckie z dnia 29.09.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18245,10 +18607,12 @@
     "562018": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612165.1199834,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562018",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237209655.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/562018-sesja-nr-34-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 34 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18256,10 +18620,12 @@
     "562040": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612016.3115883,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562040",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237534962.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/562040-xxiv-sesja-rady-gminy-kocierzew-poludniowy",
+      "published": "2026-01-01",
       "title": "XXIV sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18267,10 +18633,12 @@
     "562041": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612015.108995,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562041",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237535524.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/562041-xxv-sesja-nadzwyczajna-rady-gminy-kocierzew-poludniowy",
+      "published": "2026-01-01",
       "title": "XXV sesja nadzwyczajna Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18278,10 +18646,12 @@
     "562042": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612013.9125023,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562042",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237535894.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/562042-xxvi-sesja-nadzwyczajna-rady-gminy-kocierzew-poludniowy",
+      "published": "2026-01-01",
       "title": "XXVI sesja nadzwyczajna Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18289,10 +18659,12 @@
     "562044": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612012.7099848,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562044",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237536473.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/562044-xxvii-sesja-rady-gminy-kocierzew-poludniowy",
+      "published": "2026-01-01",
       "title": "XXVII sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18300,10 +18672,12 @@
     "562045": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612011.515,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562045",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237538438.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/562045-xxviii-sesja-nadzwyczajna-rady-gminy-kocierzew-poludniowy",
+      "published": "2026-01-01",
       "title": "XXVIII sesja nadzwyczajna Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18311,10 +18685,12 @@
     "562050": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612163.9210215,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562050",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237556676.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/562050-sesja-nr-33-rady-gminy-kutno",
+      "published": "2026-01-01",
       "title": "Sesja nr 33 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18322,10 +18698,12 @@
     "562057": {
       "channel": "Brusy",
       "checked_ts": 1795610658.3775194,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "562057",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237598074.mp4",
       "page": "https://brusy.tv-polska.eu/film/562057-xxiv-sesja-ix-kadencji",
+      "published": "2026-01-01",
       "title": "XXIV sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18333,10 +18711,12 @@
     "562079": {
       "channel": "Banie",
       "checked_ts": 1795609818.6966136,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "562079",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1238286864.mp4",
       "page": "https://banie.tv-polska.eu/film/562079-xxiv-nadzwyczajna-sesja-rady-gminy-banie",
+      "published": "2026-01-01",
       "title": "XXIV nadzwyczajna sesja Rady Gminy Banie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18344,10 +18724,12 @@
     "562081": {
       "channel": "Barcin",
       "checked_ts": 1795610469.9609406,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "562081",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1238355020.mp4",
       "page": "https://barcin.tv-polska.eu/film/562081-gmina-barcin---xxix-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
+      "published": "2026-01-01",
       "title": "Gmina Barcin | XXIX sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18355,10 +18737,12 @@
     "562082": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612577.995008,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "562082",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239407652.mp4",
       "page": "https://miastoturek.tv-polska.eu/film/562082-xxx-sesja-rady-miejskiej-turku-z-dnia-21-pazdziernika-2026r-",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Miejskiej Turku z dnia 21 października 2026r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18366,10 +18750,12 @@
     "562088": {
       "channel": "Mielno",
       "checked_ts": 1795612610.3944952,
+      "date_source": "data w tytule",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "562088",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239403290.mp4",
       "page": "https://gminamielno.tv-polska.eu/film/562088-xxxiv-sesja-rady-miejskiej-mielna-23-10-2026",
+      "published": "2026-10-23",
       "title": "XXXIV Sesja Rady Miejskiej Mielna 23.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18377,10 +18763,12 @@
     "562094": {
       "channel": "Deszczno",
       "checked_ts": 1795611004.6254282,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "562094",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239748612.mp4",
       "page": "https://deszczno.tv-polska.eu/film/562094-xxxii-zwyczajna-sesja-rady-gminy-deszczno-26-10-2026r---2024-2029r--",
+      "published": "2026-01-01",
       "title": "XXXII Zwyczajna Sesja Rady Gminy Deszczno 26.10.2026r. (2024-2029r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18388,10 +18776,12 @@
     "562095": {
       "channel": "Dolice",
       "checked_ts": 1795611087.4390943,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "562095",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239760015.mp4",
       "page": "https://dolice.tv-polska.eu/film/562095-xxx-sesja-rady-gminy-dolice",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18399,10 +18789,12 @@
     "562096": {
       "channel": "Czarne",
       "checked_ts": 1795610864.214447,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "562096",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239844108.mp4",
       "page": "https://czarne.tv-polska.eu/film/562096-xxxv-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "published": "2026-01-01",
       "title": "XXXV Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18410,10 +18802,12 @@
     "562097": {
       "channel": "Iłów",
       "checked_ts": 1795611549.9972777,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562097",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240140426.mp4",
       "page": "https://ilow.tv-polska.eu/film/562097-xxxv-sesja-rady-gminy-ilow-z-dnia-23-10-2026r-",
+      "published": "2026-01-01",
       "title": "XXXV Sesja Rady Gminy Iłów z dnia 23.10.2026r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18421,10 +18815,12 @@
     "562098": {
       "channel": "Barwice",
       "checked_ts": 1795610508.3629,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "562098",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240146109.mp4",
       "page": "https://barwice.tv-polska.eu/film/562098-xxxvii-sesja-rady-miejskiej-w-barwicach",
+      "published": "2026-01-01",
       "title": "XXXVII Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18432,10 +18828,12 @@
     "562099": {
       "channel": "Łęki Szlacheckie",
       "checked_ts": 1795612349.941877,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562099",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240159531.mp4",
       "page": "https://lekiszlacheckie.tv-polska.eu/film/562099-sesja-nr-xxxiii-rady-gminy-leki-szlacheckie-z-dnia-27-10-2026-r-",
+      "published": "2026-10-27",
       "title": "Sesja nr XXXIII Rady Gminy Łęki Szlacheckie z dnia 27.10.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18443,10 +18841,12 @@
     "562102": {
       "channel": "Gniew",
       "checked_ts": 1795611361.5577753,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "562102",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240185726.mp4",
       "page": "https://gniew.tv-polska.eu/film/562102-xxvii-nadzwyczajna-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-14-09-2026-r----",
+      "published": "2026-09-14",
       "title": "XXVII nadzwyczajna sesja Rady Miejskiej w Gniewie IX kadencji z dnia 14.09.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18454,10 +18854,12 @@
     "562104": {
       "channel": "Gniew",
       "checked_ts": 1795611360.3545177,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "562104",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240197274.mp4",
       "page": "https://gniew.tv-polska.eu/film/562104-xxviii-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-29-09-2026-r----",
+      "published": "2026-09-29",
       "title": "XXVIII sesja Rady Miejskiej w Gniewie IX kadencji z dnia 29.09.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18465,10 +18867,12 @@
     "562106": {
       "channel": "Gniew",
       "checked_ts": 1795611359.1594675,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "562106",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240203257.mp4",
       "page": "https://gniew.tv-polska.eu/film/562106-xxvi-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-31-08-2026-r----",
+      "published": "2026-08-31",
       "title": "XXVI sesja Rady Miejskiej w Gniewie IX kadencji z dnia 31.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18476,10 +18880,12 @@
     "562107": {
       "channel": "Gniew",
       "checked_ts": 1795611357.9556954,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "562107",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240203257.mp4",
       "page": "https://gniew.tv-polska.eu/film/562107-xxvi-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-31-08-2026-r----",
+      "published": "2026-08-31",
       "title": "XXVI sesja Rady Miejskiej w Gniewie IX kadencji z dnia 31.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18487,10 +18893,12 @@
     "562109": {
       "channel": "Kępice",
       "checked_ts": 1795611882.0487206,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "562109",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240249441.mp4",
       "page": "https://kepice.tv-polska.eu/film/562109-xxx-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
+      "published": "2026-01-01",
       "title": "XXX sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18498,10 +18906,12 @@
     "562110": {
       "channel": "Czarnocin",
       "checked_ts": 1795610897.8240852,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "562110",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240244330.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/562110-37_xxxvii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "published": "2026-01-01",
       "title": "37_XXXVII Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18509,10 +18919,12 @@
     "562111": {
       "channel": "Cisna",
       "checked_ts": 1795610789.1862462,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "562111",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240337830.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/562111-sesja-nr-xxxviii-rady-gminy-cisna-z-dnia-29-09-2026",
+      "published": "2026-09-29",
       "title": "Sesja nr XXXVIII Rady Gminy Cisna z dnia 29.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18520,10 +18932,12 @@
     "562112": {
       "channel": "Cisna",
       "checked_ts": 1795610787.987157,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "562112",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240341786.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/562112-sesja-nr-xxxix-rady-gminy-cisna-z-dnia-28-10-2026",
+      "published": "2026-10-28",
       "title": "Sesja nr XXXIX Rady Gminy Cisna z dnia 28.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18531,10 +18945,12 @@
     "562113": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611518.798958,
+      "date_source": "data w tytule",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "562113",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240420905.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/562113--xxxix-sesja-rady-gminy-ilowo-osada-z-dnia-28-10-2026-",
+      "published": "2026-10-28",
       "title": "XXXIX Sesja Rady Gminy Iłowo-Osada z dnia 28.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18542,10 +18958,12 @@
     "562116": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612543.1488855,
+      "date_source": "data w tytule",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "562116",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240642489.mp4",
       "page": "https://miastolezajsk.tv-polska.eu/film/562116-xxxii-sesja-rady-miejskiej-w-lezajsku--26-10-2026",
+      "published": "2026-10-26",
       "title": "XXXII Sesja Rady Miejskiej w Leżajsku. 26.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18553,10 +18971,12 @@
     "562118": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611778.841365,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "562118",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240711141.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/562118-xxx-sesja-rady-miejskiej-w-kamieniu-krajenskim--kadencja-2024---2029-",
+      "published": "2026-01-01",
       "title": "XXX Sesja Rady Miejskiej w Kamieniu Krajeńskim (Kadencja 2024 - 2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18564,10 +18984,12 @@
     "562119": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612162.7204373,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562119",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240754724.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/562119-sesja-nr-35-rady-gminy-kutno-czesc-i",
+      "published": "2026-01-01",
       "title": "Sesja nr 35 Rady Gminy Kutno Część I",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18575,10 +18997,12 @@
     "562121": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612161.5208802,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562121",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240761278.mp4",
       "page": "https://gminakutno.tv-polska.eu/film/562121-xxxv-sesja-rady-gminy-kutno-czesc-ii",
+      "published": "2026-01-01",
       "title": "XXXV Sesja Rady Gminy Kutno Część II",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18586,10 +19010,12 @@
     "562122": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611306.349318,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "562122",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240768500.mp4",
       "page": "https://miastoszczytno.tv-polska.eu/film/562122-xxxiv-sesja-rady-miejskiej-w-szczytnie",
+      "published": "2026-01-01",
       "title": "XXXIV Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18597,10 +19023,12 @@
     "562124": {
       "channel": "Czarne",
       "checked_ts": 1795610860.6124313,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "562124",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240655319.mp4",
       "page": "https://czarne.tv-polska.eu/film/562124-xxi-turniej-kol-gospodyn-wiejskich-wojewodztwa-pomorskiego-w-czarnem-",
+      "published": "2026-01-01",
       "title": "XXI Turniej Kół Gospodyń Wiejskich Województwa Pomorskiego w Czarnem.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18608,10 +19036,12 @@
     "562125": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611463.5883565,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562125",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240788898.mp4",
       "page": "https://gorzkowice.tv-polska.eu/film/562125-xxxiii-sesja-rady-gminy-gorzkowice",
+      "published": "2026-01-01",
       "title": "XXXIII Sesja Rady Gminy Gorzkowice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18619,10 +19049,12 @@
     "562126": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611053.8320963,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "562126",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240852917.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/562126-xxviii-sesja-rady-miejskiej-w-dobrej",
+      "published": "2026-01-01",
       "title": "XXVIII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18630,10 +19062,12 @@
     "562130": {
       "channel": "Kępice",
       "checked_ts": 1795611880.8654199,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "562130",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241200392.mp4",
       "page": "https://kepice.tv-polska.eu/film/562130-xxxi-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
+      "published": "2026-01-01",
       "title": "XXXI sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18641,10 +19075,12 @@
     "562132": {
       "channel": "Krokowa",
       "checked_ts": 1795612090.7168314,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "562132",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241201605.mp4",
       "page": "https://krokowa.tv-polska.eu/film/562132-xl-sesja-rady-gminy-krokowa-ix-kadencji",
+      "published": "2026-01-01",
       "title": "XL Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18652,10 +19088,12 @@
     "562135": {
       "channel": "Manowo",
       "checked_ts": 1795612412.3398411,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "562135",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241240193.mp4",
       "page": "https://manowo.tv-polska.eu/film/562135-xxvii-sesja-rady-gminy-manowo--2026-10-30--godz--9-00",
+      "published": "2026-10-30",
       "title": "XXVII Sesja Rady Gminy Manowo, 2026-10-30, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18663,10 +19101,12 @@
     "562136": {
       "channel": "Jednorożec",
       "checked_ts": 1795611733.2340913,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562136",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241239727.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/562136--xxx-sesja-rady-gminy-jednorozec-30-10-2026-r-",
+      "published": "2026-10-30",
       "title": "XXX Sesja Rady Gminy Jednorożec 30.10.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18674,10 +19114,12 @@
     "562137": {
       "channel": "Jastarnia",
       "checked_ts": 1795611700.831638,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "562137",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241248238.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/562137-xxxi-zwyczajna-sesja-rady-miejskiej-jastarni",
+      "published": "2026-01-01",
       "title": "XXXI zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18685,10 +19127,12 @@
     "562138": {
       "channel": "Dygowo",
       "checked_ts": 1795611165.4393802,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "562138",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241270968.mp4",
       "page": "https://dygowo.tv-polska.eu/film/562138-xxxi-sesja-rady-gminy-dygowo-27-pazdziernika-2026-r-",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Gminy Dygowo 27 października 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18696,10 +19140,12 @@
     "562139": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611426.364738,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562139",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241273396.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/562139-xxvii-sesja-rady-gminy-w-gniewoszowie",
+      "published": "2026-01-01",
       "title": "XXVII Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18707,10 +19153,12 @@
     "562141": {
       "channel": "Miastko",
       "checked_ts": 1795612510.7503605,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "562141",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242265546.mp4",
       "page": "https://miastko.tv-polska.eu/film/562141-xxxviii-sesja-rady-miejskiej-w-miastku-30-10-2026",
+      "published": "2026-10-30",
       "title": "XXXVIII sesja Rady Miejskiej w Miastku 30.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18718,10 +19166,12 @@
     "562146": {
       "channel": "Lębork",
       "checked_ts": 1795612240.732034,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "562146",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243160504.mp4",
       "page": "https://lebork.tv-polska.eu/film/562146-xxvi-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--29-10-2026-r--",
+      "published": "2026-10-29",
       "title": "XXVI Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (29.10.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18729,10 +19179,12 @@
     "562151": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610623.5717876,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "562151",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242385776.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/562151-xxv-sesja-rady-gminy-boleszkowice-w-dniu-28-10-2026-r-",
+      "published": "2026-10-28",
       "title": "XXV SESJA RADY GMINY BOLESZKOWICE w dniu 28.10.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18740,10 +19192,12 @@
     "562153": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612645.234045,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "562153",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242473315.mp4",
       "page": "https://mieszkowice.tv-polska.eu/film/562153-sesja-nr-xxiv-2026-rady-miejskiej-w-mieszkowicach---kadencja-ix",
+      "published": "2026-01-01",
       "title": "Sesja Nr XXIV/2026 Rady Miejskiej w Mieszkowicach - Kadencja IX",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18751,10 +19205,12 @@
     "562157": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612204.7351289,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "562157",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242705274.mp4",
       "page": "https://lewinklodzki.tv-polska.eu/film/562157-xxxii-sesja-rady-gminy-lewin-klodzki",
+      "published": "2026-01-01",
       "title": "XXXII Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18762,10 +19218,12 @@
     "562160": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612123.118907,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562160",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242716988.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/562160-xxxii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2026-01-01",
       "title": "XXXII Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18773,10 +19231,12 @@
     "562161": {
       "channel": "Maszewo",
       "checked_ts": 1795612478.3423178,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "562161",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242778292.mp4",
       "page": "https://maszewo.tv-polska.eu/film/562161-sesja-nr-xxix-rady-miejskiej-w-maszewie---28-pazdziernik-2026-rok-",
+      "published": "2026-01-01",
       "title": "Sesja nr XXIX Rady Miejskiej w Maszewie - 28 październik 2026 rok.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18784,10 +19244,12 @@
     "562164": {
       "channel": "Marianowo",
       "checked_ts": 1795612444.7422216,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "562164",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242841782.mp4",
       "page": "https://marianowo.tv-polska.eu/film/562164-xxvii-sesja-rady-gminy-marianowo-w-dniu-30-pazdziernika-2026-r-",
+      "published": "2026-01-01",
       "title": "XXVII sesja Rady Gminy Marianowo w dniu 30 października 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18795,10 +19257,12 @@
     "562166": {
       "channel": "Jaktorów",
       "checked_ts": 1795611633.5760114,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562166",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242824248.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/562166-xxxi-sesja-rady-gminy-jaktorow",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Gminy Jaktorów",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18806,10 +19270,12 @@
     "562167": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611671.9813673,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "562167",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242848099.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/562167-posiedzenie-komisji-do-spraw-skarg--wnioskow-i-petycji-rady-miejskiej-w-janowcu-wielkopolskim-03-11-2026",
+      "published": "2026-11-03",
       "title": "Posiedzenie Komisji do spraw Skarg, Wniosków i Petycji Rady Miejskiej w Janowcu Wielkopolskim 03.11.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18817,10 +19283,12 @@
     "562170": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611670.7859998,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "562170",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242848681.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/562170-posiedzenie-komisji-do-spraw-gminnych-rady-miejskiej-w-janowcu-wielkopolskim-03-11-2026",
+      "published": "2026-11-03",
       "title": "Posiedzenie Komisji do spraw Gminnych Rady Miejskiej w Janowcu Wielkopolskim 03.11.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18828,10 +19296,12 @@
     "562215": {
       "channel": "Banie",
       "checked_ts": 1795609817.8970792,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "562215",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243658695.mp4",
       "page": "https://banie.tv-polska.eu/film/562215-xxv-sesja-rady-gminy-banie",
+      "published": "2026-01-01",
       "title": "XXV sesja Rady Gminy Banie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18839,10 +19309,12 @@
     "562220": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611669.5844934,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "562220",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243750014.mp4",
       "page": "https://janowiecwlkp.tv-polska.eu/film/562220-xxiv-sesja-rady-miejskiej-w-janowcu-wielkopolskim-05-11-2026",
+      "published": "2026-11-05",
       "title": "XXIV Sesja Rady Miejskiej w Janowcu Wielkopolskim 05.11.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18850,10 +19322,12 @@
     "562233": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612576.7964435,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "562233",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1245023722.mp4",
       "page": "https://miastoturek.tv-polska.eu/film/562233-xxxi-sesja-rady-miejskiej-turku-z-dnia-04-listopada-2026r-",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Miejskiej Turku z dnia 04 listopada 2026r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18861,10 +19335,12 @@
     "562243": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611517.6021845,
+      "date_source": "data w tytule",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "562243",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1245437654.mp4",
       "page": "https://ilowoosada.tv-polska.eu/film/562243-xl-nadzwyczajna-sesja-rady-gminy-ilowo-osada-z-dnia-10-11-2026",
+      "published": "2026-11-10",
       "title": "XL Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 10.11.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18872,10 +19348,12 @@
     "562247": {
       "channel": "Czerwin",
       "checked_ts": 1795610933.8178961,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562247",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1246242208.mp4",
       "page": "https://czerwin.tv-polska.eu/film/562247-xxxi-sesja-rady-gminy-czerwin-10-11-2026",
+      "published": "2026-11-10",
       "title": "XXXI sesja Rady Gminy Czerwin 10.11.2026",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18883,10 +19361,12 @@
     "562261": {
       "channel": "Lębork",
       "checked_ts": 1795612239.5342207,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "562261",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247198841.mp4",
       "page": "https://lebork.tv-polska.eu/film/562261-xxvii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--12-11-2026-r--",
+      "published": "2026-11-12",
       "title": "XXVII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (12.11.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18894,10 +19374,12 @@
     "562262": {
       "channel": "Jaktorów",
       "checked_ts": 1795611632.3763294,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562262",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247209125.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/562262-xxi-sesja-rady-gminy-jaktorow",
+      "published": "2025-01-01",
       "title": "XXI Sesja Rady Gminy Jaktorów",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18905,10 +19387,12 @@
     "562287": {
       "channel": "Dynów",
       "checked_ts": 1795611197.8407602,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "562287",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247549806.mp4",
       "page": "https://dynow.tv-polska.eu/film/562287-xxxi-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "published": "2026-01-01",
       "title": "XXXI Sesja Rady Miasta Dynów IX kadencji 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18916,10 +19400,12 @@
     "562289": {
       "channel": "Kiernozia",
       "checked_ts": 1795611913.2613404,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562289",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247552637.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/562289-37-sesja-rady-miasta-i-gminy-kiernozia-03-11-26",
+      "published": "2026-01-01",
       "title": "37 SESJA RADY MIASTA I GMINY KIERNOZIA 03.11.26",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18927,10 +19413,12 @@
     "562300": {
       "channel": "Dąbrowice",
       "checked_ts": 1795611001.0345695,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562300",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247939331.mp4",
       "page": "https://dabrowice.tv-polska.eu/film/562300-xi-sesja-rady-gminy-dabrowice",
+      "published": "2024-01-01",
       "title": "XI Sesja Rady Gminy Dąbrowice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18938,10 +19426,12 @@
     "562301": {
       "channel": "Dąbrowice",
       "checked_ts": 1795610999.8197374,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562301",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247946940.mp4",
       "page": "https://dabrowice.tv-polska.eu/film/562301-xii-sesja-rady-gminy-dabrowice",
+      "published": "2025-01-01",
       "title": "XII Sesja Rady Gminy Dąbrowice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18949,10 +19439,12 @@
     "562302": {
       "channel": "Dąbrowice",
       "checked_ts": 1795610998.62059,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562302",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247951136.mp4",
       "page": "https://dabrowice.tv-polska.eu/film/562302-xiii-sesja-rady-gminy-dabrowice",
+      "published": "2025-01-01",
       "title": "XIII Sesja Rady Gminy Dąbrowice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18960,10 +19452,12 @@
     "562307": {
       "channel": "Dąbrowice",
       "checked_ts": 1795610997.4218102,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562307",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247957027.mp4",
       "page": "https://dabrowice.tv-polska.eu/film/562307-xiv-sesja-rady-gminy-dabrowice",
+      "published": "2025-01-01",
       "title": "XIV Sesja Rady Gminy Dąbrowice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18971,10 +19465,12 @@
     "562308": {
       "channel": "Dąbrowice",
       "checked_ts": 1795610996.2197185,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562308",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247996916.mp4",
       "page": "https://dabrowice.tv-polska.eu/film/562308-xv-sesja-rady-gminy-dabrowice",
+      "published": "2025-01-01",
       "title": "XV Sesja Rady Gminy Dąbrowice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18982,10 +19478,12 @@
     "562309": {
       "channel": "Dąbrowice",
       "checked_ts": 1795610995.0236528,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562309",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248002387.mp4",
       "page": "https://dabrowice.tv-polska.eu/film/562309-xvi-sesja-rady-gminy-dabrowice",
+      "published": "2025-01-01",
       "title": "XVI Sesja Rady Gminy Dąbrowice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -18993,10 +19491,12 @@
     "562310": {
       "channel": "Dąbrowice",
       "checked_ts": 1795610993.8192272,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "562310",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248008289.mp4",
       "page": "https://dabrowice.tv-polska.eu/film/562310-xviii-sesja-rady-gminy-dabrowice",
+      "published": "2025-01-01",
       "title": "XVIII sesja Rady Gminy Dąbrowice",
       "tourism": false,
       "updated": "2026-11-25"
