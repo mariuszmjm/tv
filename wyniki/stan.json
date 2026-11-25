@@ -3254,10 +3254,12 @@
     "541485": {
       "channel": "Choszczno",
       "checked_ts": 1795610753.1839087,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "541485",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/924996822.mp4",
       "page": "https://choszczno.tv-polska.eu/film/541485-sesja-lv-rady-miejskiej-w-choszcznie",
+      "published": "2024-01-01",
       "title": "Sesja LV Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3265,10 +3267,12 @@
     "541777": {
       "channel": "Karnice",
       "checked_ts": 1795611872.4519088,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "541777",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/928378057.mp4",
       "page": "https://karnice.tv-polska.eu/film/541777-sesja-rady-gminy-karnice-28-03-2024",
+      "published": "2024-03-28",
       "title": "Sesja Rady Gminy Karnice 28.03.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3276,10 +3280,12 @@
     "541807": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612304.3339705,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "541807",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/928729479.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/541807-l-sesja-rady-miejskiej",
+      "published": "2024-01-01",
       "title": "L Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3287,10 +3293,12 @@
     "542385": {
       "channel": "Łanięta",
       "checked_ts": 1795612327.1365626,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "542385",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/939519941.mp4",
       "page": "https://lanieta.tv-polska.eu/film/542385-lxxi-sesja-rady-gminy-lanieta--powiat-kutnowski---26-04-2024-r----transmisja-na-zywo",
+      "published": "2024-04-26",
       "title": "LXXI Sesja Rady Gminy Łanięta, powiat kutnowski - 26.04.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3298,10 +3306,12 @@
     "542398": {
       "channel": "Karnice",
       "checked_ts": 1795611871.252858,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "542398",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/940679637.mp4",
       "page": "https://karnice.tv-polska.eu/film/542398-sesja-rady-gminy-karnice-26-04-2024",
+      "published": "2024-04-26",
       "title": "Sesja Rady Gminy Karnice 26.04.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3309,10 +3319,12 @@
     "542495": {
       "channel": "alfaTV",
       "checked_ts": 1795609806.4835794,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "542495",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/941216075.mp4",
       "page": "https://alfatv.tv-polska.eu/film/542495-szczecin-z-drona",
+      "published": "2017-01-01",
       "title": "Szczecin z drona",
       "tourism": true,
       "updated": "2026-11-25"
@@ -3320,10 +3332,12 @@
     "542496": {
       "channel": "alfaTV",
       "checked_ts": 1795609805.6762245,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "542496",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/941219769.mp4",
       "page": "https://alfatv.tv-polska.eu/film/542496-szczecin-from-a-drone",
+      "published": "2017-01-01",
       "title": "Szczecin from a drone",
       "tourism": true,
       "updated": "2026-11-25"
@@ -3331,10 +3345,12 @@
     "542498": {
       "channel": "alfaTV",
       "checked_ts": 1795609804.871368,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "542498",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/941222415.mp4",
       "page": "https://alfatv.tv-polska.eu/film/542498-szczecin-aus-der-drohnenperspektive",
+      "published": "2024-01-01",
       "title": "Szczecin aus der Drohnenperspektive",
       "tourism": true,
       "updated": "2026-11-25"
@@ -3342,10 +3358,12 @@
     "542561": {
       "channel": "Łanięta",
       "checked_ts": 1795612325.947432,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "542561",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/943409094.mp4",
       "page": "https://lanieta.tv-polska.eu/film/542561-i-sesja-9-kadencji-rady-gminy-lanieta--powiat-kutnowski---06-05-2024-r----transmisja-na-zywo",
+      "published": "2024-05-06",
       "title": "I Sesja 9 kadencji Rady Gminy Łanięta, powiat kutnowski - 06.05.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3353,10 +3371,12 @@
     "542581": {
       "channel": "Kobylanka",
       "checked_ts": 1795611963.6524234,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "542581",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/943605298.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/542581-lxxi-sesja-rady-gminy-28-03-2024",
+      "published": "2024-03-28",
       "title": "LXXI Sesja Rady Gminy 28.03.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3364,10 +3384,12 @@
     "542582": {
       "channel": "Kobylanka",
       "checked_ts": 1795611962.4669406,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "542582",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/943609513.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/542582-lxxi-sesja-rady-gminy-05-04-2024",
+      "published": "2024-04-05",
       "title": "LXXI Sesja Rady Gminy 05.04.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3375,10 +3397,12 @@
     "542585": {
       "channel": "Kobylanka",
       "checked_ts": 1795611961.2517946,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "542585",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/943613916.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/542585-lxxiii-sesja-rady-gminy-25-04-2024",
+      "published": "2024-04-25",
       "title": "LXXIII Sesja Rady Gminy 25.04.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3386,10 +3410,12 @@
     "542586": {
       "channel": "Karnice",
       "checked_ts": 1795611870.054969,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "542586",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/943615651.mp4",
       "page": "https://karnice.tv-polska.eu/film/542586-sesja-rady-gminy-karnice-07-05-2024",
+      "published": "2024-05-07",
       "title": "Sesja Rady Gminy Karnice 07.05.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3397,10 +3423,12 @@
     "542588": {
       "channel": "Kobylanka",
       "checked_ts": 1795611960.0543227,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "542588",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1002615088.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/542588-i-sesja-rady-gminy-07-05-2024",
+      "published": "2024-05-07",
       "title": "I Sesja Rady Gminy 07.05.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3408,10 +3436,12 @@
     "542706": {
       "channel": "Gniewino",
       "checked_ts": 1795611417.9625075,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "542706",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/944726194.mp4",
       "page": "https://gniewino.tv-polska.eu/film/542706-lvi-sesja-rady-gminy-gniewino",
+      "published": "2024-01-01",
       "title": "LVI Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3419,10 +3449,12 @@
     "542707": {
       "channel": "Gniewino",
       "checked_ts": 1795611416.7581365,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "542707",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/944730886.mp4",
       "page": "https://gniewino.tv-polska.eu/film/542707-i-sesja-rady-gminy-gniewino",
+      "published": "2024-01-01",
       "title": "I Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3430,10 +3462,12 @@
     "542741": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612303.1302984,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "542741",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/945735897.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/542741-i-sesja-rady-miejskiej-",
+      "published": "2024-01-01",
       "title": "I Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3441,10 +3475,12 @@
     "542902": {
       "channel": "Karnice",
       "checked_ts": 1795611868.8555472,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "542902",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/947348548.mp4",
       "page": "https://karnice.tv-polska.eu/film/542902-sesja-rady-gminy-karnice-15-05-2024",
+      "published": "2024-05-15",
       "title": "Sesja Rady Gminy Karnice 15.05.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3452,10 +3488,12 @@
     "542985": {
       "channel": "Gniewino",
       "checked_ts": 1795611415.5586383,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "542985",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/948608549.mp4",
       "page": "https://gniewino.tv-polska.eu/film/542985-ii-sesja-rady-gminy-gniewino",
+      "published": "2024-01-01",
       "title": "II Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3463,10 +3501,12 @@
     "542992": {
       "channel": "Choszczno",
       "checked_ts": 1795610751.9819345,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "542992",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/948638759.mp4",
       "page": "https://choszczno.tv-polska.eu/film/542992-sesja-i-rady-miejskiej-w-choszcznie",
+      "published": "2024-01-01",
       "title": "Sesja I Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3474,10 +3514,12 @@
     "543114": {
       "channel": "Choszczno",
       "checked_ts": 1795610750.795149,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "543114",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/949851580.mp4",
       "page": "https://choszczno.tv-polska.eu/film/543114-sesja-ii-rady-miejskiej-w-choszcznie",
+      "published": "2024-01-01",
       "title": "Sesja II Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3485,10 +3527,12 @@
     "543189": {
       "channel": "Cewice",
       "checked_ts": 1795610720.778871,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543189",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/950750927.mp4",
       "page": "https://cewice.tv-polska.eu/film/543189-xlvi-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "XLVI Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3496,10 +3540,12 @@
     "543191": {
       "channel": "Cewice",
       "checked_ts": 1795610719.5816898,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543191",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/950752292.mp4",
       "page": "https://cewice.tv-polska.eu/film/543191-xlvii-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "XLVII Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3507,10 +3553,12 @@
     "543196": {
       "channel": "Cewice",
       "checked_ts": 1795610717.1941328,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543196",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/950765386.mp4",
       "page": "https://cewice.tv-polska.eu/film/543196-xlviii-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "XLVIII Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3518,10 +3566,12 @@
     "543197": {
       "channel": "Cewice",
       "checked_ts": 1795610715.980816,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543197",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/950767501.mp4",
       "page": "https://cewice.tv-polska.eu/film/543197-xlix-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "XLIX Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3529,10 +3579,12 @@
     "543198": {
       "channel": "Cewice",
       "checked_ts": 1795610714.77898,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543198",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/950768735.mp4",
       "page": "https://cewice.tv-polska.eu/film/543198-l-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "L Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3540,10 +3592,12 @@
     "543202": {
       "channel": "Łanięta",
       "checked_ts": 1795612324.7374337,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "543202",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/950832062.mp4",
       "page": "https://lanieta.tv-polska.eu/film/543202-ii-sesja-9-kadencji-rady-gminy-lanieta--powiat-kutnowski---27-05-2024-r----transmisja-na-zywo",
+      "published": "2024-05-27",
       "title": "II Sesja 9 kadencji Rady Gminy Łanięta, powiat kutnowski - 27.05.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3551,10 +3605,12 @@
     "543203": {
       "channel": "Kobylanka",
       "checked_ts": 1795611957.6593635,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "543203",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/950972885.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/543203-ii-sesja-rady-gminy-23-05-2024",
+      "published": "2024-05-23",
       "title": "II Sesja Rady Gminy 23.05.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3562,10 +3618,12 @@
     "543235": {
       "channel": "Cewice",
       "checked_ts": 1795610713.5818415,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543235",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/951094264.mp4",
       "page": "https://cewice.tv-polska.eu/film/543235-li-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "LI Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3573,10 +3631,12 @@
     "543237": {
       "channel": "Cewice",
       "checked_ts": 1795610712.3877656,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543237",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/951095863.mp4",
       "page": "https://cewice.tv-polska.eu/film/543237-lii-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "LII Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3584,10 +3644,12 @@
     "543238": {
       "channel": "Cewice",
       "checked_ts": 1795610711.17896,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543238",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/951097809.mp4",
       "page": "https://cewice.tv-polska.eu/film/543238-liii-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "LIII Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3595,10 +3657,12 @@
     "543239": {
       "channel": "Cewice",
       "checked_ts": 1795610709.9860377,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543239",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/951100293.mp4",
       "page": "https://cewice.tv-polska.eu/film/543239-liv-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2023-01-01",
       "title": "LIV Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3606,10 +3670,12 @@
     "543241": {
       "channel": "Cewice",
       "checked_ts": 1795610708.7873564,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543241",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/951101028.mp4",
       "page": "https://cewice.tv-polska.eu/film/543241-lv-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2024-01-01",
       "title": "LV Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3617,10 +3683,12 @@
     "543242": {
       "channel": "Cewice",
       "checked_ts": 1795610706.3818836,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543242",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/951102649.mp4",
       "page": "https://cewice.tv-polska.eu/film/543242-lvi-sesja-rady-gminy-cewice-osmej-kadencji",
+      "published": "2024-01-01",
       "title": "LVI Sesja Rady Gminy Cewice ósmej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3628,10 +3696,12 @@
     "543256": {
       "channel": "Cewice",
       "checked_ts": 1795610705.180539,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543256",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/951397237.mp4",
       "page": "https://cewice.tv-polska.eu/film/543256-i-sesja-rady-gminy-cewice-dziewiatej-kadencji",
+      "published": "2024-01-01",
       "title": "I Sesja Rady Gminy Cewice dziewiątej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3639,10 +3709,12 @@
     "543258": {
       "channel": "Cewice",
       "checked_ts": 1795610703.98856,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543258",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/951405379.mp4",
       "page": "https://cewice.tv-polska.eu/film/543258-ii-sesja-rady-gminy-cewice-dziewiatej-kadencji",
+      "published": "2024-01-01",
       "title": "II Sesja Rady Gminy Cewice dziewiątej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3650,10 +3722,12 @@
     "543493": {
       "channel": "Brusy",
       "checked_ts": 1795610687.1866066,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543493",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/954701297.mp4",
       "page": "https://brusy.tv-polska.eu/film/543493-ii-sesja-ix-kadencji",
+      "published": "2024-01-01",
       "title": "II sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3661,10 +3735,12 @@
     "543546": {
       "channel": "Cewice",
       "checked_ts": 1795610702.78707,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "543546",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/955785431.mp4",
       "page": "https://cewice.tv-polska.eu/film/543546-iii-sesja-rady-gminy-cewice-dziewiatej-kadencji",
+      "published": "2024-01-01",
       "title": "III Sesja Rady Gminy Cewice dziewiątej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3672,10 +3748,12 @@
     "543616": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610653.572066,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "543616",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/957044638.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/543616-ii-sesja-rady-gminy-boleszkowice-w-dniu-29-05-2024-r-",
+      "published": "2024-05-29",
       "title": "II Sesja Rady Gminy Boleszkowice w dniu 29.05.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3683,10 +3761,12 @@
     "543656": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612301.9339268,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "543656",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/957682169.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/543656-ii-sesja-rady-miejskiej",
+      "published": "2024-01-01",
       "title": "II Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3694,10 +3774,12 @@
     "543854": {
       "channel": "Kobylanka",
       "checked_ts": 1795611956.4553692,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "543854",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/964278683.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/543854-iii-sesja-rady-gminy-20-06-2024",
+      "published": "2024-06-20",
       "title": "III Sesja Rady Gminy 20.06.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3705,10 +3787,12 @@
     "543985": {
       "channel": "Karnice",
       "checked_ts": 1795611867.6522512,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "543985",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/969592894.mp4",
       "page": "https://karnice.tv-polska.eu/film/543985-sesja-rady-gminy-karnice-26-06-2024",
+      "published": "2024-06-26",
       "title": "Sesja Rady Gminy Karnice 26.06.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3716,10 +3800,12 @@
     "544040": {
       "channel": "Łanięta",
       "checked_ts": 1795612323.5359166,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "544040",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/970571008.mp4",
       "page": "https://lanieta.tv-polska.eu/film/544040-iii-sesja-9-kadencji-rady-gminy-lanieta---powiat-kutnowski---28-06-2024-r----transmisja-na-zywo",
+      "published": "2024-06-28",
       "title": "III Sesja 9 kadencji Rady Gminy Łanięta,  powiat kutnowski - 28.06.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3727,10 +3813,12 @@
     "544064": {
       "channel": "Brusy",
       "checked_ts": 1795610685.979068,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "544064",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/972860578.mp4",
       "page": "https://brusy.tv-polska.eu/film/544064--iii-sesja-ix-kadencji",
+      "published": "2024-01-01",
       "title": "III sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3738,10 +3826,12 @@
     "544073": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610652.378135,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "544073",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/972949255.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/544073-iii-sesja-rady-gminy-boleszkowice-w-dniu-27-06-2024-r-",
+      "published": "2024-06-27",
       "title": "III Sesja Rady Gminy Boleszkowice w dniu 27.06.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3749,10 +3839,12 @@
     "544180": {
       "channel": "Gniewino",
       "checked_ts": 1795611414.3634682,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "544180",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/976591285.mp4",
       "page": "https://gniewino.tv-polska.eu/film/544180-iii-sesja-rady-gminy-gniewino",
+      "published": "2024-01-01",
       "title": "III Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3760,10 +3852,12 @@
     "544319": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612300.7450032,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "544319",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/982460845.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/544319-iii-sesja-rady-miejskiej",
+      "published": "2024-01-01",
       "title": "III Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3771,10 +3865,12 @@
     "544326": {
       "channel": "Cewice",
       "checked_ts": 1795610701.5773034,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "544326",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/982491056.mp4",
       "page": "https://cewice.tv-polska.eu/film/544326-iv-sesja-rady-gminy-cewice-dziewiatej-kadencji",
+      "published": "2024-01-01",
       "title": "IV Sesja Rady Gminy Cewice dziewiątej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3782,10 +3878,12 @@
     "544388": {
       "channel": "Kobylanka",
       "checked_ts": 1795611955.2615356,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "544388",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/983345093.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/544388-iv-sesja-rady-gminy-27-06-2024",
+      "published": "2024-06-27",
       "title": "IV sesja Rady Gminy 27.06.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3793,10 +3891,12 @@
     "544482": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611841.2454648,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "544482",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/986275459.mp4",
       "page": "https://kamienpomorski.tv-polska.eu/film/544482-iv-sesja-rady-miejskiej--2024-2029-",
+      "published": "2024-01-01",
       "title": "IV Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3804,10 +3904,12 @@
     "544498": {
       "channel": "Łanięta",
       "checked_ts": 1795612321.1350877,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "544498",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/986347113.mp4",
       "page": "https://lanieta.tv-polska.eu/film/544498-iv-sesja-9-kadencji-rady-gminy-lanieta---powiat-kutnowski---18-07-2024-r----transmisja-na-zywo",
+      "published": "2024-07-18",
       "title": "IV Sesja 9 kadencji Rady Gminy Łanięta,  powiat kutnowski - 18.07.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3815,10 +3917,12 @@
     "544766": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610619.9753032,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "544766",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/993375746.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/544766-iv-sesja-rady-gminy-bierzwnik",
+      "published": "2024-01-01",
       "title": "IV Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3826,10 +3930,12 @@
     "545183": {
       "channel": "Manowo",
       "checked_ts": 1795612442.3388643,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "545183",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1003524207.mp4",
       "page": "https://manowo.tv-polska.eu/film/545183-iv-sesja-rady-gminy-manowo--2024-08-28--godz--8-00",
+      "published": "2024-08-28",
       "title": "IV Sesja Rady Gminy Manowo, 2024-08-28, godz. 8:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3837,10 +3943,12 @@
     "545186": {
       "channel": "Kobylanka",
       "checked_ts": 1795611954.054602,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "545186",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1003528412.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/545186-nadzwyczajna-sesja-rady-gminy---27-08-2024",
+      "published": "2024-08-27",
       "title": "Nadzwyczajna Sesja Rady Gminy – 27.08.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3848,10 +3956,12 @@
     "545248": {
       "channel": "Łanięta",
       "checked_ts": 1795612319.9343364,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "545248",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1004422805.mp4",
       "page": "https://lanieta.tv-polska.eu/film/545248-v-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---30-08-2024r----transmisja-na-zywo",
+      "published": "2024-01-01",
       "title": "V Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 30.08.2024r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3859,10 +3969,12 @@
     "545287": {
       "channel": "Marianowo",
       "checked_ts": 1795612474.7582257,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "545287",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1005353151.mp4",
       "page": "https://marianowo.tv-polska.eu/film/545287-iv-sesja-rady-gminy-marianowo-w-dniu-30-sierpnia-2024-r-",
+      "published": "2024-01-01",
       "title": "IV sesja Rady Gminy Marianowo w dniu 30 sierpnia 2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3870,10 +3982,12 @@
     "545292": {
       "channel": "Karnice",
       "checked_ts": 1795611866.4544415,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "545292",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1005370099.mp4",
       "page": "https://karnice.tv-polska.eu/film/545292-sesja-rady-gminy-karnice-30-08-2024",
+      "published": "2024-08-30",
       "title": "Sesja Rady Gminy Karnice 30.08.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3881,10 +3995,12 @@
     "545458": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612299.5302713,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "545458",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1006881723.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/545458-iv-sesja-rady-miejskiej",
+      "published": "2024-01-01",
       "title": "IV Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3892,10 +4008,12 @@
     "545472": {
       "channel": "Cewice",
       "checked_ts": 1795610700.3784974,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "545472",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1006928771.mp4",
       "page": "https://cewice.tv-polska.eu/film/545472-v-sesja-rady-gminy-cewice-dziewiatej-kadencji",
+      "published": "2024-01-01",
       "title": "V Sesja Rady Gminy Cewice dziewiątej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3903,10 +4021,12 @@
     "545473": {
       "channel": "Cewice",
       "checked_ts": 1795610699.177493,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "545473",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1006930058.mp4",
       "page": "https://cewice.tv-polska.eu/film/545473-vi-sesja-rady-gminy-cewice-dziewiatej-kadencji",
+      "published": "2024-01-01",
       "title": "VI Sesja Rady Gminy Cewice dziewiątej kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3914,10 +4034,12 @@
     "545520": {
       "channel": "Łanięta",
       "checked_ts": 1795612318.7386892,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "545520",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1007962046.mp4",
       "page": "https://lanieta.tv-polska.eu/film/545520-vi-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---10-09-2024r----transmisja-na-zywo",
+      "published": "2024-01-01",
       "title": "VI Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 10.09.2024r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3925,10 +4047,12 @@
     "545859": {
       "channel": "Brusy",
       "checked_ts": 1795610684.7906883,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "545859",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1012297039.mp4",
       "page": "https://brusy.tv-polska.eu/film/545859-iv-sesja-ix-kadencji",
+      "published": "2024-01-01",
       "title": "IV sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3936,10 +4060,12 @@
     "545864": {
       "channel": "Lębork",
       "checked_ts": 1795612269.5383723,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "545864",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1012312955.mp4",
       "page": "https://lebork.tv-polska.eu/film/545864-iv-sesja-rady-miejskiej-w-leborku--23-09-2024--kadencja-2024-2029",
+      "published": "2024-09-23",
       "title": "IV Sesja Rady Miejskiej w Lęborku (23.09.2024) Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3947,10 +4073,12 @@
     "545871": {
       "channel": "Łanięta",
       "checked_ts": 1795612317.534082,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "545871",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1012335025.mp4",
       "page": "https://lanieta.tv-polska.eu/film/545871-vii-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---24-09-2024r----transmisja-na-zywo",
+      "published": "2024-01-01",
       "title": "VII Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 24.09.2024r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3958,10 +4086,12 @@
     "545899": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611083.8331332,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "545899",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1012454932.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/545899-v-sesja-rady-miejskiej-w-dobrej",
+      "published": "2024-01-01",
       "title": "V sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3969,10 +4099,12 @@
     "545937": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611840.0581322,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "545937",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1012767566.mp4",
       "page": "https://kamienpomorski.tv-polska.eu/film/545937-v-sesja-rady-miejskiej--2024-2029-",
+      "published": "2024-01-01",
       "title": "V Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3980,10 +4112,12 @@
     "545959": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611808.8441453,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "545959",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1013055268.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/545959-vi-sesja-rady-miejskiej-w-kamieniu-krajenskim",
+      "published": "2024-01-01",
       "title": "VI Sesja Rady Miejskiej w Kamieniu Krajeńskim",
       "tourism": false,
       "updated": "2026-11-25"
@@ -3991,10 +4125,12 @@
     "545986": {
       "channel": "Kobylanka",
       "checked_ts": 1795611952.8544898,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "545986",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1013417520.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/545986-vi-sesja-rady-gminy---26-09-2024",
+      "published": "2024-09-26",
       "title": "VI sesja Rady Gminy – 26.09.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4002,10 +4138,12 @@
     "545989": {
       "channel": "Barcin",
       "checked_ts": 1795610499.963271,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "545989",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1013422063.mp4",
       "page": "https://barcin.tv-polska.eu/film/545989-gmina-barcin---vi-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
+      "published": "2024-01-01",
       "title": "Gmina Barcin | VI sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4013,10 +4151,12 @@
     "546001": {
       "channel": "Manowo",
       "checked_ts": 1795612441.1470432,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "546001",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1013484825.mp4",
       "page": "https://manowo.tv-polska.eu/film/546001-v-sesja-rady-gminy-manowo--2024-09-27--godz--9-00",
+      "published": "2024-09-27",
       "title": "V Sesja Rady Gminy Manowo, 2024-09-27, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4024,10 +4164,12 @@
     "546037": {
       "channel": "Bielice",
       "checked_ts": 1795610587.5677998,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546037",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1014283108.mp4",
       "page": "https://bielice.tv-polska.eu/film/546037-vi-sesja-rady-gminy-bielice",
+      "published": "2024-01-01",
       "title": "VI Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4035,10 +4177,12 @@
     "546043": {
       "channel": "Karnice",
       "checked_ts": 1795611864.055338,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546043",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1014323138.mp4",
       "page": "https://karnice.tv-polska.eu/film/546043-sesja-rady-gminy-karnice-27-09-2024",
+      "published": "2024-09-27",
       "title": "Sesja Rady Gminy Karnice 27.09.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4046,10 +4190,12 @@
     "546044": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610618.774144,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546044",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1014332895.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/546044-v-sesja-rady-gminy-bierzwnik",
+      "published": "2024-01-01",
       "title": "V Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4057,10 +4203,12 @@
     "546045": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610617.5751317,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546045",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1014333349.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/546045-vi-sesja-rady-gminy-bierzwnik",
+      "published": "2024-01-01",
       "title": "VI Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4068,10 +4216,12 @@
     "546067": {
       "channel": "Marianowo",
       "checked_ts": 1795612473.5513105,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546067",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1014699115.mp4",
       "page": "https://marianowo.tv-polska.eu/film/546067-v-sesja-rady-gminy-marianowo-w-dniu-27-wrzesnia-2024-r-",
+      "published": "2024-01-01",
       "title": "V sesja Rady Gminy Marianowo w dniu 27 września 2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4079,10 +4229,12 @@
     "546223": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610651.1802776,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546223",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1017046285.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/546223-iv-sesja-rady-gminy-boleszkowice-w-dniu-26-09-2024-r-",
+      "published": "2024-09-26",
       "title": "IV Sesja Rady Gminy Boleszkowice w dniu 26.09.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4090,10 +4242,12 @@
     "546289": {
       "channel": "Dziwnów",
       "checked_ts": 1795611273.946256,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "546289",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1018199710.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/546289-sesja-nr-viii-rady-miejskiej-w-dziwnowie",
+      "published": "2024-01-01",
       "title": "Sesja Nr VIII Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4101,10 +4255,12 @@
     "546642": {
       "channel": "Barcin",
       "checked_ts": 1795610498.764558,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "546642",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1022847924.mp4",
       "page": "https://barcin.tv-polska.eu/film/546642-gmina-barcin---vii-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
+      "published": "2024-01-01",
       "title": "Gmina Barcin | VII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4112,10 +4268,12 @@
     "546666": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610616.3746407,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546666",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1023173567.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/546666-vii-sesja-rady-gminy-bierzwnik",
+      "published": "2024-01-01",
       "title": "VII Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4123,10 +4281,12 @@
     "546705": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610649.973973,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546705",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1023211676.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/546705-v-sesja-rady-gminy-boleszkowice-w-dniu-24-10-2024-r-",
+      "published": "2024-10-24",
       "title": "V Sesja Rady Gminy Boleszkowice w dniu 24.10.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4134,10 +4294,12 @@
     "546710": {
       "channel": "Lębork",
       "checked_ts": 1795612268.3387768,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "546710",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1023856583.mp4",
       "page": "https://lebork.tv-polska.eu/film/546710-v-sesja-rady-miejskiej-w-leborku--kadencja-2024-2029--24-10-2024-r--",
+      "published": "2024-10-24",
       "title": "V sesja Rady Miejskiej w Lęborku, kadencja 2024-2029 (24.10.2024 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4145,10 +4307,12 @@
     "546744": {
       "channel": "Manowo",
       "checked_ts": 1795612439.9392595,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "546744",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1024004442.mp4",
       "page": "https://manowo.tv-polska.eu/film/546744-vi-sesja-rady-gminy-manowo--2024-10-28--godz--9-00",
+      "published": "2024-10-28",
       "title": "VI Sesja Rady Gminy Manowo, 2024-10-28, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4156,10 +4320,12 @@
     "546771": {
       "channel": "Dygowo",
       "checked_ts": 1795611195.4407418,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "546771",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1024365217.mp4",
       "page": "https://dygowo.tv-polska.eu/film/546771-vii-sesja-rady-gminy-dygowo-z-dnia-29-pazdziernika-2024-roku",
+      "published": "2024-01-01",
       "title": "VII Sesja Rady Gminy Dygowo z dnia 29 października 2024 roku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4167,10 +4333,12 @@
     "546775": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611082.6310513,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546775",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1024414174.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/546775-vi-sesja-rady-miejskiej-w-dobrej",
+      "published": "2024-01-01",
       "title": "VI sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4178,10 +4346,12 @@
     "546811": {
       "channel": "Bielice",
       "checked_ts": 1795610586.374377,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546811",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1024724405.mp4",
       "page": "https://bielice.tv-polska.eu/film/546811-vii-sesja-rady-gminy-bielice",
+      "published": "2024-01-01",
       "title": "VII Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4189,10 +4359,12 @@
     "546849": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611807.6444433,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "546849",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1025043330.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/546849-vii-sesja-rady-miejskiej-w-kamieniu-krajenskim",
+      "published": "2024-01-01",
       "title": "VII Sesja Rady Miejskiej w Kamieniu Krajeńskim",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4200,10 +4372,12 @@
     "546916": {
       "channel": "Kobylanka",
       "checked_ts": 1795611951.65765,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "546916",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1026428275.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/546916-vii-sesja-rady-gminy-31-10-2024",
+      "published": "2024-10-31",
       "title": "VII sesja Rady Gminy 31.10.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4211,10 +4385,12 @@
     "546922": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611453.9691463,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "546922",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1026430635.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/546922-vi-sesja-rady-gminy-gniewoszow",
+      "published": "2024-01-01",
       "title": "VI Sesja Rady Gminy Gniewoszów",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4222,10 +4398,12 @@
     "546932": {
       "channel": "Brusy",
       "checked_ts": 1795610683.5842125,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "546932",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1026516042.mp4",
       "page": "https://brusy.tv-polska.eu/film/546932-v-sesja-ix-kadencji",
+      "published": "2024-01-01",
       "title": "V sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4233,10 +4411,12 @@
     "547004": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611838.8596146,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "547004",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1027329226.mp4",
       "page": "https://kamienpomorski.tv-polska.eu/film/547004-vi-sesja-rady-miejskiej--2024-2029-",
+      "published": "2024-01-01",
       "title": "VI Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4244,10 +4424,12 @@
     "547056": {
       "channel": "Marianowo",
       "checked_ts": 1795612472.3488324,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547056",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1028725502.mp4",
       "page": "https://marianowo.tv-polska.eu/film/547056-vi-sesja-rady-gminy-marianowo-w-dniu-8-listopada-2024-r-",
+      "published": "2024-01-01",
       "title": "VI sesja Rady Gminy Marianowo w dniu 8 listopada 2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4255,10 +4437,12 @@
     "547058": {
       "channel": "Łanięta",
       "checked_ts": 1795612316.3515778,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "547058",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1028741260.mp4",
       "page": "https://lanieta.tv-polska.eu/film/547058-viii-nadzwyczajna-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---12-11-2024r----transmisja-na-zywo",
+      "published": "2024-01-01",
       "title": "VIII Nadzwyczajna Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 12.11.2024r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4266,10 +4450,12 @@
     "547104": {
       "channel": "Dziwnów",
       "checked_ts": 1795611272.7437801,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "547104",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1029172113.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/547104-sesja-nr-ix-rady-miejskiej-w-dziwnowie",
+      "published": "2024-01-01",
       "title": "Sesja Nr IX Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4277,10 +4463,12 @@
     "547172": {
       "channel": "Karnice",
       "checked_ts": 1795611862.861764,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547172",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1029935337.mp4",
       "page": "https://karnice.tv-polska.eu/film/547172-sesja-rady-gminy-karnice-15-11-2024",
+      "published": "2024-01-01",
       "title": "Sesja Rady Gminy Karnice 15-11-2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4288,10 +4476,12 @@
     "547232": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612234.7270935,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "547232",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1031016536.mp4",
       "page": "https://lewinklodzki.tv-polska.eu/film/547232-ix-sesja-rady-gminy-lewin-klodzki-",
+      "published": "2024-01-01",
       "title": "IX Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4299,10 +4489,12 @@
     "547323": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611837.6449938,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "547323",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1031927220.mp4",
       "page": "https://kamienpomorski.tv-polska.eu/film/547323-vii-sesja-rady-miejskiej--2024-2029-",
+      "published": "2024-01-01",
       "title": "VII Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4310,10 +4502,12 @@
     "547424": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610615.1726346,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547424",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1033453679.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/547424-viii-sesja-rady-gminy-bierzwnik",
+      "published": "2024-01-01",
       "title": "VIII Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4321,10 +4515,12 @@
     "547426": {
       "channel": "Dygowo",
       "checked_ts": 1795611194.2421496,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "547426",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1033473364.mp4",
       "page": "https://dygowo.tv-polska.eu/film/547426-viii-sesja-rady-gminy-dygowo-z-dnia-26-listopada-2024-roku",
+      "published": "2024-01-01",
       "title": "VIII Sesja Rady Gminy Dygowo z dnia 26 listopada 2024 roku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4332,10 +4528,12 @@
     "547445": {
       "channel": "Bielice",
       "checked_ts": 1795610585.172287,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547445",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1033807062.mp4",
       "page": "https://bielice.tv-polska.eu/film/547445-viii-sesja-rady-gminy-bielice",
+      "published": "2024-01-01",
       "title": "VIII Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4343,10 +4541,12 @@
     "547447": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610648.7854915,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547447",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1033837301.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/547447-vi-sesja-rady-gminy-boleszkowice-w-dniu-21-11-2024-r-",
+      "published": "2024-11-21",
       "title": "VI Sesja Rady Gminy Boleszkowice w dniu 21.11.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4354,10 +4554,12 @@
     "547462": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611806.4471695,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "547462",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034130604.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/547462-viii-sesja-rady-miejskiej-w-kamieniu-krajenskim",
+      "published": "2024-01-01",
       "title": "VIII Sesja Rady Miejskiej w Kamieniu Krajeńskim",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4365,10 +4567,12 @@
     "547482": {
       "channel": "Dolice",
       "checked_ts": 1795611117.4422495,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "547482",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034211094.mp4",
       "page": "https://dolice.tv-polska.eu/film/547482-vii-sesja-rady-gminy-dolice",
+      "published": "2024-01-01",
       "title": "VII Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4376,10 +4580,12 @@
     "547496": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611081.4333746,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547496",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034262118.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/547496-vii-sesja-rady-miejskiej-w-dobrej",
+      "published": "2024-01-01",
       "title": "VII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4387,10 +4593,12 @@
     "547503": {
       "channel": "Jastarnia",
       "checked_ts": 1795611730.8481667,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "547503",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034436138.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/547503-viii-zwyczajna-sesja-rady-miejskiej-jastarni",
+      "published": "2024-01-01",
       "title": "VIII zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4398,10 +4606,12 @@
     "547508": {
       "channel": "Manowo",
       "checked_ts": 1795612438.7571,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "547508",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034450240.mp4",
       "page": "https://manowo.tv-polska.eu/film/547508-vii-sesja-rady-gminy-manowo--2024-11-29--godz--9-00",
+      "published": "2024-11-29",
       "title": "VII Sesja Rady Gminy Manowo, 2024-11-29, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4409,10 +4619,12 @@
     "547517": {
       "channel": "Łanięta",
       "checked_ts": 1795612315.1450353,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "547517",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034492107.mp4",
       "page": "https://lanieta.tv-polska.eu/film/547517-ix-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---29-11-2024r----transmisja-na-zywo",
+      "published": "2024-01-01",
       "title": "IX Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 29.11.2024r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4420,10 +4632,12 @@
     "547519": {
       "channel": "Barcin",
       "checked_ts": 1795610497.5662823,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "547519",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034495717.mp4",
       "page": "https://barcin.tv-polska.eu/film/547519-gmina-barcin---viii-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
+      "published": "2024-01-01",
       "title": "Gmina Barcin | VIII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4431,10 +4645,12 @@
     "547551": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612233.5292594,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "547551",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034987557.mp4",
       "page": "https://lewinklodzki.tv-polska.eu/film/547551-x-sesja-rady-gminy-lewin-klodzki",
+      "published": "2024-01-01",
       "title": "X Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4442,10 +4658,12 @@
     "547561": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612153.1270957,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "547561",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1035119869.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/547561-ix-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2024-01-01",
       "title": "IX Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4453,10 +4671,12 @@
     "547572": {
       "channel": "Marianowo",
       "checked_ts": 1795612471.144293,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547572",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1038086970.mp4",
       "page": "https://marianowo.tv-polska.eu/film/547572-vii-sesja-rady-gminy-marianowo-w-dniu-29-listopada-2024-r-",
+      "published": "2024-01-01",
       "title": "VII sesja Rady Gminy Marianowo w dniu 29 listopada 2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4464,10 +4684,12 @@
     "547578": {
       "channel": "Jednorożec",
       "checked_ts": 1795611763.235991,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "547578",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1035184551.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/547578--vi-zwyczajna-sesja-rady-gminy-jednorozec-02-12-2024-r-",
+      "published": "2024-12-02",
       "title": "VI zwyczajna sesja Rady Gminy Jednorożec 02.12.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4475,10 +4697,12 @@
     "547586": {
       "channel": "Lębork",
       "checked_ts": 1795612267.1377723,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "547586",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1035204233.mp4",
       "page": "https://lebork.tv-polska.eu/film/547586-vi-sesja-rady-miejskiej-w-leborku--kadencja-2024-2029--29-11-2024-r--",
+      "published": "2024-11-29",
       "title": "VI Sesja Rady Miejskiej w Lęborku, kadencja 2024-2029 (29.11.2024 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4486,10 +4710,12 @@
     "547608": {
       "channel": "Maszewo",
       "checked_ts": 1795612508.3537083,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547608",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1035574061.mp4",
       "page": "https://maszewo.tv-polska.eu/film/547608-sesja-nr-vii-rady-miejskiej-w-maszewie-29-11-2024-r-",
+      "published": "2024-11-29",
       "title": "Sesja Nr VII Rady Miejskiej w Maszewie 29.11.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4497,10 +4723,12 @@
     "547652": {
       "channel": "Brusy",
       "checked_ts": 1795610682.382051,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "547652",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1035953770.mp4",
       "page": "https://brusy.tv-polska.eu/film/547652-vi-sesja-ix-kadencji",
+      "published": "2024-01-01",
       "title": "VI sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4508,10 +4736,12 @@
     "547654": {
       "channel": "Kobylanka",
       "checked_ts": 1795611950.4625664,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547654",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1036250195.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/547654-viii-sesja-rady-gminy---28-11-2024",
+      "published": "2024-11-28",
       "title": "VIII sesja Rady Gminy - 28.11.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4519,10 +4749,12 @@
     "547663": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611452.7681406,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "547663",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1036283926.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/547663-vii-sesja-rady-gminy-w-gniewoszowie",
+      "published": "2024-01-01",
       "title": "VII Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4530,10 +4762,12 @@
     "547686": {
       "channel": "Jaktorów",
       "checked_ts": 1795611662.3867297,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "547686",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1036473278.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/547686-viii-sesja-rady-gminy-jaktorow---5-12-2024--godz--13-00",
+      "published": "2024-01-01",
       "title": "VIII Sesja Rady Gminy Jaktorów - 5-12-2024, godz. 13 00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4541,10 +4775,12 @@
     "547743": {
       "channel": "Dziwnów",
       "checked_ts": 1795611271.5422533,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "547743",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1037416479.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/547743-sesja-nr-x-rady-miejskiej-w-dziwnowie",
+      "published": "2024-01-01",
       "title": "Sesja Nr X Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4552,10 +4788,12 @@
     "547754": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611805.2410777,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "547754",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1037710664.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/547754-ix-sesja-rady-miejskiej-w-kamieniu-krajenskim",
+      "published": "2024-01-01",
       "title": "IX Sesja Rady Miejskiej w Kamieniu Krajeńskim",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4563,10 +4801,12 @@
     "547807": {
       "channel": "Maszewo",
       "checked_ts": 1795612507.147141,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547807",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1038272184.mp4",
       "page": "https://maszewo.tv-polska.eu/film/547807-sesja-nadzwyczajna-nr-viii-rady-miejskiej-w-maszewie-11-12-2024-r-",
+      "published": "2024-12-11",
       "title": "Sesja nadzwyczajna nr VIII Rady Miejskiej w Maszewie 11.12.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4574,10 +4814,12 @@
     "547811": {
       "channel": "Czerwin",
       "checked_ts": 1795610962.6211264,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "547811",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1038460803.mp4",
       "page": "https://czerwin.tv-polska.eu/film/547811-ix-sesja-rady-gminy-czerwin-10-12-2024",
+      "published": "2024-12-10",
       "title": "IX sesja Rady Gminy Czerwin 10.12.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4585,10 +4827,12 @@
     "547909": {
       "channel": "Maszewo",
       "checked_ts": 1795612505.9466512,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547909",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1039708818.mp4",
       "page": "https://maszewo.tv-polska.eu/film/547909-sesja-nr-ix-rady-miejskiej-w-maszewie-16-12-2024-r-",
+      "published": "2024-12-16",
       "title": "Sesja Nr IX Rady Miejskiej w Maszewie 16.12.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4596,10 +4840,12 @@
     "547911": {
       "channel": "Deszczno",
       "checked_ts": 1795611033.4308817,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "547911",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1039930324.mp4",
       "page": "https://deszczno.tv-polska.eu/film/547911-x-zwyczajna-sesja-rady-gminy-deszczno-16-12-2024r---2024-2029-",
+      "published": "2024-01-01",
       "title": "X Zwyczajna Sesja Rady Gminy Deszczno 16.12.2024r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4607,10 +4853,12 @@
     "547924": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612573.166202,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "547924",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040010006.mp4",
       "page": "https://miastolezajsk.tv-polska.eu/film/547924-ix-sesja-rady-miejskiej-w-lezajsku",
+      "published": "2024-01-01",
       "title": "IX Sesja Rady Miejskiej w Leżajsku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4618,10 +4866,12 @@
     "547929": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611836.444266,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "547929",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040035134.mp4",
       "page": "https://kamienpomorski.tv-polska.eu/film/547929-viii-sesja-rady-miejskiej--2024-2029-",
+      "published": "2024-01-01",
       "title": "VIII Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4629,10 +4879,12 @@
     "547937": {
       "channel": "Międzychód",
       "checked_ts": 1795612736.5850427,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "547937",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040292024.mp4",
       "page": "https://miedzychod.tv-polska.eu/film/547937-x-sesja-rady-miejskiej-miedzychodu---17-12-2024",
+      "published": "2024-12-17",
       "title": "X SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 17.12.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4640,10 +4892,12 @@
     "547943": {
       "channel": "Karnice",
       "checked_ts": 1795611861.6568,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547943",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040309921.mp4",
       "page": "https://karnice.tv-polska.eu/film/547943-sesja-rady-gminy-karnice-17-12-2024",
+      "published": "2024-01-01",
       "title": "Sesja Rady Gminy Karnice 17-12-2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4651,10 +4905,12 @@
     "547946": {
       "channel": "Bielice",
       "checked_ts": 1795610583.9709466,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "547946",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040333639.mp4",
       "page": "https://bielice.tv-polska.eu/film/547946-ix-nadzwyczajna-sesja-rady-gminy-bielice",
+      "published": "2024-01-01",
       "title": "IX Nadzwyczajna Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4662,10 +4918,12 @@
     "547950": {
       "channel": "Brusy",
       "checked_ts": 1795610681.180171,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "547950",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040365303.mp4",
       "page": "https://brusy.tv-polska.eu/film/547950-vii-sesja-ix-kadencji",
+      "published": "2024-01-01",
       "title": "VII sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4673,10 +4931,12 @@
     "547953": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612232.3278427,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "547953",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040379054.mp4",
       "page": "https://lewinklodzki.tv-polska.eu/film/547953-xi-sesja-rady-gminy-lewin-klodzki",
+      "published": "2024-01-01",
       "title": "XI Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4684,10 +4944,12 @@
     "547998": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612297.1327984,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "547998",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040762441.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/547998-v-sesja-rady-miejskiej",
+      "published": "2024-01-01",
       "title": "V Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4695,10 +4957,12 @@
     "547999": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612295.9314172,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "547999",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040764307.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/547999-vi-sesja-rady-miejskiej",
+      "published": "2024-01-01",
       "title": "VI Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4706,10 +4970,12 @@
     "548015": {
       "channel": "Jaktorów",
       "checked_ts": 1795611661.181435,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548015",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040841778.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/548015-ix-sesja-rady-gminy-jaktorow---19-12-2024--godz--15-00",
+      "published": "2024-01-01",
       "title": "IX Sesja Rady Gminy Jaktorów - 19-12-2024, godz. 15 00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4717,10 +4983,12 @@
     "548029": {
       "channel": "Łanięta",
       "checked_ts": 1795612313.935197,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548029",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1040946084.mp4",
       "page": "https://lanieta.tv-polska.eu/film/548029-x-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---19-12-2024r----transmisja-na-zywo",
+      "published": "2024-01-01",
       "title": "X Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 19.12.2024r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4728,10 +4996,12 @@
     "548036": {
       "channel": "Jastarnia",
       "checked_ts": 1795611729.6383157,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "548036",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041021178.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/548036-ix-zwyczajna-sesja-rady-miejskiej-jastarni",
+      "published": "2024-01-01",
       "title": "IX zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4739,10 +5009,12 @@
     "548058": {
       "channel": "Manowo",
       "checked_ts": 1795612437.5404592,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "548058",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041070972.mp4",
       "page": "https://manowo.tv-polska.eu/film/548058-viii-sesja-rady-gminy-manowo--2024-12-20--godz--9-00",
+      "published": "2024-12-20",
       "title": "VIII Sesja Rady Gminy Manowo, 2024-12-20, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4750,10 +5022,12 @@
     "548065": {
       "channel": "Dolice",
       "checked_ts": 1795611116.2391357,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "548065",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041086913.mp4",
       "page": "https://dolice.tv-polska.eu/film/548065-viii-sesja-rady-gminy-dolice",
+      "published": "2024-01-01",
       "title": "VIII Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4761,10 +5035,12 @@
     "548087": {
       "channel": "Kobylanka",
       "checked_ts": 1795611949.254312,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548087",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041188015.mp4",
       "page": "https://kobylanka.tv-polska.eu/film/548087-ix-sesja-rady-gminy-19-12-2024",
+      "published": "2024-12-19",
       "title": "IX sesja Rady Gminy 19.12.2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4772,10 +5048,12 @@
     "548098": {
       "channel": "Marianowo",
       "checked_ts": 1795612469.946812,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548098",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041648296.mp4",
       "page": "https://marianowo.tv-polska.eu/film/548098-viii-sesja-rady-gminy-marianowo-w-dniu-20-grudnia-2024-r-",
+      "published": "2024-01-01",
       "title": "VIII sesja Rady Gminy Marianowo w dniu 20 grudnia 2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4783,10 +5061,12 @@
     "548101": {
       "channel": "Kępice",
       "checked_ts": 1795611910.8537655,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "548101",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041647814.mp4",
       "page": "https://kepice.tv-polska.eu/film/548101-viii-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
+      "published": "2024-01-01",
       "title": "VIII sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4794,10 +5074,12 @@
     "548102": {
       "channel": "Barcin",
       "checked_ts": 1795610496.3762605,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "548102",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041650399.mp4",
       "page": "https://barcin.tv-polska.eu/film/548102-gmina-barcin---ix-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
+      "published": "2024-01-01",
       "title": "Gmina Barcin | IX sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4805,10 +5087,12 @@
     "548104": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611335.1622639,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "548104",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041654480.mp4",
       "page": "https://miastoszczytno.tv-polska.eu/film/548104-xii-sesja-rady-miejskiej-w-szczytnie",
+      "published": "2024-01-01",
       "title": "XII Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4816,10 +5100,12 @@
     "548149": {
       "channel": "Lębork",
       "checked_ts": 1795612265.9393787,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "548149",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041896935.mp4",
       "page": "https://lebork.tv-polska.eu/film/548149-vii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--20-12-2024-r--",
+      "published": "2024-12-20",
       "title": "VII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (20.12.2024 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4827,10 +5113,12 @@
     "548153": {
       "channel": "Jednorożec",
       "checked_ts": 1795611762.0409563,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548153",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041929400.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/548153--vii-zwyczajna-sesja-rady-gminy-jednorozec-23-12-2024-r-",
+      "published": "2024-12-23",
       "title": "VII zwyczajna sesja Rady Gminy Jednorożec 23.12.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4838,10 +5126,12 @@
     "548189": {
       "channel": "Dygowo",
       "checked_ts": 1795611193.0396867,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "548189",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1042873953.mp4",
       "page": "https://dygowo.tv-polska.eu/film/548189-ix-sesja-rady-gminy-dygowo-z-dnia-13-grudnia-2024-roku",
+      "published": "2024-01-01",
       "title": "IX Sesja Rady Gminy Dygowo z dnia 13 grudnia 2024 roku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4849,10 +5139,12 @@
     "548206": {
       "channel": "alfaTV",
       "checked_ts": 1795609803.269929,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "548206",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1042897926.mp4",
       "page": "https://alfatv.tv-polska.eu/film/548206-insko-z-drona-2019",
+      "published": "2024-01-01",
       "title": "Ińsko z drona 2019",
       "tourism": true,
       "updated": "2026-11-25"
@@ -4860,10 +5152,12 @@
     "548221": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611080.235428,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548221",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1042937318.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/548221-viii-sesja-rady-miejskiej-w-dobrej",
+      "published": "2024-01-01",
       "title": "VIII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4871,10 +5165,12 @@
     "548224": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612231.1277955,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "548224",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1043062800.mp4",
       "page": "https://lewinklodzki.tv-polska.eu/film/548224-xii-sesja-rady-gminy-lewin-klodzki",
+      "published": "2024-01-01",
       "title": "XII Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4882,10 +5178,12 @@
     "548240": {
       "channel": "Karnice",
       "checked_ts": 1795611860.4516296,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548240",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1043076837.mp4",
       "page": "https://karnice.tv-polska.eu/film/548240-sesja-rady-gminy-karnice-30-12-2024",
+      "published": "2024-01-01",
       "title": "Sesja Rady Gminy Karnice 30-12-2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4893,10 +5191,12 @@
     "548246": {
       "channel": "Mielno",
       "checked_ts": 1795612639.198179,
+      "date_source": "data w tytule",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "548246",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1043086042.mp4",
       "page": "https://gminamielno.tv-polska.eu/film/548246-xii-nadzwyczjna-sesja-z-dnia-30-12-2024-r",
+      "published": "2024-12-30",
       "title": "XII Nadzwyczjna Sesja z dnia 30.12.2024 r",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4904,10 +5204,12 @@
     "548265": {
       "channel": "Kiernozia",
       "checked_ts": 1795611943.2534773,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548265",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1043142910.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/548265-10-sesja-rady-miasta-i-gminy-kiernozia-30-12-2024",
+      "published": "2024-01-01",
       "title": "10 SESJA RADY MIASTA I GMINY KIERNOZIA 30-12-2024",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4915,10 +5217,12 @@
     "548288": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610647.578519,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548288",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1043421362.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/548288-vii-sesja-rady-gminy-boleszkowice-w-dniu-20-12-2024-r-",
+      "published": "2024-12-20",
       "title": "VII Sesja Rady Gminy Boleszkowice w dniu 20.12.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4926,10 +5230,12 @@
     "548298": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612606.8071394,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "548298",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1043550410.mp4",
       "page": "https://miastoturek.tv-polska.eu/film/548298-sesja-rady-miejskiej-miasta-turku-ix-kadencji---30-grudnia--2024-r----czesc-2",
+      "published": "2025-01-01",
       "title": "Sesja Rady Miejskiej Miasta Turku IX kadencji - 30 grudnia  2024 r. - część 2",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4937,10 +5243,12 @@
     "548339": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612151.919894,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548339",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1044561636.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/548339-x-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2024-01-01",
       "title": "X Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4948,10 +5256,12 @@
     "548355": {
       "channel": "Bielice",
       "checked_ts": 1795610582.7697048,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548355",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1044665058.mp4",
       "page": "https://bielice.tv-polska.eu/film/548355-x-sesja-rady-gminy-bielice",
+      "published": "2024-01-01",
       "title": "X Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4959,10 +5269,12 @@
     "548360": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612150.7179673,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548360",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1044902217.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/548360-xi-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2025-01-01",
       "title": "XI Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4970,10 +5282,12 @@
     "548363": {
       "channel": "Brusy",
       "checked_ts": 1795610679.9779992,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "548363",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1044905462.mp4",
       "page": "https://brusy.tv-polska.eu/film/548363-viii-sesja-ix-kadencji",
+      "published": "2024-01-01",
       "title": "VIII sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4981,10 +5295,12 @@
     "548418": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610613.976952,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548418",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1045594254.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/548418-ix-sesja-rady-gminy-bierzwnik",
+      "published": "2025-01-01",
       "title": "IX Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -4992,10 +5308,12 @@
     "548442": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611451.5721188,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548442",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1045699527.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/548442-viii-sesja-rady-gminy-w-gniewoszowie",
+      "published": "2025-01-01",
       "title": "VIII Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5003,10 +5321,12 @@
     "548485": {
       "channel": "Dziwnów",
       "checked_ts": 1795611270.3437881,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "548485",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1046424159.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/548485-sesja-nr-xi-rady-miejskiej-w-dziwnowie",
+      "published": "2025-01-01",
       "title": "Sesja Nr XI Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5014,10 +5334,12 @@
     "548523": {
       "channel": "Maszewo",
       "checked_ts": 1795612504.746074,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548523",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1046856934.mp4",
       "page": "https://maszewo.tv-polska.eu/film/548523-sesja-nadzwyczajna-nr-x-rady-miejskiej-w-maszewie---13-01-2025-r-",
+      "published": "2025-01-13",
       "title": "Sesja nadzwyczajna nr X Rady Miejskiej w Maszewie - 13.01.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5025,10 +5347,12 @@
     "548601": {
       "channel": "Międzychód",
       "checked_ts": 1795612735.3807633,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "548601",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1048494544.mp4",
       "page": "https://miedzychod.tv-polska.eu/film/548601-xi-sesja-rady-miejskiej-miedzychodu---17-01-2025",
+      "published": "2025-01-17",
       "title": "XI SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 17.01.2025",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5036,10 +5360,12 @@
     "548650": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611493.5997927,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548650",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1048959226.mp4",
       "page": "https://gorzkowice.tv-polska.eu/film/548650-xi-sesja-rady-gminy-gorzkowice-kadencji-2024---2029",
+      "published": "2025-01-01",
       "title": "XI Sesja Rady Gminy Gorzkowice kadencji 2024 - 2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5047,10 +5373,12 @@
     "548675": {
       "channel": "Czerwin",
       "checked_ts": 1795610961.4181702,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548675",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1049260504.mp4",
       "page": "https://czerwin.tv-polska.eu/film/548675-x-sesja-rady-gminy-czerwin-21-01-2025",
+      "published": "2025-01-21",
       "title": "X sesja Rady Gminy Czerwin 21.01.2025",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5058,10 +5386,12 @@
     "548706": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612294.7458746,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "548706",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1049648015.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/548706-vii-sesja-rady-miejskiej",
+      "published": "2025-01-01",
       "title": "VII Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5069,10 +5399,12 @@
     "548710": {
       "channel": "Łanięta",
       "checked_ts": 1795612312.7329423,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548710",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1049645482.mp4",
       "page": "https://lanieta.tv-polska.eu/film/548710-xi-sesja-ix-kadencji-rady-gminy-lanieta-powiat-kutnowski---23-01-2025r----transmisja-na-zywo",
+      "published": "2025-01-01",
       "title": "XI Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 23.01.2025r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5080,10 +5412,12 @@
     "548789": {
       "channel": "Mielno",
       "checked_ts": 1795612638.004221,
+      "date_source": "data w tytule",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "548789",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051419785.mp4",
       "page": "https://gminamielno.tv-polska.eu/film/548789-xiii-sesja-rady-miejskiej-mielna-z-dnia-28-01-2025-r",
+      "published": "2025-01-28",
       "title": "XIII Sesja Rady Miejskiej Mielna z dnia 28.01.2025 r",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5091,10 +5425,12 @@
     "548795": {
       "channel": "Dziwnów",
       "checked_ts": 1795611269.1435368,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "548795",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051438707.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/548795-sesja-nr-xii-rady-miejskiej-w-dziwnowie",
+      "published": "2025-01-01",
       "title": "Sesja Nr XII Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5102,10 +5438,12 @@
     "548801": {
       "channel": "Czarne",
       "checked_ts": 1795610863.0133705,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "548801",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051470074.mp4",
       "page": "https://czarne.tv-polska.eu/film/548801-gmina-czarne--konferencja---strategia-rozwoju-gminy-czarne--do-roku-2032-",
+      "published": "2025-01-01",
       "title": "Gmina Czarne. Konferencja : Strategia Rozwoju Gminy Czarne  do roku 2032.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5113,10 +5451,12 @@
     "548812": {
       "channel": "Jaktorów",
       "checked_ts": 1795611659.9876957,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548812",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051660459.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/548812--x-sesja-rady-gminy-jaktorow---29-01-2025--godz--13-00-",
+      "published": "2025-01-01",
       "title": "X Sesja Rady Gminy Jaktorów - 29-01-2025, godz. 13:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5124,10 +5464,12 @@
     "548815": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610646.3754947,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548815",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051532824.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/548815-viii-sesja-rady-gminy-boleszkowice-w-dniu-23-01-2025-r-",
+      "published": "2025-01-23",
       "title": "VIII Sesja Rady Gminy Boleszkowice w dniu 23.01.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5135,10 +5477,12 @@
     "548833": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611079.029271,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548833",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051874807.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/548833-ix-sesja-rady-miejskiej-w-dobrej",
+      "published": "2025-01-01",
       "title": "IX sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5146,10 +5490,12 @@
     "548834": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611333.953152,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "548834",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051893138.mp4",
       "page": "https://miastoszczytno.tv-polska.eu/film/548834-xiv-sesja-rady-miejskiej-w-szczytnie",
+      "published": "2025-01-01",
       "title": "XIV Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5157,10 +5503,12 @@
     "548837": {
       "channel": "Dolice",
       "checked_ts": 1795611115.0425968,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "548837",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051904159.mp4",
       "page": "https://dolice.tv-polska.eu/film/548837-ix-sesja-rady-gminy-dolice",
+      "published": "2025-01-01",
       "title": "IX Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5168,10 +5516,12 @@
     "548864": {
       "channel": "Jastarnia",
       "checked_ts": 1795611728.4339013,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "548864",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1052204399.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/548864-x-zwyczajna-sesja-rady-miejskiej-jastarni",
+      "published": "2025-01-01",
       "title": "X zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5179,10 +5529,12 @@
     "548869": {
       "channel": "Lębork",
       "checked_ts": 1795612264.7360268,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "548869",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1052202634.mp4",
       "page": "https://lebork.tv-polska.eu/film/548869-viii-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--17-01-2025-r--",
+      "published": "2025-01-17",
       "title": "VIII Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (17.01.2025 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5190,10 +5542,12 @@
     "548909": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610612.773962,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "548909",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1052922560.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/548909-x-sesja-rady-gminy-bierzwnik",
+      "published": "2025-01-01",
       "title": "X Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5201,10 +5555,12 @@
     "548910": {
       "channel": "Jednorożec",
       "checked_ts": 1795611760.8364124,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548910",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1052916005.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/548910-viii-zwyczajna-sesja-rady-gminy-jednorozec-30-01-2025-r-",
+      "published": "2025-01-30",
       "title": "VIII zwyczajna sesja Rady Gminy Jednorożec 30.01.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5212,10 +5568,12 @@
     "548912": {
       "channel": "Lębork",
       "checked_ts": 1795612263.5368707,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "548912",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1052929598.mp4",
       "page": "https://lebork.tv-polska.eu/film/548912-ix-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--31-01-2025-r--",
+      "published": "2025-01-31",
       "title": "IX Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (31.01.2025 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5223,10 +5581,12 @@
     "548913": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612605.600271,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "548913",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1052940368.mp4",
       "page": "https://miastoturek.tv-polska.eu/film/548913-sesja-rady-miejskiej-miasta-turku-ix-kadencji---29-pazdziernika-2024--przeprowadzono-anonimizacje-danych-osobowych-",
+      "published": "2024-01-01",
       "title": "Sesja Rady Miejskiej Miasta Turku IX kadencji - 29 października 2024 [przeprowadzono anonimizację danych osobowych]",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5234,10 +5594,12 @@
     "548965": {
       "channel": "Dygowo",
       "checked_ts": 1795611191.8432426,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "548965",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1053690523.mp4",
       "page": "https://dygowo.tv-polska.eu/film/548965-x-sesja-rady-gminy-dygowo-z-dnia-31-stycznia-2025-roku",
+      "published": "2025-01-01",
       "title": "X Sesja Rady Gminy Dygowo z dnia 31 stycznia 2025 roku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5245,10 +5607,12 @@
     "548986": {
       "channel": "Iłów",
       "checked_ts": 1795611579.998616,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548986",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1053774552.mp4",
       "page": "https://ilow.tv-polska.eu/film/548986-xii-sesja-rady-gminy-ilow-z-dnia-30-01-2025r-",
+      "published": "2025-01-01",
       "title": "XII Sesja Rady Gminy Iłów z dnia 30.01.2025r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5256,10 +5620,12 @@
     "548993": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612041.523363,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548993",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054074683.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/548993-v-sesja-rady-gminy-kocierzew-poludniowy",
+      "published": "2024-01-01",
       "title": "V sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5267,10 +5633,12 @@
     "548996": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612040.312211,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548996",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054075530.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/548996-vi-sesja-rady-gminy-kocierzew-poludniowy",
+      "published": "2024-01-01",
       "title": "VI sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5278,10 +5646,12 @@
     "548997": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612039.1142497,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548997",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054080856.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/548997-vii-sesja-rady-gminy-kocierzew-poludniowy",
+      "published": "2024-01-01",
       "title": "VII sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5289,10 +5659,12 @@
     "548998": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612037.9163744,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "548998",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054085209.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/548998-viii-sesja-rady-gminy-kocierzew-poludniowy",
+      "published": "2024-01-01",
       "title": "VIII sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5300,10 +5672,12 @@
     "549001": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612036.713859,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549001",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054091563.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/549001-ix-sesja-rady-gminy-kocierzew-poludniowy",
+      "published": "2024-01-01",
       "title": "IX sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5311,10 +5685,12 @@
     "549014": {
       "channel": "Karnice",
       "checked_ts": 1795611859.2527962,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549014",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054411346.mp4",
       "page": "https://karnice.tv-polska.eu/film/549014-sesja-rady-gminy-karnice-06-02-2025",
+      "published": "2025-01-01",
       "title": "Sesja Rady Gminy Karnice 06-02-2025",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5322,10 +5698,12 @@
     "549015": {
       "channel": "Gniew",
       "checked_ts": 1795611387.9630308,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "549015",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054431558.mp4",
       "page": "https://gniew.tv-polska.eu/film/549015-vi-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-30-pazdziernika-2024-r-",
+      "published": "2024-01-01",
       "title": "VI sesja Rady Miejskiej w Gniewie IX kadencji z dnia 30 października 2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5333,10 +5711,12 @@
     "549022": {
       "channel": "Gniew",
       "checked_ts": 1795611386.7607825,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "549022",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054434311.mp4",
       "page": "https://gniew.tv-polska.eu/film/549022-vii-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-27-listopada-2024-r-",
+      "published": "2024-01-01",
       "title": "VII sesja Rady Miejskiej w Gniewie IX kadencji z dnia 27 listopada 2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5344,10 +5724,12 @@
     "549028": {
       "channel": "Gniew",
       "checked_ts": 1795611385.5560648,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "549028",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054463042.mp4",
       "page": "https://gniew.tv-polska.eu/film/549028-viii-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-23-grudnia-2024-r-",
+      "published": "2024-01-01",
       "title": "VIII sesja Rady Miejskiej w Gniewie IX kadencji z dnia 23 grudnia 2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5355,10 +5737,12 @@
     "549042": {
       "channel": "Kępice",
       "checked_ts": 1795611909.6526875,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "549042",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1054468201.mp4",
       "page": "https://kepice.tv-polska.eu/film/549042-ix-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
+      "published": "2025-01-01",
       "title": "IX sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5366,10 +5750,12 @@
     "549056": {
       "channel": "Marianowo",
       "checked_ts": 1795612468.7445338,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549056",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1055191894.mp4",
       "page": "https://marianowo.tv-polska.eu/film/549056-ix-sesja-rady-gminy-marianowo-w-dniu-31-stycznia-2025-r-",
+      "published": "2025-01-01",
       "title": "IX sesja Rady Gminy Marianowo w dniu 31 stycznia 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5377,10 +5763,12 @@
     "549057": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611450.3686855,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549057",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1055184924.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/549057-ix-sesja-rady-gminy-w-gniewoszowie",
+      "published": "2025-01-01",
       "title": "IX Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5388,10 +5776,12 @@
     "549073": {
       "channel": "Brusy",
       "checked_ts": 1795610678.7765567,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "549073",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1055478138.mp4",
       "page": "https://brusy.tv-polska.eu/film/549073-ix-sesja-ix-kadencji",
+      "published": "2025-01-01",
       "title": "IX sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5399,10 +5789,12 @@
     "549079": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612571.952576,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "549079",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1055527345.mp4",
       "page": "https://miastolezajsk.tv-polska.eu/film/549079-x-sesja-rady-miejskiej-w-lezajsku-",
+      "published": "2025-01-01",
       "title": "X Sesja Rady Miejskiej w Leżajsku.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5410,10 +5802,12 @@
     "549085": {
       "channel": "Deszczno",
       "checked_ts": 1795611032.2296247,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "549085",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1055506533.mp4",
       "page": "https://deszczno.tv-polska.eu/film/549085-xi-zwyczajna-sesja-rady-gminy-deszczno-10-02-2025r---2024-2029-",
+      "published": "2025-01-01",
       "title": "XI Zwyczajna Sesja Rady Gminy Deszczno 10.02.2025r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5421,10 +5815,12 @@
     "549204": {
       "channel": "Barcin",
       "checked_ts": 1795610495.1611283,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "549204",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1057745248.mp4",
       "page": "https://barcin.tv-polska.eu/film/549204-gmina-barcin---x-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
+      "published": "2025-01-01",
       "title": "Gmina Barcin | X sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5432,10 +5828,12 @@
     "549227": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611804.0421877,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "549227",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1057881737.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/549227-xi-sesja-rady-miejskiej-w-kamieniu-krajenskim-30-01-2025-r-",
+      "published": "2025-01-30",
       "title": "XI Sesja Rady Miejskiej w Kamieniu Krajeńskim 30.01.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5443,10 +5841,12 @@
     "549229": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611802.8489397,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "549229",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1057884081.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/549229-x-sesja-rady-miejskiej-w-kamieniu-krajenskim-19-12-2024-r-",
+      "published": "2024-12-19",
       "title": "X Sesja Rady Miejskiej w Kamieniu Krajeńskim 19.12.2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5454,10 +5854,12 @@
     "549235": {
       "channel": "Deszczno",
       "checked_ts": 1795611031.0279539,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "549235",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1058124464.mp4",
       "page": "https://deszczno.tv-polska.eu/film/549235-xii-nadzywczajna-sesja-rady-gminy-deszczno-17-02-2025r---2024-2029-",
+      "published": "2025-01-01",
       "title": "XII Nadzywczajna Sesja Rady Gminy Deszczno 17.02.2025r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5465,10 +5867,12 @@
     "549258": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611835.2423542,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "549258",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1058206103.mp4",
       "page": "https://kamienpomorski.tv-polska.eu/film/549258-ix-sesja-rady-miejskiej--2024-2029-",
+      "published": "2025-01-01",
       "title": "IX Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5476,10 +5880,12 @@
     "549268": {
       "channel": "Międzychód",
       "checked_ts": 1795612734.1844172,
+      "date_source": "data w tytule",
       "group": "06 Kujawy i Wielkopolska",
       "id": "549268",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1058273270.mp4",
       "page": "https://miedzychod.tv-polska.eu/film/549268-xii-sesja-rady-miejskiej-miedzychodu---18-02-2025",
+      "published": "2025-02-18",
       "title": "XII SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 18.02.2025",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5487,10 +5893,12 @@
     "549347": {
       "channel": "Mielno",
       "checked_ts": 1795612636.7983494,
+      "date_source": "data w tytule",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "549347",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1059667698.mp4",
       "page": "https://gminamielno.tv-polska.eu/film/549347-xiv-sesja-rady-miejskiej-mielna-21-02-2025",
+      "published": "2025-02-21",
       "title": "XIV Sesja Rady Miejskiej Mielna 21.02.2025",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5498,10 +5906,12 @@
     "549361": {
       "channel": "Bielice",
       "checked_ts": 1795610581.5865242,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549361",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1059717889.mp4",
       "page": "https://bielice.tv-polska.eu/film/549361-xi-nadzwyczajna-sesja-gminy-bielice",
+      "published": "2025-01-01",
       "title": "XI Nadzwyczajna Sesja Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5509,10 +5919,12 @@
     "549429": {
       "channel": "Deszczno",
       "checked_ts": 1795611029.8267705,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "549429",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1060775849.mp4",
       "page": "https://deszczno.tv-polska.eu/film/549429-xiii-nadzwyczajna-sesja-rady-gminy-deszczno-26-02-2025r---2024-2029-",
+      "published": "2025-01-01",
       "title": "XIII Nadzwyczajna Sesja Rady Gminy Deszczno 26.02.2025r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5520,10 +5932,12 @@
     "549430": {
       "channel": "Dolice",
       "checked_ts": 1795611113.8538177,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "12 Kanały tematyczne i inne",
       "id": "549430",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1060785112.mp4",
       "page": "https://dolice.tv-polska.eu/film/549430-x-sesja-rady-gminy-dolice",
+      "published": "2025-01-01",
       "title": "X Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5531,10 +5945,12 @@
     "549433": {
       "channel": "Jednorożec",
       "checked_ts": 1795611759.639276,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549433",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1060800970.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/549433-xix-zwyczajna-sesja-rady-gminy-jednorozec-27-02-2025-r-",
+      "published": "2025-02-27",
       "title": "XIX zwyczajna sesja Rady Gminy Jednorożec 27.02.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5542,10 +5958,12 @@
     "549439": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612149.5200458,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549439",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1060790747.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/549439-xii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2025-01-01",
       "title": "XII Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5553,10 +5971,12 @@
     "549447": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611077.8534,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549447",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1060868414.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/549447-x-sesja-rady-miejskiej-w-dobrej",
+      "published": "2025-01-01",
       "title": "X sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5564,10 +5984,12 @@
     "549451": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611332.754824,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "05 Warmia Mazury i Podlasie",
       "id": "549451",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061190517.mp4",
       "page": "https://miastoszczytno.tv-polska.eu/film/549451-xv-sesja-rady-miejskiej-w-szczytnie",
+      "published": "2025-01-01",
       "title": "XV Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5575,10 +5997,12 @@
     "549456": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610611.5748813,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549456",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061153330.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/549456-xi-sesja-rady-gminy-bierzwnik",
+      "published": "2025-01-01",
       "title": "XI Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5586,10 +6010,12 @@
     "549462": {
       "channel": "Jastarnia",
       "checked_ts": 1795611727.2346194,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "549462",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061165791.mp4",
       "page": "https://jastarnia.tv-polska.eu/film/549462-xi-zwyczajna-sesja-rady-miejskiej-jastarni",
+      "published": "2025-01-01",
       "title": "XI zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5597,10 +6023,12 @@
     "549473": {
       "channel": "Kępice",
       "checked_ts": 1795611908.4691718,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "549473",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061197738.mp4",
       "page": "https://kepice.tv-polska.eu/film/549473-x-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
+      "published": "2025-01-01",
       "title": "X sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5608,10 +6036,12 @@
     "549484": {
       "channel": "Kocierzew Południowy",
       "checked_ts": 1795612035.515534,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549484",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061218433.mp4",
       "page": "https://kocierzew.tv-polska.eu/film/549484-x-sesja-rady-gminy-kocierzew-poludniowy",
+      "published": "2025-01-01",
       "title": "X sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5619,10 +6049,12 @@
     "549486": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611449.1677032,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549486",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061233252.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/549486-x-sesja-rady-gminy-w-gniewoszowie",
+      "published": "2025-01-01",
       "title": "X Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5630,10 +6062,12 @@
     "549492": {
       "channel": "Manowo",
       "checked_ts": 1795612436.3413775,
+      "date_source": "data w tytule",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "549492",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061339883.mp4",
       "page": "https://manowo.tv-polska.eu/film/549492-ix-sesja-rady-gminy-manowo--2025-02-28--godz--9-00",
+      "published": "2025-02-28",
       "title": "IX Sesja Rady Gminy Manowo, 2025-02-28, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5641,10 +6075,12 @@
     "549503": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611801.642723,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "549503",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061931008.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/549503-xii-sesja-rady-miejskiej-w-kamieniu-krajenskim",
+      "published": "2025-01-01",
       "title": "XII Sesja Rady Miejskiej w Kamieniu Krajeńskim",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5652,10 +6088,12 @@
     "549511": {
       "channel": "Maszewo",
       "checked_ts": 1795612503.5525045,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549511",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061976871.mp4",
       "page": "https://maszewo.tv-polska.eu/film/549511-sesja-nr-xi-rady-miejskiej-w-maszewie-26-02-2025-r-",
+      "published": "2025-02-26",
       "title": "Sesja Nr XI Rady Miejskiej w Maszewie 26.02.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5663,10 +6101,12 @@
     "549512": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612604.3972256,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "549512",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1061967771.mp4",
       "page": "https://miastoturek.tv-polska.eu/film/549512-sesja-rady-miejskiej-miasta-turku-ix-kadencji---18-lutego-2025-r-",
+      "published": "2025-01-01",
       "title": "Sesja Rady Miejskiej Miasta Turku IX kadencji - 18 lutego 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5674,10 +6114,12 @@
     "549529": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612229.931904,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "08 Dolny Śląsk i Opolskie",
       "id": "549529",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1062296704.mp4",
       "page": "https://lewinklodzki.tv-polska.eu/film/549529-xiii-sesja-rady-gminy-lewin-klodzki",
+      "published": "2025-01-01",
       "title": "XIII Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5685,10 +6127,12 @@
     "549538": {
       "channel": "Marianowo",
       "checked_ts": 1795612467.550208,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549538",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1062374467.mp4",
       "page": "https://marianowo.tv-polska.eu/film/549538-x-sesja-rady-gminy-marianowo-w-dniu-28-lutego-2025-r-",
+      "published": "2025-01-01",
       "title": "X sesja Rady Gminy Marianowo w dniu 28 lutego 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5696,10 +6140,12 @@
     "549554": {
       "channel": "Dygowo",
       "checked_ts": 1795611190.639976,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "549554",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1062672130.mp4",
       "page": "https://dygowo.tv-polska.eu/film/549554-xi-sesja-rady-gminy-dygowo-z-dnia-26-lutego-2025-roku",
+      "published": "2025-01-01",
       "title": "XI Sesja Rady Gminy Dygowo z dnia 26 lutego 2025 roku",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5707,10 +6153,12 @@
     "549565": {
       "channel": "Jaktorów",
       "checked_ts": 1795611658.7776346,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549565",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1062711367.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/549565-xi-sesja-rady-gminy-jaktorow---27-02-2025--godz--13-00-",
+      "published": "2025-01-01",
       "title": "XI Sesja Rady Gminy Jaktorów - 27-02-2025, godz. 13:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5718,10 +6166,12 @@
     "549609": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612570.879152,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "11 Podkarpacie i Polska Wschodnia",
       "id": "549609",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1063175093.mp4",
       "page": "https://miastolezajsk.tv-polska.eu/film/549609-xi-sesja-rady-miejskiej-w-lezajsku---nadzwyczajna",
+      "published": "2025-01-01",
       "title": "XI Sesja Rady Miejskiej w Leżajsku - Nadzwyczajna",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5729,10 +6179,12 @@
     "549628": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611492.3904126,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549628",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1063511132.mp4",
       "page": "https://gorzkowice.tv-polska.eu/film/549628-xii-sesja-rady-gminy-gorzkowice-kadencji-2024---2029",
+      "published": "2025-01-01",
       "title": "XII Sesja Rady Gminy Gorzkowice kadencji 2024 - 2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5740,10 +6192,12 @@
     "549656": {
       "channel": "Gniew",
       "checked_ts": 1795611384.3585956,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "04 Pomorskie i Żuławy",
       "id": "549656",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1064226333.mp4",
       "page": "https://gniew.tv-polska.eu/film/549656-ix-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-29-stycznia-2025-r-",
+      "published": "2025-01-01",
       "title": "IX sesja Rady Miejskiej w Gniewie IX kadencji z dnia 29 stycznia 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5751,10 +6205,12 @@
     "549658": {
       "channel": "Karnice",
       "checked_ts": 1795611858.053124,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549658",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1064234022.mp4",
       "page": "https://karnice.tv-polska.eu/film/549658-sesja-rady-gminy-karnice-07-03-2025",
+      "published": "2025-01-01",
       "title": "Sesja Rady Gminy Karnice 07-03-2025",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5762,10 +6218,12 @@
     "549663": {
       "channel": "Lębork",
       "checked_ts": 1795612262.351156,
+      "date_source": "data w tytule",
       "group": "04 Pomorskie i Żuławy",
       "id": "549663",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1064264574.mp4",
       "page": "https://lebork.tv-polska.eu/film/549663-x-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--07-03-2025-r--",
+      "published": "2025-03-07",
       "title": "X Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (07.03.2025 r.)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5773,10 +6231,12 @@
     "549664": {
       "channel": "Dziwnów",
       "checked_ts": 1795611267.9434404,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "549664",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1064276097.mp4",
       "page": "https://dziwnow.tv-polska.eu/film/549664-sesja-nr-xiii-rady-miejskiej-w-dziwnowie",
+      "published": "2025-01-01",
       "title": "Sesja Nr XIII Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5784,10 +6244,12 @@
     "549791": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611447.9659953,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549791",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1065858218.mp4",
       "page": "https://gniewoszow.tv-polska.eu/film/549791-xi-sesja-rady-gminy-w-gniewoszowie",
+      "published": "2025-01-01",
       "title": "XI sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5795,10 +6257,12 @@
     "549803": {
       "channel": "Iłów",
       "checked_ts": 1795611578.8009105,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549803",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1066342592.mp4",
       "page": "https://ilow.tv-polska.eu/film/549803-xiii-sesja-rady-gminy-z-11-03-2025r-",
+      "published": "2025-01-01",
       "title": "XIII SESJA RADY GMINY Z 11-03-2025r",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5806,10 +6270,12 @@
     "549841": {
       "channel": "Deszczno",
       "checked_ts": 1795611028.6377296,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "10 Lubuskie",
       "id": "549841",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1066834620.mp4",
       "page": "https://deszczno.tv-polska.eu/film/549841-xiv-zwyczajna-sesja-rady-gminy-deszczno-17-03-2025r---2024-2029-",
+      "published": "2025-01-01",
       "title": "XIV Zwyczajna Sesja Rady Gminy Deszczno 17.03.2025r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5817,10 +6283,12 @@
     "549865": {
       "channel": "Czarnocin",
       "checked_ts": 1795610927.8166826,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549865",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1067270943.mp4",
       "page": "https://czarnocin.tv-polska.eu/film/549865-14_xiv-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "published": "2025-01-01",
       "title": "14_XIV Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5828,10 +6296,12 @@
     "549931": {
       "channel": "Mielno",
       "checked_ts": 1795612635.600797,
+      "date_source": "data w tytule",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "549931",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1068213948.mp4",
       "page": "https://gminamielno.tv-polska.eu/film/549931-xv-sesja-rady-miejskiej-mielna-21-03-2025",
+      "published": "2025-03-21",
       "title": "XV Sesja Rady Miejskiej Mielna 21.03.2025",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5839,10 +6309,12 @@
     "549933": {
       "channel": "Kiernozia",
       "checked_ts": 1795611942.0515695,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "549933",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1068362997.mp4",
       "page": "https://kiernozia.tv-polska.eu/film/549933-13-sesja-rady-miasta-i-gminy-kiernozia-21-03-2025",
+      "published": "2025-01-01",
       "title": "13 SESJA RADY MIASTA I GMINY KIERNOZIA 21-03-2025",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5850,10 +6322,12 @@
     "549955": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612293.5389593,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "549955",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1068814070.mp4",
       "page": "https://labiszyn.tv-polska.eu/film/549955-viii-sesja-rady-miejskiej-w-labiszynie",
+      "published": "2025-01-01",
       "title": "VIII Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5861,10 +6335,12 @@
     "549984": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611834.0553327,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "01 Pomorze Zachodnie - wybrzeże",
       "id": "549984",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1069198930.mp4",
       "page": "https://kamienpomorski.tv-polska.eu/film/549984-x-sesja-rady-miejskiej--2024-2029-",
+      "published": "2025-01-01",
       "title": "X Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5872,10 +6348,12 @@
     "549991": {
       "channel": "Maszewo",
       "checked_ts": 1795612502.3583453,
+      "date_source": "data w tytule",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "549991",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1069306801.mp4",
       "page": "https://maszewo.tv-polska.eu/film/549991-sesja-nadzwyczajna-nr-xii-rady-miejskiej-w-maszewie---25-03-2025-r-",
+      "published": "2025-03-25",
       "title": "Sesja nadzwyczajna nr XII Rady Miejskiej w Maszewie - 25.03.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5883,10 +6361,12 @@
     "550000": {
       "channel": "Czerwin",
       "checked_ts": 1795610960.2282815,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "550000",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1069507074.mp4",
       "page": "https://czerwin.tv-polska.eu/film/550000-xi-sesja-rady-gminy-czerwin-25-03-2025",
+      "published": "2025-03-25",
       "title": "XI sesja Rady Gminy Czerwin 25.03.2025",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5894,10 +6374,12 @@
     "550008": {
       "channel": "Bielice",
       "checked_ts": 1795610580.3853939,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "550008",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1069565313.mp4",
       "page": "https://bielice.tv-polska.eu/film/550008-xii-sesja-rady-gminy-bielice",
+      "published": "2025-01-01",
       "title": "XII Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5905,10 +6387,12 @@
     "550034": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611800.4401944,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "06 Kujawy i Wielkopolska",
       "id": "550034",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1069894300.mp4",
       "page": "https://kamienkrajenski.tv-polska.eu/film/550034-xiii-sesja-rady-miejskiej-w-kamieniu-krajenskim",
+      "published": "2025-01-01",
       "title": "XIII Sesja Rady Miejskiej w Kamieniu Krajeńskim",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5916,10 +6400,12 @@
     "550043": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611076.634712,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "550043",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1069932957.mp4",
       "page": "https://dobragmina.tv-polska.eu/film/550043-xi-sesja-rady-miejskiej-w-dobrej",
+      "published": "2025-01-01",
       "title": "XI sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5927,10 +6413,12 @@
     "550054": {
       "channel": "Barwice",
       "checked_ts": 1795610538.3746307,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "03 Pomorze Zachodnie - pojezierza",
       "id": "550054",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070222231.mp4",
       "page": "https://barwice.tv-polska.eu/film/550054-xv-sesja-rady-miejskiej-w-barwicach",
+      "published": "2025-01-01",
       "title": "XV Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5938,10 +6426,12 @@
     "550055": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610609.1853197,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "02 Pomorze Zachodnie - Szczecin i okolice",
       "id": "550055",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070225616.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/550055-xii-sesja-rady-gminy-bierzwnik",
+      "published": "2025-01-01",
       "title": "XII Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5949,10 +6439,12 @@
     "550058": {
       "channel": "Jednorożec",
       "checked_ts": 1795611758.43674,
+      "date_source": "data w tytule",
       "group": "07 Mazowsze i Łódzkie",
       "id": "550058",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070230436.mp4",
       "page": "https://jednorozec.tv-polska.eu/film/550058-x-zwyczajna-sesja-rady-gminy-jednorozec-27-03-2025-r-",
+      "published": "2025-03-27",
       "title": "X zwyczajna sesja Rady Gminy Jednorożec 27.03.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5960,10 +6452,12 @@
     "550065": {
       "channel": "Jaktorów",
       "checked_ts": 1795611657.5868766,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "550065",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070249010.mp4",
       "page": "https://jaktorow.tv-polska.eu/film/550065-xii-sesja-rady-gminy-jaktorow---27-03-2025--godz--13-00",
+      "published": "2025-01-01",
       "title": "XII Sesja Rady Gminy Jaktorów - 27-03-2025, godz. 13:00",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5971,10 +6465,12 @@
     "550069": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612148.3209298,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "550069",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070273447.mp4",
       "page": "https://krzynowloga.tv-polska.eu/film/550069-xiii-sesja-rady-gminy-w-krzynowlodze-malej",
+      "published": "2025-01-01",
       "title": "XIII Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5982,10 +6478,12 @@
     "550072": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611491.1963353,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "550072",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070290148.mp4",
       "page": "https://gorzkowice.tv-polska.eu/film/550072-xiii-sesja-rady-gminy-gorzkowice-kadencji-2024---2029",
+      "published": "2025-01-01",
       "title": "XIII Sesja Rady Gminy Gorzkowice kadencji 2024 - 2029",
       "tourism": false,
       "updated": "2026-11-25"
@@ -5993,10 +6491,12 @@
     "550073": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611489.9923413,
+      "date_source": "rok produkcji (dolna granica)",
       "group": "07 Mazowsze i Łódzkie",
       "id": "550073",
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1070290148.mp4",
       "page": "https://gorzkowice.tv-polska.eu/film/550073-xiii-sesja-rady-gminy-gorzkowice-kadencji-2024---2029",
+      "published": "2025-01-01",
       "title": "XIII Sesja Rady Gminy Gorzkowice kadencji 2024 - 2029",
       "tourism": false,
       "updated": "2026-11-25"
