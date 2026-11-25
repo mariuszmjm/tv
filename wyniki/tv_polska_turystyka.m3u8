@@ -1,6 +1,14 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-25T12:30:22.698921+00:00
+# Aktualizacja: 2026-11-25T12:47:05.198208+00:00
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Chojna | Paradoks historii
+https://film.alfatv.pl/~tv/backup_vimeo/358579850.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Barlinek | Barlinek - zdjęcia z drona
+https://film.alfatv.pl/~tv/backup_vimeo/355487748.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Choszczno | Wokół jeziora Klukom
+https://film.alfatv.pl/~tv/backup_vimeo/357242579.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Cewice | Spływ kajakowy rzeką Bukowiną (Gmina Cewice)
+https://film.alfatv.pl/~tv/backup_vimeo/355725562.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",alfaTV | Ińsko z drona 2019
 https://film.alfatv.pl/~tv/backup_vimeo/1042897926.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",alfaTV | Szczecin aus der Drohnenperspektive
