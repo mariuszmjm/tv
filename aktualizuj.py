@@ -14,7 +14,7 @@ import re
 import sys
 import time
 import unicodedata
-from datetime import datetime, timezone
+from datetime import datetime, timezone, date, timedelta
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit, parse_qs, unquote
 from urllib.robotparser import RobotFileParser
@@ -242,11 +242,50 @@ def is_mp4_or_hls(url: str) -> bool:
     return bool(url and MEDIA_PATH.search(urlsplit(url).path))
 
 
+def film_date(markup, title=''):
+    soup = BeautifulSoup(markup, 'html.parser')
+    def parse(value):
+        m = re.search(r'\b(\d{4})-(\d{2})-(\d{2})\b', str(value))
+        if m:
+            try: return date(*map(int, m.groups())).isoformat()
+            except ValueError: pass
+        m = re.search(r'\b(\d{1,2})[./](\d{1,2})[./](\d{4})\b', str(value))
+        if m:
+            d, mo, y = map(int, m.groups())
+            try: return date(y, mo, d).isoformat()
+            except ValueError: pass
+        return ''
+    for tag in soup.select('meta[property="article:published_time"], meta[itemprop="uploadDate"], meta[itemprop="datePublished"], [itemprop="datePublished"], [itemprop="uploadDate"]'):
+        found = parse(tag.get('content') or tag.get('datetime') or tag.get_text())
+        if found: return found, 'publikacja'
+    for script in soup.select('script[type="application/ld+json"]'):
+        m = re.search(r'"(?:datePublished|uploadDate)"\s*:\s*"([^"]+)"', script.get_text())
+        if m and parse(m.group(1)): return parse(m.group(1)), 'publikacja'
+    if parse(title): return parse(title), 'data w tytule'
+    body = soup.get_text(' ', strip=True)
+    m = re.search(r'(?i)data (?:posiedzenia|publikacji|nagrania)\s*:?\s*([0-9./-]+)', body)
+    if m and parse(m.group(1)): return parse(m.group(1)), 'data opisana'
+    m = re.search(r'(?i)Produkcja:\s*(?:[^\d]{0,80})\b((?:19|20)\d{2})\b', body)
+    if m: return m.group(1) + '-01-01', 'rok produkcji (dolna granica)'
+    return '', 'brak daty'
+
+
+def recent(r):
+    try:
+        d = date.fromisoformat(r.get('published', ''))
+        return date.today() - timedelta(days=365) <= d <= date.today()
+    except (ValueError, TypeError): return False
+
+
+def official(r):
+    return bool(re.search(r'\bsesj\w*\b|\bposiedzeni\w*\b|\bobrad\w*\b|komisj[aei] rady|przetarg|konferencj\w* prasow\w* (?:wojt|burmistrz|prezydent)', normalize(r.get('title',''))))
+
+
 def make_playlists(state: dict, outdir: Path, region_names: list[str]):
-    rows = [r for r in state.get('items', {}).values() if is_mp4_or_hls(r.get('media', '')) and
+    rows = [r for r in state.get('items', {}).values() if recent(r) and is_mp4_or_hls(r.get('media', '')) and
             (expiry_time(r['media']) is None or expiry_time(r['media']) > time.time() + 600)]
     order = {name: i for i, name in enumerate(region_names)}
-    rows.sort(key=lambda r: (order.get(r['group'], 999), normalize(r['channel']), normalize(r['title'])))
+    rows.sort(key=lambda r: (order.get(r['group'], 999), -date.fromisoformat(r['published']).toordinal(), normalize(r['channel']), normalize(r['title'])))
     outdir.mkdir(parents=True, exist_ok=True)
     def build(name: str, subset: list):
         parts = ['#EXTM3U', '# TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow', '# Aktualizacja: ' + datetime.now(timezone.utc).isoformat()]
@@ -256,8 +295,15 @@ def make_playlists(state: dict, outdir: Path, region_names: list[str]):
             parts.append(r['media'])
         (outdir / name).write_text('\n'.join(parts) + '\n', encoding='utf-8-sig')
     build('tv_polska_wszystkie.m3u8', rows)
-    build('tv_polska_turystyka.m3u8', [r for r in rows if r.get('tourism')])
-    fields = ['group', 'channel', 'title', 'tourism', 'media', 'page', 'updated']
+    build('tv_polska_turystyka.m3u8', [r for r in rows if not official(r)])
+    build('tv_polska_urzedowe.m3u8', [r for r in rows if official(r)])
+    fields = ['group', 'channel', 'title', 'tourism', 'media', 'page', 'published', 'date_source', 'updated']
+    with (outdir / 'brak_daty.csv').open('w', encoding='utf-8-sig', newline='') as fh:
+        writer = csv.DictWriter(fh, fieldnames=fields)
+        writer.writeheader()
+        for r in state.get('items', {}).values():
+            if not r.get('published') or (r.get('date_source','').startswith('rok produkcji') and not recent(r)):
+                writer.writerow({key: r.get(key, '') for key in fields})
     with (outdir / 'raport.csv').open('w', encoding='utf-8-sig', newline='') as fh:
         writer = csv.DictWriter(fh, fieldnames=fields)
         writer.writeheader()
@@ -268,7 +314,7 @@ def make_playlists(state: dict, outdir: Path, region_names: list[str]):
         writer = csv.DictWriter(fh, fieldnames=fields)
         writer.writeheader()
         for r in missing: writer.writerow({key: r.get(key, '') for key in fields})
-    return len(rows), sum(r['tourism'] for r in rows)
+    return len(rows), sum(not official(r) for r in rows)
 
 
 def main(argv=None):
@@ -291,6 +337,19 @@ def main(argv=None):
         state = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {'items': {}, 'cursor': 0}
         region_index, default_region = load_regions()
         client = Client(delay=args.sleep)
+        # Migracja dotychczasowych pozycji, niezależnie od kursora kanałów.
+        pending = [r for r in state.get('items', {}).values() if 'published' not in r]
+        for r in pending[:args.max_new]:
+            try:
+                doc = client.get(r['page'])
+                r['published'], r['date_source'] = film_date(doc, r['title'])
+            except (requests.RequestException, ValueError, PermissionError) as exc:
+                LOG.warning('Nie udało się sprawdzić daty %s: %s', r['id'], exc)
+        if pending:
+            save_json(path, state)
+            make_playlists(state, out, list(json.loads(REGIONS_FILE.read_text(encoding='utf-8'))['groups']))
+            LOG.info('Migracja dat: %d pozycji pozostaje do sprawdzenia.', sum('published' not in r for r in state['items'].values()))
+            return 0
         channels = extract_channels(client.get(ROOT + '/kanaly'))
         if not channels:
             raise RuntimeError('Nie znaleziono kanałów na stronie /kanaly - format strony mógł się zmienić')
@@ -323,7 +382,7 @@ def main(argv=None):
                 if page_number > 1: state['page_cursors'][slug] = page_number + 1
                 for item in novel[:args.max_film_per_channel]:
                     old = state['items'].get(item['id'])
-                    if old and time.time() - old.get('checked_ts', 0) < args.refresh_hours * 3600 and \
+                    if old and 'published' in old and time.time() - old.get('checked_ts', 0) < args.refresh_hours * 3600 and \
                             (not expiry_time(old.get('media', '')) or expiry_time(old['media']) - time.time() > args.min_validity_hours * 3600):
                         continue
                     if refreshed >= args.max_new: break
@@ -331,6 +390,10 @@ def main(argv=None):
                     try:
                         html_doc = client.get(item['page'])
                         title = title_from_film(html_doc, item['title'])
+                        published, date_source = film_date(html_doc, title)
+                        if not recent({'published': published}):
+                            state['items'][item['id']] = dict(id=item['id'], channel=name, title=title, group=group, tourism=False, media='', page=item['page'], published=published, date_source=date_source, checked_ts=time.time(), updated=date.today().isoformat())
+                            continue
                         media, embeds = extract_media_from_html(html_doc, item['page'])
                         direct = pick_media(media, args.min_validity_hours)
                         if not direct and not args.no_ytdlp:
@@ -342,6 +405,7 @@ def main(argv=None):
                         state['items'][item['id']] = {
                             'id': item['id'], 'channel': name, 'title': title, 'group': group,
                             'tourism': topic_ok(title, category, name), 'media': direct,
+                            'published': published, 'date_source': date_source,
                             'page': item['page'], 'checked_ts': time.time(),
                             'updated': datetime.now(timezone.utc).date().isoformat(),
                         }
