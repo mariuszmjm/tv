@@ -31,7 +31,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           batches=1
-          if [ "$EVENT_NAME" != "schedule" ]; then batches=6; fi
+          if [ "$EVENT_NAME" != "schedule" ]; then batches=8; fi
           for ((i=1; i<=batches; i++)); do
             echo "Partia $i/$batches"
             python aktualizuj.py --max-channels 190 --max-pages 3 --max-new 250 --max-film-per-channel 40 --sleep 1.2
