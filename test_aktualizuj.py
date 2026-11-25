@@ -42,7 +42,7 @@ class TestPlaylist(unittest.TestCase):
         with TemporaryDirectory() as temp:
             state = {'items': {'500089': {'group': 'A', 'channel':'Szczecin','title':'Widok',
                       'tourism':True,'media':'https://video.test.net/vid.mp4',
-                      'page':'https://szczecin.tv-polska.eu/film/500089-vid','updated':'2026-11-24'}}}
+                      'page':'https://szczecin.tv-polska.eu/film/500089-vid','updated':'2026-11-24','published':datetime.now().date().isoformat()}}}
             total, tourism = make_playlists(state, Path(temp), ['A'])
             self.assertEqual((total,tourism),(1,1))
             data = (Path(temp)/'tv_polska_turystyka.m3u8').read_text(encoding='utf-8-sig')
@@ -59,14 +59,14 @@ class TestWorkflow(unittest.TestCase):
             'https://tv-polska.eu/kanaly': '''<a href="https://szczecin.tv-polska.eu/">Szczecin</a>
             <a href="https://drawno.tv-polska.eu/">Drawno</a>''',
             'https://szczecin.tv-polska.eu/': '''<a href="/film/500089-plac-holdu">Plac Hołdu Pruskiego - historia Szczecina</a>''',
-            'https://szczecin.tv-polska.eu/film/500089-plac-holdu': '''<h1>Plac Hołdu Pruskiego – historia Szczecina</h1>
+            'https://szczecin.tv-polska.eu/film/500089-plac-holdu': '''<meta itemprop="uploadDate" content="RECENT_DATE"><h1>Plac Hołdu Pruskiego – historia Szczecina</h1>
               <video><source src="https://media.test.net/szczecin.mp4"></video>''',
             'https://drawno.tv-polska.eu/': '''<a href="/film/500090-park">Park Drawieński z drona</a>''',
-            'https://drawno.tv-polska.eu/film/500090-park': '''<h1>Park Drawieński z drona</h1>
+            'https://drawno.tv-polska.eu/film/500090-park': '''<meta itemprop="uploadDate" content="RECENT_DATE"><h1>Park Drawieński z drona</h1>
               <video src="https://media.test.net/drawno.mp4"></video>''',
         }
         def fake_get(self, url):
-            return html_map[url]
+            return html_map[url].replace('RECENT_DATE', datetime.now().date().isoformat())
         with TemporaryDirectory() as tmp, patch.object(aktualizuj.Client, 'get', fake_get):
             out = Path(tmp)
             code = aktualizuj.main(['--max-channels','2','--max-pages','1','--max-new','5',
@@ -79,3 +79,14 @@ class TestWorkflow(unittest.TestCase):
             self.assertIn('03 Pomorze Zachodnie - pojezierza',whole)
             self.assertIn('Park Drawieński z drona',tour)
             self.assertEqual(json.loads((out/'stan.json').read_text())['cursor'],0)
+
+class TestDateFilter(unittest.TestCase):
+    def test_dates(self):
+        from aktualizuj import film_date, recent, official
+        from datetime import date, timedelta
+        self.assertEqual(film_date('<meta itemprop="uploadDate" content="2025-04-01">')[0], '2025-04-01')
+        self.assertFalse(recent({'published': (date.today()-timedelta(days=366)).isoformat()}))
+        self.assertFalse(recent({}))
+        self.assertTrue(recent({'published': date.today().isoformat()}))
+        self.assertTrue(official({'title':'XL sesja Rady Gminy'}))
+        self.assertFalse(official({'title':'Park z drona'}))
