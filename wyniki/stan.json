@@ -1,5 +1,5 @@
 {
-  "cursor": 21,
+  "cursor": 35,
   "items": {
     "126976": {
       "channel": "Biały Bór",
@@ -12,6 +12,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13255": {
+      "channel": "Dębno",
+      "checked_ts": 1795611039.428936,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13255",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358622729.mp4",
+      "page": "https://debno.tv-polska.eu/film/13255-biblioteka-w-debnie",
+      "title": "Biblioteka w Dębnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13262": {
+      "channel": "Dolice",
+      "checked_ts": 1795611086.2390594,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13262",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358602437.mp4",
+      "page": "https://dolice.tv-polska.eu/film/13262-krepcewo",
+      "title": "Krępcewo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13272": {
       "channel": "Chojna",
       "checked_ts": 1795610735.180359,
@@ -21,6 +43,61 @@
       "page": "https://chojna.tv-polska.eu/film/13272-paradoks-historii",
       "title": "Paradoks historii",
       "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "13278": {
+      "channel": "Darłowo",
+      "checked_ts": 1795610965.019009,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13278",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358565364.mp4",
+      "page": "https://darlowo.tv-polska.eu/film/13278-swiatynia-gertrudy",
+      "title": "Świątynia Gertrudy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13299": {
+      "channel": "Darłowo",
+      "checked_ts": 1795610966.2203221,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13299",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358505699.mp4",
+      "page": "https://darlowo.tv-polska.eu/film/13299-darlowo",
+      "title": "Darłowo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13331": {
+      "channel": "Drawsko Pomorskie",
+      "checked_ts": 1795611160.6358669,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "13331",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358444521.mp4",
+      "page": "https://drawskopomorskie.tv-polska.eu/film/13331-drawsko-pomorskie",
+      "title": "Drawsko Pomorskie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13344": {
+      "channel": "Dębno",
+      "checked_ts": 1795611047.8244565,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13344",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358414660.mp4",
+      "page": "https://debno.tv-polska.eu/film/13344-debno-i-okolice---1999r-",
+      "title": "Dębno i okolice - 1999r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13349": {
+      "channel": "Dębno",
+      "checked_ts": 1795611046.631,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13349",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358398580.mp4",
+      "page": "https://debno.tv-polska.eu/film/13349-bitwa",
+      "title": "Bitwa",
+      "tourism": false,
       "updated": "2026-11-25"
     },
     "13364": {
@@ -42,6 +119,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358312408.mp4",
       "page": "https://chojna.tv-polska.eu/film/13365-chojna",
       "title": "Chojna",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13366": {
+      "channel": "Dębno",
+      "checked_ts": 1795611045.4288533,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13366",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358305946.mp4",
+      "page": "https://debno.tv-polska.eu/film/13366-debno",
+      "title": "Dębno",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -75,6 +163,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/358228300.mp4",
       "page": "https://choszczno.tv-polska.eu/film/13384-dzialki-w-choszcznie",
       "title": "Działki w Choszcznie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13426": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611052.6309118,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13426",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/358007620.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/13426-dobra",
+      "title": "Dobra",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -133,6 +232,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13658": {
+      "channel": "Drawno",
+      "checked_ts": 1795611127.0389853,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "13658",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/357160580.mp4",
+      "page": "https://drawno.tv-polska.eu/film/13658-kiedy-historia-byla-codziennoscia----drawno-wczoraj-i-dzis-----okolice-na-starej-pocztowce-i-fotografii-",
+      "title": "Kiedy historia była codziennością. \\\"Drawno wczoraj i dziś\\\" - okolice na starej pocztówce i fotografii.",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "13660": {
+      "channel": "Drawno",
+      "checked_ts": 1795611121.0385678,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "13660",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/357156379.mp4",
+      "page": "https://drawno.tv-polska.eu/film/13660-700-lat-nad-drawa",
+      "title": "700 lat nad Drawą",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13691": {
       "channel": "Biały Bór",
       "checked_ts": 1795610550.360867,
@@ -142,6 +263,17 @@
       "page": "https://bialybor.tv-polska.eu/film/13691-bialy-bor",
       "title": "Biały Bór",
       "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "138861": {
+      "channel": "Drawno",
+      "checked_ts": 1795611123.445757,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "138861",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356330667.mp4",
+      "page": "https://drawno.tv-polska.eu/film/138861-letnie-drawno-widziane-okiem-drona",
+      "title": "Letnie Drawno widziane okiem drona",
+      "tourism": true,
       "updated": "2026-11-25"
     },
     "144042": {
@@ -174,6 +306,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/356131047.mp4",
       "page": "https://choszczno.tv-polska.eu/film/169473-ziemia-choszczenska",
       "title": "Ziemia Choszczeńska",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "19593": {
+      "channel": "Dębno",
+      "checked_ts": 1795611041.8265963,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "19593",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/356818228.mp4",
+      "page": "https://debno.tv-polska.eu/film/19593-ryszard-swiecicki---2002-r-",
+      "title": "Ryszard Święcicki - 2002 r.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -243,6 +386,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "354603": {
+      "channel": "Dębno",
+      "checked_ts": 1795611044.2910187,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "354603",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/354691471.mp4",
+      "page": "https://debno.tv-polska.eu/film/354603-43--maraton-debno-2016-z-drona---3-04-2016",
+      "title": "43. Maraton Dębno 2016 z drona - 3.04.2016",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
     "365491": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609798.7738216,
@@ -262,6 +416,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/354594406.mp4",
       "page": "https://witkowo.tv-polska.eu/film/365492-65-lat---spoldzielcza-agrofirma-witkowo",
       "title": "65 lat - Spółdzielcza Agrofirma Witkowo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "387396": {
+      "channel": "Drawno",
+      "checked_ts": 1795611124.8022497,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "387396",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/230746414.mp4",
+      "page": "https://drawno.tv-polska.eu/film/387396-gmina-drawno-z-drona-z-komentarzem-lektorskim",
+      "title": "Gmina Drawno z drona z komentarzem lektorskim",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "388912": {
+      "channel": "Dębno",
+      "checked_ts": 1795611040.7909498,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "388912",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/354467344.mp4",
+      "page": "https://debno.tv-polska.eu/film/388912-gmina-debno-z-drona-z-komentarzem-lektorskim",
+      "title": "Gmina Dębno z drona z komentarzem lektorskim",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "397375": {
+      "channel": "Dębno",
+      "checked_ts": 1795611043.0828779,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "397375",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/354435629.mp4",
+      "page": "https://debno.tv-polska.eu/film/397375-zainwestuj-w-gminie-debno",
+      "title": "Zainwestuj w Gminie Dębno",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -328,6 +515,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/353668322.mp4",
       "page": "https://cewice.tv-polska.eu/film/422750-dzien-kobiet-w-domu-kultury-w-maszewie-leborskim-2017-r-",
       "title": "Dzień Kobiet w Domu Kultury w Maszewie Lęborskim 2017 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "424422": {
+      "channel": "Drawno",
+      "checked_ts": 1795611122.3118916,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "424422",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/353602976.mp4",
+      "page": "https://drawno.tv-polska.eu/film/424422-solectwa-gminy-drawno-z-drona",
+      "title": "Sołectwa Gminy Drawno z drona",
+      "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "426707": {
+      "channel": "Drawno",
+      "checked_ts": 1795611125.8402445,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "426707",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/353519241.mp4",
+      "page": "https://drawno.tv-polska.eu/film/426707-los-pani-bogdany-winnickiej--sybiraczki-z-drawna",
+      "title": "Los Pani Bogdany Winnickiej- Sybiraczki z Drawna",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -430,6 +639,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "453437": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610930.2193081,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "453437",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/352906586.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/453437-gmina-czerwin---reportaz-2018",
+      "title": "Gmina Czerwin - reportaż 2018",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "454908": {
       "channel": "Będzino",
       "checked_ts": 1795610545.5642304,
@@ -515,6 +735,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/323446663.mp4",
       "page": "https://witkowo.tv-polska.eu/film/461339-spoldzielcza-agrofirma-witkowo---dozynki-2018",
       "title": "Spółdzielcza Agrofirma Witkowo - Dożynki 2018",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "479901": {
+      "channel": "Czarne",
+      "checked_ts": 1795610859.4151764,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "479901",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/380015850.mp4",
+      "page": "https://czarne.tv-polska.eu/film/479901-vi-jarmark-bozonarodzeniowy-czarne-2019",
+      "title": "VI Jarmark Bożonarodzeniowy Czarne 2019",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -625,6 +856,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/507404489.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/502407-dzien-babci-i-dziadka-w-przedszkolu-gminnym-w-boleszkowicach",
       "title": "Dzień Babci i Dziadka w Przedszkolu Gminnym w Boleszkowicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "505841": {
+      "channel": "Drawno",
+      "checked_ts": 1795611128.2409067,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "505841",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/539040930.mp4",
+      "page": "https://drawno.tv-polska.eu/film/505841-drawno---bezpiecznie-z-natura",
+      "title": "Drawno - bezpiecznie z naturą",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -856,6 +1098,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/810472162.mp4",
       "page": "https://cewice.tv-polska.eu/film/532754-xlv-sesja-rady-gminy-cewice-osmej-kadencji",
       "title": "XLV Sesja Rady Gminy Cewice ósmej kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "533169": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610931.4184659,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "533169",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/814859162.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/533169-i-wielkanocny-jarmark-czerwinski",
+      "title": "I Wielkanocny Jarmark Czerwiński",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "533204": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610895.409429,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "533204",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/815136546.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/533204-koszyczek-wielkanocny-2023",
+      "title": "Koszyczek Wielkanocny 2023",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "533360": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610896.6105118,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "533360",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/816990240.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/533360-rola-ekosfery-w-gminie-czarnocin",
+      "title": "Rola EKOSFERY w Gminie Czarnocin",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1299,6 +1574,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545899": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611083.8331332,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545899",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1012454932.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/545899-v-sesja-rady-miejskiej-w-dobrej",
+      "title": "V sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "545989": {
       "channel": "Barcin",
       "checked_ts": 1795610499.963271,
@@ -1387,6 +1673,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546771": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611195.4407418,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "546771",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1024365217.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/546771-vii-sesja-rady-gminy-dygowo-z-dnia-29-pazdziernika-2024-roku",
+      "title": "VII Sesja Rady Gminy Dygowo z dnia 29 października 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "546775": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611082.6310513,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546775",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1024414174.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/546775-vi-sesja-rady-miejskiej-w-dobrej",
+      "title": "VI sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "546811": {
       "channel": "Bielice",
       "checked_ts": 1795610586.374377,
@@ -1420,6 +1728,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547426": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611194.2421496,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "547426",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1033473364.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/547426-viii-sesja-rady-gminy-dygowo-z-dnia-26-listopada-2024-roku",
+      "title": "VIII Sesja Rady Gminy Dygowo z dnia 26 listopada 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547445": {
       "channel": "Bielice",
       "checked_ts": 1795610585.172287,
@@ -1439,6 +1758,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1033837301.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/547447-vi-sesja-rady-gminy-boleszkowice-w-dniu-21-11-2024-r-",
       "title": "VI Sesja Rady Gminy Boleszkowice w dniu 21.11.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547482": {
+      "channel": "Dolice",
+      "checked_ts": 1795611117.4422495,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547482",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034211094.mp4",
+      "page": "https://dolice.tv-polska.eu/film/547482-vii-sesja-rady-gminy-dolice",
+      "title": "VII Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547496": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611081.4333746,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547496",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1034262118.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/547496-vii-sesja-rady-miejskiej-w-dobrej",
+      "title": "VII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1464,6 +1805,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547811": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610962.6211264,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "547811",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1038460803.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/547811-ix-sesja-rady-gminy-czerwin-10-12-2024",
+      "title": "IX sesja Rady Gminy Czerwin 10.12.2024",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547911": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611033.4308817,
+      "group": "10 Lubuskie",
+      "id": "547911",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1039930324.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/547911-x-zwyczajna-sesja-rady-gminy-deszczno-16-12-2024r---2024-2029-",
+      "title": "X Zwyczajna Sesja Rady Gminy Deszczno 16.12.2024r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547946": {
       "channel": "Bielice",
       "checked_ts": 1795610583.9709466,
@@ -1486,6 +1849,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548065": {
+      "channel": "Dolice",
+      "checked_ts": 1795611116.2391357,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548065",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041086913.mp4",
+      "page": "https://dolice.tv-polska.eu/film/548065-viii-sesja-rady-gminy-dolice",
+      "title": "VIII Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548102": {
       "channel": "Barcin",
       "checked_ts": 1795610496.3762605,
@@ -1494,6 +1868,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1041650399.mp4",
       "page": "https://barcin.tv-polska.eu/film/548102-gmina-barcin---ix-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
       "title": "Gmina Barcin | IX sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548189": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611193.0396867,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "548189",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1042873953.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/548189-ix-sesja-rady-gminy-dygowo-z-dnia-13-grudnia-2024-roku",
+      "title": "IX Sesja Rady Gminy Dygowo z dnia 13 grudnia 2024 roku",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1506,6 +1891,17 @@
       "page": "https://alfatv.tv-polska.eu/film/548206-insko-z-drona-2019",
       "title": "Ińsko z drona 2019",
       "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "548221": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611080.235428,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548221",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1042937318.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/548221-viii-sesja-rady-miejskiej-w-dobrej",
+      "title": "VIII sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
       "updated": "2026-11-25"
     },
     "548288": {
@@ -1552,6 +1948,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548675": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610961.4181702,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548675",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1049260504.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/548675-x-sesja-rady-gminy-czerwin-21-01-2025",
+      "title": "X sesja Rady Gminy Czerwin 21.01.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548801": {
+      "channel": "Czarne",
+      "checked_ts": 1795610863.0133705,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "548801",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051470074.mp4",
+      "page": "https://czarne.tv-polska.eu/film/548801-gmina-czarne--konferencja---strategia-rozwoju-gminy-czarne--do-roku-2032-",
+      "title": "Gmina Czarne. Konferencja : Strategia Rozwoju Gminy Czarne  do roku 2032.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548815": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610646.3754947,
@@ -1560,6 +1978,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051532824.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/548815-viii-sesja-rady-gminy-boleszkowice-w-dniu-23-01-2025-r-",
       "title": "VIII Sesja Rady Gminy Boleszkowice w dniu 23.01.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548833": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611079.029271,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548833",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051874807.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/548833-ix-sesja-rady-miejskiej-w-dobrej",
+      "title": "IX sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548837": {
+      "channel": "Dolice",
+      "checked_ts": 1795611115.0425968,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548837",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1051904159.mp4",
+      "page": "https://dolice.tv-polska.eu/film/548837-ix-sesja-rady-gminy-dolice",
+      "title": "IX Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1574,6 +2014,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548965": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611191.8432426,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "548965",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1053690523.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/548965-x-sesja-rady-gminy-dygowo-z-dnia-31-stycznia-2025-roku",
+      "title": "X Sesja Rady Gminy Dygowo z dnia 31 stycznia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "549073": {
       "channel": "Brusy",
       "checked_ts": 1795610678.7765567,
@@ -1582,6 +2033,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1055478138.mp4",
       "page": "https://brusy.tv-polska.eu/film/549073-ix-sesja-ix-kadencji",
       "title": "IX sesja IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549085": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611032.2296247,
+      "group": "10 Lubuskie",
+      "id": "549085",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1055506533.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/549085-xi-zwyczajna-sesja-rady-gminy-deszczno-10-02-2025r---2024-2029-",
+      "title": "XI Zwyczajna Sesja Rady Gminy Deszczno 10.02.2025r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1596,6 +2058,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549235": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611031.0279539,
+      "group": "10 Lubuskie",
+      "id": "549235",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1058124464.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/549235-xii-nadzywczajna-sesja-rady-gminy-deszczno-17-02-2025r---2024-2029-",
+      "title": "XII Nadzywczajna Sesja Rady Gminy Deszczno 17.02.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "549361": {
       "channel": "Bielice",
       "checked_ts": 1795610581.5865242,
@@ -1604,6 +2077,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1059717889.mp4",
       "page": "https://bielice.tv-polska.eu/film/549361-xi-nadzwyczajna-sesja-gminy-bielice",
       "title": "XI Nadzwyczajna Sesja Gminy Bielice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549429": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611029.8267705,
+      "group": "10 Lubuskie",
+      "id": "549429",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1060775849.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/549429-xiii-nadzwyczajna-sesja-rady-gminy-deszczno-26-02-2025r---2024-2029-",
+      "title": "XIII Nadzwyczajna Sesja Rady Gminy Deszczno 26.02.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549430": {
+      "channel": "Dolice",
+      "checked_ts": 1795611113.8538177,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549430",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1060785112.mp4",
+      "page": "https://dolice.tv-polska.eu/film/549430-x-sesja-rady-gminy-dolice",
+      "title": "X Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549447": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611077.8534,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "549447",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1060868414.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/549447-x-sesja-rady-miejskiej-w-dobrej",
+      "title": "X sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1618,6 +2124,50 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549554": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611190.639976,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "549554",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1062672130.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/549554-xi-sesja-rady-gminy-dygowo-z-dnia-26-lutego-2025-roku",
+      "title": "XI Sesja Rady Gminy Dygowo z dnia 26 lutego 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549841": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611028.6377296,
+      "group": "10 Lubuskie",
+      "id": "549841",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1066834620.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/549841-xiv-zwyczajna-sesja-rady-gminy-deszczno-17-03-2025r---2024-2029-",
+      "title": "XIV Zwyczajna Sesja Rady Gminy Deszczno 17.03.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549865": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610927.8166826,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "549865",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1067270943.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/549865-14_xiv-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "14_XIV Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550000": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610960.2282815,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "550000",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1069507074.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/550000-xi-sesja-rady-gminy-czerwin-25-03-2025",
+      "title": "XI sesja Rady Gminy Czerwin 25.03.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "550008": {
       "channel": "Bielice",
       "checked_ts": 1795610580.3853939,
@@ -1626,6 +2176,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1069565313.mp4",
       "page": "https://bielice.tv-polska.eu/film/550008-xii-sesja-rady-gminy-bielice",
       "title": "XII Sesja Rady Gminy Bielice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550043": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611076.634712,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550043",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1069932957.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/550043-xi-sesja-rady-miejskiej-w-dobrej",
+      "title": "XI sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1662,6 +2223,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550147": {
+      "channel": "Dolice",
+      "checked_ts": 1795611112.6453977,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550147",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1071300142.mp4",
+      "page": "https://dolice.tv-polska.eu/film/550147-xi-sesja-rady-gminy-dolice",
+      "title": "XI Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550180": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611189.4410088,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "550180",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1071727532.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/550180-xii-sesja-rady-gminy-dygowo-z-dnia-27-marca-2025-roku",
+      "title": "XII Sesja Rady Gminy Dygowo z dnia 27 marca 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "550220": {
       "channel": "Brusy",
       "checked_ts": 1795610676.3820145,
@@ -1684,6 +2267,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550357": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610926.6199784,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550357",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1073904124.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/550357-15_xv-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "15_XV Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550479": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611027.443718,
+      "group": "10 Lubuskie",
+      "id": "550479",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1075564598.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/550479-xv-zwyczajna-sesja-rady-gminy-deszczno-14-04-2025r---2024-2029-",
+      "title": "XV Zwyczajna Sesja Rady Gminy Deszczno 14.04.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "550583": {
       "channel": "Barcin",
       "checked_ts": 1795610492.762308,
@@ -1692,6 +2297,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1076622244.mp4",
       "page": "https://barcin.tv-polska.eu/film/550583-gmina-barcin---xii-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
       "title": "Gmina Barcin | XII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550648": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610959.019104,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "550648",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1077848205.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/550648-xii-nadzwyczajna-sesja-rady-gminy-czerwin-22-04-2025",
+      "title": "XII nadzwyczajna sesja Rady Gminy Czerwin 22.04.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550748": {
+      "channel": "Dolice",
+      "checked_ts": 1795611111.4387207,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550748",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1078749157.mp4",
+      "page": "https://dolice.tv-polska.eu/film/550748-xii-sesja-rady-gminy-dolice",
+      "title": "XII Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1728,6 +2355,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551005": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611188.2546823,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "551005",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1082438431.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/551005-xiii-sesja-rady-gminy-dygowo-z-dnia-30-kwietnia-2025-roku",
+      "title": "XIII Sesja Rady Gminy Dygowo z dnia 30 kwietnia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551188": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610957.8221295,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "551188",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1084954832.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/551188-xiii-sesja-rady-gminy-czerwin-13-05-2025",
+      "title": "XIII sesja Rady Gminy Czerwin 13.05.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551253": {
       "channel": "Brusy",
       "checked_ts": 1795610673.9808962,
@@ -1736,6 +2385,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1087002705.mp4",
       "page": "https://brusy.tv-polska.eu/film/551253-xii-sesja-ix-kadencji",
       "title": "XII sesja IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551269": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610925.4201496,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551269",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1086345785.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/551269-16_xvi-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "16_XVI Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1761,6 +2421,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551406": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611026.2245111,
+      "group": "10 Lubuskie",
+      "id": "551406",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1087956424.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/551406-xvi-zwyczajna-sesja-rady-gminy-deszczno-26-05-2025r---2024-2029-",
+      "title": "XVI Zwyczajna Sesja Rady Gminy Deszczno 26.05.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551441": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610642.7744339,
@@ -1780,6 +2451,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1088356563.mp4",
       "page": "https://bielice.tv-polska.eu/film/551447-xiii-sesja-rady-gminy-bielice",
       "title": "XIII Sesja Rady Gminy Bielice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551497": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611075.4340513,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551497",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1088839716.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/551497-xii-sesja-rady-miejskiej-w-dobrej",
+      "title": "XII sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551591": {
+      "channel": "Dolice",
+      "checked_ts": 1795611110.241046,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551591",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1089988508.mp4",
+      "page": "https://dolice.tv-polska.eu/film/551591-xiii-sesja-rady-gminy-dolice",
+      "title": "XIII Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551592": {
+      "channel": "Dolice",
+      "checked_ts": 1795611109.039455,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551592",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1089990516.mp4",
+      "page": "https://dolice.tv-polska.eu/film/551592-xiv-sesja-rady-gminy-dolice",
+      "title": "XIV Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1805,6 +2509,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551782": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610932.6169086,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "551782",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1092088124.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/551782-zakup-nowego-ciezkiego-samochodu-ratowniczo-gasniczego-dla-ochotniczej-strazy-pozarnej-w-czerwinie",
+      "title": "Zakup nowego ciężkiego samochodu ratowniczo-gaśniczego dla Ochotniczej Straży Pożarnej w Czerwinie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551796": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611187.0382812,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "551796",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1092397267.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/551796-xiv-sesja-rady-gminy-dygowo-z-dnia-5-czerwca-2025-roku",
+      "title": "XIV Sesja Rady Gminy Dygowo z dnia 5 czerwca 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551847": {
       "channel": "Cisna",
       "checked_ts": 1795610816.7964056,
@@ -1813,6 +2539,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1092954393.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/551847-sesja-nr-xvii-rady-gminy-cisna-z-dnia-10-06-2025",
       "title": "Sesja nr XVII Rady Gminy Cisna z dnia 10.06.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551920": {
+      "channel": "Czarne",
+      "checked_ts": 1795610861.8121023,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "551920",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1093957058.mp4",
+      "page": "https://czarne.tv-polska.eu/film/551920-baja-czarne-2025---wreczenie-nagrod",
+      "title": "Baja Czarne 2025 - wręczenie nagród",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552043": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611025.027333,
+      "group": "10 Lubuskie",
+      "id": "552043",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1095885618.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/552043-xvii-zwyczajna-sesja-rady-gminy-deszczno-23-06-2025r---2024-2029-",
+      "title": "XVII Zwyczajna Sesja Rady Gminy Deszczno 23.06.2025r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1849,6 +2597,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552118": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611073.0318403,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552118",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1096554416.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/552118-xiii-sesja-rady-miejskiej-w-dobrej",
+      "title": "XIII sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "552137": {
       "channel": "Barwice",
       "checked_ts": 1795610534.768711,
@@ -1868,6 +2627,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1096804922.mp4",
       "page": "https://barwice.tv-polska.eu/film/552138-xix-sesja-rady-miejskiej-w-barwicach-cz-2",
       "title": "XIX Sesja Rady Miejskiej w Barwicach cz.2",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552144": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610956.6178603,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552144",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1096811727.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/552144-xiv-sesja-rady-gminy-czerwin-24-06-2025",
+      "title": "XIV sesja Rady Gminy Czerwin 24.06.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552176": {
+      "channel": "Dolice",
+      "checked_ts": 1795611106.6406822,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552176",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1097434837.mp4",
+      "page": "https://dolice.tv-polska.eu/film/552176-xv-sesja-rady-gminy-dolice",
+      "title": "XV Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1937,6 +2718,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552532": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611184.640256,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "552532",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1101195399.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/552532-xv-sesja-rady-gminy-dygowo-z-dnia-30-czerwca-2025-roku",
+      "title": "XV Sesja Rady Gminy Dygowo z dnia 30 czerwca 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552564": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610955.4327657,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552564",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1101763658.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/552564-xv-sesja-rady-gminy-czerwin-15-07-2025",
+      "title": "XV sesja Rady Gminy Czerwin 15.07.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "552663": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610604.3705714,
@@ -1956,6 +2759,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1103368541.mp4",
       "page": "https://bielice.tv-polska.eu/film/552686-xv-nadzwyczajna-sesja-rady-gminy-bielice",
       "title": "XV Nadzwyczajna Sesja Rady Gminy Bielice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552836": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610924.2228737,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552836",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1105348985.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/552836-17_xvii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "17_XVII Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552847": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610923.016601,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552847",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1105381916.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/552847-18_xviii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "18_XVIII Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552863": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610921.8167477,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552863",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1105458127.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/552863-19_xix-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "19_XIX Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1992,6 +2828,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553151": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611183.4403894,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "553151",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1109915188.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/553151-xvi-sesja-rady-gminy-dygowo-z-dnia-14-sierpnia-2025-roku",
+      "title": "XVI Sesja Rady Gminy Dygowo z dnia 14 sierpnia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "553175": {
       "channel": "Barwice",
       "checked_ts": 1795610529.9740582,
@@ -2011,6 +2858,61 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1111545297.mp4",
       "page": "https://barwice.tv-polska.eu/film/553220-xxiii-nadzwyczajna-sesja-rady-miejskiej-w-barwicach",
       "title": "XXIII Nadzwyczajna Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553223": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610953.0179598,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "553223",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1111557672.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/553223-xvi-sesja-rady-gminy-czerwin-19-08-2025",
+      "title": "XVI sesja Rady Gminy Czerwin 19.08.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553341": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610920.6151946,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553341",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1113473373.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/553341-20_xx-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "20_XX Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553378": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611182.2383704,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "553378",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1113810726.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/553378-xvii-sesja-rady-gminy-dygowo-z-dnia-27-sierpnia-2025-roku",
+      "title": "XVII Sesja Rady Gminy Dygowo z dnia 27 sierpnia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553403": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611071.8344686,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553403",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1113876353.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/553403-xiv-sesja-rady-miejskiej-w-dobrej",
+      "title": "XIV sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553409": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611022.6292272,
+      "group": "10 Lubuskie",
+      "id": "553409",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1113867030.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/553409-xviii-zwyczajna-sesja-rady-gminy-deszczno-28-08-2025r---2024-2029-",
+      "title": "XVIII Zwyczajna Sesja Rady Gminy Deszczno 28.08.2025r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2036,6 +2938,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553535": {
+      "channel": "Dolice",
+      "checked_ts": 1795611105.4615839,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553535",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1115143528.mp4",
+      "page": "https://dolice.tv-polska.eu/film/553535-xvi-sesja-rady-gminy-dolice",
+      "title": "XVI Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "553621": {
       "channel": "Bielice",
       "checked_ts": 1795610574.370639,
@@ -2047,6 +2960,39 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553738": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611070.6425183,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553738",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1117424337.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/553738-xv-sesja-nadzwyczajna-rady-miejskiej-w-dobrej",
+      "title": "XV sesja nadzwyczajna Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553898": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610951.8239348,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "553898",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1119427532.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/553898-xvii-sesja-rady-gminy-czerwin-16-09-2025",
+      "title": "XVII sesja Rady Gminy Czerwin 16.09.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554010": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611181.0655859,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "554010",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1121406833.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/554010-xviii-sesja-rady-gminy-dygowo-z-dnia-22-wrzesnia-2025-roku",
+      "title": "XVIII Sesja Rady Gminy Dygowo z dnia 22 września 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554067": {
       "channel": "Cisna",
       "checked_ts": 1795610811.9897876,
@@ -2055,6 +3001,50 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1121821882.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/554067-sesja-nr-xxi-rady-gminy-cisna-z-dnia-12-09-2025",
       "title": "Sesja nr XXI Rady Gminy Cisna z dnia 12.09.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554082": {
+      "channel": "Dolice",
+      "checked_ts": 1795611104.2400324,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554082",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1121871869.mp4",
+      "page": "https://dolice.tv-polska.eu/film/554082-xvii-sesja-rady-gminy-dolice",
+      "title": "XVII Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554093": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611069.4402122,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "554093",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1121966687.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/554093-xvi-sesja-rady-miejskiej-w-dobrej",
+      "title": "XVI sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554152": {
+      "channel": "Czarne",
+      "checked_ts": 1795610893.033043,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "554152",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1122815128.mp4",
+      "page": "https://czarne.tv-polska.eu/film/554152-xx-sesja-rady-miejskiej-w-czarnem---ix-kadencja-",
+      "title": "XX Sesja Rady Miejskiej w Czarnem - IX kadencja.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554170": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610919.4260454,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "554170",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1123124885.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/554170-21_xxi-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "21_XXI Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2113,6 +3103,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554265": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611021.4286377,
+      "group": "10 Lubuskie",
+      "id": "554265",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1124134659.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/554265-xix-zwyczajna-sesja-rady-gminy-deszczno-29-09-2025r---2024-2029-",
+      "title": "XIX Zwyczajna Sesja Rady Gminy Deszczno 29.09.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554347": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610950.6191547,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "554347",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1125418627.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/554347-xviii-nadzwyczajna-sesja-rady-gminy-czerwin-07-10-2025",
+      "title": "XVIII nadzwyczajna sesja Rady Gminy Czerwin 07.10.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554496": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610601.9719307,
@@ -2135,6 +3147,50 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554713": {
+      "channel": "Dolice",
+      "checked_ts": 1795611103.0420976,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554713",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1129881320.mp4",
+      "page": "https://dolice.tv-polska.eu/film/554713-xviii-sesja-rady-gminy-dolice",
+      "title": "XVIII Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554783": {
+      "channel": "Czarne",
+      "checked_ts": 1795610891.8184578,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "554783",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1131099989.mp4",
+      "page": "https://czarne.tv-polska.eu/film/554783-xxi-sesja-rady-miejskiej-w-czarnem-czesc-1---ix-kadencja",
+      "title": "XXI Sesja Rady Miejskiej w Czarnem część 1 - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554796": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611020.2257457,
+      "group": "10 Lubuskie",
+      "id": "554796",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1131268099.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/554796-xx-zwyczajna-sesja-rady-gminy-deszczno-27-10-2025r---2024-2029-",
+      "title": "XX Zwyczajna Sesja Rady Gminy Deszczno 27.10.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554827": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611068.2343032,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "554827",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1131677619.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/554827-xvii-sesja-rady-miejskiej-w-dobrej",
+      "title": "XVII sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554840": {
       "channel": "Barwice",
       "checked_ts": 1795610523.960467,
@@ -2143,6 +3199,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1131970965.mp4",
       "page": "https://barwice.tv-polska.eu/film/554840-xxv-sesja-rady-miejskiej-w-barwicach-",
       "title": "XXV Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554846": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611179.8435934,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "554846",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1131995711.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/554846-xix-sesja-rady-gminy-dygowo-z-dnia-28-pazdziernika-2025-roku",
+      "title": "XIX Sesja Rady Gminy Dygowo z dnia 28 października 2025 roku",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2165,6 +3232,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1132415217.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/554905-xiv-sesja-rady-gminy-boleszkowice-w-dniu-23-pazdziernika-2025-r--",
       "title": "XIV Sesja Rady Gminy Boleszkowice w dniu 23 października 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554930": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610949.4186285,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "554930",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1132515679.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/554930-xix-sesja-rady-gminy-czerwin-28-10-2025",
+      "title": "XIX sesja Rady Gminy Czerwin 28.10.2025",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2234,6 +3312,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555330": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610917.01659,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555330",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1138867779.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/555330-22_xxii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "22_XXII Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555353": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610915.8154554,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555353",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1138920014.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/555353-23_xxiii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "23_XXIII Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555373": {
       "channel": "Barcin",
       "checked_ts": 1795610483.1612594,
@@ -2267,6 +3367,61 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555430": {
+      "channel": "Drawno",
+      "checked_ts": 1795611158.2407706,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "555430",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1140309994.mp4",
+      "page": "https://drawno.tv-polska.eu/film/555430-swieto-niepodleglosci-11-listopada-w-drawnie",
+      "title": "Święto niepodległości 11 listopada w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555433": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611019.0244765,
+      "group": "10 Lubuskie",
+      "id": "555433",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1140312602.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/555433-xxi-zwyczajna-sesja-rady-gminy-deszczno-24-11-2025r---2024-2029-",
+      "title": "XXI Zwyczajna Sesja Rady Gminy Deszczno 24.11.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555438": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610948.2191112,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "555438",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1140341128.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/555438-xx-nadzwyczajna-sesja-rady-gminy-czerwin-24-11-2025",
+      "title": "XX Nadzwyczajna sesja Rady Gminy Czerwin 24.11.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555441": {
+      "channel": "Czarne",
+      "checked_ts": 1795610890.6172175,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "555441",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1140345914.mp4",
+      "page": "https://czarne.tv-polska.eu/film/555441-xxi-sesja-rady-miejskiej-w-czarnem-ix-kadencja-cz--2",
+      "title": "XXI Sesja Rady Miejskiej w Czarnem IX kadencja cz. 2",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555443": {
+      "channel": "Czarne",
+      "checked_ts": 1795610889.4164288,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "555443",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1140357319.mp4",
+      "page": "https://czarne.tv-polska.eu/film/555443-xxii-sesja-rady-miejskiej-w-czarnem-ix-kadencja-",
+      "title": "XXII Sesja Rady Miejskiej w Czarnem IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555454": {
       "channel": "Cisna",
       "checked_ts": 1795610805.9949038,
@@ -2286,6 +3441,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1141064207.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/555497-xx-sesja-rady-gminy-bierzwnik",
       "title": "XX Sesja Rady Gminy Bierzwnik",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555509": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611067.0314224,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555509",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1141105645.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/555509-xviii-sesja-rady-miejskiej-w-dobrej",
+      "title": "XVIII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2311,6 +3477,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555598": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611178.6365407,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "555598",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1142032962.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/555598-xx-sesja-rady-gminy-dygowo-z-dnia-28-listopada-2025-roku",
+      "title": "XX Sesja Rady Gminy Dygowo z dnia 28 listopada 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555625": {
+      "channel": "Dolice",
+      "checked_ts": 1795611101.8391347,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555625",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1142403952.mp4",
+      "page": "https://dolice.tv-polska.eu/film/555625-xix-sesja-rady-gminy-dolice",
+      "title": "XIX Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555657": {
       "channel": "Brusy",
       "checked_ts": 1795610667.9807007,
@@ -2333,6 +3521,39 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555826": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610947.0173428,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "555826",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1145163666.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/555826-xxi-sesja-rady-gminy-czerwin-09-12-2025",
+      "title": "XXI sesja Rady Gminy Czerwin 09.12.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555961": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611017.8261828,
+      "group": "10 Lubuskie",
+      "id": "555961",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1146910318.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/555961-xxii-zwyczajna-sesja-rady-gminy-deszczno-15-12-2025r---2024-2029-",
+      "title": "XXII Zwyczajna Sesja Rady Gminy Deszczno 15.12.2025r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555963": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611177.4385278,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "555963",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1146941234.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/555963-xxi-sesja-rady-gminy-dygowo-z-dnia-12-grudnia-2025-roku",
+      "title": "XXI Sesja Rady Gminy Dygowo z dnia 12 grudnia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556074": {
       "channel": "Bielice",
       "checked_ts": 1795610569.57275,
@@ -2341,6 +3562,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148031240.mp4",
       "page": "https://bielice.tv-polska.eu/film/556074-xx-sesja-rady-gminy-bielice",
       "title": "XX Sesja Rady Gminy Bielice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556086": {
+      "channel": "Czarne",
+      "checked_ts": 1795610888.2136555,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "556086",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148229713.mp4",
+      "page": "https://czarne.tv-polska.eu/film/556086-xxiii-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXIII Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2355,6 +3587,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556127": {
+      "channel": "Drawno",
+      "checked_ts": 1795611157.0439246,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "556127",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148616445.mp4",
+      "page": "https://drawno.tv-polska.eu/film/556127-xxiii-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXIII Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556136": {
       "channel": "Barcin",
       "checked_ts": 1795610480.7593622,
@@ -2363,6 +3606,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148847025.mp4",
       "page": "https://barcin.tv-polska.eu/film/556136-gmina-barcin---xxi-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
       "title": "Gmina Barcin | XXI sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556168": {
+      "channel": "Dolice",
+      "checked_ts": 1795611100.6413207,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556168",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148907443.mp4",
+      "page": "https://dolice.tv-polska.eu/film/556168-xx-sesja-rady-gminy-dolice",
+      "title": "XX Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2399,6 +3653,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556264": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611065.8315501,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556264",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150393463.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/556264-xix-sesja-rady-miejskiej-w-dobrej",
+      "title": "XIX sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556265": {
       "channel": "Barwice",
       "checked_ts": 1795610519.1627533,
@@ -2407,6 +3672,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150431870.mp4",
       "page": "https://barwice.tv-polska.eu/film/556265-xxix-nadzwyczajna-sesja-rady-miejskiej-w-barwicach",
       "title": "XXIX Nadzwyczajna Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556293": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610945.8360302,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556293",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150624418.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/556293-xxii-sesja-rady-gminy-czerwin-30-12-2025",
+      "title": "XXII sesja Rady Gminy Czerwin 30.12.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556585": {
+      "channel": "Drawno",
+      "checked_ts": 1795611155.8418,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "556585",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1154994281.mp4",
+      "page": "https://drawno.tv-polska.eu/film/556585-jarmark-bozonarodzeniowy-w-drawnie-2025",
+      "title": "Jarmark bożonarodzeniowy w Drawnie 2025",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2432,6 +3719,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556657": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611016.6246767,
+      "group": "10 Lubuskie",
+      "id": "556657",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1156767798.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/556657-xxiii-zwyczajna-sesja-rady-gminy-deszczno-19-01-2026r---2024-2029-",
+      "title": "XXIII Zwyczajna Sesja Rady Gminy Deszczno 19.01.2026r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556676": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610598.371281,
@@ -2451,6 +3749,83 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1157102728.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/556677-xxi-sesja-rady-gminy-bierzwnik",
       "title": "XXI Sesja Rady Gminy Bierzwnik",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556718": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610914.617735,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556718",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1157834586.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/556718-24_xxiv-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "24_XXIV Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556719": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610913.4148855,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556719",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1157838242.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/556719-25_xxv-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "25_XXV Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556720": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610912.2140446,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556720",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1157843409.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/556720-26_xxvi-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "26_XXVI Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556741": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611176.2379417,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "556741",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1158350147.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/556741-xxii-sesja-rady-gminy-dygowo-z-dnia-22-stycznia-2026-roku",
+      "title": "XXII Sesja Rady Gminy Dygowo z dnia 22 stycznia 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556797": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610944.621214,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556797",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159139691.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/556797-xxiii-sesja-rady-gminy-czerwin-27-01-2026",
+      "title": "XXIII sesja Rady Gminy Czerwin 27.01.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556817": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611064.633167,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556817",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159399020.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/556817-xx-sesja-rady-miejskiej-w-dobrej",
+      "title": "XX sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556850": {
+      "channel": "Dolice",
+      "checked_ts": 1795611099.4397705,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556850",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159680129.mp4",
+      "page": "https://dolice.tv-polska.eu/film/556850-xxi-sesja-rady-gminy-dolice",
+      "title": "XXI Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2476,6 +3851,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556931": {
+      "channel": "Czarne",
+      "checked_ts": 1795610887.01916,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "556931",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1161033045.mp4",
+      "page": "https://czarne.tv-polska.eu/film/556931-xxiv-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXIV Sesja Rady Miejskiej w Czarnem - IX Kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557023": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610634.3728533,
@@ -2495,6 +3881,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1163925409.mp4",
       "page": "https://bielice.tv-polska.eu/film/557080-xxii-sesja-rady-gminy-bielice",
       "title": "XXII Sesja Rady Gminy Bielice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557090": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611015.4266574,
+      "group": "10 Lubuskie",
+      "id": "557090",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1163956991.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/557090-xxiv-zwyczajna-sesja-rady-gminy-deszczno-11-02-2026-r---2024-2029-",
+      "title": "XXIV Zwyczajna Sesja Rady Gminy Deszczno 11.02.2026 r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557131": {
+      "channel": "Czarne",
+      "checked_ts": 1795610885.8160486,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557131",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1164643156.mp4",
+      "page": "https://czarne.tv-polska.eu/film/557131-xxv-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXV Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2520,6 +3928,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557270": {
+      "channel": "Drawno",
+      "checked_ts": 1795611154.666791,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557270",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1166649653.mp4",
+      "page": "https://drawno.tv-polska.eu/film/557270-34-final-wosp-w-drawnie",
+      "title": "34 Finał WOŚP w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557271": {
+      "channel": "Drawno",
+      "checked_ts": 1795611153.4395962,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557271",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1166655564.mp4",
+      "page": "https://drawno.tv-polska.eu/film/557271-budowa-punktu-selektywnej-zbiorki-odpadow-komunalnych--pszok-",
+      "title": "Budowa Punktu Selektywnej Zbiórki Odpadów Komunalnych (PSZOK)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557303": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610631.9720888,
@@ -2528,6 +3958,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1167281491.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/557303-xviii-sesja-rady-gminy-boleszkowice-w-dniu--19-lutego-2026-r-",
       "title": "XVIII Sesja Rady Gminy Boleszkowice w dniu  19 lutego 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557360": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611173.8410952,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "557360",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168010596.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/557360-xxiii-nadzwyczajna-sesja-rady-gminy-dygowo-z-dnia-19-lutego-2026-roku",
+      "title": "XXIII Nadzwyczajna Sesja Rady Gminy Dygowo z dnia 19 lutego 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557371": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611062.2301543,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557371",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168088788.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/557371-xxi-sesja-rady-miejskiej-w-dobrej",
+      "title": "XXI sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557411": {
+      "channel": "Dolice",
+      "checked_ts": 1795611098.244444,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557411",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168507340.mp4",
+      "page": "https://dolice.tv-polska.eu/film/557411-xxii-sesja-rady-gminy-dolice",
+      "title": "XXII Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2542,6 +4005,50 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557487": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611014.2260303,
+      "group": "10 Lubuskie",
+      "id": "557487",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169832133.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/557487-xxv-zwyczajna-sesja-rady-gminy-deszczno-02-03-2026-r---2024-2029-",
+      "title": "XXV Zwyczajna Sesja Rady Gminy Deszczno 02.03.2026 r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557519": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610942.2228909,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "557519",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170237870.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/557519-xxiv-sesja-rady-gminy-czerwin-03-03-2026",
+      "title": "XXIV sesja Rady Gminy Czerwin 03.03.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557526": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610911.0141923,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557526",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170274098.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/557526-27_xxvii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "27_XXVII Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557532": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610909.8147316,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557532",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170274191.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/557532-28_xxviii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "28_XXVIII Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557541": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610595.971424,
@@ -2550,6 +4057,72 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170594338.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/557541-xxiii-sesja-rady-gminy-bierzwnik",
       "title": "XXIII Sesja Rady Gminy Bierzwnik",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557552": {
+      "channel": "Czarne",
+      "checked_ts": 1795610884.629066,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557552",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170650772.mp4",
+      "page": "https://czarne.tv-polska.eu/film/557552-warsztaty-lepienia-pierogow-podczas-festiwalu-smakow-regionalnych-w-gdansku-28-lutego-2026",
+      "title": "Warsztaty lepienia pierogów podczas Festiwalu Smaków Regionalnych w Gdańsku 28 lutego 2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557555": {
+      "channel": "Czarne",
+      "checked_ts": 1795610882.211348,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557555",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170656656.mp4",
+      "page": "https://czarne.tv-polska.eu/film/557555-wywiad-dla-radia-gdansk-podczas-festiwalu-smakow-regionalnych-w-gdansku-",
+      "title": "Wywiad dla Radia Gdańsk podczas Festiwalu Smaków Regionalnych w Gdańsku.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557556": {
+      "channel": "Czarne",
+      "checked_ts": 1795610881.0169141,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557556",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170658579.mp4",
+      "page": "https://czarne.tv-polska.eu/film/557556-zaproszenie-na-festiwal-smakow-regionalnych-w-gdansku",
+      "title": "Zaproszenie na Festiwal Smaków Regionalnych w Gdańsku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557633": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611011.8229647,
+      "group": "10 Lubuskie",
+      "id": "557633",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1172043136.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/557633-xxvi-nadzwyczajna-sesja-rady-gminy-deszczno-09-03-2026r---2024-2029-",
+      "title": "XXVI Nadzwyczajna Sesja Rady Gminy Deszczno 09.03.2026r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557716": {
+      "channel": "Drawno",
+      "checked_ts": 1795611152.2422297,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557716",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1173179153.mp4",
+      "page": "https://drawno.tv-polska.eu/film/557716-uroczyste-obchody-dnia-osadnika-i-kombatanta",
+      "title": "Uroczyste Obchody Dnia Osadnika i Kombatanta",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557717": {
+      "channel": "Drawno",
+      "checked_ts": 1795611151.041655,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557717",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1173195408.mp4",
+      "page": "https://drawno.tv-polska.eu/film/557717-tropem-wilczym-bieg-pamieci-zolnierzy-wykletych",
+      "title": "Tropem Wilczym Bieg Pamięci Żołnierzy Wyklętych",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2564,6 +4137,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557763": {
+      "channel": "Drawno",
+      "checked_ts": 1795611149.8411725,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557763",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1173962855.mp4",
+      "page": "https://drawno.tv-polska.eu/film/557763-xxiv-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXIV Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557767": {
+      "channel": "Drawno",
+      "checked_ts": 1795611147.4412754,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557767",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1173964157.mp4",
+      "page": "https://drawno.tv-polska.eu/film/557767-xxv-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXV Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557807": {
       "channel": "Brusy",
       "checked_ts": 1795610664.395384,
@@ -2572,6 +4167,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1174360951.mp4",
       "page": "https://brusy.tv-polska.eu/film/557807-xix-sesja-ix-kadencji",
       "title": "XIX sesja IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557842": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611172.637685,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "557842",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1174767711.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/557842-xxiv-sesja-rady-gminy-dygowo-z-dnia-04-marca-2026-roku-",
+      "title": "XXIV Sesja Rady Gminy Dygowo z dnia 04 marca 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558028": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611061.0332537,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558028",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177302632.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/558028-xxii-sesja-rady-miejskiej-w-dobrej",
+      "title": "XXII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2597,6 +4214,39 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558102": {
+      "channel": "Czarne",
+      "checked_ts": 1795610879.8147793,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558102",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178409253.mp4",
+      "page": "https://czarne.tv-polska.eu/film/558102-xxvi-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXVI Sesja Rady Miejskiej w Czarnem - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558103": {
+      "channel": "Dolice",
+      "checked_ts": 1795611095.842959,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558103",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178417969.mp4",
+      "page": "https://dolice.tv-polska.eu/film/558103-xxiii-sesja-rady-gminy-dolice",
+      "title": "XXIII Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558175": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611171.4385884,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "558175",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1179178001.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/558175-xxv-sesja-rady-gminy-dygowo-z-dnia-26-marca--2026-roku-",
+      "title": "XXV Sesja Rady gminy Dygowo z dnia 26 marca  2026 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558283": {
       "channel": "Brusy",
       "checked_ts": 1795610663.1787553,
@@ -2605,6 +4255,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1180782970.mp4",
       "page": "https://brusy.tv-polska.eu/film/558283-xx-sesja-ix-kadencji",
       "title": "XX sesja IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558286": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610908.6191454,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558286",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1180940699.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/558286-29_xxix-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "29_XXIX Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2619,6 +4280,39 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558303": {
+      "channel": "Czarne",
+      "checked_ts": 1795610878.6135292,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558303",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1181129727.mp4",
+      "page": "https://czarne.tv-polska.eu/film/558303-warsztaty-lepienia-pierogow-podczas-festiwalu-smakow-regionalnych-w-gdansku-28-lutego-2026",
+      "title": "Warsztaty lepienia pierogów podczas Festiwalu Smaków Regionalnych w Gdańsku 28 lutego 2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558305": {
+      "channel": "Czarne",
+      "checked_ts": 1795610877.415383,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558305",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1181137197.mp4",
+      "page": "https://czarne.tv-polska.eu/film/558305-ii-pomorski-stol-wielkanocny-",
+      "title": "II Pomorski Stół Wielkanocny.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558306": {
+      "channel": "Czarne",
+      "checked_ts": 1795610876.2142074,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558306",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1181141018.mp4",
+      "page": "https://czarne.tv-polska.eu/film/558306-ix-czarnenski-kiermasz-wielkanocny-28-03-2026",
+      "title": "IX Czarneński Kiermasz Wielkanocny 28.03.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558318": {
       "channel": "Cisna",
       "checked_ts": 1795610799.9899178,
@@ -2627,6 +4321,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1181309129.mp4",
       "page": "https://gminacisna.tv-polska.eu/film/558318-sesja-nr-xxx-rady-gminy-cisna-z-dnia-16-03-2026",
       "title": "Sesja nr XXX Rady Gminy Cisna z dnia 16.03.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558411": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611010.6261342,
+      "group": "10 Lubuskie",
+      "id": "558411",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1182976896.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/558411-xxvii-zwyczajna-sesja-rady-gminy-deszczno-13-04-2026r---2024-2029-",
+      "title": "XXVII Zwyczajna Sesja Rady Gminy Deszczno 13.04.2026r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558530": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610941.0180717,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "558530",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1184764803.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/558530-xxv-sesja-rady-gminy-czerwin-31-03-2026",
+      "title": "XXV sesja Rady Gminy Czerwin 31.03.2026",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2652,6 +4368,72 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558698": {
+      "channel": "Czarne",
+      "checked_ts": 1795610875.0124362,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558698",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186913769.mp4",
+      "page": "https://czarne.tv-polska.eu/film/558698-xxvii-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXVII Sesja Rady Miejskiej w Czarnem - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558775": {
+      "channel": "Drawno",
+      "checked_ts": 1795611146.24161,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558775",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187800276.mp4",
+      "page": "https://drawno.tv-polska.eu/film/558775-dzien-kobiet-w-drawnie",
+      "title": "Dzień Kobiet w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558777": {
+      "channel": "Drawno",
+      "checked_ts": 1795611145.038731,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558777",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187821214.mp4",
+      "page": "https://drawno.tv-polska.eu/film/558777-ii-jarmark-wielkanocny-w-drawnie",
+      "title": "II Jarmark wielkanocny w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558871": {
+      "channel": "Dolice",
+      "checked_ts": 1795611094.6393237,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558871",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1189308987.mp4",
+      "page": "https://dolice.tv-polska.eu/film/558871-xxiv-sesja-rady-gminy-dolice",
+      "title": "XXIV Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558894": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610939.8172426,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "558894",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1189643155.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/558894-xxvi-sesja-rady-gminy-czerwin-05-05-2026",
+      "title": "XXVI sesja Rady Gminy Czerwin 05.05.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558904": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610906.212704,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558904",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1189671062.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/558904-30_xxx-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "30_XXX Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558931": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610594.7691648,
@@ -2674,6 +4456,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558938": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611059.8362517,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558938",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1190213276.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/558938-xxiii-sesja-rady-miejskiej-w-dobrej",
+      "title": "XXIII sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558952": {
       "channel": "Bielice",
       "checked_ts": 1795610563.5656939,
@@ -2682,6 +4475,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1190399534.mp4",
       "page": "https://bielice.tv-polska.eu/film/558952-xxiv-nadzwyczajna-sesja-rady-gminy-bielice",
       "title": "XXIV Nadzwyczajna Sesja Rady Gminy Bielice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559049": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611170.2462623,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "559049",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1192183316.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/559049-xxvi-sesja-rady-gminy-dygowo-z-dnia-27-kwietnia-2026-roku-",
+      "title": "XXVI Sesja Rady Gminy Dygowo z dnia 27 kwietnia 2026 roku",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2707,6 +4511,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559334": {
+      "channel": "Dolice",
+      "checked_ts": 1795611093.4383109,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559334",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1195972256.mp4",
+      "page": "https://dolice.tv-polska.eu/film/559334-xxv-sesja-rady-gminy-dolice",
+      "title": "XXV Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559355": {
+      "channel": "Czarne",
+      "checked_ts": 1795610873.8157415,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559355",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196219777.mp4",
+      "page": "https://czarne.tv-polska.eu/film/559355-xxviii-sesja-rady-miejskiej-w-czarnem-ix-kadencja-",
+      "title": "XXVIII sesja Rady Miejskiej w Czarnem IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559375": {
       "channel": "Barwice",
       "checked_ts": 1795610513.1645215,
@@ -2718,6 +4544,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559382": {
+      "channel": "Drawno",
+      "checked_ts": 1795611143.8403456,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559382",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196559896.mp4",
+      "page": "https://drawno.tv-polska.eu/film/559382-xxviii-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXVIII Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559387": {
+      "channel": "Drawno",
+      "checked_ts": 1795611142.6388376,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559387",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196577284.mp4",
+      "page": "https://drawno.tv-polska.eu/film/559387-xxvii-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXVII Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559464": {
       "channel": "Brusy",
       "checked_ts": 1795610661.9819784,
@@ -2726,6 +4574,61 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197295770.mp4",
       "page": "https://brusy.tv-polska.eu/film/559464-xxi-sesja-ix-kadencji",
       "title": "XXI sesja IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559496": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611009.4303548,
+      "group": "10 Lubuskie",
+      "id": "559496",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197647580.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/559496-xxviii-zwyczajna-sesja-rady-gminy-deszczno-25-05-2026r---2024-2029-",
+      "title": "XXVIII Zwyczajna Sesja Rady Gminy Deszczno 25.05.2026r. (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559515": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610905.013282,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559515",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197960085.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/559515-31_xxxi-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "31_XXXI Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559516": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610903.8131812,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559516",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197960340.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/559516-32_xxxii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "32_XXXII Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559535": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611058.6378028,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559535",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1198042232.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/559535-xxiv-sesja-rady-miejskiej-w-dobrej",
+      "title": "XXIV sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559611": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610938.6189084,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559611",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1199992190.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/559611-xxvii-sesja-rady-gminy-czerwin-09-06-2026",
+      "title": "XXVII sesja Rady Gminy Czerwin 09.06.2026",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2762,6 +4665,50 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559797": {
+      "channel": "Dynów",
+      "checked_ts": 1795611205.0373738,
+      "group": "11 Podkarpacie i Polska Wschodnia",
+      "id": "559797",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202110833.mp4",
+      "page": "https://dynow.tv-polska.eu/film/559797-xxv-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "title": "XXV Sesja Rady Miasta Dynów IX kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559799": {
+      "channel": "Dynów",
+      "checked_ts": 1795611203.8417742,
+      "group": "11 Podkarpacie i Polska Wschodnia",
+      "id": "559799",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202114511.mp4",
+      "page": "https://dynow.tv-polska.eu/film/559799-xxvi-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "title": "XXVI Sesja Rady Miasta Dynów IX kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559800": {
+      "channel": "Dynów",
+      "checked_ts": 1795611202.6382139,
+      "group": "11 Podkarpacie i Polska Wschodnia",
+      "id": "559800",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202120179.mp4",
+      "page": "https://dynow.tv-polska.eu/film/559800-xxvii-sesja-rady-miasta-dynow-ix-kadencji-2024-2029-",
+      "title": "XXVII Sesja Rady Miasta Dynów IX kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559934": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611008.2225325,
+      "group": "10 Lubuskie",
+      "id": "559934",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1203909316.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/559934-xxix-zwyczajna-sesja-rady-gminy-deszczno-22-06-2026r---2024-2029r--",
+      "title": "XXIX Zwyczajna Sesja Rady Gminy Deszczno 22.06.2026r. (2024-2029r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559964": {
       "channel": "Bielice",
       "checked_ts": 1795610561.1724281,
@@ -2770,6 +4717,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204176805.mp4",
       "page": "https://bielice.tv-polska.eu/film/559964-xxvi",
       "title": "XXVI",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559967": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610937.4180722,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559967",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204182997.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/559967-xxviii-sesja-rady-gminy-czerwin-23-06-2026",
+      "title": "XXVIII sesja Rady Gminy Czerwin 23.06.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559993": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611057.438255,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559993",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204499593.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/559993-xxv-sesja-rady-miejskiej-w-dobrej",
+      "title": "XXV sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2795,6 +4764,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560034": {
+      "channel": "Dolice",
+      "checked_ts": 1795611092.237833,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560034",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204788855.mp4",
+      "page": "https://dolice.tv-polska.eu/film/560034-xxvi-sesja-rady-gminy-dolice",
+      "title": "XXVI Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560076": {
+      "channel": "Czarne",
+      "checked_ts": 1795610871.4177175,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560076",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205427795.mp4",
+      "page": "https://czarne.tv-polska.eu/film/560076-xxix-sesja-rady-miejskiej-w-czarnem-ix-kadencja",
+      "title": "XXIX Sesja Rady Miejskiej w Czarnem IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560098": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610627.184105,
@@ -2814,6 +4805,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1207984074.mp4",
       "page": "https://brusy.tv-polska.eu/film/560264-xxii-sesja-ix-kadencji",
       "title": "XXII sesja IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560280": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610902.6191907,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "560280",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208105420.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/560280-33_xxxiii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "33_XXXIII Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2850,6 +4852,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560314": {
+      "channel": "Czarne",
+      "checked_ts": 1795610870.2119963,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560314",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208927313.mp4",
+      "page": "https://czarne.tv-polska.eu/film/560314-xxx-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXX Sesja Rady Miejskiej w Czarnem - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560478": {
       "channel": "Bielice",
       "checked_ts": 1795610559.9676006,
@@ -2861,6 +4874,94 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560560": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611169.0413003,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "560560",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212289050.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/560560-xxvii-sesja-rady-gminy-dygowo-z-dnia-12-czerwca-2026-roku-",
+      "title": "XXVII Sesja Rady Gminy Dygowo z dnia 12 czerwca 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560656": {
+      "channel": "Drawno",
+      "checked_ts": 1795611141.4423852,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560656",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213887563.mp4",
+      "page": "https://drawno.tv-polska.eu/film/560656-xxix-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXIX Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560674": {
+      "channel": "Drawno",
+      "checked_ts": 1795611140.2389336,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560674",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214216664.mp4",
+      "page": "https://drawno.tv-polska.eu/film/560674-xxx-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXX Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560677": {
+      "channel": "Dolice",
+      "checked_ts": 1795611091.040534,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560677",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214234780.mp4",
+      "page": "https://dolice.tv-polska.eu/film/560677-xxvii-sesja-rady-gminy-dolice",
+      "title": "XXVII Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560691": {
+      "channel": "Drawno",
+      "checked_ts": 1795611139.0424385,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560691",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214495708.mp4",
+      "page": "https://drawno.tv-polska.eu/film/560691-zawody-wedkarskie-o-puchar-burmistrza-drawna-2026",
+      "title": "Zawody wędkarskie o Puchar Burmistrza Drawna 2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560694": {
+      "channel": "Drawno",
+      "checked_ts": 1795611136.6382532,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560694",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214496277.mp4",
+      "page": "https://drawno.tv-polska.eu/film/560694-dzien-dziecka-w-drawnie",
+      "title": "Dzień Dziecka w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560696": {
+      "channel": "Drawno",
+      "checked_ts": 1795611135.4404821,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560696",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214499340.mp4",
+      "page": "https://drawno.tv-polska.eu/film/560696-lato-nad-drawa",
+      "title": "Lato nad Drawą",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560713": {
+      "channel": "Drawno",
+      "checked_ts": 1795611134.2531292,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560713",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214501435.mp4",
+      "page": "https://drawno.tv-polska.eu/film/560713-jubileusz-xv-lecia-dzialalnosci-drawienskiego-uniwersytetu-trzeciego-wieku",
+      "title": "Jubileusz XV lecia działalności Drawieńskiego Uniwersytetu Trzeciego Wieku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560743": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610592.3721077,
@@ -2869,6 +4970,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1215181285.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/560743-xxvi-sesja-rady-gminy-bierzwnik",
       "title": "XXVI Sesja Rady Gminy Bierzwnik",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560815": {
+      "channel": "Czarne",
+      "checked_ts": 1795610869.0129304,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560815",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1216598829.mp4",
+      "page": "https://czarne.tv-polska.eu/film/560815-xxxi-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXXI Sesja Rady Miejskiej w Czarnem - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560816": {
+      "channel": "Czarne",
+      "checked_ts": 1795610867.813735,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560816",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1216636759.mp4",
+      "page": "https://czarne.tv-polska.eu/film/560816-xxxii-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXXII Sesja Rady Miejskiej w Czarnem - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560965": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610901.4127643,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "560965",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1219189918.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/560965-34_xxxiv-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "34_XXXIV Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2894,6 +5028,17 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561064": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611007.0269125,
+      "group": "10 Lubuskie",
+      "id": "561064",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221093917.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/561064-xxx-zwyczajna-sesja-rady-gminy-deszczno-24-08-2026r---2024-2029r--",
+      "title": "XXX Zwyczajna Sesja Rady Gminy Deszczno 24.08.2026r. (2024-2029r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561081": {
       "channel": "Banie",
       "checked_ts": 1795609820.2990987,
@@ -2902,6 +5047,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221376930.mp4",
       "page": "https://banie.tv-polska.eu/film/561081-xxii-nadzwyczajna-sesja-rady-gminy-banie",
       "title": "XXII nadzwyczajna sesja Rady Gminy Banie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561129": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611056.2356994,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561129",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221849475.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/561129-xxvi-sesja-rady-miejskiej-w-dobrej",
+      "title": "XXVI sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561150": {
+      "channel": "Drawno",
+      "checked_ts": 1795611133.0390913,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561150",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222052113.mp4",
+      "page": "https://drawno.tv-polska.eu/film/561150-regaty-zeglarskie-w-drawnie",
+      "title": "Regaty żeglarskie w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561261": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611167.83951,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "561261",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223955447.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/561261-xxix-sesja-rady-gminy-dygowo-z-dnia-28-sierpnia-2026-roku",
+      "title": "XXIX Sesja Rady Gminy Dygowo z dnia 28 sierpnia 2026 roku",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2927,6 +5105,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561316": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610936.2187638,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561316",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1224846076.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/561316-xxix-sesja-rady-gminy-czerwin-27-08-2026",
+      "title": "XXIX sesja Rady Gminy Czerwin 27.08.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561323": {
+      "channel": "Dolice",
+      "checked_ts": 1795611089.8378136,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561323",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1224921528.mp4",
+      "page": "https://dolice.tv-polska.eu/film/561323-xxviii-sesja-rady-gminy-dolice",
+      "title": "XXVIII Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561328": {
       "channel": "Banie",
       "checked_ts": 1795609819.4967935,
@@ -2935,6 +5135,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1225192940.mp4",
       "page": "https://banie.tv-polska.eu/film/561328-xxiii-nadzwyczajna-sesja-rady-gminy-banie",
       "title": "XXIII nadzwyczajna sesja Rady Gminy Banie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561361": {
+      "channel": "Czarne",
+      "checked_ts": 1795610866.6227782,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561361",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1225875097.mp4",
+      "page": "https://czarne.tv-polska.eu/film/561361-xxxiii-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXXIII Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2971,6 +5182,61 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561377": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611166.6361961,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "561377",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226502052.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/561377-xxx-nadzwyczajna-sesja-rady-gminy-dygowo-z-dnia-11-wrzesnia-2026-roku-",
+      "title": "XXX Nadzwyczajna Sesja Rady Gminy Dygowo z dnia 11 września 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561407": {
+      "channel": "Dolice",
+      "checked_ts": 1795611088.6404033,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561407",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226853760.mp4",
+      "page": "https://dolice.tv-polska.eu/film/561407-xxix-sesja-rady-gminy-dolice",
+      "title": "XXIX Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561450": {
+      "channel": "Dynów",
+      "checked_ts": 1795611201.4394577,
+      "group": "11 Podkarpacie i Polska Wschodnia",
+      "id": "561450",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227294042.mp4",
+      "page": "https://dynow.tv-polska.eu/film/561450-xxviii-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "title": "XXVIII Sesja Rady Miasta Dynów IX kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561451": {
+      "channel": "Dynów",
+      "checked_ts": 1795611200.2377713,
+      "group": "11 Podkarpacie i Polska Wschodnia",
+      "id": "561451",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227307648.mp4",
+      "page": "https://dynow.tv-polska.eu/film/561451-xxix-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "title": "XXIX Sesja Rady Miasta Dynów IX kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561453": {
+      "channel": "Dynów",
+      "checked_ts": 1795611199.0386138,
+      "group": "11 Podkarpacie i Polska Wschodnia",
+      "id": "561453",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227309527.mp4",
+      "page": "https://dynow.tv-polska.eu/film/561453-xxx-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "title": "XXX Sesja Rady Miasta Dynów IX kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561634": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610591.1719809,
@@ -2990,6 +5256,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230858015.mp4",
       "page": "https://bierzwnik.tv-polska.eu/film/561635-xxviii-sesja-rady-gminy-bierzwnik",
       "title": "XXVIII Sesja Rady Gminy Bierzwnik",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561652": {
+      "channel": "Drawno",
+      "checked_ts": 1795611131.8376791,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561652",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231049748.mp4",
+      "page": "https://drawno.tv-polska.eu/film/561652-xxxi-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXXI Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561653": {
+      "channel": "Czarne",
+      "checked_ts": 1795610865.4102993,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561653",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231036733.mp4",
+      "page": "https://czarne.tv-polska.eu/film/561653-xxxiv-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXXIV Sesja Rady Miejskiej w Czarnem - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561664": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611005.8260033,
+      "group": "10 Lubuskie",
+      "id": "561664",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231216882.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/561664-xxxi-zwyczajna-sesja-rady-gminy-deszczno-28-09-2026r---2024-2029r--",
+      "title": "XXXI Zwyczajna Sesja Rady Gminy Deszczno 28.09.2026r. (2024-2029r.)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3026,6 +5325,28 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561730": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610900.2171702,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561730",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231642447.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/561730-35_xxxv-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "35_XXXV Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561737": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611055.030921,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561737",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231785076.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/561737-xxvii-sesja-rady-miejskiej-w-dobrej",
+      "title": "XXVII sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561744": {
       "channel": "Barwice",
       "checked_ts": 1795610509.5649323,
@@ -3034,6 +5355,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231920399.mp4",
       "page": "https://barwice.tv-polska.eu/film/561744-xxxvi-sesja-rady-miejskiej-w-barwicach",
       "title": "XXXVI Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561755": {
+      "channel": "Drawno",
+      "checked_ts": 1795611130.6696482,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561755",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232022014.mp4",
+      "page": "https://drawno.tv-polska.eu/film/561755-xxxii-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXXII sesja Rady Miejskiej w Drawnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3056,6 +5388,28 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233316464.mp4",
       "page": "https://boleszkowice.tv-polska.eu/film/561823-xxiv-sesja-rady-gminy-boleszkowice-w-dniu-30-09-2026-r-",
       "title": "XXIV SESJA RADY GMINY BOLESZKOWICE w dniu 30.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561831": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610899.0152042,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561831",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233607944.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/561831-36_xxxvi-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "36_XXXVI Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561841": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610935.0173097,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561841",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233661393.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/561841-xxx-sesja-rady-gminy-czerwin-06-10-2026",
+      "title": "XXX sesja Rady Gminy Czerwin 06.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3114,6 +5468,39 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562094": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611004.6254282,
+      "group": "10 Lubuskie",
+      "id": "562094",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239748612.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/562094-xxxii-zwyczajna-sesja-rady-gminy-deszczno-26-10-2026r---2024-2029r--",
+      "title": "XXXII Zwyczajna Sesja Rady Gminy Deszczno 26.10.2026r. (2024-2029r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562095": {
+      "channel": "Dolice",
+      "checked_ts": 1795611087.4390943,
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562095",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239760015.mp4",
+      "page": "https://dolice.tv-polska.eu/film/562095-xxx-sesja-rady-gminy-dolice",
+      "title": "XXX Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562096": {
+      "channel": "Czarne",
+      "checked_ts": 1795610864.214447,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562096",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239844108.mp4",
+      "page": "https://czarne.tv-polska.eu/film/562096-xxxv-sesja-rady-miejskiej-w-czarnem---ix-kadencja",
+      "title": "XXXV Sesja Rady Miejskiej w Czarnem - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562098": {
       "channel": "Barwice",
       "checked_ts": 1795610508.3629,
@@ -3122,6 +5509,17 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240146109.mp4",
       "page": "https://barwice.tv-polska.eu/film/562098-xxxvii-sesja-rady-miejskiej-w-barwicach",
       "title": "XXXVII Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562110": {
+      "channel": "Czarnocin",
+      "checked_ts": 1795610897.8240852,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562110",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240244330.mp4",
+      "page": "https://czarnocin.tv-polska.eu/film/562110-37_xxxvii-sesja-rady-gminy-czarnocin_ix-kadencja",
+      "title": "37_XXXVII Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3147,6 +5545,39 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562124": {
+      "channel": "Czarne",
+      "checked_ts": 1795610860.6124313,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562124",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240655319.mp4",
+      "page": "https://czarne.tv-polska.eu/film/562124-xxi-turniej-kol-gospodyn-wiejskich-wojewodztwa-pomorskiego-w-czarnem-",
+      "title": "XXI Turniej Kół Gospodyń Wiejskich Województwa Pomorskiego w Czarnem.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562126": {
+      "channel": "Dobra Gmina",
+      "checked_ts": 1795611053.8320963,
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562126",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240852917.mp4",
+      "page": "https://dobragmina.tv-polska.eu/film/562126-xxviii-sesja-rady-miejskiej-w-dobrej",
+      "title": "XXVIII sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562138": {
+      "channel": "Dygowo",
+      "checked_ts": 1795611165.4393802,
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "562138",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241270968.mp4",
+      "page": "https://dygowo.tv-polska.eu/film/562138-xxxi-sesja-rady-gminy-dygowo-27-pazdziernika-2026-r-",
+      "title": "XXXI Sesja Rady Gminy Dygowo 27 października 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562151": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610623.5717876,
@@ -3169,6 +5600,292 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562247": {
+      "channel": "Czerwin",
+      "checked_ts": 1795610933.8178961,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562247",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1246242208.mp4",
+      "page": "https://czerwin.tv-polska.eu/film/562247-xxxi-sesja-rady-gminy-czerwin-10-11-2026",
+      "title": "XXXI sesja Rady Gminy Czerwin 10.11.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562287": {
+      "channel": "Dynów",
+      "checked_ts": 1795611197.8407602,
+      "group": "11 Podkarpacie i Polska Wschodnia",
+      "id": "562287",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247549806.mp4",
+      "page": "https://dynow.tv-polska.eu/film/562287-xxxi-sesja-rady-miasta-dynow-ix-kadencji-2024-2029",
+      "title": "XXXI Sesja Rady Miasta Dynów IX kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562300": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795611001.0345695,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562300",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247939331.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562300-xi-sesja-rady-gminy-dabrowice",
+      "title": "XI Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562301": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610999.8197374,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562301",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247946940.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562301-xii-sesja-rady-gminy-dabrowice",
+      "title": "XII Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562302": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610998.62059,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562302",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247951136.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562302-xiii-sesja-rady-gminy-dabrowice",
+      "title": "XIII Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562307": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610997.4218102,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562307",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247957027.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562307-xiv-sesja-rady-gminy-dabrowice",
+      "title": "XIV Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562308": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610996.2197185,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562308",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247996916.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562308-xv-sesja-rady-gminy-dabrowice",
+      "title": "XV Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562309": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610995.0236528,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562309",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248002387.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562309-xvi-sesja-rady-gminy-dabrowice",
+      "title": "XVI Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562310": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610993.8192272,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562310",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248008289.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562310-xviii-sesja-rady-gminy-dabrowice",
+      "title": "XVIII sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562311": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610992.618746,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562311",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248010685.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562311-xix-sesja-rady-gminy-dabrowice",
+      "title": "XIX Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562312": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610990.2199233,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562312",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248013480.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562312-xx-sesja-rady-gminy-dabrowice",
+      "title": "XX Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562313": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610989.0172546,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562313",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248017832.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562313-xxi-sesja-rady-gminy-dabrowice",
+      "title": "XXI Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562314": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610987.824206,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562314",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248023445.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562314-xxii-sesja-rady-gminy-dabrowice",
+      "title": "XXII Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562315": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610986.6191385,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562315",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248030398.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562315-xxiii-sesja-rady-gminy-dabrowice",
+      "title": "XXIII Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562316": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610985.4192119,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562316",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248035571.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562316-xxiii-sesja-rady-gminy-dabrowice",
+      "title": "XXIII Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562317": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610984.2199442,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562317",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248060359.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562317-xxiv-sesja-rady-gminy-dabrowice",
+      "title": "XXIV Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562318": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610983.0185478,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562318",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248074950.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562318-xxv-sesja-rady-gminy-dabrowice",
+      "title": "XXV Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562319": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610981.819346,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562319",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248080062.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562319-xxvi-sesja-rady-gminy-dabrowice",
+      "title": "XXVI Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562320": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610979.4170668,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562320",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248087326.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562320-xxvii-sesja-rady-gminy-dabrowice",
+      "title": "XXVII Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562321": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610978.2172835,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562321",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248107555.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562321-xxviii-sesja-rady-gminy-dabrowice",
+      "title": "XXVIII Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562322": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610977.018369,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562322",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248116122.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562322-xxix-sesja-rady-gminy-dabrowice",
+      "title": "XXIX Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562323": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610975.817003,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562323",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248124812.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562323-xxx-sesja-rady-gminy-dabrowice",
+      "title": "XXX Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562324": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610974.6198,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562324",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248132259.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562324-xxxi-sesja-rady-gminy-dabrowice",
+      "title": "XXXI Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562325": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610973.4157708,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562325",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248136060.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562325-xxxii-sesja-rady-gminy-dabrowice",
+      "title": "XXXII Sesja Rady Gminy Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562328": {
+      "channel": "Drawno",
+      "checked_ts": 1795611129.4549854,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562328",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248240138.mp4",
+      "page": "https://drawno.tv-polska.eu/film/562328-xxxiii-sesja-rady-miejskiej-w-drawnie",
+      "title": "XXXIII sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562343": {
+      "channel": "Drawno",
+      "checked_ts": 1795611119.8402858,
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562343",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248697555.mp4",
+      "page": "https://drawno.tv-polska.eu/film/562343-55-lecie-kola-pzw-w-drawnie",
+      "title": "55 lecie koła PZW w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562361": {
       "channel": "Brusy",
       "checked_ts": 1795610657.1774766,
@@ -3177,6 +5894,39 @@
       "media": "https://film.alfatv.pl/~tv/backup_vimeo/1249323874.mp4",
       "page": "https://brusy.tv-polska.eu/film/562361-xxv-sesja-ix-kadencji",
       "title": "XXV sesja IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562366": {
+      "channel": "Deszczno",
+      "checked_ts": 1795611003.4222696,
+      "group": "10 Lubuskie",
+      "id": "562366",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1249581968.mp4",
+      "page": "https://deszczno.tv-polska.eu/film/562366-xxxiii-zwyczajna-sesja-rady-gminy-deszczno-23-11-2026r---2024-2029r--",
+      "title": "XXXIII Zwyczajna Sesja Rady Gminy Deszczno 23.11.2026r. (2024-2029r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562379": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610972.233303,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562379",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1249953543.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562379-xxxiii-sesja-rady-miejskiej-dabrowice",
+      "title": "XXXIII Sesja Rady Miejskiej Dąbrowice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562380": {
+      "channel": "Dąbrowice",
+      "checked_ts": 1795610971.0149758,
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562380",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1249954986.mp4",
+      "page": "https://dabrowice.tv-polska.eu/film/562380-xxxiv-sesja-rady-miejskiej-dabrowice",
+      "title": "XXXIV Sesja Rady Miejskiej Dąbrowice",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3192,7 +5942,7 @@
       "updated": "2026-11-25"
     }
   },
-  "last_run": "2026-11-25T12:47:05.188432+00:00",
+  "last_run": "2026-11-25T12:53:25.037456+00:00",
   "page_cursors": {
     "alfatv": 3,
     "barcin": 4,
@@ -3209,7 +5959,20 @@
     "chojna": 2,
     "choszczno": 4,
     "ciechocinek": 2,
+    "czarne": 4,
+    "czarnocin": 4,
+    "czerwin": 4,
     "czgnowogard": 2,
+    "dabrowice": 4,
+    "darlowo": 2,
+    "debewielkie": 2,
+    "debno": 2,
+    "deszczno": 4,
+    "dobragmina": 4,
+    "dolice": 4,
+    "drawno": 4,
+    "drawskopomorskie": 2,
+    "dygowo": 4,
     "filmowepanoramysferycznezdrona": 2,
     "gminacisna": 4,
     "witkowo": 3
