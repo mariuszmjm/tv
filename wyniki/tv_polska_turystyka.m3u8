@@ -1,8 +1,10 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-25T13:12:50.395472+00:00
+# Aktualizacja: 2026-11-25T13:19:04.196788+00:00
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Koszalin | Koszalińskie - panorama biznesu -1994r.
 https://film.alfatv.pl/~tv/backup_vimeo/358161171.mp4
+#EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Międzyzdroje | Gmina Międzyzdroje z drona z komentarzem lektorskim
+https://film.alfatv.pl/~tv/backup_vimeo/354473662.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Chojna | Paradoks historii
 https://film.alfatv.pl/~tv/backup_vimeo/358579850.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Dębno | 43. Maraton Dębno 2016 z drona - 3.04.2016
@@ -39,6 +41,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/355725562.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/341795806.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Kujawsko-Pomorskie | Panorama biznesu woj. Włocławskiego - 1994r.
 https://film.alfatv.pl/~tv/backup_vimeo/357946741.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Miasto Turek | Turek z drona
+https://film.alfatv.pl/~tv/backup_vimeo/461767739.mp4
 #EXTINF:-1 group-title="09 Śląskie i Małopolskie",Kuźnia Raciborska | Las utracony - Las odzyskany
 https://film.alfatv.pl/~tv/backup_vimeo/356569835.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",alfaTV | Ińsko z drona 2019
