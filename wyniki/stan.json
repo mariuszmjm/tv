@@ -1,5 +1,5 @@
 {
-  "cursor": 94,
+  "cursor": 108,
   "items": {
     "126976": {
       "channel": "Biały Bór",
@@ -24,6 +24,32 @@
       "page": "https://debno.tv-polska.eu/film/13255-biblioteka-w-debnie",
       "published": "2009-01-01",
       "title": "Biblioteka w Dębnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13258": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615079.4259884,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13258",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/13258-cela-smierci",
+      "published": "2009-01-01",
+      "title": "Cela śmierci",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13260": {
+      "channel": "Mrzeżyno",
+      "checked_ts": 1795614947.188128,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13260",
+      "media": "",
+      "page": "https://mrzezyno.tv-polska.eu/film/13260-hydroplany",
+      "published": "2009-01-01",
+      "title": "Hydroplany",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -79,6 +105,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "13273": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615180.2227993,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13273",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/13273-pelczyce",
+      "published": "2009-01-01",
+      "title": "Pełczyce",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13278": {
       "channel": "Darłowo",
       "checked_ts": 1795610965.019009,
@@ -92,6 +131,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13283": {
+      "channel": "Mrzeżyno",
+      "checked_ts": 1795614945.9924188,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13283",
+      "media": "",
+      "page": "https://mrzezyno.tv-polska.eu/film/13283-zaslubiny-z-morzem",
+      "published": "2009-01-01",
+      "title": "Zaślubiny z morzem",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13299": {
       "channel": "Darłowo",
       "checked_ts": 1795610966.2203221,
@@ -102,6 +154,32 @@
       "page": "https://darlowo.tv-polska.eu/film/13299-darlowo",
       "published": "2009-01-01",
       "title": "Darłowo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13303": {
+      "channel": "Mrzeżyno",
+      "checked_ts": 1795614943.587869,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13303",
+      "media": "",
+      "page": "https://mrzezyno.tv-polska.eu/film/13303-mrzezyno",
+      "published": "2009-01-01",
+      "title": "Mrzeżyno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13305": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615078.21678,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13305",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/13305-nowogard",
+      "published": "2009-01-01",
+      "title": "Nowogard",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -352,6 +430,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13377": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615077.0208383,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13377",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/13377-ziemia-nowogardzka---1992r-",
+      "published": "1992-01-01",
+      "title": "Ziemia Nowogardzka - 1992r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13380": {
       "channel": "Gryfino",
       "checked_ts": 1795611511.5918975,
@@ -415,6 +506,32 @@
       "published": "2005-01-01",
       "title": "Gryfino - 750 lat historii która łączy",
       "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "13395": {
+      "channel": "Piła",
+      "checked_ts": 1795615248.6357872,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "13395",
+      "media": "",
+      "page": "https://pila.tv-polska.eu/film/13395-pila-i-okolice---1993r-",
+      "published": "1993-01-01",
+      "title": "Piła i okolice - 1993r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13397": {
+      "channel": "Piła",
+      "checked_ts": 1795615247.4364743,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "13397",
+      "media": "",
+      "page": "https://pila.tv-polska.eu/film/13397-pilskie---filmowa-panorama-biznesu---1994r-",
+      "published": "1994-01-01",
+      "title": "Pilskie - filmowa panorama biznesu - 1994r.",
+      "tourism": false,
       "updated": "2026-11-25"
     },
     "13398": {
@@ -612,6 +729,58 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13487": {
+      "channel": "Mrzeżyno",
+      "checked_ts": 1795614941.1885502,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13487",
+      "media": "",
+      "page": "https://mrzezyno.tv-polska.eu/film/13487-swieto-latawcow-w-mrzezynie",
+      "published": "2002-01-01",
+      "title": "Święto latawców w Mrzeżynie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13491": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615075.8177397,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13491",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/13491-prd-nowogard",
+      "published": "2000-01-01",
+      "title": "PRD Nowogard",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13527": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615074.6167583,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13527",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/13527-rozdanie-nagrod----ekofilm-2010",
+      "published": "2010-01-01",
+      "title": "Rozdanie nagród  - EKOFILM 2010",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13528": {
+      "channel": "Na Rzecz Wybrzeża",
+      "checked_ts": 1795614985.5914114,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13528",
+      "media": "",
+      "page": "https://narzeczwybrzeza.tv-polska.eu/film/13528-szczesliwe-krowy",
+      "published": "2010-01-01",
+      "title": "Szczęśliwe krowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13533": {
       "channel": "Choszczno",
       "checked_ts": 1795610748.3846514,
@@ -622,6 +791,58 @@
       "page": "https://choszczno.tv-polska.eu/film/13533-choszczno---inwestycje-i-rozwoj-w-latach--2006---2010",
       "published": "2010-01-01",
       "title": "Choszczno - inwestycje i rozwój w latach  2006 - 2010",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13538": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615072.2185667,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13538",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/13538-sarni-las",
+      "published": "2010-01-01",
+      "title": "Sarni las",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13539": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615071.019088,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13539",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/13539-stary-nowogard",
+      "published": "2010-01-01",
+      "title": "Stary Nowogard",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13548": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615069.8179262,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13548",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/13548-zaproszenie-do-nowogardu",
+      "published": "2010-01-01",
+      "title": "Zaproszenie do Nowogardu",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13549": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615065.0184891,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13549",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/13549-nowogard---inwestycje-i-rozwoj-2006---2010",
+      "published": "2010-01-01",
+      "title": "Nowogard - Inwestycje i Rozwój 2006 - 2010",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -781,6 +1002,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13597": {
+      "channel": "Na Rzecz Wybrzeża",
+      "checked_ts": 1795614987.9866543,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13597",
+      "media": "",
+      "page": "https://narzeczwybrzeza.tv-polska.eu/film/13597-cicha-noc",
+      "published": "2012-01-01",
+      "title": "Cicha noc",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "13606": {
+      "channel": "Na Rzecz Wybrzeża",
+      "checked_ts": 1795614986.7866347,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13606",
+      "media": "",
+      "page": "https://narzeczwybrzeza.tv-polska.eu/film/13606-dzikie-konie",
+      "published": "2012-01-01",
+      "title": "Dzikie konie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13617": {
       "channel": "Manowo",
       "checked_ts": 1795612409.936224,
@@ -859,6 +1106,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13653": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615026.6160774,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13653",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/13653-nowowarpienska-pastoralka",
+      "published": "2012-01-01",
+      "title": "Nowowarpieńska Pastorałka",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13655": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611350.7528946,
@@ -911,6 +1171,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13694": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615029.017225,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13694",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/13694-750-lat-nowego-warpna",
+      "published": "2013-01-01",
+      "title": "750 lat Nowego Warpna",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "13697": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611349.555882,
@@ -935,6 +1208,19 @@
       "published": "2014-01-01",
       "title": "Letnie Drawno widziane okiem drona",
       "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "143371": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615063.8210082,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "143371",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/143371-kosciol-pw--wniebowziecia-najswietszej-maryji-panny-w-nowogardzie",
+      "published": "2000-01-01",
+      "title": "Kościół pw. Wniebowzięcia Najświętszej Maryji Panny w Nowogardzie",
+      "tourism": false,
       "updated": "2026-11-25"
     },
     "144042": {
@@ -1288,6 +1574,71 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "19606": {
+      "channel": "Pojezierze Drawskie",
+      "checked_ts": 1795615254.6354666,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "19606",
+      "media": "",
+      "page": "https://pojezierzedrawskie.tv-polska.eu/film/19606-waldemar-wlodarczyk",
+      "published": "2010-01-01",
+      "title": "Waldemar Włodarczyk",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "19613": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615068.617111,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "19613",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/19613-agnieszka-bieganska---sawicka",
+      "published": "2010-01-01",
+      "title": "Agnieszka Biegańska - Sawicka",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "19614": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615067.4188924,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "19614",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/19614-kazimierz-ziemba",
+      "published": "2010-01-01",
+      "title": "Kazimierz Ziemba",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "19615": {
+      "channel": "Nowogard",
+      "checked_ts": 1795615066.2221272,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "19615",
+      "media": "",
+      "page": "https://nowogard.tv-polska.eu/film/19615-tadeusz-kubica",
+      "published": "2010-01-01",
+      "title": "Tadeusz Kubica",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "19620": {
+      "channel": "Na Rzecz Wybrzeża",
+      "checked_ts": 1795614984.3852654,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "19620",
+      "media": "",
+      "page": "https://narzeczwybrzeza.tv-polska.eu/film/19620-krowy",
+      "published": "2013-01-01",
+      "title": "Krowy",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "19646": {
       "channel": "Międzyzdroje",
       "checked_ts": 1795612741.6463687,
@@ -1298,6 +1649,19 @@
       "page": "https://miedzyzdroje.tv-polska.eu/film/19646-poznawanie-teatru-natury",
       "published": "2014-01-01",
       "title": "Poznawanie teatru natury",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "213835": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615030.2129529,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "213835",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/213835-obchody-nadania-praw-miejskich-dla-nowego-warpna",
+      "published": "2013-01-01",
+      "title": "Obchody nadania praw miejskich dla Nowego Warpna",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -1403,6 +1767,19 @@
       "published": "2002-01-01",
       "title": "Zachowane Piękno - Kościół w Jarszewie",
       "tourism": true,
+      "updated": "2026-11-25"
+    },
+    "241365": {
+      "channel": "Pojezierze Drawskie",
+      "checked_ts": 1795615253.4390554,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "241365",
+      "media": "",
+      "page": "https://pojezierzedrawskie.tv-polska.eu/film/241365-projekt--ochrona-wod-zlewni-rzek-drawy-i-regi----zakonczenie-projektu",
+      "published": "2015-01-01",
+      "title": "Projekt \"Ochrona Wód Zlewni Rzek Drawy i Regi\" - zakończenie projektu",
+      "tourism": false,
       "updated": "2026-11-25"
     },
     "267331": {
@@ -1519,6 +1896,19 @@
       "page": "https://witkowo.tv-polska.eu/film/365492-65-lat---spoldzielcza-agrofirma-witkowo",
       "published": "2016-01-01",
       "title": "65 lat - Spółdzielcza Agrofirma Witkowo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "377110": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615027.9142244,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "377110",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/377110-nowe-warpno-z-drona-z-komentarzem-lektorskim",
+      "published": "2017-01-01",
+      "title": "Nowe Warpno z drona z komentarzem lektorskim",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2042,6 +2432,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "460676": {
+      "channel": "Mrzeżyno",
+      "checked_ts": 1795614944.7907038,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "460676",
+      "media": "",
+      "page": "https://mrzezyno.tv-polska.eu/film/460676-ulani-na-plan-",
+      "published": "1995-01-01",
+      "title": "Ułani na plan!",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "461227": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609793.1772163,
@@ -2078,6 +2481,19 @@
       "page": "https://gorzow.tv-polska.eu/film/463799-s3-od-swiebodzina-do-szczecina",
       "published": "2019-01-01",
       "title": "S3 od Świebodzina do Szczecina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "466287": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615025.4109054,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "466287",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/466287-koncert-polsko-niemieckiego-choru-w-kosciele-w-nowym-warpnie",
+      "published": "2019-01-01",
+      "title": "Koncert polsko-niemieckiego chóru w Kościele w Nowym Warpnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2367,6 +2783,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "513212": {
+      "channel": "Piątek",
+      "checked_ts": 1795615213.8347383,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "513212",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/513212-las-witowski---silne-blota",
+      "published": "2016-01-01",
+      "title": "Las Witowski - Silne Błota",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "515702": {
       "channel": "Międzyzdroje",
       "checked_ts": 1795612742.8511608,
@@ -2510,6 +2939,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "530552": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614981.9870176,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "530552",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/530552-vii-sesja--01-12-22-cz-3",
+      "published": "2022-01-01",
+      "title": "VII SESJA  01.12.22 CZ.3",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "530732": {
       "channel": "Choszczno",
       "checked_ts": 1795610773.5840285,
@@ -2572,6 +3014,58 @@
       "page": "https://choszczno.tv-polska.eu/film/530738-sesja-xlv-rady-miejskiej-w-choszcznie",
       "published": "2023-01-01",
       "title": "Sesja XLV Rady Miejskiej w Choszcznie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "531337": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614980.7937636,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "531337",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/531337-liv-sesja-26-01-2023-cz-1",
+      "published": "2023-01-26",
+      "title": "LIV sesja 26.01.2023 cz.1",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "531338": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614979.592114,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "531338",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/531338-liv-sesja-26-01-2023-cz-",
+      "published": "2023-01-26",
+      "title": "LIV sesja 26.01.2023 cz.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "531339": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614978.3881495,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "531339",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/531339-liv-sesja-26-01-2023-cz-4",
+      "published": "2023-01-26",
+      "title": "LIV sesja 26.01.2023 cz.4",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "531340": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614977.1862345,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "531340",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/531340-liv-sesja-26-01-2023-cz-3",
+      "published": "2023-01-26",
+      "title": "LIV sesja 26.01.2023 cz.3",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2744,6 +3238,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "534258": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615061.4367468,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "534258",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/534258-xxx-sesja-viii-kadencji-rady-miejskiej-w-nowym-warpnie-",
+      "published": "2023-01-01",
+      "title": "XXX Sesja VIII kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "534421": {
       "channel": "Choszczno",
       "checked_ts": 1795610762.7845726,
@@ -2848,6 +3355,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "536683": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615060.2191334,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "536683",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/536683-xxxi-sesja-viii-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2023-01-01",
+      "title": "XXXI Sesja VIII Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "536684": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615059.0187416,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "536684",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/536684-xxxii-sesja-viii-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2023-01-01",
+      "title": "XXXII Sesja VIII Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "536711": {
       "channel": "Kobylanka",
       "checked_ts": 1795611974.453509,
@@ -2897,6 +3430,19 @@
       "page": "https://choszczno.tv-polska.eu/film/537229-sesja-l-rady-miejskiej-w-choszcznie-cz2",
       "published": "2023-01-01",
       "title": "Sesja L Rady Miejskiej w Choszcznie cz2",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "537342": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615145.4273956,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "537342",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/537342-xlvi-sesja-rady-gminy-osiek",
+      "published": "2023-01-01",
+      "title": "XLVI Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -2991,6 +3537,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "538695": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615144.2243395,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "538695",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/538695-xlvii-sesja-rady-gminy-osiek",
+      "published": "2023-01-01",
+      "title": "XLVII Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "538843": {
       "channel": "Łanięta",
       "checked_ts": 1795612334.3393037,
@@ -3040,6 +3599,84 @@
       "page": "https://labiszyn.tv-polska.eu/film/539132-xlvii-sesja-rady-miejskiej",
       "published": "2023-01-01",
       "title": "XLVII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "539172": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615057.8170016,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "539172",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/539172-xxxiii-sesja-viii-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2023-01-01",
+      "title": "XXXIII Sesja VIII Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "539428": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614975.9889736,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "539428",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/539428-lvii-sesja-27-04-2023",
+      "published": "2023-04-27",
+      "title": "LVII SESJA 27.04.2023",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "539429": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614974.7871904,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "539429",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/539429-lviii-sesja-25-05-2023",
+      "published": "2023-05-25",
+      "title": "LVIII SESJA 25.05.2023",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "539430": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614973.5905876,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "539430",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/539430-lx-srm-31-08-2023",
+      "published": "2023-08-31",
+      "title": "LX SRM 31.08.2023",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "539434": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614971.1880486,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "539434",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/539434-lxii-srm-30-10-2023",
+      "published": "2023-10-30",
+      "title": "LXII SRM 30.10.2023",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "539456": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615143.0274017,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "539456",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/539456-xlviii-sesja-rady-gminy-osiek",
+      "published": "2023-01-01",
+      "title": "XLVIII Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3108,6 +3745,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "540068": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614969.986202,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "540068",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/540068-lxi----26-09-2023",
+      "published": "2023-09-26",
+      "title": "LXI    26.09.2023",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "540115": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615141.8246489,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "540115",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/540115-xlix-sesja-rady-gminy-osiek",
+      "published": "2024-01-01",
+      "title": "XLIX Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "540212": {
       "channel": "Gniewino",
       "checked_ts": 1795611420.3595111,
@@ -3144,6 +3807,19 @@
       "page": "https://lanieta.tv-polska.eu/film/540277-lxviii-sesja-rady-gminy-lanieta--powiat-kutnowski---26-01-2024-r----transmisja-na-zywo",
       "published": "2024-01-26",
       "title": "LXVIII Sesja Rady Gminy Łanięta, powiat kutnowski - 26.01.2024 r. - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "540464": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615056.6165447,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "540464",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/540464-xxxiv-sesja-viii-kadencji-rady-gminy-nowe-warpno",
+      "published": "2024-01-01",
+      "title": "XXXIV Sesja VIII Kadencji Rady Gminy Nowe Warpno",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3277,6 +3953,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "541797": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615022.7943535,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "541797",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/541797-lix-2024-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2024-01-01",
+      "title": "LIX.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "541807": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612304.3339705,
@@ -3287,6 +3976,19 @@
       "page": "https://labiszyn.tv-polska.eu/film/541807-l-sesja-rady-miejskiej",
       "published": "2024-01-01",
       "title": "L Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "541955": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615140.6282668,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "541955",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/541955-l-sesja-rady-gminy-osiek",
+      "published": "2024-01-01",
+      "title": "L Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3433,6 +4135,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "542622": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615139.4251575,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "542622",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/542622-i-sesja-rady-gminy-osiek",
+      "published": "2024-01-01",
+      "title": "I Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "542706": {
       "channel": "Gniewino",
       "checked_ts": 1795611417.9625075,
@@ -3472,6 +4187,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "542747": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615021.6035357,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "542747",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/542747-i-2024-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2024-01-01",
+      "title": "I.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "542902": {
       "channel": "Karnice",
       "checked_ts": 1795611868.8555472,
@@ -3482,6 +4210,32 @@
       "page": "https://karnice.tv-polska.eu/film/542902-sesja-rady-gminy-karnice-15-05-2024",
       "published": "2024-05-15",
       "title": "Sesja Rady Gminy Karnice 15.05.2024",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "542909": {
+      "channel": "Osina",
+      "checked_ts": 1795615177.8252814,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "542909",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/542909-i-sesja-rady-gminy-osina-cz--5",
+      "published": "2024-01-01",
+      "title": "I Sesja Rady Gminy Osina cz. 5",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "542912": {
+      "channel": "Osina",
+      "checked_ts": 1795615176.6248224,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "542912",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/542912-i-sesja-rady-gminy-osina-cz--6",
+      "published": "2024-01-01",
+      "title": "I Sesja Rady Gminy Osina cz. 6",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3547,6 +4301,19 @@
       "page": "https://cewice.tv-polska.eu/film/543191-xlvii-sesja-rady-gminy-cewice-osmej-kadencji",
       "published": "2023-01-01",
       "title": "XLVII Sesja Rady Gminy Cewice ósmej kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "543194": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615138.229066,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "543194",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/543194-ii-sesja-rady-gminy-osiek",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3693,6 +4460,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "543248": {
+      "channel": "Piątek",
+      "checked_ts": 1795615245.0369403,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "543248",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/543248-iii-sesja-rady-miejskiej-w-piatku-ix-kadencji",
+      "published": "2024-01-01",
+      "title": "III sesja Rady Miejskiej w Piątku IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "543256": {
       "channel": "Cewice",
       "checked_ts": 1795610705.180539,
@@ -3716,6 +4496,19 @@
       "page": "https://cewice.tv-polska.eu/film/543258-ii-sesja-rady-gminy-cewice-dziewiatej-kadencji",
       "published": "2024-01-01",
       "title": "II Sesja Rady Gminy Cewice dziewiątej kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "543333": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615020.3916872,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "543333",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/543333-ii-2024-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2024-01-01",
+      "title": "II.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3755,6 +4548,32 @@
       "page": "https://boleszkowice.tv-polska.eu/film/543616-ii-sesja-rady-gminy-boleszkowice-w-dniu-29-05-2024-r-",
       "published": "2024-05-29",
       "title": "II Sesja Rady Gminy Boleszkowice w dniu 29.05.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "543650": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615019.1939402,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "543650",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/543650-iii-2024-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2024-01-01",
+      "title": "III.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "543655": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615211.429609,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "543655",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/543655-ii-sesja-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -3849,6 +4668,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "544267": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615017.991344,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "544267",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/544267-iv-2024-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2024-01-01",
+      "title": "IV.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "544304": {
+      "channel": "Osina",
+      "checked_ts": 1795615175.4232976,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "544304",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/544304-ii-sesja-rady-gminy-osina",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "544305": {
+      "channel": "Osina",
+      "checked_ts": 1795615174.2269652,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "544305",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/544305-iii-sesja-rady-gminy-osina",
+      "published": "2024-01-01",
+      "title": "III Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "544319": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612300.7450032,
@@ -3914,6 +4772,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "544566": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615137.0344117,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "544566",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/544566-iii-sesja-rady-gminy-osiek",
+      "published": "2024-01-01",
+      "title": "III Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "544627": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615210.226254,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "544627",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/544627-iii-sesja-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "III Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "544766": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610619.9753032,
@@ -3924,6 +4808,19 @@
       "page": "https://bierzwnik.tv-polska.eu/film/544766-iv-sesja-rady-gminy-bierzwnik",
       "published": "2024-01-01",
       "title": "IV Sesja Rady Gminy Bierzwnik",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "544808": {
+      "channel": "Osina",
+      "checked_ts": 1795615173.0262928,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "544808",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/544808-iv-sesja-rady-gminy-osina",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4044,6 +4941,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545851": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615209.0325623,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545851",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/545851-iv-sesja-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "545859": {
       "channel": "Brusy",
       "checked_ts": 1795610684.7906883,
@@ -4096,6 +5006,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545901": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615207.8272867,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545901",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/545901-v-sesja-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "V Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545935": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615134.6236117,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "545935",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/545935-iv-sesja-rady-gminy-osiek",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "545937": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611840.0581322,
@@ -4106,6 +5042,84 @@
       "page": "https://kamienpomorski.tv-polska.eu/film/545937-v-sesja-rady-miejskiej--2024-2029-",
       "published": "2024-01-01",
       "title": "V Sesja Rady Miejskiej (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545944": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615055.4287696,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545944",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/545944-xxxv-sesja-viii-kadencji-rady-gminy-nowe-warpno",
+      "published": "2024-01-01",
+      "title": "XXXV Sesja VIII Kadencji Rady Gminy Nowe Warpno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545945": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615054.2182403,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545945",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/545945-xxxvi-sesja-viii-kadencji-rady-gminy-nowe-warpno",
+      "published": "2024-01-01",
+      "title": "XXXVI Sesja VIII Kadencji Rady Gminy Nowe Warpno",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545947": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615053.013604,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545947",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/545947-i-sesja-ix-kadedencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2024-01-01",
+      "title": "I Sesja IX Kadedencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545948": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615050.6158316,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545948",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/545948-ii-sesja-ix-kadedencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2024-01-01",
+      "title": "II Sesja IX Kadedencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545949": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615049.4157414,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545949",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/545949-iii-sesja-ix-kadedencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2024-01-01",
+      "title": "III Sesja IX Kadedencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "545955": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615016.7950027,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "545955",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/545955-v-2024-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2024-01-01",
+      "title": "V.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4252,6 +5266,58 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546451": {
+      "channel": "Piątek",
+      "checked_ts": 1795615243.8410778,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546451",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/546451-iv-sesja-rady-miejskiej-w-piatku-ix-kadencji",
+      "published": "2024-01-01",
+      "title": "IV sesja Rady Miejskiej w Piątku IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "546452": {
+      "channel": "Piątek",
+      "checked_ts": 1795615242.636627,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546452",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/546452-v-sesja-rady-miejskiej-w-piatku-ix-kadencji",
+      "published": "2024-01-01",
+      "title": "V sesja Rady Miejskiej w Piątku IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "546453": {
+      "channel": "Piątek",
+      "checked_ts": 1795615241.4410155,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546453",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/546453-vi-sesja-rady-miejskiej-w-piatku-ix-kadencji",
+      "published": "2024-01-01",
+      "title": "VI sesja Rady Miejskiej w Piątku IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "546627": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615015.593878,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "546627",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/546627-vi-2024-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2024-01-01",
+      "title": "VI.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "546642": {
       "channel": "Barcin",
       "checked_ts": 1795610498.764558,
@@ -4304,6 +5370,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546729": {
+      "channel": "Osina",
+      "checked_ts": 1795615171.8256483,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546729",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/546729-v-sesja-rady-gminy-osina",
+      "published": "2024-01-01",
+      "title": "V Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "546744": {
       "channel": "Manowo",
       "checked_ts": 1795612439.9392595,
@@ -4343,6 +5422,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546780": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615206.6475704,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546780",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/546780-vi-sesja-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "VI Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "546781": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615205.4265635,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546781",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/546781-vii-sesja-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "VII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "546811": {
       "channel": "Bielice",
       "checked_ts": 1795610586.374377,
@@ -4366,6 +5471,32 @@
       "page": "https://kamienkrajenski.tv-polska.eu/film/546849-vii-sesja-rady-miejskiej-w-kamieniu-krajenskim",
       "published": "2024-01-01",
       "title": "VII Sesja Rady Miejskiej w Kamieniu Krajeńskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "546876": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615204.2280777,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546876",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/546876-viii-sesja-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "VIII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "546887": {
+      "channel": "Osina",
+      "checked_ts": 1795615170.6236057,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546887",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/546887-vi-sesja-rady-gminy-osina",
+      "published": "2024-01-01",
+      "title": "VI Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4473,6 +5604,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547214": {
+      "channel": "Piątek",
+      "checked_ts": 1795615240.2480564,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "547214",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/547214-vii-sesja-rady-miejskiej-w-piatku-",
+      "published": "2024-01-01",
+      "title": "VII sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547232": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612234.7270935,
@@ -4486,6 +5630,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547259": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615133.4263139,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "547259",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/547259-v-sesja-rady-gminy-osiek",
+      "published": "2024-01-01",
+      "title": "V Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547323": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611837.6449938,
@@ -4496,6 +5653,19 @@
       "page": "https://kamienpomorski.tv-polska.eu/film/547323-vii-sesja-rady-miejskiej--2024-2029-",
       "published": "2024-01-01",
       "title": "VII Sesja Rady Miejskiej (2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547415": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615048.2149963,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547415",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/547415-iv-sesja-ix-kadedencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2024-01-01",
+      "title": "IV Sesja IX Kadedencji Rady Miejskiej w Nowym Warpnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4551,6 +5721,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547452": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615203.0474162,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547452",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/547452-ix-sesja-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "IX Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547462": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611806.4471695,
@@ -4587,6 +5770,19 @@
       "page": "https://dobragmina.tv-polska.eu/film/547496-vii-sesja-rady-miejskiej-w-dobrej",
       "published": "2024-01-01",
       "title": "VII sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547502": {
+      "channel": "Osina",
+      "checked_ts": 1795615169.425847,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547502",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/547502-vii-sesja-rady-gminy-osina",
+      "published": "2024-01-01",
+      "title": "VII Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4720,6 +5916,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547642": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615014.406876,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "547642",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/547642-vii-2024-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2024-01-01",
+      "title": "VII.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547652": {
       "channel": "Brusy",
       "checked_ts": 1795610682.382051,
@@ -4821,6 +6030,19 @@
       "page": "https://czerwin.tv-polska.eu/film/547811-ix-sesja-rady-gminy-czerwin-10-12-2024",
       "published": "2024-12-10",
       "title": "IX sesja Rady Gminy Czerwin 10.12.2024",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "547813": {
+      "channel": "Piątek",
+      "checked_ts": 1795615239.0397148,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "547813",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/547813-viii-sesja-rady-miejskiej-w-piatku",
+      "published": "2024-01-01",
+      "title": "VIII sesja Rady Miejskiej w Piątku",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -4941,6 +6163,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547988": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615011.992912,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "547988",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/547988-viii-2024-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2024-01-01",
+      "title": "VIII.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "547998": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612297.1327984,
@@ -4967,6 +6202,97 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548007": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615200.6275864,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548007",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/548007-x-sesja-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "X Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548008": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614968.7876363,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548008",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548008-i-sesja-rady-miejskiej-ix-kadencji-w-mysliborzu-z-dnia-02-05-2024---transmisja-na-zywo--1-",
+      "published": "2024-05-02",
+      "title": "I SESJA RADY MIEJSKIEJ IX KADENCJI W MYŚLIBORZU z dnia 02.05.2024 - transmisja na żywo (1)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548009": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614967.5852263,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548009",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548009-lxv-sesja-rady-miejskiej-w-mysliborzu-z-dnia-25-01-2024---transmisja-na-zywo",
+      "published": "2024-01-25",
+      "title": "LXV SESJA RADY MIEJSKIEJ W MYŚLIBORZU z dnia 25.01.2024 - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548010": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614966.387403,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548010",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548010-ii-sesja-rady-miejskiej-ix-kadencji-w-mysliborzu-z-dnia-09-05-2024---transmisja-na-zywo",
+      "published": "2024-05-09",
+      "title": "II SESJA RADY MIEJSKIEJ IX KADENCJI W MYŚLIBORZU z dnia 09.05.2024 - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548011": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614965.189084,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548011",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548011-iii-sesja-rady-miejskiej-ix-kadencji-w-mysliborzu-z-dnia-13-06-2024---transmisja-na-zywo",
+      "published": "2024-06-13",
+      "title": "III SESJA RADY MIEJSKIEJ IX KADENCJI W MYŚLIBORZU z dnia 13.06.2024 - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548013": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614964.0056195,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548013",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548013-lxvi-sesja-rady-miejskiej-w-mysliborzu-z-dnia-15-02-2024---transmisja-na-zywo",
+      "published": "2024-02-15",
+      "title": "LXVI SESJA RADY MIEJSKIEJ W MYŚLIBORZU z dnia 15.02.2024 - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548014": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614962.7861266,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548014",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548014-lxvii-sesja-rady-miejskiej-w-mysliborzu-z-dnia-07-03-2024---transmisja-na-zywo",
+      "published": "2024-03-07",
+      "title": "LXVII SESJA RADY MIEJSKIEJ W MYŚLIBORZU z dnia 07.03.2024 - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548015": {
       "channel": "Jaktorów",
       "checked_ts": 1795611661.181435,
@@ -4977,6 +6303,110 @@
       "page": "https://jaktorow.tv-polska.eu/film/548015-ix-sesja-rady-gminy-jaktorow---19-12-2024--godz--15-00",
       "published": "2024-01-01",
       "title": "IX Sesja Rady Gminy Jaktorów - 19-12-2024, godz. 15 00",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548018": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614960.3850033,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548018",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548018-iii-sesja-rady-miejskiej-w-mysliborzu-czesc-ii",
+      "published": "2024-01-01",
+      "title": "III SESJA RADY MIEJSKIEJ W MYŚLIBORZU część II",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548019": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614959.1873584,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548019",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548019-iii-sesja-rady-miejskiej-w-mysliborzu-czesc-iii",
+      "published": "2024-01-01",
+      "title": "III SESJA RADY MIEJSKIEJ W MYŚLIBORZU część III",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548020": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614957.9854774,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548020",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548020-vi-sesja-rady-miejskiej-ix-kadencji-w-mysliborzu-z-dnia-31-10-2024---transmisja-na-zywo-",
+      "published": "2024-10-31",
+      "title": "VI SESJA RADY MIEJSKIEJ IX KADENCJI W MYŚLIBORZU z dnia 31.10.2024 - transmisja na żywo.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548023": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614956.7858696,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548023",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548023-v-sesja-rady-miejskiej-ix-kadencji-w-mysliborzu-z-dnia-26-09-2024---transmisja-na-zywo",
+      "published": "2024-09-26",
+      "title": "V SESJA RADY MIEJSKIEJ IX KADENCJI W MYŚLIBORZU z dnia 26.09.2024 - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548025": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614955.586221,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548025",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548025-lxiii-sesja-rady-miejskiej-w-mysliborzu-z-dnia-30-11-2023---transmisja-na-zywo",
+      "published": "2023-11-30",
+      "title": "LXIII SESJA RADY MIEJSKIEJ W MYŚLIBORZU z dnia 30.11.2023 - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548026": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614954.3853397,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548026",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548026-iv-sesja-rady-miejskiej-ix-kadencji-w-mysliborzu-z-dnia-29-08-2024---transmisja-na-zywo",
+      "published": "2024-08-29",
+      "title": "IV SESJA RADY MIEJSKIEJ IX KADENCJI W MYŚLIBORZU z dnia 29.08.2024 - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548027": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614953.1905363,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548027",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548027-lxiv-sesja-rady-miejskiej-w-mysliborzu-z-dnia-7-12-2023---transmisja-na-zywo",
+      "published": "2023-12-07",
+      "title": "LXIV SESJA RADY MIEJSKIEJ W MYŚLIBORZU z dnia 7.12.2023 - transmisja na żywo",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548028": {
+      "channel": "Myślibórz",
+      "checked_ts": 1795614951.9901578,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548028",
+      "media": "",
+      "page": "https://mysliborz.tv-polska.eu/film/548028-vii-sesja-rady-miejskiej-ix-kadencji-w-mysliborzu-z-dnia-28-11-2024---transmisja-na-zywo-",
+      "published": "2024-11-28",
+      "title": "VII SESJA RADY MIEJSKIEJ IX KADENCJI W MYŚLIBORZU z dnia 28.11.2024 - transmisja na żywo.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5029,6 +6459,19 @@
       "page": "https://dolice.tv-polska.eu/film/548065-viii-sesja-rady-gminy-dolice",
       "published": "2024-01-01",
       "title": "VIII Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548069": {
+      "channel": "Osina",
+      "checked_ts": 1795615167.0243802,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548069",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/548069-viii-sesja-rady-gminy-osina",
+      "published": "2024-01-01",
+      "title": "VIII Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5097,6 +6540,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548148": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615047.0146916,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548148",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/548148-v-sesja-ix-kadedencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2024-01-01",
+      "title": "V Sesja IX Kadedencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548149": {
       "channel": "Lębork",
       "checked_ts": 1795612265.9393787,
@@ -5149,6 +6605,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "548212": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615132.2261558,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "548212",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/548212-vi-sesja-rady-gminy-osiek",
+      "published": "2024-01-01",
+      "title": "VI Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548221": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611080.235428,
@@ -5175,6 +6644,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548227": {
+      "channel": "Osina",
+      "checked_ts": 1795615165.8223658,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548227",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/548227-ix-sesja-rady-gminy-osina",
+      "published": "2024-01-01",
+      "title": "IX Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548240": {
       "channel": "Karnice",
       "checked_ts": 1795611860.4516296,
@@ -5185,6 +6667,19 @@
       "page": "https://karnice.tv-polska.eu/film/548240-sesja-rady-gminy-karnice-30-12-2024",
       "published": "2024-01-01",
       "title": "Sesja Rady Gminy Karnice 30-12-2024",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548245": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614938.8081944,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "548245",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/548245-ix-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2024-01-01",
+      "title": "IX sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -5383,6 +6878,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548682": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615010.7986434,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "548682",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/548682-ix-2025-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2025-01-01",
+      "title": "IX.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548691": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615045.8142881,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548691",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/548691-vi-sesja-ix-kadedencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2025-01-01",
+      "title": "VI Sesja IX Kadedencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "548706": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612294.7458746,
@@ -5510,6 +7031,19 @@
       "page": "https://dolice.tv-polska.eu/film/548837-ix-sesja-rady-gminy-dolice",
       "published": "2025-01-01",
       "title": "IX Sesja Rady Gminy Dolice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "548843": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615199.4280972,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548843",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/548843-xi-sesja-rady-miejskiej",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6020,6 +7554,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549471": {
+      "channel": "Osina",
+      "checked_ts": 1795615164.6229296,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "549471",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/549471-x-sesja-rady-gminy-osina",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "549473": {
       "channel": "Kępice",
       "checked_ts": 1795611908.4691718,
@@ -6137,6 +7684,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549544": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614937.5952344,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "549544",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/549544-x-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "X sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "549554": {
       "channel": "Dygowo",
       "checked_ts": 1795611190.639976,
@@ -6173,6 +7733,19 @@
       "page": "https://miastolezajsk.tv-polska.eu/film/549609-xi-sesja-rady-miejskiej-w-lezajsku---nadzwyczajna",
       "published": "2025-01-01",
       "title": "XI Sesja Rady Miejskiej w Leżajsku - Nadzwyczajna",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549611": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614936.3912323,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "549611",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/549611-xi-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XI sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6238,6 +7811,45 @@
       "page": "https://dziwnow.tv-polska.eu/film/549664-sesja-nr-xiii-rady-miejskiej-w-dziwnowie",
       "published": "2025-01-01",
       "title": "Sesja Nr XIII Rady Miejskiej w Dziwnowie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549731": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615113.0267184,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "549731",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/549731-xii-sesja-rady-miejskiej-w-olszynie--nadzwyczajna----ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XII sesja Rady Miejskiej w Olszynie (nadzwyczajna) - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549734": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615009.5917807,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "549734",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/549734-x-2025-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2025-01-01",
+      "title": "X.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549752": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615198.2261195,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "549752",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/549752-xii-sesja-rady-miejskiej",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6329,6 +7941,19 @@
       "page": "https://labiszyn.tv-polska.eu/film/549955-viii-sesja-rady-miejskiej-w-labiszynie",
       "published": "2025-01-01",
       "title": "VIII Sesja Rady Miejskiej w Łabiszynie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "549982": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615131.04199,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "549982",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/549982-vii-sesja-rady-gminy-osiek",
+      "published": "2025-01-01",
+      "title": "VII Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6446,6 +8071,32 @@
       "page": "https://jednorozec.tv-polska.eu/film/550058-x-zwyczajna-sesja-rady-gminy-jednorozec-27-03-2025-r-",
       "published": "2025-03-27",
       "title": "X zwyczajna sesja Rady Gminy Jednorożec 27.03.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550062": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615111.8361752,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "550062",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/550062-xiii-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XIII sesja Rady Miejskiej w Olszynie - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550064": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614935.1975143,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "550064",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/550064-xii-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XII sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -6761,6 +8412,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550579": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615008.3911006,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "550579",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/550579-xi-2025-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2025-01-01",
+      "title": "XI.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "550583": {
       "channel": "Barcin",
       "checked_ts": 1795610492.762308,
@@ -6888,6 +8552,32 @@
       "page": "https://jastarnia.tv-polska.eu/film/550724-xiii-zwyczajna-sesja-rady-miejskiej-jastarni",
       "published": "2025-01-01",
       "title": "XIII zwyczajna sesja Rady Miejskiej Jastarni",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550728": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615110.632724,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "550728",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/550728-xiv-sesja-rady-miejskiej-w-olszynie---ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XIV sesja Rady Miejskiej w Olszynie - IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "550731": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615129.8349535,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "550731",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/550731-viii-sesja-rady-gminy-osiek",
+      "published": "2025-01-01",
+      "title": "VIII Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7073,6 +8763,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550983": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614933.9913807,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "550983",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/550983-xiii-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XIII sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551005": {
       "channel": "Dygowo",
       "checked_ts": 1795611188.2546823,
@@ -7112,6 +8815,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551050": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615197.0253496,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551050",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/551050-xiii-sesja-rady-miejskiej",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551053": {
+      "channel": "Osina",
+      "checked_ts": 1795615163.4223416,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551053",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/551053-xi-sesja-rady-gminy-osina",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551061": {
       "channel": "Jastarnia",
       "checked_ts": 1795611723.636739,
@@ -7135,6 +8864,32 @@
       "page": "https://gminamielno.tv-polska.eu/film/551063-xvii-nadzwyczajna-sesja-rady-miejskiej-mielna-09-5-2025",
       "published": "2025-05-09",
       "title": "XVII Nadzwyczajna sesja Rady Miejskiej Mielna 09.5.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551087": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615044.6149366,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551087",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/551087-vii-sesja-ix-kadedencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2025-01-01",
+      "title": "VII Sesja IX Kadedencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551088": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615043.4272525,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551088",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/551088-viii-sesja-ix-kadedencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2025-01-01",
+      "title": "VIII Sesja IX Kadedencji Rady Miejskiej w Nowym Warpnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7372,6 +9127,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551424": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615128.6238096,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "551424",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/551424-ix-sesja-rady-gminy-osiek",
+      "published": "2025-01-01",
+      "title": "IX Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551427": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612226.3331065,
@@ -7437,6 +9205,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551452": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615007.2022686,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "551452",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/551452-xii-2025-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2025-01-01",
+      "title": "XII.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551463": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611547.598798,
@@ -7447,6 +9228,19 @@
       "page": "https://ilowoosada.tv-polska.eu/film/551463-xvii-sesja-rady-gminy-ilowo-osada-z-dnia-28-05-2025",
       "published": "2025-05-28",
       "title": "XVII Sesja Rady Gminy Iłowo-Osada z dnia 28.05.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551474": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615109.425385,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "551474",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/551474-xv-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XV sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7567,6 +9361,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551686": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614932.7957654,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "551686",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/551686-xiv-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XIV sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551723": {
       "channel": "Cisna",
       "checked_ts": 1795610817.9912684,
@@ -7590,6 +9397,19 @@
       "page": "https://kepice.tv-polska.eu/film/551750-xiii-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
       "published": "2025-01-01",
       "title": "XIII sesja IX kadencji Rady Miejskiej w Kępicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551774": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615108.2241616,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "551774",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/551774-xvi-sesja-rady-miejskiej-w-olszynie---ix-kadencja--na-wniosek-",
+      "published": "2025-01-01",
+      "title": "XVI sesja Rady Miejskiej w Olszynie - IX kadencja (na wniosek)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -7671,6 +9491,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551860": {
+      "channel": "Osina",
+      "checked_ts": 1795615162.237919,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551860",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/551860-xii-sesja-rady-gminy-osina",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "551879": {
       "channel": "Marianowo",
       "checked_ts": 1795612462.7485242,
@@ -7733,6 +9566,19 @@
       "page": "https://ilowoosada.tv-polska.eu/film/551933-xviii-sesja-rady-gminy-ilowo-osada-z-dnia-17-06-2025",
       "published": "2025-06-17",
       "title": "XVIII Sesja Rady Gminy Iłowo-Osada z dnia 17.06.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "551945": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615005.9913807,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "551945",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/551945-xiii-2025-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2025-01-01",
+      "title": "XIII.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -8113,6 +9959,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552264": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614931.5950532,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "552264",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/552264-xv-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XV sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "552275": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610641.5767517,
@@ -8162,6 +10021,19 @@
       "page": "https://gniew.tv-polska.eu/film/552286-xiii-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-25-czerwca-2025-r-",
       "published": "2025-01-01",
       "title": "XIII sesja Rady Miejskiej w Gniewie IX kadencji z dnia 25 czerwca 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552309": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615107.042875,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "552309",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/552309-xvii-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XVII sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -8217,6 +10089,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552377": {
+      "channel": "Osina",
+      "checked_ts": 1795615161.0230029,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552377",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/552377-xiii-sesja-rady-gminy-osina",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "552392": {
       "channel": "Cisna",
       "checked_ts": 1795610815.5903826,
@@ -8243,6 +10128,97 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552426": {
+      "channel": "Piątek",
+      "checked_ts": 1795615237.8386877,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552426",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/552426-ix-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "IX sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552427": {
+      "channel": "Piątek",
+      "checked_ts": 1795615236.644525,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552427",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/552427-x-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "X sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552428": {
+      "channel": "Piątek",
+      "checked_ts": 1795615234.238753,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552428",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/552428-xi-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XI sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552430": {
+      "channel": "Piątek",
+      "checked_ts": 1795615233.0369341,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552430",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/552430-xii-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XII sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552432": {
+      "channel": "Piątek",
+      "checked_ts": 1795615231.8408992,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552432",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/552432-xiii-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XIII sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552433": {
+      "channel": "Piątek",
+      "checked_ts": 1795615230.6418927,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552433",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/552433-xiv-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XIV sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552434": {
+      "channel": "Piątek",
+      "checked_ts": 1795615229.4595723,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "552434",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/552434-xv-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XV sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "552460": {
       "channel": "Barwice",
       "checked_ts": 1795610532.3697386,
@@ -8266,6 +10242,19 @@
       "page": "https://ilowoosada.tv-polska.eu/film/552505-xix-nadzwyczajna-sesja-rady-gminy-ilowo-osada-z-dnia-10-07-2025",
       "published": "2025-07-10",
       "title": "XIX Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 10.07.2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552506": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614930.394244,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "552506",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/552506-xvi-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XVI sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -8542,6 +10531,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552800": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615195.827618,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552800",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/552800-xiv-sesja-rady-miejskiej",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552822": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615127.4257152,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "552822",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/552822-x-sesja-rady-gminy-osiek",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "552836": {
       "channel": "Czarnocin",
       "checked_ts": 1795610924.2228737,
@@ -8594,6 +10609,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552906": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615042.2140255,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552906",
+      "media": "",
+      "page": "https://nowewarpno.tv-polska.eu/film/552906-ix-sesja-ix-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2025-01-01",
+      "title": "IX Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "552911": {
       "channel": "Barwice",
       "checked_ts": 1795610531.1598113,
@@ -8604,6 +10632,19 @@
       "page": "https://barwice.tv-polska.eu/film/552911-xxi-nadzwyczajna-sesja-rady-miejskiej-w-barwicach",
       "published": "2025-01-01",
       "title": "XXI Nadzwyczajna Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "552912": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615105.8201432,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "552912",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/552912-xviii-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XVIII sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -8802,6 +10843,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553287": {
+      "channel": "Piątek",
+      "checked_ts": 1795615228.2343178,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "553287",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/553287-xvi-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XVI sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "553338": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612220.3266962,
@@ -8838,6 +10892,19 @@
       "page": "https://czarnocin.tv-polska.eu/film/553341-20_xx-sesja-rady-gminy-czarnocin_ix-kadencja",
       "published": "2025-01-01",
       "title": "20_XX Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "553351": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615004.7894967,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "553351",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/553351-xiv-2025-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2025-01-01",
+      "title": "XIV.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -9686,6 +11753,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554198": {
+      "channel": "Piątek",
+      "checked_ts": 1795615227.0450075,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "554198",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/554198-xvii-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XVII sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554199": {
       "channel": "Barcin",
       "checked_ts": 1795610485.5625615,
@@ -9722,6 +11802,19 @@
       "page": "https://karnice.tv-polska.eu/film/554203-sesja-rady-gminy-karnice-30-09-2025",
       "published": "2025-01-01",
       "title": "Sesja Rady Gminy Karnice 30-09-2025",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554215": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615104.621046,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "554215",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/554215-xix-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XIX sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -9829,6 +11922,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554310": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615126.2247908,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "554310",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/554310-xi-sesja-rady-gminy-osiek",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554347": {
       "channel": "Czerwin",
       "checked_ts": 1795610950.6191547,
@@ -9852,6 +11958,19 @@
       "page": "https://maszewo.tv-polska.eu/film/554355-sesja-nadzwyczajna-nr-xviii-rady-miejskiej-w-maszewie---07-10-2025-r-",
       "published": "2025-10-07",
       "title": "Sesja Nadzwyczajna nr XVIII Rady Miejskiej w Maszewie - 07.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554370": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614928.0030797,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "554370",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/554370-xvii-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XVII sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10167,6 +12286,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554825": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614926.7919393,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "554825",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/554825-xviii-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XVIII sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554826": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611439.5701158,
@@ -10255,6 +12387,19 @@
       "page": "https://bielice.tv-polska.eu/film/554866-xvii-sesja-rady-gminy-bielice",
       "published": "2025-01-01",
       "title": "XVII Sesja Rady Gminy Bielice",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "554876": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615102.223112,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "554876",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/554876-xx-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XX sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10375,6 +12520,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554920": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615003.590809,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "554920",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/554920-xv-2025-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2025-01-01",
+      "title": "XV.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "554930": {
       "channel": "Czerwin",
       "checked_ts": 1795610949.4186285,
@@ -10440,6 +12598,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555016": {
+      "channel": "Osina",
+      "checked_ts": 1795615159.8238301,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555016",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/555016-xiv-sesja-rady-gminy-osina",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555077": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615194.6233897,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555077",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/555077-xv-sesja-rady-miejskiej",
+      "published": "2025-01-01",
+      "title": "XV Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555080": {
       "channel": "Barwice",
       "checked_ts": 1795610522.7616372,
@@ -10450,6 +12634,19 @@
       "page": "https://barwice.tv-polska.eu/film/555080-xxvi-nadzwyczajna-sesja-rady-miejskiej-w-barwicach",
       "published": "2025-01-01",
       "title": "XXVI Nadzwyczajna Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555084": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615101.020857,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "555084",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/555084-xxi-sesja-rady-miejskiej-w-olszynie--na-wniosek---ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XXI sesja Rady Miejskiej w Olszynie, na wniosek - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -10570,6 +12767,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555302": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615123.823756,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "555302",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/555302-xii-sesja-rady-gminy-osiek",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555311": {
       "channel": "Cisna",
       "checked_ts": 1795610810.7896261,
@@ -10632,6 +12842,19 @@
       "page": "https://czarnocin.tv-polska.eu/film/555330-22_xxii-sesja-rady-gminy-czarnocin_ix-kadencja",
       "published": "2025-01-01",
       "title": "22_XXII Sesja Rady Gminy Czarnocin_IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555336": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795615001.1886356,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "555336",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/555336-xvi-2025-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2025-01-01",
+      "title": "XVI.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -11142,6 +13365,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555632": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614925.5958328,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "555632",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/555632-xix-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XIX sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555647": {
       "channel": "Iłów",
       "checked_ts": 1795611566.806389,
@@ -11194,6 +13430,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555736": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615099.821369,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "555736",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/555736-xxii-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XXII sesja Rady Miejskiej w Olszynie - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555754": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612593.6015115,
@@ -11217,6 +13466,19 @@
       "page": "https://dziwnow.tv-polska.eu/film/555757-sesja-nr-xx-rady-miejskiej-w-dziwnowie",
       "published": "2025-01-01",
       "title": "Sesja Nr XX Rady Miejskiej w Dziwnowie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "555772": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615193.428245,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555772",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/555772-xvi-sesja-rady-miejskiej",
+      "published": "2025-01-01",
+      "title": "XVI Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -11376,6 +13638,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555974": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615192.223186,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555974",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/555974-xviii-sesja-rady-miejskiej",
+      "published": "2025-01-01",
+      "title": "XVIII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "555997": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611319.5536828,
@@ -11386,6 +13661,45 @@
       "page": "https://miastoszczytno.tv-polska.eu/film/555997-xxiv-sesja-rady-miejskiej-w-szczytnie",
       "published": "2025-01-01",
       "title": "XXIV Sesja Rady Miejskiej w Szczytnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556005": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615189.8295813,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556005",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/556005-xvii-sesja-rady-miejskiej",
+      "published": "2025-01-01",
+      "title": "XVII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556006": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615188.6242583,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556006",
+      "media": "",
+      "page": "https://pelczyce.tv-polska.eu/film/556006-xix-sesja-rady-miejskiej",
+      "published": "2025-01-01",
+      "title": "XIX Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556010": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795614999.9918165,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "556010",
+      "media": "",
+      "page": "https://umnowemiasto.tv-polska.eu/film/556010-xvii-2025-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2025-01-01",
+      "title": "XVII.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -11415,6 +13729,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556053": {
+      "channel": "Osina",
+      "checked_ts": 1795615158.621308,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556053",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/556053-xv-sesja-rady-gminy-osina",
+      "published": "2025-01-01",
+      "title": "XV Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556058": {
       "channel": "Marianowo",
       "checked_ts": 1795612456.7427058,
@@ -11425,6 +13752,19 @@
       "page": "https://marianowo.tv-polska.eu/film/556058-xviii-sesja-rady-gminy-marianowo-w-dniu-18-grudnia-2025-r-",
       "published": "2025-01-01",
       "title": "XVIII sesja Rady Gminy Marianowo w dniu 18 grudnia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556061": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615122.6287498,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "556061",
+      "media": "",
+      "page": "https://gminaosiek.tv-polska.eu/film/556061-xiii-sesja-rady-gminy-osiek",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -11490,6 +13830,19 @@
       "page": "https://barwice.tv-polska.eu/film/556089-xxviii-sesja-rady-miejskiej-w-barwicach",
       "published": "2025-01-01",
       "title": "XXVIII Sesja Rady Miejskiej w Barwicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556099": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615098.6203015,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "556099",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/556099-xxiii-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2025-01-01",
+      "title": "XXIII sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -11688,6 +14041,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556231": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615097.4200354,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "556231",
+      "media": "",
+      "page": "https://olszyna.tv-polska.eu/film/556231-xxiv-sesja-rady-miejskiej-w-olszynie---ix-kadencja---na-wniosek",
+      "published": "2025-01-01",
+      "title": "XXIV sesja Rady Miejskiej w Olszynie - IX kadencja - na wniosek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556246": {
       "channel": "Bielice",
       "checked_ts": 1795610568.3663836,
@@ -11805,6 +14171,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556286": {
+      "channel": "Osina",
+      "checked_ts": 1795615156.221439,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556286",
+      "media": "",
+      "page": "https://osina.tv-polska.eu/film/556286-xvi-sesja-rady-gminy-osina",
+      "published": "2025-01-01",
+      "title": "XVI Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556293": {
       "channel": "Czerwin",
       "checked_ts": 1795610945.8360302,
@@ -11841,6 +14220,58 @@
       "page": "https://miastoturek.tv-polska.eu/film/556357-xx-sesja-rady-miejskiej-turku-z-dnia-30-grudnia-2025r-",
       "published": "2026-01-01",
       "title": "XX Sesja Rady Miejskiej Turku z dnia 30 grudnia 2025r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556361": {
+      "channel": "Piątek",
+      "checked_ts": 1795615225.8364625,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556361",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/556361-xviii-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XVIII sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556362": {
+      "channel": "Piątek",
+      "checked_ts": 1795615223.4370553,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556362",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/556362-xix-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XIX sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556363": {
+      "channel": "Piątek",
+      "checked_ts": 1795615222.2380679,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556363",
+      "media": "",
+      "page": "https://gminapiatek.tv-polska.eu/film/556363-xx-sesja-rady-miejskiej-w-piatku",
+      "published": "2025-01-01",
+      "title": "XX sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556382": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614924.3968098,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "556382",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/556382-xx-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XX sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -11919,6 +14350,19 @@
       "page": "https://kepice.tv-polska.eu/film/556430-xviii-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
       "published": "2026-01-01",
       "title": "XVIII sesja IX kadencji Rady Miejskiej w Kępicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556458": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614923.1923742,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "556458",
+      "media": "",
+      "page": "https://mogilno.tv-polska.eu/film/556458-xxi-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2025-01-01",
+      "title": "XXI sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -12247,6 +14691,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556831": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615121.4529803,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "556831",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159626550.mp4",
+      "page": "https://gminaosiek.tv-polska.eu/film/556831-xiv-sesja-rady-gminy-osiek",
+      "published": "2026-01-01",
+      "title": "XIV Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "556850": {
       "channel": "Dolice",
       "checked_ts": 1795611099.4397705,
@@ -12335,6 +14792,19 @@
       "page": "https://kepice.tv-polska.eu/film/556912-xix-sesja-ix-kadencji-rady-miejskiej-w-kepicach",
       "published": "2026-01-01",
       "title": "XIX sesja IX kadencji Rady Miejskiej w Kępicach",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "556920": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615096.2312412,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "556920",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160984714.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/556920-xxv-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2026-01-01",
+      "title": "XXV sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -12845,6 +15315,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557281": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795614998.8008053,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "557281",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1166671034.mp4",
+      "page": "https://umnowemiasto.tv-polska.eu/film/557281-xviii-2026-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2026-01-01",
+      "title": "XVIII.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557283": {
       "channel": "Mielno",
       "checked_ts": 1795612621.1972485,
@@ -12907,6 +15390,19 @@
       "page": "https://dobragmina.tv-polska.eu/film/557371-xxi-sesja-rady-miejskiej-w-dobrej",
       "published": "2026-01-01",
       "title": "XXI sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557386": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615095.0332427,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "557386",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168379589.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/557386-xxvi-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2026-01-01",
+      "title": "XXVI sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -13105,6 +15601,71 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557488": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615039.8267412,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557488",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169838400.mp4",
+      "page": "https://nowewarpno.tv-polska.eu/film/557488-x-sesja-ix-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2026-01-01",
+      "title": "X Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557490": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615038.6337626,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557490",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169845363.mp4",
+      "page": "https://nowewarpno.tv-polska.eu/film/557490-xi-sesja-ix-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2026-01-01",
+      "title": "XI Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557495": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615037.446177,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557495",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169851790.mp4",
+      "page": "https://nowewarpno.tv-polska.eu/film/557495-xii-sesja-ix-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2026-01-01",
+      "title": "XII Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557499": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615036.2292454,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557499",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169863354.mp4",
+      "page": "https://nowewarpno.tv-polska.eu/film/557499-xiii-sesja-ix-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2026-01-01",
+      "title": "XIII Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557504": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614922.00738,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "557504",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169895206.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/557504-xxii-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXII sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "557509": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612281.5312276,
@@ -13115,6 +15676,19 @@
       "page": "https://labiszyn.tv-polska.eu/film/557509-xvii-sesja-rady-miejskiej-w-labiszynie",
       "published": "2026-01-01",
       "title": "XVII Sesja Rady Miejskiej w Łabiszynie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557511": {
+      "channel": "Osina",
+      "checked_ts": 1795615155.0502698,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557511",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170027097.mp4",
+      "page": "https://osina.tv-polska.eu/film/557511-xvii-sesja-rady-gminy-osina",
+      "published": "2026-01-01",
+      "title": "XVII Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -13193,6 +15767,19 @@
       "page": "https://czarne.tv-polska.eu/film/557552-warsztaty-lepienia-pierogow-podczas-festiwalu-smakow-regionalnych-w-gdansku-28-lutego-2026",
       "published": "2026-01-01",
       "title": "Warsztaty lepienia pierogów podczas Festiwalu Smaków Regionalnych w Gdańsku 28 lutego 2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "557553": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614920.8045318,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "557553",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170655300.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/557553-xxiii-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXIII sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -13625,6 +16212,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558011": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614919.607569,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "558011",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177211632.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/558011-xxiv-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXIV sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558014": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611694.787169,
@@ -13661,6 +16261,19 @@
       "page": "https://dobragmina.tv-polska.eu/film/558028-xxii-sesja-rady-miejskiej-w-dobrej",
       "published": "2026-01-01",
       "title": "XXII sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558029": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615093.8528924,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "558029",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177294299.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/558029-xxvii-sesja-rady-miejskiej-w-olszynie",
+      "published": "2026-01-01",
+      "title": "XXVII sesja Rady Miejskiej w Olszynie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -13752,6 +16365,19 @@
       "page": "https://gniew.tv-polska.eu/film/558092-xx-sesja-rady-miejskiej-w-gniewie-z-18-lutego-2026-r-",
       "published": "2026-01-01",
       "title": "XX sesja Rady Miejskiej w Gniewie z 18 lutego 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558094": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614917.200833,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "558094",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178378460.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/558094-xxv-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXV sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -14210,6 +16836,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558570": {
+      "channel": "Osina",
+      "checked_ts": 1795615153.8354902,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558570",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1185216840.mp4",
+      "page": "https://osina.tv-polska.eu/film/558570-xviii-sesja-rady-gminy-osina",
+      "published": "2026-01-01",
+      "title": "XVIII Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558615": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795614997.6026893,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "558615",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1185786022.mp4",
+      "page": "https://umnowemiasto.tv-polska.eu/film/558615-xix-2026-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2026-01-01",
+      "title": "XIX.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558630": {
       "channel": "Międzybórz",
       "checked_ts": 1795612682.5816257,
@@ -14314,6 +16966,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558676": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615187.4376354,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558676",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186831930.mp4",
+      "page": "https://pelczyce.tv-polska.eu/film/558676-xx-sesja-rady-miejskiej",
+      "published": "2026-01-01",
+      "title": "XX Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "558677": {
       "channel": "Barcin",
       "checked_ts": 1795610475.9833632,
@@ -14324,6 +16989,19 @@
       "page": "https://barcin.tv-polska.eu/film/558677-gmina-barcin---xxiv-sesja-rady-miejskiej-w-barcinie---kadencja-2024-2029",
       "published": "2026-01-01",
       "title": "Gmina Barcin | XXIV sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558681": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615186.2348132,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558681",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186840044.mp4",
+      "page": "https://pelczyce.tv-polska.eu/film/558681-xxi-sesja-rady-miejskiej",
+      "published": "2026-01-01",
+      "title": "XXI Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -14389,6 +17067,19 @@
       "page": "https://ilowoosada.tv-polska.eu/film/558711-xxxii-nadzwyczajna-sesja-rady-gminy-ilowo-osada-z-dnia-27-04-2026",
       "published": "2026-04-27",
       "title": "XXXII Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 27.04.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558717": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614916.002408,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "558717",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1190452177.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/558717-xxvi-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXVI sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -14506,6 +17197,32 @@
       "page": "https://miastoszczytno.tv-polska.eu/film/558790-xxviii-sesja-rady-miejskiej-w-szczytnie",
       "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Miejskiej w Szczytnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558791": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615120.2380757,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "558791",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1188039444.mp4",
+      "page": "https://gminaosiek.tv-polska.eu/film/558791-xvi-sesja-rady-gminy-osiek",
+      "published": "2026-01-01",
+      "title": "XVI Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "558796": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615091.436494,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "558796",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1188060441.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/558796-xxviii-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2026-01-01",
+      "title": "XXVIII sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -14912,6 +17629,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559290": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615035.025893,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559290",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1195560750.mp4",
+      "page": "https://nowewarpno.tv-polska.eu/film/559290-xiv-sesja-ix-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2026-01-01",
+      "title": "XIV Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559292": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615033.831467,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559292",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1195566990.mp4",
+      "page": "https://nowewarpno.tv-polska.eu/film/559292-xv-sesja-ix-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2026-01-01",
+      "title": "XV Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559305": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614914.8008761,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "559305",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1195630558.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/559305-xxvii-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXVII sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559316": {
       "channel": "Gniewino",
       "checked_ts": 1795611396.3601751,
@@ -14974,6 +17730,19 @@
       "page": "https://kamienkrajenski.tv-polska.eu/film/559357-xxvi-sesja-rady-miejskiej-w-kamieniu-krajenskim",
       "published": "2026-01-01",
       "title": "XXVI Sesja Rady Miejskiej w Kamieniu Krajeńskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559359": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615090.2313082,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "559359",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196249566.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/559359-xxix-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2026-01-01",
+      "title": "XXIX sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -15315,6 +18084,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559499": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615119.0364692,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "559499",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197686101.mp4",
+      "page": "https://gminaosiek.tv-polska.eu/film/559499-xvii-sesja-rady-gminy-osiek",
+      "published": "2026-01-01",
+      "title": "XVII Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "559515": {
       "channel": "Czarnocin",
       "checked_ts": 1795610905.013282,
@@ -15377,6 +18159,19 @@
       "page": "https://czerwin.tv-polska.eu/film/559611-xxvii-sesja-rady-gminy-czerwin-09-06-2026",
       "published": "2026-06-09",
       "title": "XXVII sesja Rady Gminy Czerwin 09.06.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559612": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795614996.3998556,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "559612",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1199993375.mp4",
+      "page": "https://umnowemiasto.tv-polska.eu/film/559612-xx-2026-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2026-01-01",
+      "title": "XX.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -15455,6 +18250,19 @@
       "page": "https://boleszkowice.tv-polska.eu/film/559676-xxi-sesja-rady-gminy-boleszkowice-w-dniu-27-maja-2026-r--",
       "published": "2026-01-01",
       "title": "XXI Sesja Rady Gminy Boleszkowice w dniu 27 maja 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "559709": {
+      "channel": "Osina",
+      "checked_ts": 1795615152.635229,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559709",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201312369.mp4",
+      "page": "https://osina.tv-polska.eu/film/559709-xix-sesja-rady-gminy-osina-",
+      "published": "2026-01-01",
+      "title": "XIX Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -16173,6 +18981,110 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560126": {
+      "channel": "Piątek",
+      "checked_ts": 1795615221.0511463,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560126",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206035754.mp4",
+      "page": "https://gminapiatek.tv-polska.eu/film/560126-xxi-sesja-rady-miejskiej-w-piatku",
+      "published": "2026-01-01",
+      "title": "XXI sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560127": {
+      "channel": "Piątek",
+      "checked_ts": 1795615219.8537886,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560127",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206036020.mp4",
+      "page": "https://gminapiatek.tv-polska.eu/film/560127-xxii-sesja-rady-miejskiej-w-piatku",
+      "published": "2026-01-01",
+      "title": "XXII sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560128": {
+      "channel": "Piątek",
+      "checked_ts": 1795615218.6482987,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560128",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206036599.mp4",
+      "page": "https://gminapiatek.tv-polska.eu/film/560128-xxiii-sesja-rady-miejskiej-w-piatku",
+      "published": "2026-01-01",
+      "title": "XXIII sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560130": {
+      "channel": "Piątek",
+      "checked_ts": 1795615217.4514613,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560130",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206036911.mp4",
+      "page": "https://gminapiatek.tv-polska.eu/film/560130-xxiv-sesja-rady-miejskiej-w-piatku",
+      "published": "2026-01-01",
+      "title": "XXIV sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560131": {
+      "channel": "Piątek",
+      "checked_ts": 1795615216.2515888,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560131",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206037178.mp4",
+      "page": "https://gminapiatek.tv-polska.eu/film/560131-xxv-sesja-rady-miejskiej-w-piatku",
+      "published": "2026-01-01",
+      "title": "XXV sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560132": {
+      "channel": "Piątek",
+      "checked_ts": 1795615215.0490394,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560132",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206037419.mp4",
+      "page": "https://gminapiatek.tv-polska.eu/film/560132-xxvi-sesja-rady-miejskiej-w-piatku",
+      "published": "2026-01-01",
+      "title": "XXVI sesja Rady Miejskiej w Piątku",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560135": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615089.0333984,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "560135",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206052013.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/560135-xxx-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2026-01-01",
+      "title": "XXX sesja Rady Miejskiej w Olszynie - IX kadencja",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560158": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614913.6111772,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "560158",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206382546.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/560158-xxviii-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXVIII sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560164": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612279.1319163,
@@ -16222,6 +19134,19 @@
       "page": "https://janowiecwlkp.tv-polska.eu/film/560185-xxi-sesja-rady-miejskiej-w-janowcu-wielkopolskim",
       "published": "2026-01-01",
       "title": "XXI sesja Rady Miejskiej w Janowcu Wielkopolskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560202": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615032.6311374,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "560202",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1207198016.mp4",
+      "page": "https://nowewarpno.tv-polska.eu/film/560202-xvi-sesja-ix-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2026-01-01",
+      "title": "XVI Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -16550,6 +19475,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560553": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795614995.2009573,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "560553",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212285573.mp4",
+      "page": "https://umnowemiasto.tv-polska.eu/film/560553-xxi-2026-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2026-01-01",
+      "title": "XXI.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560560": {
       "channel": "Dygowo",
       "checked_ts": 1795611169.0413003,
@@ -16612,6 +19550,32 @@
       "page": "https://miastolezajsk.tv-polska.eu/film/560572-xxix-sesja-rady-miejskiej-w-lezajsku-",
       "published": "2026-01-01",
       "title": "XXIX Sesja Rady Miejskiej w Leżajsku.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560582": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615117.8371174,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "560582",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212609910.mp4",
+      "page": "https://gminaosiek.tv-polska.eu/film/560582-xviii-sesja-rady-gminy-osiek",
+      "published": "2026-01-01",
+      "title": "XVIII Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560589": {
+      "channel": "Osina",
+      "checked_ts": 1795615151.4358218,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "560589",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212625965.mp4",
+      "page": "https://osina.tv-polska.eu/film/560589-xx-sesja-rady-gminy-osina",
+      "published": "2026-01-01",
+      "title": "XX Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -16690,6 +19654,19 @@
       "page": "https://drawno.tv-polska.eu/film/560656-xxix-sesja-rady-miejskiej-w-drawnie",
       "published": "2026-01-01",
       "title": "XXIX Sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560664": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615087.831466,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "560664",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214027970.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/560664-xxxi-sesja-rady-miejskiej-w-olszynie---ix-kadencja",
+      "published": "2026-01-01",
+      "title": "XXXI sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -16888,6 +19865,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560849": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614912.4001782,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "560849",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1217224083.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/560849-xxix-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXIX sesja Rady Miejskiej w Mogilnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "560850": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612648.832861,
@@ -17028,6 +20018,32 @@
       "page": "https://banie.tv-polska.eu/film/560969-xxi-nadzwyczajna-sesja-rady-gminy-banie",
       "published": "2026-01-01",
       "title": "XXI nadzwyczajna sesja Rady Gminy Banie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "560982": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615116.634625,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "560982",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1219500074.mp4",
+      "page": "https://gminaosiek.tv-polska.eu/film/560982-xix-sesja-rady-gminy-osiek",
+      "published": "2026-01-01",
+      "title": "XIX Sesja Rady Gminy Osiek",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561025": {
+      "channel": "Osina",
+      "checked_ts": 1795615150.2351909,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561025",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1220173425.mp4",
+      "page": "https://osina.tv-polska.eu/film/561025-xxi-sesja-rady-gminy-osina",
+      "published": "2026-01-01",
+      "title": "XXI Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -17210,6 +20226,19 @@
       "page": "https://dobragmina.tv-polska.eu/film/561129-xxvi-sesja-rady-miejskiej-w-dobrej",
       "published": "2026-01-01",
       "title": "XXVI sesja Rady Miejskiej w Dobrej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561141": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614911.2001739,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "561141",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222025061.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/561141-xxx-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXX sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -17616,6 +20645,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561409": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615086.6312149,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "561409",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226878004.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/561409-xxxii-sesja-rady-miejskiej-w-olszynie---ix-kadencja-",
+      "published": "2026-01-01",
+      "title": "XXXII sesja Rady Miejskiej w Olszynie - IX kadencja.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561412": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612124.317189,
@@ -17756,6 +20798,19 @@
       "page": "https://jaktorow.tv-polska.eu/film/561521-xxx-sesja-rady-gminy-jaktorow",
       "published": "2026-01-01",
       "title": "XXX Sesja Rady Gminy Jaktorów",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561526": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795614994.0049725,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "561526",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229076171.mp4",
+      "page": "https://umnowemiasto.tv-polska.eu/film/561526-xxii-2026-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2026-01-01",
+      "title": "XXII.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -17964,6 +21019,19 @@
       "page": "https://gorzkowice.tv-polska.eu/film/561665-xxxii-sesja-rady-gminy-gorzkowice-kadencji-2024-2029",
       "published": "2026-01-01",
       "title": "XXXII Sesja Rady Gminy Gorzkowice kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561673": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614910.003188,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "561673",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231247953.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/561673-xxxi-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXXI sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -18357,6 +21425,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561754": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615085.4351673,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "561754",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232002521.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/561754-xxxiii-sesja-rady-miejskiej-w-olszynie---ix-kadencja-",
+      "published": "2026-01-01",
+      "title": "XXXIII sesja Rady Miejskiej w Olszynie - IX kadencja.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "561755": {
       "channel": "Drawno",
       "checked_ts": 1795611130.6696482,
@@ -18432,6 +21513,19 @@
       "page": "https://jednorozec.tv-polska.eu/film/561790-xxix-sesja-rady-gminy-jednorozec-22-09-2026-r-",
       "published": "2026-09-22",
       "title": "XXIX Sesja Rady Gminy Jednorożec 22.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561819": {
+      "channel": "Osina",
+      "checked_ts": 1795615149.0371978,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561819",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233322363.mp4",
+      "page": "https://osina.tv-polska.eu/film/561819-xxii-sesja-rady-gminy-osina",
+      "published": "2026-01-01",
+      "title": "XXII Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -18562,6 +21656,19 @@
       "page": "https://gminamielno.tv-polska.eu/film/561919-xxxiii-sesja-rady-miejskiej-mielna-25-09-2026",
       "published": "2026-09-25",
       "title": "XXXIII Sesja Rady Miejskiej Mielna 25.09.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "561960": {
+      "channel": "Osiek Gmina",
+      "checked_ts": 1795615115.4459472,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "561960",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1235788722.mp4",
+      "page": "https://gminaosiek.tv-polska.eu/film/561960-xx-sesja-rady-gminy-osiek",
+      "published": "2026-01-01",
+      "title": "XX Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -18848,6 +21955,19 @@
       "page": "https://gniew.tv-polska.eu/film/562102-xxvii-nadzwyczajna-sesja-rady-miejskiej-w-gniewie-ix-kadencji-z-dnia-14-09-2026-r----",
       "published": "2026-09-14",
       "title": "XXVII nadzwyczajna sesja Rady Miejskiej w Gniewie IX kadencji z dnia 14.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562103": {
+      "channel": "Mogilno",
+      "checked_ts": 1795614908.808889,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "562103",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240197016.mp4",
+      "page": "https://mogilno.tv-polska.eu/film/562103-xxxiii-sesja-rady-miejskiej-w-mogilnie",
+      "published": "2026-01-01",
+      "title": "XXXIII sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -19163,6 +22283,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562145": {
+      "channel": "Osina",
+      "checked_ts": 1795615147.835863,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562145",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242301316.mp4",
+      "page": "https://osina.tv-polska.eu/film/562145-xxiii-sesja-rady-gminy-osina",
+      "published": "2026-01-01",
+      "title": "XXIII Sesja Rady Gminy Osina",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562146": {
       "channel": "Lębork",
       "checked_ts": 1795612240.732034,
@@ -19173,6 +22306,19 @@
       "page": "https://lebork.tv-polska.eu/film/562146-xxvi-sesja-rady-miejskiej-w-leborku--kadencja-2024---2029--29-10-2026-r--",
       "published": "2026-10-29",
       "title": "XXVI Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (29.10.2026 r.)",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562150": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615084.253329,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "562150",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242378619.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/562150-xxxiv-sesja-rady-miejskiej-w-olszynie---ix-kadencja-",
+      "published": "2026-01-01",
+      "title": "XXXIV sesja Rady Miejskiej w Olszynie - IX kadencja.",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -19293,6 +22439,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562174": {
+      "channel": "Nowe Miasto Lubawskie",
+      "checked_ts": 1795614992.7999032,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "05 Warmia Mazury i Podlasie",
+      "id": "562174",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243208056.mp4",
+      "page": "https://umnowemiasto.tv-polska.eu/film/562174-xxiii-sesja-rady-miejskiej-w-nowym-miescie-lubawskim",
+      "published": "2026-01-01",
+      "title": "XXIII sesja Rady Miejskiej w Nowym Mieście Lubawskim",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562215": {
       "channel": "Banie",
       "checked_ts": 1795609817.8970792,
@@ -19355,6 +22514,19 @@
       "page": "https://czerwin.tv-polska.eu/film/562247-xxxi-sesja-rady-gminy-czerwin-10-11-2026",
       "published": "2026-11-10",
       "title": "XXXI sesja Rady Gminy Czerwin 10.11.2026",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562250": {
+      "channel": "Nowe Warpno",
+      "checked_ts": 1795615031.4291427,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562250",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1246375202.mp4",
+      "page": "https://nowewarpno.tv-polska.eu/film/562250-xvii-sesja-ix-kadencji-rady-miejskiej-w-nowym-warpnie",
+      "published": "2026-01-01",
+      "title": "XVII Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -19696,6 +22868,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562327": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615185.0452905,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562327",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248244369.mp4",
+      "page": "https://pelczyce.tv-polska.eu/film/562327-xxii-sesja-rady-miejskiej",
+      "published": "2026-01-01",
+      "title": "XXII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
     "562328": {
       "channel": "Drawno",
       "checked_ts": 1795611129.4549854,
@@ -19706,6 +22891,45 @@
       "page": "https://drawno.tv-polska.eu/film/562328-xxxiii-sesja-rady-miejskiej-w-drawnie",
       "published": "2026-01-01",
       "title": "XXXIII sesja Rady Miejskiej w Drawnie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562329": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615183.8363323,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562329",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248256215.mp4",
+      "page": "https://pelczyce.tv-polska.eu/film/562329-xxiii-sesja-rady-miejskiej",
+      "published": "2026-01-01",
+      "title": "XXIII Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562330": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615182.6361983,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562330",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248260805.mp4",
+      "page": "https://pelczyce.tv-polska.eu/film/562330-xxiv-sesja-rady-miejskiej",
+      "published": "2026-01-01",
+      "title": "XXIV Sesja Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562331": {
+      "channel": "Pełczyce",
+      "checked_ts": 1795615181.4557118,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562331",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248263969.mp4",
+      "page": "https://pelczyce.tv-polska.eu/film/562331-xxv-sesja-rady-miejskiej",
+      "published": "2026-01-01",
+      "title": "XXV Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -19823,6 +23047,19 @@
       "page": "https://gniewoszow.tv-polska.eu/film/562353-xxviii-sesja-rady-gminy-w-gniewoszowie",
       "published": "2026-01-01",
       "title": "XXVIII Sesja Rady Gminy w Gniewoszowie",
+      "tourism": false,
+      "updated": "2026-11-25"
+    },
+    "562359": {
+      "channel": "Olszyna",
+      "checked_ts": 1795615083.044045,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "562359",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1249314563.mp4",
+      "page": "https://olszyna.tv-polska.eu/film/562359-xxxv-sesja-rady-miejskiej-w-olszynie---ix-kadencja--na-wniosek-",
+      "published": "2026-01-01",
+      "title": "XXXV sesja Rady Miejskiej w Olszynie - IX kadencja (na wniosek)",
       "tourism": false,
       "updated": "2026-11-25"
     },
@@ -20020,9 +23257,22 @@
       "title": "Dożynki 2013",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "76329": {
+      "channel": "Mrzeżyno",
+      "checked_ts": 1795614942.3891368,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "76329",
+      "media": "",
+      "page": "https://mrzezyno.tv-polska.eu/film/76329-fladry-i-zagle",
+      "published": "2014-01-01",
+      "title": "Flądry i Żagle",
+      "tourism": false,
+      "updated": "2026-11-25"
     }
   },
-  "last_run": "2026-11-25T13:19:04.150321+00:00",
+  "last_run": "2026-11-25T14:00:54.635480+00:00",
   "page_cursors": {
     "alfatv": 3,
     "barcin": 4,
@@ -20061,6 +23311,8 @@
     "gminadrawsko": 2,
     "gminakutno": 4,
     "gminamielno": 4,
+    "gminaosiek": 4,
+    "gminapiatek": 4,
     "gminaslupsk": 2,
     "gminastargard": 4,
     "gniew": 4,
@@ -20112,7 +23364,18 @@
     "miedzyborz": 4,
     "miedzychod": 4,
     "mieszkowice": 4,
+    "mogilno": 4,
+    "mrzezyno": 2,
+    "mysliborz": 4,
+    "narzeczwybrzeza": 2,
+    "nowewarpno": 4,
+    "nowogard": 2,
+    "olszyna": 4,
+    "osina": 4,
+    "pelczyce": 4,
+    "pila": 2,
     "ugjoniec": 2,
+    "umnowemiasto": 4,
     "witkowo": 3
   }
 }

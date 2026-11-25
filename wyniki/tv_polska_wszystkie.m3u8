@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-25T13:54:34.315543+00:00
+# Aktualizacja: 2026-11-25T14:00:54.674197+00:00
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXV Sesja Rady Miejskiej Mielna 19.11.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1248308295.mp4
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXIV Sesja Rady Miejskiej Mielna 23.10.2026
@@ -249,6 +249,48 @@ https://film.alfatv.pl/~tv/backup_vimeo/1197632575.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1217235144.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Mieszkowice | Zapraszamy na koncert!
 https://film.alfatv.pl/~tv/backup_vimeo/1201379988.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Nowe Warpno | X Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie
+https://film.alfatv.pl/~tv/backup_vimeo/1169838400.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Nowe Warpno | XI Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie
+https://film.alfatv.pl/~tv/backup_vimeo/1169845363.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Nowe Warpno | XII Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie
+https://film.alfatv.pl/~tv/backup_vimeo/1169851790.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Nowe Warpno | XIII Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie
+https://film.alfatv.pl/~tv/backup_vimeo/1169863354.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Nowe Warpno | XIV Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie
+https://film.alfatv.pl/~tv/backup_vimeo/1195560750.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Nowe Warpno | XV Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie
+https://film.alfatv.pl/~tv/backup_vimeo/1195566990.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Nowe Warpno | XVI Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie
+https://film.alfatv.pl/~tv/backup_vimeo/1207198016.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Nowe Warpno | XVII Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie
+https://film.alfatv.pl/~tv/backup_vimeo/1246375202.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Osina | XIX Sesja Rady Gminy Osina
+https://film.alfatv.pl/~tv/backup_vimeo/1201312369.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Osina | XVII Sesja Rady Gminy Osina
+https://film.alfatv.pl/~tv/backup_vimeo/1170027097.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Osina | XVIII Sesja Rady Gminy Osina
+https://film.alfatv.pl/~tv/backup_vimeo/1185216840.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Osina | XX Sesja Rady Gminy Osina
+https://film.alfatv.pl/~tv/backup_vimeo/1212625965.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Osina | XXI Sesja Rady Gminy Osina
+https://film.alfatv.pl/~tv/backup_vimeo/1220173425.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Osina | XXII Sesja Rady Gminy Osina
+https://film.alfatv.pl/~tv/backup_vimeo/1233322363.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Osina | XXIII Sesja Rady Gminy Osina
+https://film.alfatv.pl/~tv/backup_vimeo/1242301316.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Pełczyce | XX Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1186831930.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Pełczyce | XXI Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1186840044.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Pełczyce | XXII Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1248244369.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Pełczyce | XXIII Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1248256215.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Pełczyce | XXIV Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1248260805.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Pełczyce | XXV Sesja Rady Miejskiej
+https://film.alfatv.pl/~tv/backup_vimeo/1248263969.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Maszewo | Sesja nr XX Rady Miejskiej w Maszewie - 17.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1150018549.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Maszewo | Sesja nr XIX Rady Miejskiej w Maszewie - 27.11.2025 r.
@@ -619,6 +661,30 @@ https://film.alfatv.pl/~tv/backup_vimeo/1228033056.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1240768500.mp4
 #EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Gmina Miejska Szczytno | XXXV Sesja Rady Miejskiej w Szczytnie
 https://film.alfatv.pl/~tv/backup_vimeo/1249237966.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Nowe Miasto Lubawskie | XIX.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim
+https://film.alfatv.pl/~tv/backup_vimeo/1185786022.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Nowe Miasto Lubawskie | XVIII.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim
+https://film.alfatv.pl/~tv/backup_vimeo/1166671034.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Nowe Miasto Lubawskie | XX.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim
+https://film.alfatv.pl/~tv/backup_vimeo/1199993375.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Nowe Miasto Lubawskie | XXI.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim
+https://film.alfatv.pl/~tv/backup_vimeo/1212285573.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Nowe Miasto Lubawskie | XXII.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim
+https://film.alfatv.pl/~tv/backup_vimeo/1229076171.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Nowe Miasto Lubawskie | XXIII sesja Rady Miejskiej w Nowym Mieście Lubawskim
+https://film.alfatv.pl/~tv/backup_vimeo/1243208056.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Osiek Gmina | XIV Sesja Rady Gminy Osiek
+https://film.alfatv.pl/~tv/backup_vimeo/1159626550.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Osiek Gmina | XIX Sesja Rady Gminy Osiek
+https://film.alfatv.pl/~tv/backup_vimeo/1219500074.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Osiek Gmina | XVI Sesja Rady Gminy Osiek
+https://film.alfatv.pl/~tv/backup_vimeo/1188039444.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Osiek Gmina | XVII Sesja Rady Gminy Osiek
+https://film.alfatv.pl/~tv/backup_vimeo/1197686101.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Osiek Gmina | XVIII Sesja Rady Gminy Osiek
+https://film.alfatv.pl/~tv/backup_vimeo/1212609910.mp4
+#EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Osiek Gmina | XX Sesja Rady Gminy Osiek
+https://film.alfatv.pl/~tv/backup_vimeo/1235788722.mp4
 #EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Ilowo Osada | XXVI Sesja Rady Gminy Iłowo-Osada z dnia 30.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1150440982.mp4
 #EXTINF:-1 group-title="05 Warmia Mazury i Podlasie",Ilowo Osada | XXV Sesja Rady Gminy Iłowo-Osada z dnia 08.12.2025
@@ -751,6 +817,28 @@ https://film.alfatv.pl/~tv/backup_vimeo/1212249993.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1239407652.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Miasto Turek | XXXI Sesja Rady Miejskiej Turku z dnia 04 listopada 2026r.
 https://film.alfatv.pl/~tv/backup_vimeo/1245023722.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXII sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1169895206.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXIII sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1170655300.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXIV sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1177211632.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXIX sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1217224083.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXV sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1178378460.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXVI sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1190452177.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXVII sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1195630558.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXVIII sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1206382546.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXX sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1222025061.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXXI sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1231247953.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXXIII sesja Rady Miejskiej w Mogilnie
+https://film.alfatv.pl/~tv/backup_vimeo/1240197016.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XIX Sesja Rady Miejskiej
 https://film.alfatv.pl/~tv/backup_vimeo/1206405900.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XV Sesja Rady Miejskiej w Łabiszynie
@@ -1051,6 +1139,18 @@ https://film.alfatv.pl/~tv/backup_vimeo/1237209655.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1240754724.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Kutno Gmina | XXXV Sesja Rady Gminy Kutno Część II
 https://film.alfatv.pl/~tv/backup_vimeo/1240761278.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Piątek | XXI sesja Rady Miejskiej w Piątku
+https://film.alfatv.pl/~tv/backup_vimeo/1206035754.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Piątek | XXII sesja Rady Miejskiej w Piątku
+https://film.alfatv.pl/~tv/backup_vimeo/1206036020.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Piątek | XXIII sesja Rady Miejskiej w Piątku
+https://film.alfatv.pl/~tv/backup_vimeo/1206036599.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Piątek | XXIV sesja Rady Miejskiej w Piątku
+https://film.alfatv.pl/~tv/backup_vimeo/1206036911.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Piątek | XXV sesja Rady Miejskiej w Piątku
+https://film.alfatv.pl/~tv/backup_vimeo/1206037178.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Piątek | XXVI sesja Rady Miejskiej w Piątku
+https://film.alfatv.pl/~tv/backup_vimeo/1206037419.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXII sesja Rady Gminy Czerwin 30.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1150624418.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXIII Rady Gminy Łęki Szlacheckie z dnia 30.12.2025 r.
@@ -1099,6 +1199,28 @@ https://film.alfatv.pl/~tv/backup_vimeo/1227996564.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1231914440.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXXII Sesja Rady Gminy Lewin Kłodzki
 https://film.alfatv.pl/~tv/backup_vimeo/1242705274.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXIX sesja Rady Miejskiej w Olszynie - IX kadencja
+https://film.alfatv.pl/~tv/backup_vimeo/1196249566.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXV sesja Rady Miejskiej w Olszynie - IX kadencja
+https://film.alfatv.pl/~tv/backup_vimeo/1160984714.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXVI sesja Rady Miejskiej w Olszynie - IX kadencja
+https://film.alfatv.pl/~tv/backup_vimeo/1168379589.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXVII sesja Rady Miejskiej w Olszynie
+https://film.alfatv.pl/~tv/backup_vimeo/1177294299.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXVIII sesja Rady Miejskiej w Olszynie - IX kadencja
+https://film.alfatv.pl/~tv/backup_vimeo/1188060441.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXX sesja Rady Miejskiej w Olszynie - IX kadencja
+https://film.alfatv.pl/~tv/backup_vimeo/1206052013.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXXI sesja Rady Miejskiej w Olszynie - IX kadencja
+https://film.alfatv.pl/~tv/backup_vimeo/1214027970.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXXII sesja Rady Miejskiej w Olszynie - IX kadencja.
+https://film.alfatv.pl/~tv/backup_vimeo/1226878004.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXXIII sesja Rady Miejskiej w Olszynie - IX kadencja.
+https://film.alfatv.pl/~tv/backup_vimeo/1232002521.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXXIV sesja Rady Miejskiej w Olszynie - IX kadencja.
+https://film.alfatv.pl/~tv/backup_vimeo/1242378619.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXXV sesja Rady Miejskiej w Olszynie - IX kadencja (na wniosek)
+https://film.alfatv.pl/~tv/backup_vimeo/1249314563.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXVI Sesja Rady MIejskiej w Międzyborzu 17.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1165654101.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXV Sesja Rady Miejskiej w Międzyborzu 26.11.2025 r.
