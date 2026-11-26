@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-25T14:00:54.681746+00:00
+# Aktualizacja: 2026-11-26T01:52:52.932148+00:00
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Bielice | XXVI
 https://film.alfatv.pl/~tv/backup_vimeo/1204176805.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Mieszkowice | Bezpieczna droga do szkoły stała się faktem!
@@ -55,3 +55,7 @@ https://film.alfatv.pl/~tv/backup_vimeo/1173195408.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1173179153.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Drawno | Zawody wędkarskie o Puchar Burmistrza Drawna 2026
 https://film.alfatv.pl/~tv/backup_vimeo/1214495708.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Pomorze Zachodnie | 83. Tour de Pologne - 2 etap
+https://film.alfatv.pl/~tv/backup_vimeo/1214566665.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Pomorze Zachodnie | Wielkanoc
+https://film.alfatv.pl/~tv/backup_vimeo/1179828044.mp4

@@ -1,5 +1,5 @@
 {
-  "cursor": 108,
+  "cursor": 125,
   "items": {
     "126976": {
       "channel": "Biały Bór",
@@ -131,6 +131,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13282": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657868.4765863,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13282",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13282-wolin",
+      "published": "2009-01-01",
+      "title": "Wolin",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13283": {
       "channel": "Mrzeżyno",
       "checked_ts": 1795614945.9924188,
@@ -156,6 +169,32 @@
       "title": "Darłowo",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13301": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657867.272592,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13301",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13301-golczewo",
+      "published": "2008-01-01",
+      "title": "Golczewo",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13302": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657866.077183,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13302",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13302-kamien-pomorski---wedrowki-po-regionie",
+      "published": "2009-01-01",
+      "title": "Kamień Pomorski - Wędrówki po regionie",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13303": {
       "channel": "Mrzeżyno",
@@ -183,6 +222,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13322": {
+      "channel": "Police",
+      "checked_ts": 1795657615.63535,
+      "date_source": "brak daty",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13322",
+      "media": "",
+      "page": "https://police.tv-polska.eu/film/13322-klasztor-w-jasienicy",
+      "published": "",
+      "title": "Klasztor w Jasienicy",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13323": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657864.8742974,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13323",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13323-miedzyzdroje-perla-baltyku---1992r-",
+      "published": "1992-01-01",
+      "title": "Międzyzdroje Perła Bałtyku - 1992r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13326": {
       "channel": "Goleniów",
       "checked_ts": 1795611458.7631798,
@@ -195,6 +260,19 @@
       "title": "Goleniów",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13330": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657863.6739168,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13330",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13330-wolinski-park-narodowy---1991r-",
+      "published": "1991-01-01",
+      "title": "Woliński Park Narodowy - 1991r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13331": {
       "channel": "Drawsko Pomorskie",
@@ -221,6 +299,19 @@
       "title": "Gryfino",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13334": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657862.473212,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13334",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13334-miedzyzdroje",
+      "published": "2008-01-01",
+      "title": "Międzyzdroje",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13341": {
       "channel": "Kobylanka",
@@ -456,6 +547,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13382": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657861.2734709,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13382",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13382-miedzyzdroje---2005r-",
+      "published": "2005-01-01",
+      "title": "Międzyzdroje - 2005r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13383": {
+      "channel": "Powiat Goleniowski",
+      "checked_ts": 1795657837.145888,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13383",
+      "media": "",
+      "page": "https://powiatgoleniowski.tv-polska.eu/film/13383-przyroda-gminy-stepnica---szansa-dla-turystyki",
+      "published": "2006-01-01",
+      "title": "Przyroda Gminy Stepnica - Szansa dla turystyki",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13384": {
       "channel": "Choszczno",
       "checked_ts": 1795610749.5801709,
@@ -507,6 +624,19 @@
       "title": "Gryfino - 750 lat historii która łączy",
       "tourism": true,
       "updated": "2026-11-25"
+    },
+    "13392": {
+      "channel": "Police",
+      "checked_ts": 1795657622.8427062,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13392",
+      "media": "",
+      "page": "https://police.tv-polska.eu/film/13392-gmina-police---1999r-",
+      "published": "1999-01-01",
+      "title": "Gmina Police - 1999r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13395": {
       "channel": "Piła",
@@ -560,6 +690,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "13403": {
+      "channel": "Police",
+      "checked_ts": 1795657618.0337253,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13403",
+      "media": "",
+      "page": "https://police.tv-polska.eu/film/13403-trzebiez",
+      "published": "2008-01-01",
+      "title": "Trzebież",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13408": {
       "channel": "Kalisz Pomorski",
       "checked_ts": 1795611772.8440769,
@@ -572,6 +715,32 @@
       "title": "Kalisz Pomorski",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13409": {
+      "channel": "Police",
+      "checked_ts": 1795657621.6371021,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13409",
+      "media": "",
+      "page": "https://police.tv-polska.eu/film/13409-police---1993r-",
+      "published": "1993-01-01",
+      "title": "Police - 1993r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13416": {
+      "channel": "Połczyn Zdrój",
+      "checked_ts": 1795657686.6877337,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "13416",
+      "media": "",
+      "page": "https://polczynzdroj.tv-polska.eu/film/13416-polczyn---zdroj---cztery-pory-roku---1994r-",
+      "published": "1994-01-01",
+      "title": "Połczyn - Zdrój - Cztery pory roku - 1994r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13426": {
       "channel": "Dobra Gmina",
@@ -598,6 +767,45 @@
       "title": "X-lecie Farmutilu H.S.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13436": {
+      "channel": "Połczyn Zdrój",
+      "checked_ts": 1795657685.4895587,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "13436",
+      "media": "",
+      "page": "https://polczynzdroj.tv-polska.eu/film/13436-darz-bor-polczyn-zdroj---2001r-",
+      "published": "2001-01-01",
+      "title": "Darz Bór Połczyn Zdrój - 2001r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13439": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657860.0717292,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13439",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13439-kamien-pomorski",
+      "published": "2005-01-01",
+      "title": "Kamień Pomorski",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13443": {
+      "channel": "Police",
+      "checked_ts": 1795657620.4351864,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13443",
+      "media": "",
+      "page": "https://police.tv-polska.eu/film/13443-zaklady-chemiczne-police----xxx-lecie",
+      "published": "1999-01-01",
+      "title": "Zakłady Chemiczne Police -  XXX-lecie",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13445": {
       "channel": "Kujawsko-Pomorskie",
@@ -754,6 +962,123 @@
       "title": "PRD Nowogard",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13511": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657857.6747067,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13511",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13511-miedzyzdroje-inwestycje-i-rozwoj-2006-2010",
+      "published": "2010-01-01",
+      "title": "Międzyzdroje Inwestycje i Rozwój 2006-2010",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13518": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657856.4704854,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13518",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13518-golczewo---i-miasto-iii-rzeczypospolitej",
+      "published": "2010-01-01",
+      "title": "Golczewo - I Miasto III Rzeczypospolitej",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13520": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657855.2878559,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13520",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13520-dalekie-poczatki",
+      "published": "2010-01-01",
+      "title": "Dalekie początki",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13521": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657854.0721755,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13521",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13521-historia-miasta-z-molem-w-tle",
+      "published": "2010-01-01",
+      "title": "Historia miasta z molem w tle",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13522": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657852.8715928,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13522",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13522-naturalne-sasiedztwo",
+      "published": "2010-01-01",
+      "title": "Naturalne sąsiedztwo",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13523": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657851.6748233,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13523",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13523-rozmarzenia-popoludnia",
+      "published": "2010-01-01",
+      "title": "Rozmarzenia popołudnia",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13524": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657850.4735382,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13524",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13524-sztuka-ochrony-przyrody",
+      "published": "2010-01-01",
+      "title": "Sztuka ochrony przyrody",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13525": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657849.2720256,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13525",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13525-zaproszenie-do-miedzyzdrojow",
+      "published": "2010-01-01",
+      "title": "Zaproszenie do Międzyzdrojów",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13526": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657846.8721638,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13526",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13526-promenada-nie-tylko-gwiazd",
+      "published": "2010-01-01",
+      "title": "Promenada nie tylko gwiazd",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13527": {
       "channel": "Nowogard",
@@ -963,6 +1288,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13564": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657845.6716142,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13564",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13564-cien-morenowego-wzgorza",
+      "published": "2011-01-01",
+      "title": "Cień morenowego wzgórza",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13571": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657844.4701028,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13571",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13571-miedzyzdrojskie-plaze",
+      "published": "2011-01-01",
+      "title": "Międzyzdrojskie plaże",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13574": {
       "channel": "Międzyzdroje",
       "checked_ts": 1795612740.440303,
@@ -975,6 +1326,19 @@
       "title": "Muzyka i fale",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13585": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657843.2716892,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13585",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13585-przebudowa-promenady--etap-i",
+      "published": "2011-01-01",
+      "title": "Przebudowa promenady. Etap I",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13589": {
       "channel": "Lasy",
@@ -1002,6 +1366,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13594": {
+      "channel": "Powiat Goleniowski",
+      "checked_ts": 1795657834.7427802,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13594",
+      "media": "",
+      "page": "https://powiatgoleniowski.tv-polska.eu/film/13594-trzy-porty-stepnicy",
+      "published": "2011-01-01",
+      "title": "Trzy porty Stepnicy",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13597": {
       "channel": "Na Rzecz Wybrzeża",
       "checked_ts": 1795614987.9866543,
@@ -1027,6 +1404,58 @@
       "title": "Dzikie konie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13609": {
+      "channel": "Powiat Goleniowski",
+      "checked_ts": 1795657832.341246,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13609",
+      "media": "",
+      "page": "https://powiatgoleniowski.tv-polska.eu/film/13609-widziensko",
+      "published": "2012-01-01",
+      "title": "Widzieńsko",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13611": {
+      "channel": "Powiat Goleniowski",
+      "checked_ts": 1795657831.158116,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13611",
+      "media": "",
+      "page": "https://powiatgoleniowski.tv-polska.eu/film/13611-kanal-krolewski",
+      "published": "2012-01-01",
+      "title": "Kanał Królewski",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13613": {
+      "channel": "Powiat Goleniowski",
+      "checked_ts": 1795657829.9418623,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13613",
+      "media": "",
+      "page": "https://powiatgoleniowski.tv-polska.eu/film/13613-gmina-stepnica-o-kazdej-porze-roku",
+      "published": "2012-01-01",
+      "title": "Gmina Stepnica o każdej porze roku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13614": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657842.074943,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13614",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13614-promenada",
+      "published": "2012-01-01",
+      "title": "Promenada",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13617": {
       "channel": "Manowo",
@@ -1158,6 +1587,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13677": {
+      "channel": "Powiat Goleniowski",
+      "checked_ts": 1795657828.7444458,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13677",
+      "media": "",
+      "page": "https://powiatgoleniowski.tv-polska.eu/film/13677-na-wodach-zalewu-szczecinskiego",
+      "published": "2013-01-01",
+      "title": "Na wodach Zalewu Szczecińskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13691": {
       "channel": "Biały Bór",
       "checked_ts": 1795610550.360867,
@@ -1170,6 +1612,19 @@
       "title": "Biały Bór",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13692": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657840.8720803,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13692",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/13692-marina-w-wapnicy",
+      "published": "2013-01-01",
+      "title": "Marina w Wapnicy",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13694": {
       "channel": "Nowe Warpno",
@@ -1626,6 +2081,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "19616": {
+      "channel": "Powiat Goleniowski",
+      "checked_ts": 1795657827.5406501,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "19616",
+      "media": "",
+      "page": "https://powiatgoleniowski.tv-polska.eu/film/19616-pozegnanie-zaglowcow-tall-ship-races-2013",
+      "published": "2013-01-01",
+      "title": "Pożegnanie żaglowców Tall Ship Races 2013",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "19620": {
       "channel": "Na Rzecz Wybrzeża",
       "checked_ts": 1795614984.3852654,
@@ -1638,6 +2106,19 @@
       "title": "Krowy",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "19622": {
+      "channel": "Police",
+      "checked_ts": 1795657616.8336382,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "19622",
+      "media": "",
+      "page": "https://police.tv-polska.eu/film/19622-wyspa-chelminek",
+      "published": "2013-01-01",
+      "title": "Wyspa Chełminek",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "19646": {
       "channel": "Międzyzdroje",
@@ -1664,6 +2145,19 @@
       "title": "Obchody nadania praw miejskich dla Nowego Warpna",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "216871": {
+      "channel": "Powiat Kamieński",
+      "checked_ts": 1795657839.6699688,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "216871",
+      "media": "",
+      "page": "https://powiatkamienski.tv-polska.eu/film/216871-trzcinowe-zniwa",
+      "published": "2015-01-01",
+      "title": "Trzcinowe żniwa",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "217513": {
       "channel": "Kościoły Pomorza Zachodniego",
@@ -1860,6 +2354,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "338159": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657629.2077112,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "338159",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/338159-zimowy-szczecin-z-drona-2018",
+      "published": "2018-01-01",
+      "title": "Zimowy Szczecin z drona 2018",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "354603": {
       "channel": "Dębno",
       "checked_ts": 1795611044.2910187,
@@ -2029,6 +2536,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "418555": {
+      "channel": "Pomorskie z drona",
+      "checked_ts": 1795657707.126597,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "418555",
+      "media": "",
+      "page": "https://pomorskiezdrona.tv-polska.eu/film/418555-zalew-i-mierzeja-wislana",
+      "published": "2017-01-01",
+      "title": "Zalew i Mierzeja Wiślana",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "422750": {
       "channel": "Cewice",
       "checked_ts": 1795610693.180445,
@@ -2094,6 +2614,162 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "431268": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657650.633852,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431268",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431268-wolin-z-drona",
+      "published": "2017-01-01",
+      "title": "Wolin z drona",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431297": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657649.4879146,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431297",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431297-gmina-karnice-z-drona---solectwo-czaplin-wielki",
+      "published": "2017-01-01",
+      "title": "Gmina Karnice z drona - Sołectwo Czaplin Wielki",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431655": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657648.231957,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431655",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431655-gmina-drawno-z-drona---solectwo-barnimie",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Barnimie",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431657": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657647.0319686,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431657",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431657-gmina-drawno-z-drona---solectwo-brzeziny",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Brzeziny",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431659": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657645.8467956,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431659",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431659-gmina-drawno-z-drona---solectwo-dominikowo",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Dominikowo",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431660": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657644.6347694,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431660",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431660-gmina-drawno-z-drona---solectwo-kielpino",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Kiełpino",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431663": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657643.4307296,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431663",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431663-gmina-drawno-z-drona---solectwo-konotop",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Konotop",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431664": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657642.2403123,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431664",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431664-gmina-drawno-z-drona---solectwo-niemiensko",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Niemieńsko",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431666": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657639.8302498,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431666",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431666-gmina-drawno-z-drona---solectwo-podlesie",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Podlesie",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431667": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657638.6323175,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431667",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431667-gmina-drawno-z-drona---solectwo-swieciechow",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Święciechów",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431668": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657637.4286988,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431668",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431668-gmina-drawno-z-drona---solectwo-zatom",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Zatom",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "431669": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657636.2310455,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "431669",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/431669-gmina-drawno-z-drona---solectwo-zolwino",
+      "published": "2016-01-01",
+      "title": "Gmina Drawno z drona - Sołectwo Żółwino",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "431744": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611346.1085114,
@@ -2133,6 +2809,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "432710": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657635.037781,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "432710",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/432710-gmina-mieszkowice-z-drona-z-komentarzem-lektorskim",
+      "published": "2017-01-01",
+      "title": "Gmina Mieszkowice z drona z komentarzem lektorskim",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "433348": {
       "channel": "Kobylanka",
       "checked_ts": 1795611945.6565034,
@@ -2145,6 +2834,58 @@
       "title": "Gmina Kobylanka z drona",
       "tourism": true,
       "updated": "2026-11-25"
+    },
+    "433433": {
+      "channel": "Pomorze Zachodnie z drona",
+      "checked_ts": 1795657722.7286308,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "433433",
+      "media": "",
+      "page": "https://pomorzezachodniezdrona.tv-polska.eu/film/433433-marianowo-z-drona",
+      "published": "2017-01-01",
+      "title": "Marianowo z drona",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "433534": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657632.6305425,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "433534",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/433534-suchan-z-drona",
+      "published": "2017-01-01",
+      "title": "Suchań z drona",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "433546": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657631.4297144,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "433546",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/433546-dobrzany-z-drona",
+      "published": "2017-01-01",
+      "title": "Dobrzany z drona",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "434416": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657630.3579533,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "434416",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/434416-zalew-szczecinski-z-drona-z-komentarzem-lektorskim",
+      "published": "2018-01-01",
+      "title": "Zalew Szczeciński z drona z komentarzem lektorskim",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "446317": {
       "channel": "alfaTV",
@@ -2367,6 +3108,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "457182": {
+      "channel": "Pomorze Zachodnie z drona",
+      "checked_ts": 1795657720.3281705,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "457182",
+      "media": "",
+      "page": "https://pomorzezachodniezdrona.tv-polska.eu/film/457182-powiat-szczecinecki",
+      "published": "2019-01-01",
+      "title": "Powiat Szczecinecki",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "457329": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611664.7777646,
@@ -2444,6 +3198,19 @@
       "title": "Ułani na plan!",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "461105": {
+      "channel": "Police",
+      "checked_ts": 1795657619.2344904,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "461105",
+      "media": "",
+      "page": "https://police.tv-polska.eu/film/461105-grecy-z-polic",
+      "published": "1996-01-01",
+      "title": "Grecy z Polic",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "461227": {
       "channel": "Agrofirma Witkowo",
@@ -2653,6 +3420,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "495656": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657726.3254552,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "495656",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/495656-xvi-sesja-rady-gminy-poswietne-viii-kadencji-z-dnia-11-sierpien-2020-zoom",
+      "published": "2020-01-01",
+      "title": "XVI Sesja Rady Gminy Poświętne VIII Kadencji z dnia 11 sierpień 2020 zoom",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "495817": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612575.6081965,
@@ -2835,6 +3615,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "520862": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657870.873524,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "520862",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/520862-zespol-szkol-w-zychlinie",
+      "published": "2022-01-01",
+      "title": "Zespół Szkół w Żychlinie",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "521646": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657792.3292847,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "521646",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/521646-stanislaw-cybula",
+      "published": "2010-01-01",
+      "title": "Stanisław Cybula",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "521703": {
       "channel": "Choszczno",
       "checked_ts": 1795610780.78438,
@@ -2860,6 +3666,19 @@
       "title": "Sesja XXXVI Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "521754": {
+      "channel": "Polska z drona",
+      "checked_ts": 1795657627.9534664,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "521754",
+      "media": "",
+      "page": "https://polskazdrona.tv-polska.eu/film/521754-powiat-drawski---gmina-czaplinek-z-drona",
+      "published": "2016-01-01",
+      "title": "Powiat Drawski - Gmina Czaplinek z drona",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "523788": {
       "channel": "Choszczno",
@@ -3472,6 +4291,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "538064": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657683.0883927,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "538064",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/538064-xxxv-sesja-rady-gminy-w-polajewie-odbyta-dnia-26-pazdziernika-2023-r-",
+      "published": "2023-01-01",
+      "title": "XXXV sesja Rady Gminy w Połajewie odbyta dnia 26 października 2023 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "538172": {
       "channel": "Łanięta",
       "checked_ts": 1795612335.5419178,
@@ -3537,6 +4369,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "538359": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657823.532044,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "538359",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/538359-uroczysta-lxvi-sesja-rady-powiatu-drawskiego",
+      "published": "2023-01-01",
+      "title": "Uroczysta LXVI sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "538695": {
       "channel": "Osiek Gmina",
       "checked_ts": 1795615144.2243395,
@@ -3601,6 +4446,19 @@
       "title": "XLVII Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "539147": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657681.8880346,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "539147",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/539147-xxxvi-sesja-rady-gminy-w-polajewie-odbyta-dnia-7-grudnia-2023-r-",
+      "published": "2023-01-01",
+      "title": "XXXVI sesja Rady Gminy w Połajewie odbyta dnia 7 grudnia 2023 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "539172": {
       "channel": "Nowe Warpno",
@@ -3692,6 +4550,19 @@
       "title": "LXVII Sesja Rady Gminy Łanięta, powiat kutnowski - 28.12.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "539603": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657680.689603,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "539603",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/539603-xxxvii-sesja-rady-gminy-w-polajewie-odbyta-dnia-28-grudnia-2023-r-",
+      "published": "2023-01-01",
+      "title": "XXXVII sesja Rady Gminy w Połajewie odbyta dnia 28 grudnia 2023 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "539623": {
       "channel": "Choszczno",
@@ -3862,6 +4733,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "540628": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657822.3304374,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "540628",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/540628-lxvii-sesja-rady-powiatu-drawskiego",
+      "published": "2023-01-01",
+      "title": "LXVII sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "540629": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657821.1322794,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "540629",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/540629-lxviii-sesja-rady-powiatu-drawskiego",
+      "published": "2023-01-01",
+      "title": "LXVIII sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "541121": {
       "channel": "Kobylanka",
       "checked_ts": 1795611964.8532987,
@@ -3979,6 +4876,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "541851": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657679.4920628,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "541851",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/541851-xxxviii-sesja-rady-gminy-w-polajewie-odbyta-dnia-28-marca-2024-r-",
+      "published": "2024-01-01",
+      "title": "XXXVIII sesja Rady Gminy w Połajewie odbyta dnia 28 marca 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "541955": {
       "channel": "Osiek Gmina",
       "checked_ts": 1795615140.6282668,
@@ -4069,6 +4979,19 @@
       "title": "I Sesja 9 kadencji Rady Gminy Łanięta, powiat kutnowski - 06.05.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "542572": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657678.2907777,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "542572",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/542572-i-sesja-rady-gminy-w-polajewie---kadencja-2024-2029",
+      "published": "2024-01-01",
+      "title": "I Sesja Rady Gminy w Połajewie - kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "542581": {
       "channel": "Kobylanka",
@@ -4499,6 +5422,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "543314": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657677.0869305,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "543314",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/543314-ii-sesja-rady-gminy-w-polajewie---kadencja-2024-2029",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Gminy w Połajewie - kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "543333": {
       "channel": "Nowe Miasto Lubawskie",
       "checked_ts": 1795615020.3916872,
@@ -4602,6 +5538,19 @@
       "title": "III Sesja Rady Gminy 20.06.2024",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "543979": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657675.889614,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "543979",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/543979-iii-sesja-rady-gminy-w-polajewie---kadencja-2024-2029",
+      "published": "2024-01-01",
+      "title": "III Sesja Rady Gminy w Połajewie - kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "543985": {
       "channel": "Karnice",
@@ -4993,6 +5942,162 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545880": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657819.9309263,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545880",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545880-lxix-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "LXIX sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545881": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657818.7324972,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545881",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545881-lxx-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "LXX sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545882": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657817.5299988,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545882",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545882-uroczysta-lxxi-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "Uroczysta LXXI sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545883": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657816.333423,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545883",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545883-lxxii-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "LXXII sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545885": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657815.131916,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545885",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545885-i-inauguracyjna-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "I Inauguracyjna sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545886": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657812.7366343,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545886",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545886-i-inauguracyjna-sesja-rady-powiatu-drawskiego---kontynuacja",
+      "published": "2024-01-01",
+      "title": "I Inauguracyjna sesja Rady Powiatu Drawskiego - kontynuacja",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545887": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657811.5305097,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545887",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545887-i-inauguracyjna-sesja-rady-powiatu-drawskiego---cd",
+      "published": "2024-01-01",
+      "title": "I Inauguracyjna sesja Rady Powiatu Drawskiego - cd",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545888": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657810.331411,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545888",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545888-ii-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "II sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545889": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657809.1294878,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545889",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545889-iii-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "III sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545890": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657807.9349055,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545890",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545890-iv--nadzwyczajna--sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "IV  nadzwyczajna  sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545891": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657806.7358127,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545891",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545891-v-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "V sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "545892": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657805.553061,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545892",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/545892-vi-nadzwyczajna-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "VI nadzwyczajna sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "545899": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611083.8331332,
@@ -5149,6 +6254,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545988": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657674.687805,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "545988",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/545988-iv-sesja-rady-gminy-w-polajewie---kadencja-2024-2029",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Gminy w Połajewie - kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "545989": {
       "channel": "Barcin",
       "checked_ts": 1795610499.963271,
@@ -5240,6 +6358,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546070": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657902.090864,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546070",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/546070-vii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2024-01-01",
+      "title": "VII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "546185": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657900.873093,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546185",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/546185-viii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2024-01-01",
+      "title": "VIII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "546219": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657899.678004,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546219",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/546219-ix-sesja-rady-powiatu-kutnowskiego",
+      "published": "2024-01-01",
+      "title": "IX Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "546223": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610651.1802776,
@@ -5265,6 +6422,19 @@
       "title": "Sesja Nr VIII Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "546442": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657966.8935065,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546442",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/546442-vi-2024-sesja-rady-powiatu-malborskiego-2024-10-16",
+      "published": "2024-10-16",
+      "title": "VI/2024 Sesja Rady Powiatu Malborskiego 2024-10-16",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "546451": {
       "channel": "Piątek",
@@ -5304,6 +6474,58 @@
       "title": "VI sesja Rady Miejskiej w Piątku IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "546583": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657757.5480766,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546583",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/546583-i-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-6-maja-2024-r--cz--ii",
+      "published": "2024-01-01",
+      "title": "I Sesja Rady Gminy Poświętne IX Kadencji z dnia 6 maja 2024 r. cz. II",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "546584": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657756.3258224,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546584",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/546584-ii-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-24-czerwca-2024-r--cz--i",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Gminy Poświętne IX Kadencji z dnia 24 czerwca 2024 r. cz. I",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "546586": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657755.127417,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546586",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/546586-ii-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-24-czerwca-2024-r--cz--ii",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Gminy Poświętne IX Kadencji z dnia 24 czerwca 2024 r. cz. II",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "546592": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657753.9259834,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546592",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/546592-iii-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-9-wrzesnia-2024-r-",
+      "published": "2024-01-01",
+      "title": "III Sesja Rady Gminy Poświętne IX Kadencji z dnia 9 września 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "546627": {
       "channel": "Nowe Miasto Lubawskie",
@@ -5382,6 +6604,19 @@
       "title": "V Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "546736": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657898.4761236,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "546736",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/546736-x-sesja-rady-powiatu-kutnowskiego",
+      "published": "2024-01-01",
+      "title": "X Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "546744": {
       "channel": "Manowo",
@@ -5552,6 +6787,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547017": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657672.2860878,
+      "date_source": "data w tytule",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "547017",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/547017-v-sesja-rady-gminy-w-polajewie---kadencja-2024-2029-odbyta-dnia-07-11-2024-r-",
+      "published": "2024-11-07",
+      "title": "V Sesja Rady Gminy w Połajewie - kadencja 2024-2029 odbyta dnia 07.11.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "547056": {
       "channel": "Marianowo",
       "checked_ts": 1795612472.3488324,
@@ -5643,6 +6891,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547285": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657965.6899498,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "547285",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/547285-vii-2024-nadzwyczajna-sesja-rady-powiatu-20-11-2024",
+      "published": "2024-11-20",
+      "title": "VII/2024 nadzwyczajna sesja Rady Powiatu 20.11.2024",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "547323": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611837.6449938,
@@ -5655,6 +6916,32 @@
       "title": "VII Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547363": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657671.088694,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "547363",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/547363-vi-sesja-rady-gminy-w-polajewie-odbyta-dnia-22-listopada-2024-r---kadencja-2024-2029-",
+      "published": "2024-01-01",
+      "title": "VI sesja Rady Gminy w Połajewie odbyta dnia 22 listopada 2024 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "547376": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657897.2785153,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "547376",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/547376-xi-sesja-rady-powiatu-kutnowskiego",
+      "published": "2024-01-01",
+      "title": "XI Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "547415": {
       "channel": "Nowe Warpno",
@@ -5759,6 +7046,19 @@
       "title": "VII Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547484": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657964.4990618,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "547484",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/547484-viii-2024-sesja-rady-powiatu-malborskiego-28-11-2024",
+      "published": "2024-01-01",
+      "title": "VIII/2024 sesja Rady Powiatu Malborskiego 28-11-2024",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "547496": {
       "channel": "Dobra Gmina",
@@ -6162,6 +7462,32 @@
       "title": "XI Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547955": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657963.2978997,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "547955",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/547955-ix-2024-sesja-rady-powiatu-malborskiego-18-12-2024",
+      "published": "2024-01-01",
+      "title": "IX/2024 sesja Rady Powiatu Malborskiego 18-12-2024",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "547956": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657896.0735266,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "547956",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/547956-xii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2024-01-01",
+      "title": "XII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "547988": {
       "channel": "Nowe Miasto Lubawskie",
@@ -6579,6 +7905,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548183": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657934.481914,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548183",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/548183-ix-sesja-rady-powiatu",
+      "published": "2024-01-01",
+      "title": "IX Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "548189": {
       "channel": "Dygowo",
       "checked_ts": 1795611193.0396867,
@@ -6657,6 +7996,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548235": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657933.2814844,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548235",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/548235-x-sesja-rady-powiatu",
+      "published": "2024-01-01",
+      "title": "X Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "548240": {
       "channel": "Karnice",
       "checked_ts": 1795611860.4516296,
@@ -6708,6 +8060,32 @@
       "title": "10 SESJA RADY MIASTA I GMINY KIERNOZIA 30-12-2024",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548269": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657669.8873043,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "548269",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/548269-vii-sesja-rady-gminy-w-polajewie-odbyta-dnia-30-grudnia-2024-r---kadencja-2024-2029-",
+      "published": "2025-01-01",
+      "title": "VII sesja Rady Gminy w Połajewie odbyta dnia 30 grudnia 2024 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "548270": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657789.9363847,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "548270",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/548270-x-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "548288": {
       "channel": "Boleszkowice",
@@ -6786,6 +8164,19 @@
       "title": "VIII sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548409": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657894.8799765,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548409",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/548409-xiii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "548418": {
       "channel": "Bierzwnik",
@@ -6969,6 +8360,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548809": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657962.1148646,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "548809",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/548809-x-2025-sesja-rady-powiatu-malborskiego-29-01-2025",
+      "published": "2025-01-01",
+      "title": "X/2025 sesja Rady Powiatu Malborskiego 29-01-2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "548812": {
       "channel": "Jaktorów",
       "checked_ts": 1795611659.9876957,
@@ -6994,6 +8398,19 @@
       "title": "VIII Sesja Rady Gminy Boleszkowice w dniu 23.01.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548825": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657893.6736603,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "548825",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/548825-xiv-sesja-rady-powiatu-kutnowskiego",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "548833": {
       "channel": "Dobra Gmina",
@@ -7073,6 +8490,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548873": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657932.083228,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548873",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/548873-xi-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "548909": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610612.773962,
@@ -7124,6 +8554,19 @@
       "title": "Sesja Rady Miejskiej Miasta Turku IX kadencji - 29 października 2024 [przeprowadzono anonimizację danych osobowych]",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548917": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657788.732883,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "548917",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/548917-xi-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "548965": {
       "channel": "Dygowo",
@@ -7346,6 +8789,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549138": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657960.898589,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "549138",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/549138-xi-2025-sesja-rady-powiatu-malborskiego-13-02-2025",
+      "published": "2025-01-01",
+      "title": "XI/2025 sesja Rady Powiatu Malborskiego 13-02-2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "549204": {
       "channel": "Barcin",
       "checked_ts": 1795610495.1611283,
@@ -7423,6 +8879,19 @@
       "title": "XII SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 18.02.2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549319": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657930.8817043,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549319",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/549319-xii-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "549347": {
       "channel": "Mielno",
@@ -7697,6 +9166,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549545": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657787.53659,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "549545",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/549545-xii-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "549554": {
       "channel": "Dygowo",
       "checked_ts": 1795611190.639976,
@@ -7905,6 +9387,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549867": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657891.2777216,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "549867",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/549867-xv-sesja-rady-powiatu-kutnowskiego",
+      "published": "2025-01-01",
+      "title": "XV Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "549895": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657959.7002485,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "549895",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/549895-xii-2025-sesja-rady-powiatu-malborskiego-20-03-2025",
+      "published": "2025-01-01",
+      "title": "XII/2025 sesja Rady Powiatu Malborskiego 20-03-2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "549931": {
       "channel": "Mielno",
       "checked_ts": 1795612635.600797,
@@ -8008,6 +9516,19 @@
       "title": "XII Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550033": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657929.6812978,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550033",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/550033-xiii-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "550034": {
       "channel": "Kamień Krajeński",
@@ -8178,6 +9699,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550106": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657668.6998863,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "550106",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/550106-viii-sesja-rady-gminy-w-polajewie-odbyta-dnia-27-marca-2025-r---kadencja-2024-2029-",
+      "published": "2025-01-01",
+      "title": "VIII Sesja Rady Gminy w Połajewie odbyta dnia 27 marca 2025 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "550109": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611331.555716,
@@ -8347,6 +9881,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550351": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657786.3318717,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "550351",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/550351-xiii-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "550357": {
       "channel": "Czarnocin",
       "checked_ts": 1795610926.6199784,
@@ -8451,6 +9998,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550627": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657890.076176,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "550627",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/550627-xvi-sesja-rady-powiatu-kutnowskiego",
+      "published": "2025-01-01",
+      "title": "XVI Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "550645": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612568.5157533,
@@ -8515,6 +10075,19 @@
       "title": "XI Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550716": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657928.4793334,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550716",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/550716-xiv-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "550718": {
       "channel": "Międzychód",
@@ -8711,6 +10284,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550888": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657958.4939325,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "550888",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/550888-xiii-2025-sesja-rady-powiatu-malborskiego---30-04-2025",
+      "published": "2025-04-30",
+      "title": "XIII/2025 sesja Rady Powiatu Malborskiego - 30.04.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "550914": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611798.0410488,
@@ -8801,6 +10387,32 @@
       "title": "Przed nami Odra",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551007": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657785.1337898,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551007",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/551007-xiv-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "551023": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657956.089481,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551023",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/551023-xiv-2025-nadzwyczajna-sesja-rady-powiatu-malborskiego---08-05-2025",
+      "published": "2025-05-08",
+      "title": "XIV/2025 nadzwyczajna Sesja Rady Powiatu Malborskiego - 08.05.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "551027": {
       "channel": "Mielno",
@@ -9153,6 +10765,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551430": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657667.4890597,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "551430",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/551430-ix-sesja-rady-gminy-w-polajewie-odbyta-dnia-27-maja-2025-r---kadencja-2024-2029-",
+      "published": "2025-01-01",
+      "title": "IX Sesja Rady Gminy w Połajewie odbyta dnia 27 maja 2025 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "551439": {
       "channel": "Maszewo",
       "checked_ts": 1795612499.9532754,
@@ -9309,6 +10934,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551556": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657783.93413,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551556",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/551556-xv-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XV sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "551558": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657927.2813022,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551558",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/551558-xv-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XV Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "551588": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612567.333111,
@@ -9347,6 +10998,19 @@
       "title": "XIV Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551614": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657888.8727593,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "551614",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/551614-xvii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2025-01-01",
+      "title": "XVII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "551669": {
       "channel": "Gmina Miejska Szczytno",
@@ -9464,6 +11128,19 @@
       "title": "XVII Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551811": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657954.9048705,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551811",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/551811-xv-2025-sesja-rady-powiatu-11-06-2025",
+      "published": "2025-01-01",
+      "title": "XV/2025 Sesja Rady Powiatu 11-06-2025",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "551845": {
       "channel": "Miasto Leżajsk",
@@ -9607,6 +11284,19 @@
       "title": "XVIII Nadzwyczajna Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551986": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657926.0798292,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551986",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/551986-xvi-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XVI Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552039": {
       "channel": "Krzynowłoga Mała",
@@ -9920,6 +11610,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552245": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657804.3293085,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552245",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/552245-vii-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "VII sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "552246": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657801.935886,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552246",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/552246-viii-uroczysta-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "VIII Uroczysta sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "552248": {
       "channel": "Gniew",
       "checked_ts": 1795611383.1576266,
@@ -9932,6 +11648,71 @@
       "title": "X sesja Rady Miejskiej w Gniewie IX kadencji z dnia 26 marca 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552249": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657800.7348738,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552249",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/552249-ix-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "IX sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "552252": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657799.5296826,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552252",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/552252-x-sesja-rady-powiatu-drawskiego",
+      "published": "2025-01-01",
+      "title": "X sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "552253": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657798.3294108,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552253",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/552253-xi-sesja-rady-powiatu-drawskiego",
+      "published": "2024-01-01",
+      "title": "XI sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "552254": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657797.1309018,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552254",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/552254-xii-sesja-rady-powiatu-drawskiego",
+      "published": "2025-01-01",
+      "title": "XII sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "552256": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657795.9302616,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552256",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/552256-xiii-sesja-rady-powiatu-drawskiego",
+      "published": "2025-01-01",
+      "title": "XIII sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552258": {
       "channel": "Międzychód",
@@ -9946,6 +11727,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552259": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657794.7303052,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552259",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/552259-xiv-sesja-rady-powiatu-drawskiego",
+      "published": "2025-01-01",
+      "title": "XIV sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "552261": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611327.975179,
@@ -9958,6 +11752,19 @@
       "title": "XIX Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552262": {
+      "channel": "Powiat Drawski",
+      "checked_ts": 1795657793.529991,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552262",
+      "media": "",
+      "page": "https://powiatdrawski.tv-polska.eu/film/552262-xv-sesja-rady-powiatu-drawskiego",
+      "published": "2025-01-01",
+      "title": "XV sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552264": {
       "channel": "Mogilno",
@@ -10023,6 +11830,19 @@
       "title": "XIII sesja Rady Miejskiej w Gniewie IX kadencji z dnia 25 czerwca 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552306": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657782.7312512,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "552306",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/552306-xvi-sesja-vii-kadencji-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XVI sesja VII kadencji Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552309": {
       "channel": "Olszyna",
@@ -10231,6 +12051,19 @@
       "title": "XX Nadzwyczajna Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552477": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657953.6875873,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "552477",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/552477-xvi-2025-nadzwyczajna-sesja-rady-powiatu-malborskiego-10-07-2025",
+      "published": "2025-01-01",
+      "title": "XVI/2025 nadzwyczajna Sesja Rady Powiatu Malborskiego 10-07-2025",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552505": {
       "channel": "Ilowo Osada",
@@ -10544,6 +12377,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552819": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657666.2862687,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "552819",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/552819-x-sesja-rady-gminy-w-polajewie-odbyta-dnia-14-lipca-2025-r---kadencja-2024-2029-",
+      "published": "2025-01-01",
+      "title": "X sesja Rady Gminy w Połajewie odbyta dnia 14 lipca 2025 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "552822": {
       "channel": "Osiek Gmina",
       "checked_ts": 1795615127.4257152,
@@ -10582,6 +12428,19 @@
       "title": "XIII zwyczajna sesja Rady Gminy Jednorożec 28.07.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552840": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657923.6789367,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552840",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/552840-xvii-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XVII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552847": {
       "channel": "Czarnocin",
@@ -10673,6 +12532,19 @@
       "title": "XVIII Sesja Rady Gminy Iłów z 28-07-2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552971": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657781.5319006,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "552971",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/552971-xvii-sesja-vii-kadencji-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XVII sesja VII kadencji Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552995": {
       "channel": "Mielno",
@@ -10986,6 +12858,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553405": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657952.4905012,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "553405",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/553405-xvii-2025-nadzwyczajna-sesja-rady-powiatu-malborskiego-28-08-2025",
+      "published": "2025-08-28",
+      "title": "XVII/2025 nadzwyczajna Sesja Rady Powiatu Malborskiego 28.08.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "553409": {
       "channel": "Deszczno",
       "checked_ts": 1795611022.6292272,
@@ -11038,6 +12923,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553438": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657922.485963,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553438",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/553438-xviii-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XVIII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "553456": {
       "channel": "Dziwnów",
       "checked_ts": 1795611261.9545105,
@@ -11050,6 +12948,19 @@
       "title": "Sesja Nr XVII Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553464": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657779.133708,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "553464",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/553464-xviii-sesja-vii-kadencji-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XVIII sesja VII kadencji Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "553467": {
       "channel": "Iłów",
@@ -11233,6 +13144,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553605": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657887.6733515,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "553605",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/553605-xviii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2025-01-01",
+      "title": "XVIII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "553621": {
       "channel": "Bielice",
       "checked_ts": 1795610574.370639,
@@ -11415,6 +13339,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554028": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657951.297832,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554028",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/554028-xviii-2025-sesja-rady-powiatu-malborskiego-24-09-2025",
+      "published": "2025-01-01",
+      "title": "XVIII/2025 Sesja Rady Powiatu Malborskiego 24-09-2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554032": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611481.5908172,
@@ -11545,6 +13482,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554119": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657921.2790854,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554119",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/554119-xix-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XIX Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554124": {
       "channel": "Manowo",
       "checked_ts": 1795612430.3409595,
@@ -11583,6 +13533,19 @@
       "title": "Sesja Nr XIII/2025 Rady Miejskiej w Mieszkowicach - Kadencja IX",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554133": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657665.0889072,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "554133",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/554133-xi-sesja-rady-gminy-w-polajewie-odbyta-dnia-25-wrzesnia-2025-r---kadencja-2024-2029-",
+      "published": "2025-01-01",
+      "title": "XI sesja Rady Gminy w Połajewie odbyta dnia 25 września 2025 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554137": {
       "channel": "Miastko",
@@ -11661,6 +13624,19 @@
       "title": "21_XXI Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554185": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657777.939974,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554185",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/554185-xix-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XIX Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554188": {
       "channel": "Miasto Turek",
@@ -12013,6 +13989,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554484": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657950.101213,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554484",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/554484-xix-2025-nadzwyczajna-sesja-rady-powiatu-malborskiego-14-10-2025",
+      "published": "2025-01-01",
+      "title": "XIX/2025 nadzwyczajna Sesja Rady Powiatu Malborskiego 14-10-2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554496": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610601.9719307,
@@ -12064,6 +14053,19 @@
       "title": "XIX Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554578": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657920.0806322,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554578",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/554578-xx-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XX Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554604": {
       "channel": "Janowiec Wielkopolski",
@@ -12507,6 +14509,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554915": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657776.7338188,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554915",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/554915-xx-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XX Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554918": {
       "channel": "Manowo",
       "checked_ts": 1795612429.1410017,
@@ -12649,6 +14664,19 @@
       "title": "XXI sesja Rady Miejskiej w Olszynie, na wniosek - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555089": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657663.8865545,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "555089",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/555089-xii-sesja-rady-gminy-w-polajewie---kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Gminy w Połajewie - kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "555119": {
       "channel": "Mieszkowice",
@@ -13027,6 +15055,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555469": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657661.4876382,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "555469",
+      "media": "",
+      "page": "https://polajewo.tv-polska.eu/film/555469-xiii-sesja-rady-gminy-w-polajewie---kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Gminy w Połajewie - kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "555477": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611321.9511633,
@@ -13065,6 +15106,19 @@
       "title": "XXII Sesja Rady Gminy Gorzkowice kadencji 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555485": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657948.895165,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555485",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/555485-xx-2025-sesja-rady-powiatu-malborskiego-26-11-2025",
+      "published": "2025-01-01",
+      "title": "XX/2025 sesja Rady Powiatu Malborskiego 26-11-2025",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "555488": {
       "channel": "Iłów",
@@ -13234,6 +15288,32 @@
       "title": "XXIII Sesja Rady Miejskiej w Miastku 28.11.2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555560": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657775.5325139,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555560",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/555560-xxi-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XXI Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "555568": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657918.8898947,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555568",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/555568-xxi-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XXI Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "555575": {
       "channel": "Mielno",
@@ -13716,6 +15796,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556051": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657947.7007763,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556051",
+      "media": "",
+      "page": "https://powiatmalbork.tv-polska.eu/film/556051-xxi-2025---sesja-rady-powiatu-malborskiego-18-12-2025",
+      "published": "2025-01-01",
+      "title": "XXI-2025 - sesja Rady Powiatu Malborskiego 18-12-2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556052": {
       "channel": "Jastarnia",
       "checked_ts": 1795611714.0312083,
@@ -13741,6 +15834,19 @@
       "title": "XV Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556054": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657917.6785657,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556054",
+      "media": "",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/556054-xxii-sesja-rady-powiatu",
+      "published": "2025-01-01",
+      "title": "XXII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556058": {
       "channel": "Marianowo",
@@ -13963,6 +16069,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556152": {
+      "channel": "Pomorze Zachodnie",
+      "checked_ts": 1795657717.9374611,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556152",
+      "media": "",
+      "page": "https://pomorzezachodnie.tv-polska.eu/film/556152-swiateczne-zyczenia---2025",
+      "published": "2025-01-01",
+      "title": "Świąteczne życzenia - 2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "556155": {
+      "channel": "Pomorze Zachodnie",
+      "checked_ts": 1795657716.7363894,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556155",
+      "media": "",
+      "page": "https://pomorzezachodnie.tv-polska.eu/film/556155-burmistrz-reska-zyczenia-2026",
+      "published": "2025-01-01",
+      "title": "Burmistrz Reska Życzenia 2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556168": {
       "channel": "Dolice",
       "checked_ts": 1795611100.6413207,
@@ -14158,6 +16290,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556279": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657774.3363109,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556279",
+      "media": "",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/556279-xxii-sesja-rady-powiatu-czluchowskiego",
+      "published": "2025-01-01",
+      "title": "XXII Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556285": {
       "channel": "Karnice",
       "checked_ts": 1795611847.2513041,
@@ -14209,6 +16354,19 @@
       "title": "XXIV Sesja Rady Gminy Iłów z dnia 31.12.2025r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556326": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657660.294676,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "556326",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150944518.mp4",
+      "page": "https://polajewo.tv-polska.eu/film/556326-xiv-sesja-rady-gminy-w-polajewie---kadencja-2024-2029",
+      "published": "2026-01-01",
+      "title": "XIV Sesja Rady Gminy w Połajewie - kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556357": {
       "channel": "Miasto Turek",
@@ -14483,6 +16641,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556672": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657945.3025262,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556672",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1156869209.mp4",
+      "page": "https://powiatmalbork.tv-polska.eu/film/556672-xxii-sesja-rady-powiatu-malborskiego-21-01-2026",
+      "published": "2026-01-21",
+      "title": "XXII Sesja Rady Powiatu Malborskiego 21.01.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556676": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610598.371281,
@@ -14508,6 +16679,19 @@
       "title": "XXI Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556703": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657916.4861386,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556703",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1157477839.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/556703-xxiii-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXIII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556718": {
       "channel": "Czarnocin",
@@ -14691,6 +16875,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556830": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657886.4748008,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556830",
+      "media": "",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/556830-xix-sesja-rady-powiatu-kutnowskiego",
+      "published": "2025-01-01",
+      "title": "XIX Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556831": {
       "channel": "Osiek Gmina",
       "checked_ts": 1795615121.4529803,
@@ -14768,6 +16965,19 @@
       "title": "XXVIII Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556889": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657773.1388319,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556889",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160159133.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/556889-xxiii-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXIII Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556899": {
       "channel": "Dziwnów",
@@ -14976,6 +17186,19 @@
       "title": "XVII Sesja Rady Gminy Boleszkowice w dniu  22 stycznia 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557029": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657704.7660918,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557029",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1163583834.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/557029-xxiv-sesja-rady-miejskiej-w-zukowie",
+      "published": "2026-01-01",
+      "title": "XXIV Sesja Rady Miejskiej w Żukowie",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557054": {
       "channel": "Marianowo",
@@ -15276,6 +17499,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557232": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657885.2834086,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "557232",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1166292062.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/557232-xx-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XX Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "557240": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657884.0806024,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "557240",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1166302029.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/557240-xxi-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXI Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "557242": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657882.8836305,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "557242",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1166303039.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/557242-xxii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "557256": {
       "channel": "Maszewo",
       "checked_ts": 1795612489.1495607,
@@ -15288,6 +17550,19 @@
       "title": "Sesja nr XXII Rady Miejskiej w Maszewie - 18.02.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557261": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657915.2925994,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557261",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1166607637.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/557261-xxiv-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXIV Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557270": {
       "channel": "Drawno",
@@ -15406,6 +17681,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557403": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657703.5389588,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557403",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168477815.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/557403-xvi-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2026-01-01",
+      "title": "XVI Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "557404": {
       "channel": "Dziwnów",
       "checked_ts": 1795611251.1411896,
@@ -15457,6 +17745,19 @@
       "title": "XXIII zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557428": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657771.939306,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557428",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168783854.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/557428-xxiv-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXIV Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557435": {
       "channel": "Manowo",
@@ -16004,6 +18305,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557795": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657702.3413975,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557795",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1174326887.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/557795-xxv-sesja-rady-miejskiej-w-zukowie",
+      "published": "2026-01-01",
+      "title": "XXV Sesja Rady Miejskiej w Żukowie",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "557807": {
       "channel": "Brusy",
       "checked_ts": 1795610664.395384,
@@ -16016,6 +18330,19 @@
       "title": "XIX sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557829": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657944.0973942,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557829",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1174700989.mp4",
+      "page": "https://powiatmalbork.tv-polska.eu/film/557829-xxiii-2026-nadzwyczajna-sesja-rady-powiatu-malborskiego",
+      "published": "2026-01-01",
+      "title": "XXIII/2026 nadzwyczajna Sesja Rady Powiatu Malborskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557842": {
       "channel": "Dygowo",
@@ -16303,6 +18630,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558055": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657912.8866363,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558055",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177626126.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/558055-xxv-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXV Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "558056": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612658.4354799,
@@ -16342,6 +18682,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558062": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657770.7402124,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558062",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177678563.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/558062-xxv-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXV Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "558085": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657701.142639,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558085",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178339795.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/558085-xvii-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2026-01-01",
+      "title": "XVII Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "558089": {
       "channel": "Lębork",
       "checked_ts": 1795612247.934953,
@@ -16354,6 +18720,19 @@
       "title": "XX Sesja Rady Miejskiej w Lęborku IX kadencji 27.03.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558090": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657880.481193,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "558090",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178365390.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/558090-xxiii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXIII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558092": {
       "channel": "Gniew",
@@ -16393,6 +18772,19 @@
       "title": "XXI sesja Rady Miejskiej w Gniewie z 25 marca 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558098": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657659.0939767,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "558098",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178384218.mp4",
+      "page": "https://polajewo.tv-polska.eu/film/558098-xv-sesja-rady-gminy-w-polajewie-odbyta-dnia-26-marca-2026-r---kadencja-2024-2029-",
+      "published": "2026-01-01",
+      "title": "XV sesja Rady Gminy w Połajewie odbyta dnia 26 marca 2026 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558100": {
       "channel": "Bielice",
@@ -16550,6 +18942,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558145": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657879.2835917,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "558145",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178797041.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/558145-xxiv-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXIV Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "558148": {
       "channel": "Kępice",
       "checked_ts": 1795611892.8522348,
@@ -16562,6 +18967,32 @@
       "title": "XXII sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558155": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657942.93142,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558155",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1179098103.mp4",
+      "page": "https://powiatmalbork.tv-polska.eu/film/558155-xxiv-2026-sesja-rady-powiatu-malborskiego-31-03-2026",
+      "published": "2026-01-01",
+      "title": "XXIV/2026 sesja Rady Powiatu Malborskiego 31-03-2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "558159": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657698.7452478,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558159",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1179110406.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/558159-xxvi-sesja-rady-miejskiej-w-zukowie",
+      "published": "2026-01-01",
+      "title": "XXVI Sesja Rady Miejskiej w Żukowie",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558171": {
       "channel": "Marianowo",
@@ -16588,6 +19019,19 @@
       "title": "XXV Sesja Rady gminy Dygowo z dnia 26 marca  2026 roku",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558235": {
+      "channel": "Pomorze Zachodnie",
+      "checked_ts": 1795657714.3434646,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558235",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1179828044.mp4",
+      "page": "https://pomorzezachodnie.tv-polska.eu/film/558235-wielkanoc",
+      "published": "2026-01-01",
+      "title": "Wielkanoc",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558239": {
       "channel": "Jednorożec",
@@ -16835,6 +19279,19 @@
       "title": "XXV sesja Rady Gminy Czerwin 31.03.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558547": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657697.5395572,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558547",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1184821297.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/558547-xviii-sesja-rady-gminy-studzienice---nadzwyczajna--kadencja-2024--2029-",
+      "published": "2026-01-01",
+      "title": "XVIII Sesja Rady Gminy Studzienice - nadzwyczajna (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558570": {
       "channel": "Osina",
@@ -17122,6 +19579,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558756": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657941.708288,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558756",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187608346.mp4",
+      "page": "https://powiatmalbork.tv-polska.eu/film/558756-xxv-2026-sesja-rady-powiatu-malborskiego-2026-04-28",
+      "published": "2026-04-28",
+      "title": "XXV/2026 Sesja Rady Powiatu Malborskiego 2026-04-28",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "558760": {
       "channel": "Dziwnów",
       "checked_ts": 1795611248.7391884,
@@ -17251,6 +19721,19 @@
       "title": "XXV zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558824": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657911.685614,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558824",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1188961958.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/558824-xxvi-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXVI Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558832": {
       "channel": "Jednorożec",
@@ -17421,6 +19904,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558970": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657768.3402328,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558970",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1191057774.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/558970-xxvi-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXVI Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559035": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612550.3565218,
@@ -17550,6 +20046,19 @@
       "title": "XXVI Sesja Rady Miejskiej Turku z dnia 20 maja 2026r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559202": {
+      "channel": "Powiat Międzychodzki",
+      "checked_ts": 1795657972.8920553,
+      "date_source": "data w tytule",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "559202",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1194619606.mp4",
+      "page": "https://powiatmiedzychodzki.tv-polska.eu/film/559202-xxvi-sesja-rady-powiatu-miedzychodzkiego--21-05-2026-",
+      "published": "2026-05-21",
+      "title": "XXVI sesja Rady Powiatu Międzychodzkiego (21.05.2026)",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559208": {
       "channel": "Manowo",
@@ -17798,6 +20307,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559373": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657696.3391922,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "559373",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196562345.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/559373-xix-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2026-01-01",
+      "title": "XIX Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559375": {
       "channel": "Barwice",
       "checked_ts": 1795610513.1645215,
@@ -17810,6 +20332,19 @@
       "title": "XXXIII Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559381": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657657.8942373,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "559381",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196573187.mp4",
+      "page": "https://polajewo.tv-polska.eu/film/559381-xvi-sesja-rady-gminy-w-polajewie-odbyta-dnia-28-maja-2026-r---kadencja-2024-2029-",
+      "published": "2026-01-01",
+      "title": "XVI sesja Rady Gminy w Połajewie odbyta dnia 28 maja 2026 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559382": {
       "channel": "Drawno",
@@ -17850,6 +20385,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559396": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657910.4853907,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559396",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196607275.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/559396-xxvii-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXVII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559400": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611431.1640477,
@@ -17875,6 +20423,19 @@
       "title": "XXXIII sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559408": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657878.0964785,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559408",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196651079.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/559408-xxv-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXV Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559414": {
       "channel": "Kamień Pomorski",
@@ -18005,6 +20566,19 @@
       "title": "XXI sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559465": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657767.1407576,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "559465",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197356858.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/559465-xxvii-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXVII Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559470": {
       "channel": "Łęki Szlacheckie",
@@ -18565,6 +21139,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559818": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657876.8828592,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559818",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202401519.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/559818-xxvi-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXVI Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559826": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612208.327005,
@@ -18629,6 +21216,19 @@
       "title": "XXVII Sesja Rady Miejskiej w Leżajsku. 19.06.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559912": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657940.514242,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "559912",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1203708554.mp4",
+      "page": "https://powiatmalbork.tv-polska.eu/film/559912-xxvi-2026-sesja-rady-powiatu-2026-06-22",
+      "published": "2026-06-22",
+      "title": "XXVI/2026 Sesja Rady Powiatu 2026-06-22",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559925": {
       "channel": "Marianowo",
@@ -18734,6 +21334,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559985": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657656.6939406,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "559985",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204452460.mp4",
+      "page": "https://polajewo.tv-polska.eu/film/559985-xvii-sesja-rady-gminy-w-polajewie-odbyta-dnia-24-czerwca-2026-r---kadencja-2024-2029-",
+      "published": "2026-01-01",
+      "title": "XVII Sesja Rady Gminy w Połajewie odbyta dnia 24 czerwca 2026 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559988": {
       "channel": "Jednorożec",
       "checked_ts": 1795611738.0359557,
@@ -18759,6 +21372,19 @@
       "title": "XXV sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559997": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657695.1397336,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "559997",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204510548.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/559997-xx-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2026-01-01",
+      "title": "XX Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560003": {
       "channel": "Miasto Leżajsk",
@@ -18851,6 +21477,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560029": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657909.28818,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560029",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204778277.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/560029-xxviii-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXVIII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560034": {
       "channel": "Dolice",
       "checked_ts": 1795611092.237833,
@@ -18863,6 +21502,19 @@
       "title": "XXVI Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560035": {
+      "channel": "Powiat Międzychodzki",
+      "checked_ts": 1795657971.6946726,
+      "date_source": "data w tytule",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "560035",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204789945.mp4",
+      "page": "https://powiatmiedzychodzki.tv-polska.eu/film/560035-xxvii-sesja-rady-powiatu-miedzychodzkiego--25-06-2026-",
+      "published": "2026-06-25",
+      "title": "XXVII sesja Rady Powiatu Międzychodzkiego (25.06.2026)",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560057": {
       "channel": "Mieszkowice",
@@ -19163,6 +21815,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560208": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657765.9367235,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560208",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1207282366.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/560208-xxviii-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXVIII Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560211": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612581.5962427,
@@ -19332,6 +21997,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560309": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657655.4932697,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "560309",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208728162.mp4",
+      "page": "https://polajewo.tv-polska.eu/film/560309-xviii-sesja-rady-gminy-w-polajewie-odbyta-dnia-10-lipca-2026-r---kadencja-2024-2029-",
+      "published": "2026-01-01",
+      "title": "XVIII sesja Rady Gminy w Połajewie odbyta dnia 10 lipca 2026 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560313": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611523.596649,
@@ -19357,6 +22035,19 @@
       "title": "XXX Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560343": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657764.7387147,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560343",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1209761537.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/560343-xxix-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXIX Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560347": {
       "channel": "Gmina Miejska Szczytno",
@@ -19579,6 +22270,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560590": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657875.6816757,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560590",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212634100.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/560590-xxvii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXVII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560605": {
       "channel": "Jednorożec",
       "checked_ts": 1795611736.8391368,
@@ -19604,6 +22308,19 @@
       "title": "XXXII Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560627": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657763.5409513,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560627",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213493190.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/560627-xxx-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXX Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560647": {
       "channel": "Łęki Szlacheckie",
@@ -19709,6 +22426,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560685": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657939.2999394,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560685",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214253690.mp4",
+      "page": "https://powiatmalbork.tv-polska.eu/film/560685-xxvii-2026-nadzwyczajna-sesja-rady-powiatu-malborskiego-2026-07-30",
+      "published": "2026-07-30",
+      "title": "XXVII/2026 nadzwyczajna sesja Rady Powiatu Malborskiego 2026-07-30",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560691": {
       "channel": "Drawno",
       "checked_ts": 1795611139.0424385,
@@ -19761,6 +22491,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560705": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657908.084929,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560705",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214507455.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/560705-xxix-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXIX Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560711": {
       "channel": "Krokowa",
       "checked_ts": 1795612094.3171656,
@@ -19786,6 +22529,19 @@
       "title": "Jubileusz XV lecia działalności Drawieńskiego Uniwersytetu Trzeciego Wieku",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560717": {
+      "channel": "Pomorze Zachodnie",
+      "checked_ts": 1795657711.9596891,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560717",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214566665.mp4",
+      "page": "https://pomorzezachodnie.tv-polska.eu/film/560717-83--tour-de-pologne---2-etap",
+      "published": "2026-01-01",
+      "title": "83. Tour de Pologne - 2 etap",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560735": {
       "channel": "Iłów",
@@ -19956,6 +22712,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560929": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657752.7279773,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560929",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560929-iv-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-22-pazdziernika-2024-r-",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Gminy Poświętne IX Kadencji z dnia 22 października 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560930": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657751.5323963,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560930",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218870264.mp4",
+      "page": "https://ugposwietne.tv-polska.eu/film/560930-v-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-18-listopada-2024-r--cz-1",
+      "published": "2026-01-01",
+      "title": "V Sesja Rady Gminy Poświętne IX Kadencji z dnia 18 listopada 2024 r. cz.1",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560931": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657750.3338223,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560931",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218873373.mp4",
+      "page": "https://ugposwietne.tv-polska.eu/film/560931-v-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-18-listopada-2024-r--cz-2",
+      "published": "2026-01-01",
+      "title": "V Sesja Rady Gminy Poświętne IX Kadencji z dnia 18 listopada 2024 r. cz.2",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560932": {
       "channel": "Międzybórz",
       "checked_ts": 1795612675.381094,
@@ -19982,6 +22777,188 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560934": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657749.1259723,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560934",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560934-vi-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-9-grudnia-2024-r-",
+      "published": "2024-01-01",
+      "title": "VI Sesja Rady Gminy Poświętne IX Kadencji z dnia 9 grudnia 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560936": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657746.7285497,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560936",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560936-vii-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-30-grudnia-2024-r-",
+      "published": "2024-01-01",
+      "title": "VII Sesja Rady Gminy Poświętne IX Kadencji z dnia 30 grudnia 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560941": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657745.5252335,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560941",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560941-viii-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-27-stycznia-2025-r-",
+      "published": "2025-01-01",
+      "title": "VIII Sesja Rady Gminy Poświętne IX Kadencji z dnia 27 stycznia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560943": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657744.3260837,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560943",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560943-ix-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-10-marca-2025-r--cz--1",
+      "published": "2025-01-01",
+      "title": "IX Sesja Rady Gminy Poświętne IX Kadencji z dnia 10 marca 2025 r. cz. 1",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560944": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657743.1281176,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560944",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560944-ix-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-10-marca-2025-r--cz--2",
+      "published": "2025-01-01",
+      "title": "IX Sesja Rady Gminy Poświętne IX Kadencji z dnia 10 marca 2025 r. cz. 2",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560945": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657741.9396055,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560945",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560945-x-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-25-marca-2025-r-",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Gminy Poświętne IX Kadencji z dnia 25 marca 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560946": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657740.7260892,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560946",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560946-xi-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-5-maja-2025-r-",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Gminy Poświętne IX Kadencji z dnia 5 maja 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560947": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657739.5247915,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560947",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560947-xii-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-16-czerwca-2025-r-",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Gminy Poświętne IX Kadencji z dnia 16 czerwca 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560948": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657738.3334618,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560948",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218918380.mp4",
+      "page": "https://ugposwietne.tv-polska.eu/film/560948-xiii-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-4-sierpnia-2025-r-",
+      "published": "2026-01-01",
+      "title": "XIII Sesja Rady Gminy Poświętne IX Kadencji z dnia 4 sierpnia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560949": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657735.9240844,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560949",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560949-xiv-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-26-sierpnia-2025-r-",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Gminy Poświętne IX Kadencji z dnia 26 sierpnia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560950": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657734.7251668,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560950",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560950-xv-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-20-pazdziernika-2025-r-",
+      "published": "2025-01-01",
+      "title": "XV Sesja Rady Gminy Poświętne IX Kadencji z dnia 20 października 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560951": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657733.5252562,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560951",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560951-xvi-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-28-listopada-2025-r-",
+      "published": "2025-01-01",
+      "title": "XVI Sesja Rady Gminy Poświętne IX Kadencji z dnia 28 listopada 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560952": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657732.3384926,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560952",
+      "media": "",
+      "page": "https://ugposwietne.tv-polska.eu/film/560952-xvii-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-29-grudnia-2025-r-",
+      "published": "2025-01-01",
+      "title": "XVII Sesja Rady Gminy Poświętne IX Kadencji z dnia 29 grudnia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560953": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657731.1329257,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560953",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1218941522.mp4",
+      "page": "https://ugposwietne.tv-polska.eu/film/560953-xviii-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-23-lutego-2026-r-",
+      "published": "2026-01-01",
+      "title": "XVIII Sesja Rady Gminy Poświętne IX Kadencji z dnia 23 lutego 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560954": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611522.3955846,
@@ -19994,6 +22971,45 @@
       "title": "XXXVI Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 17.08.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560958": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657729.9330597,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560958",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1219166961.mp4",
+      "page": "https://ugposwietne.tv-polska.eu/film/560958-xix-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-23-marca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XIX Sesja Rady Gminy Poświętne IX Kadencji z dnia 23 marca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560960": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657728.7314496,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560960",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1219171196.mp4",
+      "page": "https://ugposwietne.tv-polska.eu/film/560960-xx-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-1-czerwca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XX Sesja Rady Gminy Poświętne IX Kadencji z dnia 1 czerwca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560964": {
+      "channel": "Poświętne",
+      "checked_ts": 1795657727.5318146,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560964",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1219173590.mp4",
+      "page": "https://ugposwietne.tv-polska.eu/film/560964-xxi-sesja-rady-gminy-poswietne-ix-kadencji-z-dnia-29-czerwca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXI Sesja Rady Gminy Poświętne IX Kadencji z dnia 29 czerwca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560965": {
       "channel": "Czarnocin",
@@ -20046,6 +23062,19 @@
       "title": "XXI Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561038": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657938.1057994,
+      "date_source": "data w tytule",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561038",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1220719925.mp4",
+      "page": "https://powiatmalbork.tv-polska.eu/film/561038-xxviii-2026-nadzwyczajna-sesja-rady-powiatu-malborskiego-2026-08-21",
+      "published": "2026-08-21",
+      "title": "XXVIII/2026 nadzwyczajna sesja Rady Powiatu Malborskiego 2026-08-21",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561039": {
       "channel": "Międzychód",
@@ -20190,6 +23219,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561113": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657874.482727,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561113",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221737822.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/561113-xxviii-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXVIII Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561119": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611680.3850622,
@@ -20294,6 +23336,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561169": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657906.885586,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561169",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222609521.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/561169-xxx-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXX Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561173": {
       "channel": "Kępice",
       "checked_ts": 1795611884.4506195,
@@ -20332,6 +23387,19 @@
       "title": "XXIX Sesja Rady Miejskiej Turku z dnia 26 sierpnia 2026r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561205": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657762.336662,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561205",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222939993.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/561205-xxxi-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXXI Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561207": {
       "channel": "Miasto Leżajsk",
@@ -20814,6 +23882,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561544": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657873.2810524,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561544",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229238677.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/561544-xxix-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXIX Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561569": {
       "channel": "Krokowa",
       "checked_ts": 1795612091.9168727,
@@ -20866,6 +23947,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561603": {
+      "channel": "Powiat Międzychodzki",
+      "checked_ts": 1795657970.4918768,
+      "date_source": "data w tytule",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "561603",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230120244.mp4",
+      "page": "https://powiatmiedzychodzki.tv-polska.eu/film/561603-xxviii-sesja-rady-powiatu-miedzychodzkiego--24-09-2026-",
+      "published": "2026-09-24",
+      "title": "XXVIII sesja Rady Powiatu Międzychodzkiego (24.09.2026)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561608": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612646.4372048,
@@ -20891,6 +23985,19 @@
       "title": "XXVI Sesja Rady Gminy Manowo, 2026-09-25, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561620": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657905.6850371,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561620",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230224243.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/561620-xxxi-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXXI Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561634": {
       "channel": "Bierzwnik",
@@ -21073,6 +24180,19 @@
       "title": "Sesja nr 14 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561701": {
+      "channel": "Powiat Malborski",
+      "checked_ts": 1795657936.9058218,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561701",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231594302.mp4",
+      "page": "https://powiatmalbork.tv-polska.eu/film/561701-xxix-2026-sesja-rady-powiatu-malborskiego-29-09-2026",
+      "published": "2026-01-01",
+      "title": "XXIX-2026 sesja Rady Powiatu Malborskiego 29-09-2026",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561702": {
       "channel": "Kutno Gmina",
@@ -21399,6 +24519,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561748": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657654.2944393,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "561748",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231948382.mp4",
+      "page": "https://polajewo.tv-polska.eu/film/561748-xix-sesja-rady-gminy-w-polajewie-odbyta-dnia-30-wrzesnia-2026-r---kadencja-2024-2029-",
+      "published": "2026-01-01",
+      "title": "XIX sesja Rady Gminy w Połajewie odbyta dnia 30 września 2026 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561750": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612277.9320657,
@@ -21477,6 +24610,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561767": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657761.1529357,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561767",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232305920.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/561767-xxxii-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXXII Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561785": {
       "channel": "Iłów",
       "checked_ts": 1795611551.20325,
@@ -21515,6 +24661,19 @@
       "title": "XXIX Sesja Rady Gminy Jednorożec 22.09.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561806": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657692.7363136,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561806",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233260184.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/561806-xxi-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2026-01-01",
+      "title": "XXI Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561819": {
       "channel": "Osina",
@@ -21685,6 +24844,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561992": {
+      "channel": "Powiat Międzychodzki",
+      "checked_ts": 1795657969.2913105,
+      "date_source": "data w tytule",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "561992",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1236328598.mp4",
+      "page": "https://powiatmiedzychodzki.tv-polska.eu/film/561992-xxix-sesja-rady-powiatu-miedzychodzkiego--15-10-2026-",
+      "published": "2026-10-15",
+      "title": "XXIX sesja Rady Powiatu Międzychodzkiego (15.10.2026)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561998": {
       "channel": "Cewice",
       "checked_ts": 1795610697.9907913,
@@ -21853,6 +25025,19 @@
       "title": "XXX Sesja Rady Miejskiej Turku z dnia 21 października 2026r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562083": {
+      "channel": "Powiat Łódzki Wschodni",
+      "checked_ts": 1795657904.4896994,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562083",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1238721090.mp4",
+      "page": "https://lodzkiwschodni.tv-polska.eu/film/562083-xxxii-sesja-rady-powiatu",
+      "published": "2026-01-01",
+      "title": "XXXII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "562088": {
       "channel": "Mielno",
@@ -22400,6 +25585,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562165": {
+      "channel": "Pomorskie",
+      "checked_ts": 1795657691.5386696,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562165",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242829810.mp4",
+      "page": "https://pomorskie.tv-polska.eu/film/562165-xxii-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2026-01-01",
+      "title": "XXII Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562166": {
       "channel": "Jaktorów",
       "checked_ts": 1795611633.5760114,
@@ -22438,6 +25636,19 @@
       "title": "Posiedzenie Komisji do spraw Gminnych Rady Miejskiej w Janowcu Wielkopolskim 03.11.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562172": {
+      "channel": "Powiat Kutnowski",
+      "checked_ts": 1795657872.0821967,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562172",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243180279.mp4",
+      "page": "https://powiatkutnowski.tv-polska.eu/film/562172-xxx-sesja-rady-powiatu-kutnowskiego",
+      "published": "2026-01-01",
+      "title": "XXX Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "562174": {
       "channel": "Nowe Miasto Lubawskie",
@@ -22530,6 +25741,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562258": {
+      "channel": "Połajewo",
+      "checked_ts": 1795657653.096795,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "562258",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247162647.mp4",
+      "page": "https://polajewo.tv-polska.eu/film/562258-xx-sesja-rady-gminy-w-polajewie-odbyta-dnia-12-listopada-2026-r---kadencja-2024-2029-",
+      "published": "2026-01-01",
+      "title": "XX sesja Rady Gminy w Połajewie odbyta dnia 12 listopada 2026 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562261": {
       "channel": "Lębork",
       "checked_ts": 1795612239.5342207,
@@ -22555,6 +25779,19 @@
       "title": "XXI Sesja Rady Gminy Jaktorów",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562285": {
+      "channel": "Powiat Człuchowski",
+      "checked_ts": 1795657759.936977,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562285",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247259900.mp4",
+      "page": "https://powiatczluchowski.tv-polska.eu/film/562285-xxxiii-sesja-rady-powiatu-czluchowskiego",
+      "published": "2026-01-01",
+      "title": "XXXIII Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "562287": {
       "channel": "Dynów",
@@ -23270,9 +26507,22 @@
       "title": "Flądry i Żagle",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "96127": {
+      "channel": "Powiat Goleniowski",
+      "checked_ts": 1795657826.350958,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "96127",
+      "media": "",
+      "page": "https://powiatgoleniowski.tv-polska.eu/film/96127-miasto-stepnica",
+      "published": "2014-01-01",
+      "title": "Miasto Stepnica",
+      "tourism": false,
+      "updated": "2026-11-26"
     }
   },
-  "last_run": "2026-11-25T14:00:54.635480+00:00",
+  "last_run": "2026-11-26T01:52:52.892139+00:00",
   "page_cursors": {
     "alfatv": 3,
     "barcin": 4,
@@ -23354,6 +26604,7 @@
     "lewinklodzki": 4,
     "lipiany": 2,
     "lodz": 2,
+    "lodzkiwschodni": 4,
     "manowo": 4,
     "marianowo": 4,
     "maszewo": 4,
@@ -23374,7 +26625,22 @@
     "osina": 4,
     "pelczyce": 4,
     "pila": 2,
+    "polajewo": 4,
+    "polczynzdroj": 2,
+    "police": 2,
+    "polskazdrona": 4,
+    "pomorskie": 4,
+    "pomorskiezdrona": 2,
+    "pomorzezachodnie": 4,
+    "pomorzezachodniezdrona": 4,
+    "powiatczluchowski": 4,
+    "powiatdrawski": 4,
+    "powiatgoleniowski": 4,
+    "powiatkamienski": 4,
+    "powiatkutnowski": 4,
+    "powiatmalbork": 4,
     "ugjoniec": 2,
+    "ugposwietne": 4,
     "umnowemiasto": 4,
     "witkowo": 3
   }

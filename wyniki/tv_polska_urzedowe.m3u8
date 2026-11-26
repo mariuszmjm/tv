@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-25T14:00:54.686339+00:00
+# Aktualizacja: 2026-11-26T01:52:52.936251+00:00
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXV Sesja Rady Miejskiej Mielna 19.11.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1248308295.mp4
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXIV Sesja Rady Miejskiej Mielna 23.10.2026
@@ -391,12 +391,18 @@ https://film.alfatv.pl/~tv/backup_vimeo/1240203257.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1223256918.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXIV Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (27.08.2026 r.)
 https://film.alfatv.pl/~tv/backup_vimeo/1222028749.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Malborski | XXVIII/2026 nadzwyczajna sesja Rady Powiatu Malborskiego 2026-08-21
+https://film.alfatv.pl/~tv/backup_vimeo/1220719925.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Malborski | XXVII/2026 nadzwyczajna sesja Rady Powiatu Malborskiego 2026-07-30
+https://film.alfatv.pl/~tv/backup_vimeo/1214253690.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXXIII sesja Rady Miejskiej w Miastku 21.07.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1222995882.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXXII Sesja Rady Miejskiej w Miastku 09.07.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1208693578.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXIII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (26.06.2026 r.)
 https://film.alfatv.pl/~tv/backup_vimeo/1205749750.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Malborski | XXVI/2026 Sesja Rady Powiatu 2026-06-22
+https://film.alfatv.pl/~tv/backup_vimeo/1203708554.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXXI Sesja Rady Miejskiej w Miastku 19.06.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1202782673.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXX Sesja Rady Miejskiej w Miastku 03.06.2026
@@ -407,6 +413,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1197322866.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1201681216.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXVIII Sesja Rady Miejskiej w Miastku 15.05.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1192482157.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Malborski | XXV/2026 Sesja Rady Powiatu Malborskiego 2026-04-28
+https://film.alfatv.pl/~tv/backup_vimeo/1187608346.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXI Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (24.04.2026 r.)
 https://film.alfatv.pl/~tv/backup_vimeo/1186894826.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXVII Sesja Rady Miejskiej w Miastku 24.04.2026
@@ -419,6 +427,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1177663003.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1169490664.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXV Sesja Rady Miejskiej w Miastku 27.02.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1168841500.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Malborski | XXII Sesja Rady Powiatu Malborskiego 21.01.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1156869209.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XVIII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (16.01.2026 r.)
 https://film.alfatv.pl/~tv/backup_vimeo/1158322324.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Brusy | XIX sesja IX kadencji
@@ -547,6 +557,54 @@ https://film.alfatv.pl/~tv/backup_vimeo/1201917864.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1229788822.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Krokowa | XXXVIII Sesja Rady Gminy Krokowa IX kadencji
 https://film.alfatv.pl/~tv/backup_vimeo/1223909041.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XIX Sesja Rady Gminy Studzienice (kadencja 2024 -2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1196562345.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XVI Sesja Rady Gminy Studzienice (kadencja 2024 -2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1168477815.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XVII Sesja Rady Gminy Studzienice (kadencja 2024 -2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1178339795.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XVIII Sesja Rady Gminy Studzienice - nadzwyczajna (kadencja 2024 -2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1184821297.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XX Sesja Rady Gminy Studzienice (kadencja 2024 -2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1204510548.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XXI Sesja Rady Gminy Studzienice (kadencja 2024 -2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1233260184.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XXII Sesja Rady Gminy Studzienice (kadencja 2024 -2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1242829810.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XXIV Sesja Rady Miejskiej w Żukowie
+https://film.alfatv.pl/~tv/backup_vimeo/1163583834.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XXV Sesja Rady Miejskiej w Żukowie
+https://film.alfatv.pl/~tv/backup_vimeo/1174326887.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Pomorskie | XXVI Sesja Rady Miejskiej w Żukowie
+https://film.alfatv.pl/~tv/backup_vimeo/1179110406.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXIII Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1160159133.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXIV Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1168783854.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXIX Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1209761537.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXV Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1177678563.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXVI Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1191057774.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXVII Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1197356858.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXVIII Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1207282366.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXX Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1213493190.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXXI Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1222939993.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXXII Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1232305920.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Człuchowski | XXXIII Sesja Rady Powiatu Człuchowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1247259900.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Malborski | XXIII/2026 nadzwyczajna Sesja Rady Powiatu Malborskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1174700989.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Malborski | XXIV/2026 sesja Rady Powiatu Malborskiego 31-03-2026
+https://film.alfatv.pl/~tv/backup_vimeo/1179098103.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Malborski | XXIX-2026 sesja Rady Powiatu Malborskiego 29-09-2026
+https://film.alfatv.pl/~tv/backup_vimeo/1231594302.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XVII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (19.12.2025 r.)
 https://film.alfatv.pl/~tv/backup_vimeo/1148635623.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXIV Sesja Rady Miejskiej w Miastku 19.12.2025
@@ -643,12 +701,16 @@ https://film.alfatv.pl/~tv/backup_vimeo/1243750014.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1242848681.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji do spraw Skarg -  Wniosków i Petycji Rady Miejskiej w Janowcu Wielkopolskim 03.11.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1242848099.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Powiat Międzychodzki | XXIX sesja Rady Powiatu Międzychodzkiego (15.10.2026)
+https://film.alfatv.pl/~tv/backup_vimeo/1236328598.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji ds. Gminnych Rady Miejskiej w Janowcu Wielkopolskim - 28.09.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1231179581.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | XXIII SESJA RADY MIEJSKIEJ W JANOWCU WIELKOPOLSKIM - 28.09.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1231179861.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji Skarg -  Wniosków i Petycji Rady Miejskiej w Janowcu Wielkopolskim - 24.09.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1229888000.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Powiat Międzychodzki | XXVIII sesja Rady Powiatu Międzychodzkiego (24.09.2026)
+https://film.alfatv.pl/~tv/backup_vimeo/1230120244.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji Skarg -  Wniosków i Petycji Rady Miejskiej w Janowcu Wielkopolskim 08.09.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1225170933.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji do spraw Gminnych Rady Miejskiej w Janowcu Wielkopolskim 27.08.2026
@@ -663,6 +725,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1220740293.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1220740156.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Międzychód | XXXV SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 07.07.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1220739894.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Powiat Międzychodzki | XXVII sesja Rady Powiatu Międzychodzkiego (25.06.2026)
+https://film.alfatv.pl/~tv/backup_vimeo/1204789945.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Międzychód | XXXIV SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 23.06.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1207628026.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji ds. Gminnych 12.06.2026
@@ -673,6 +737,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1200722471.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1196316707.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | XX Sesja Rady Miejskiej w Janowcu Wielkopolskim 21.05.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1194717327.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Powiat Międzychodzki | XXVI sesja Rady Powiatu Międzychodzkiego (21.05.2026)
+https://film.alfatv.pl/~tv/backup_vimeo/1194619606.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji ds. Gminnych 20.05.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1194014471.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji Rewizyjnej Rady Miejskiej w Janowcu Wielkopolskim 14.05.2026
@@ -785,6 +851,20 @@ https://film.alfatv.pl/~tv/backup_vimeo/1222025061.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1231247953.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Mogilno | XXXIII sesja Rady Miejskiej w Mogilnie
 https://film.alfatv.pl/~tv/backup_vimeo/1240197016.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Połajewo | XIV Sesja Rady Gminy w Połajewie - kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1150944518.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Połajewo | XIX sesja Rady Gminy w Połajewie odbyta dnia 30 września 2026 r. (Kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1231948382.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Połajewo | XV sesja Rady Gminy w Połajewie odbyta dnia 26 marca 2026 r. (Kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1178384218.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Połajewo | XVI sesja Rady Gminy w Połajewie odbyta dnia 28 maja 2026 r. (Kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1196573187.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Połajewo | XVII Sesja Rady Gminy w Połajewie odbyta dnia 24 czerwca 2026 r. (Kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1204452460.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Połajewo | XVIII sesja Rady Gminy w Połajewie odbyta dnia 10 lipca 2026 r. (Kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1208728162.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Połajewo | XX sesja Rady Gminy w Połajewie odbyta dnia 12 listopada 2026 r. (Kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1247162647.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XIX Sesja Rady Miejskiej
 https://film.alfatv.pl/~tv/backup_vimeo/1206405900.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XV Sesja Rady Miejskiej w Łabiszynie
@@ -801,8 +881,6 @@ https://film.alfatv.pl/~tv/backup_vimeo/1231963595.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1178470793.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Międzychód | XXVII SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 16.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1148591444.mp4
-#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Międzychód | XXVI SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 25.11.2025 r.
-https://film.alfatv.pl/~tv/backup_vimeo/1148591090.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXXIV Rady Gminy Łęki Szlacheckie z dnia 23.11.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1249923406.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jadów | XXXII Sesja Rady Miasta i Gminy Jadów kadencja 2024-2029 część 1
@@ -1097,6 +1175,42 @@ https://film.alfatv.pl/~tv/backup_vimeo/1206036911.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1206037178.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Piątek | XXVI sesja Rady Miejskiej w Piątku
 https://film.alfatv.pl/~tv/backup_vimeo/1206037419.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Poświętne | V Sesja Rady Gminy Poświętne IX Kadencji z dnia 18 listopada 2024 r. cz.1
+https://film.alfatv.pl/~tv/backup_vimeo/1218870264.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Poświętne | V Sesja Rady Gminy Poświętne IX Kadencji z dnia 18 listopada 2024 r. cz.2
+https://film.alfatv.pl/~tv/backup_vimeo/1218873373.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Poświętne | XIII Sesja Rady Gminy Poświętne IX Kadencji z dnia 4 sierpnia 2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1218918380.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Poświętne | XIX Sesja Rady Gminy Poświętne IX Kadencji z dnia 23 marca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1219166961.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Poświętne | XVIII Sesja Rady Gminy Poświętne IX Kadencji z dnia 23 lutego 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1218941522.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Poświętne | XX Sesja Rady Gminy Poświętne IX Kadencji z dnia 1 czerwca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1219171196.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Poświętne | XXI Sesja Rady Gminy Poświętne IX Kadencji z dnia 29 czerwca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1219173590.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XX Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1166292062.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXI Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1166302029.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXII Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1166303039.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXIII Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1178365390.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXIV Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1178797041.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXIX Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1229238677.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXV Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1196651079.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXVI Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1202401519.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXVII Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1212634100.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXVIII Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1221737822.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXX Sesja Rady Powiatu Kutnowskiego
+https://film.alfatv.pl/~tv/backup_vimeo/1243180279.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXII sesja Rady Gminy Czerwin 30.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1150624418.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXIII Rady Gminy Łęki Szlacheckie z dnia 30.12.2025 r.
@@ -1255,8 +1369,6 @@ https://film.alfatv.pl/~tv/backup_vimeo/1212553094.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1156515775.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Cisna | Sesja nr XXVI Rady Gminy Cisna z dnia 18.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1156505639.mp4
-#EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Cisna | Sesja nr XXV Rady Gminy Cisna z dnia 25.11.2025
-https://film.alfatv.pl/~tv/backup_vimeo/1140424410.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XIX nadzwyczajna sesja Rady Gminy Banie
 https://film.alfatv.pl/~tv/backup_vimeo/1201664291.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XX sesja Rady Gminy Banie
@@ -1291,3 +1403,23 @@ https://film.alfatv.pl/~tv/backup_vimeo/1214234780.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1224921528.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Dolice | XXX Sesja Rady Gminy Dolice
 https://film.alfatv.pl/~tv/backup_vimeo/1239760015.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXIII Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1157477839.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXIV Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1166607637.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXIX Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1214507455.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXV Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1177626126.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXVI Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1188961958.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXVII Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1196607275.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXVIII Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1204778277.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXX Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1222609521.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXXI Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1230224243.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Łódzki Wschodni | XXXII Sesja Rady Powiatu
+https://film.alfatv.pl/~tv/backup_vimeo/1238721090.mp4
