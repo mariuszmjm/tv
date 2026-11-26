@@ -1,5 +1,5 @@
 {
-  "cursor": 125,
+  "cursor": 139,
   "items": {
     "126976": {
       "channel": "Biały Bór",
@@ -91,6 +91,19 @@
       "title": "Lipiany",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13270": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712144.699385,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13270",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/13270-ogrod-marzen",
+      "published": "2008-01-01",
+      "title": "Ogród marzeń",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13272": {
       "channel": "Chojna",
@@ -404,6 +417,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13355": {
+      "channel": "Powiat Sławieński",
+      "checked_ts": 1795711976.4126325,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13355",
+      "media": "",
+      "page": "https://powiatslawienski.tv-polska.eu/film/13355-powiat-slawienski---2002r-",
+      "published": "2002-01-01",
+      "title": "Powiat Sławieński - 2002r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13356": {
+      "channel": "Poznań",
+      "checked_ts": 1795712072.417467,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13356",
+      "media": "",
+      "page": "https://poznan.tv-polska.eu/film/13356-poznan---1992r-",
+      "published": "1992-01-01",
+      "title": "Poznań - 1992r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13360": {
+      "channel": "Poznań",
+      "checked_ts": 1795712073.6164496,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13360",
+      "media": "",
+      "page": "https://poznan.tv-polska.eu/film/13360-swiatowa-wystawa-filatelistyczna-polska-1993r-",
+      "published": "1993-01-01",
+      "title": "Światowa wystawa filatelistyczna Polska 1993r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13362": {
       "channel": "Kujawsko-Pomorskie",
       "checked_ts": 1795612155.534238,
@@ -455,6 +507,19 @@
       "title": "Dębno",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13367": {
+      "channel": "Pyrzyce",
+      "checked_ts": 1795712246.690982,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13367",
+      "media": "",
+      "page": "https://pyrzyce.tv-polska.eu/film/13367-pyrzyce",
+      "published": "2008-01-01",
+      "title": "Pyrzyce",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13370": {
       "channel": "Chodzież",
@@ -638,6 +703,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "13394": {
+      "channel": "Pyrzyce",
+      "checked_ts": 1795712247.8875356,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13394",
+      "media": "",
+      "page": "https://pyrzyce.tv-polska.eu/film/13394-miasto-i-gmina-pyrzyce---1999r-",
+      "published": "1999-01-01",
+      "title": "Miasto i Gmina Pyrzyce - 1999r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13395": {
       "channel": "Piła",
       "checked_ts": 1795615248.6357872,
@@ -781,6 +859,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "13438": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712145.8851264,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13438",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/13438-gmina-przelewice",
+      "published": "2001-01-01",
+      "title": "Gmina Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13439": {
       "channel": "Powiat Kamieński",
       "checked_ts": 1795657860.0717292,
@@ -791,6 +882,19 @@
       "page": "https://powiatkamienski.tv-polska.eu/film/13439-kamien-pomorski",
       "published": "2005-01-01",
       "title": "Kamień Pomorski",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13442": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795712001.6196527,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13442",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13442-stargard-szczecinski---miasto-na-dzis-i-jutro-2002r-",
+      "published": "2002-01-01",
+      "title": "Stargard Szczeciński - Miasto na dziś i jutro 2002r.",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -872,6 +976,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13459": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795712000.4136586,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13459",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13459-osm-stargard-szczecinski---1991r",
+      "published": "1991-01-01",
+      "title": "OSM Stargard Szczeciński - 1991r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13469": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711999.2155974,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13469",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13469-stargard-szczecinski---inwestycje---1998r-",
+      "published": "1998-01-01",
+      "title": "Stargard Szczeciński - Inwestycje - 1998r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13474": {
       "channel": "Gmina Słupsk",
       "checked_ts": 1795611337.5492566,
@@ -950,6 +1080,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13490": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711998.0150056,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13490",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13490-pollena-stargard-szczecinski",
+      "published": "1992-01-01",
+      "title": "Pollena Stargard Szczeciński",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13491": {
       "channel": "Nowogard",
       "checked_ts": 1795615075.8177397,
@@ -973,6 +1116,19 @@
       "page": "https://powiatkamienski.tv-polska.eu/film/13511-miedzyzdroje-inwestycje-i-rozwoj-2006-2010",
       "published": "2010-01-01",
       "title": "Międzyzdroje Inwestycje i Rozwój 2006-2010",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13514": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711996.8174887,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13514",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13514-20-lat-samorzadu-w-chociwlu",
+      "published": "2010-01-01",
+      "title": "20 lat Samorządu w Chociwlu",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -1392,6 +1548,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13601": {
+      "channel": "Pyrzyce",
+      "checked_ts": 1795712249.086408,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13601",
+      "media": "",
+      "page": "https://pyrzyce.tv-polska.eu/film/13601-pyrzyckie-baszty",
+      "published": "2012-01-01",
+      "title": "Pyrzyckie baszty",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13604": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711990.8308535,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13604",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13604-suchan",
+      "published": "2012-01-01",
+      "title": "Suchań",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13606": {
       "channel": "Na Rzecz Wybrzeża",
       "checked_ts": 1795614986.7866347,
@@ -1496,6 +1678,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13623": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711989.617529,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13623",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13623-chociwel",
+      "published": "2012-01-01",
+      "title": "Chociwel",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13625": {
       "channel": "Choszczno",
       "checked_ts": 1795610745.9825277,
@@ -1508,6 +1703,19 @@
       "title": "Wokół jeziora Klukom",
       "tourism": true,
       "updated": "2026-11-25"
+    },
+    "13630": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711988.41587,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13630",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13630-zielony-suchan",
+      "published": "2012-01-01",
+      "title": "Zielony Suchań",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "13641": {
       "channel": "Gmina Stargard",
@@ -1587,6 +1795,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13661": {
+      "channel": "Pyrzyce",
+      "checked_ts": 1795712244.2886102,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13661",
+      "media": "",
+      "page": "https://pyrzyce.tv-polska.eu/film/13661-750-lat-pyrzyc",
+      "published": "2013-01-01",
+      "title": "750 lat Pyrzyc",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13672": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711987.214796,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13672",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13672-dolice",
+      "published": "2013-01-01",
+      "title": "Dolice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "13677": {
       "channel": "Powiat Goleniowski",
       "checked_ts": 1795657828.7444458,
@@ -1597,6 +1831,45 @@
       "page": "https://powiatgoleniowski.tv-polska.eu/film/13677-na-wodach-zalewu-szczecinskiego",
       "published": "2013-01-01",
       "title": "Na wodach Zalewu Szczecińskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13685": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711986.0143976,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13685",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13685-stare-mlyny",
+      "published": "2013-01-01",
+      "title": "Stare młyny",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13688": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711984.8131256,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13688",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/13688-nieznane-jeziora",
+      "published": "2013-01-01",
+      "title": "Nieznane jeziora",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "13690": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712006.4212046,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13690",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/13690-nad-jeziorem-trzesiecko",
+      "published": "2013-01-01",
+      "title": "Nad jeziorem Trzesiecko",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -1651,6 +1924,19 @@
       "title": "Z biegiem Krąpieli",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13698": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712005.2208037,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13698",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/13698-gmina-wtopiona-w-przyrode",
+      "published": "2013-01-01",
+      "title": "Gmina wtopiona w przyrodę",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "138861": {
       "channel": "Drawno",
@@ -1964,6 +2250,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "19591": {
+      "channel": "Powiat Sławieński",
+      "checked_ts": 1795711977.6101062,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "19591",
+      "media": "",
+      "page": "https://powiatslawienski.tv-polska.eu/film/19591-marek-stachowicz",
+      "published": "2001-01-01",
+      "title": "Marek Stachowicz",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "19592": {
       "channel": "Koszalin",
       "checked_ts": 1795612052.3122709,
@@ -2042,6 +2341,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "19607": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711995.6145883,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "19607",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/19607-andrzej-adamski",
+      "published": "2010-01-01",
+      "title": "Andrzej Adamski",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "19608": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711994.415309,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "19608",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/19608-ewa-ludwinska",
+      "published": "2010-01-01",
+      "title": "Ewa Ludwińska",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "19609": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711993.2205157,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "19609",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/19609-pawel-pieczonka",
+      "published": "2010-01-01",
+      "title": "Paweł Pieczonka",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "19613": {
       "channel": "Nowogard",
       "checked_ts": 1795615068.617111,
@@ -2094,6 +2432,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "19617": {
+      "channel": "Powiat Stargardzki",
+      "checked_ts": 1795711982.4136713,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "19617",
+      "media": "",
+      "page": "https://powiatstargardzki.tv-polska.eu/film/19617-sieja-i-kolezenstwo",
+      "published": "2013-01-01",
+      "title": "Sieja i koleżeństwo",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "19620": {
       "channel": "Na Rzecz Wybrzeża",
       "checked_ts": 1795614984.3852654,
@@ -2132,6 +2483,19 @@
       "title": "Poznawanie teatru natury",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "19930": {
+      "channel": "Pyrzyce",
+      "checked_ts": 1795712245.4864311,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "19930",
+      "media": "",
+      "page": "https://pyrzyce.tv-polska.eu/film/19930-sanktuarium-w-brzesku",
+      "published": "2014-01-01",
+      "title": "Sanktuarium w Brzesku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "213835": {
       "channel": "Nowe Warpno",
@@ -3290,6 +3654,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "470725": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712004.018544,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "470725",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/470725-2019-07-31-wywiad-ze-starosta-krzysztofem-lisem",
+      "published": "2019-07-31",
+      "title": "2019-07-31 Wywiad ze starostą Krzysztofem Lisem",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "479748": {
       "channel": "Maszewo",
       "checked_ts": 1795612477.1457472,
@@ -4148,6 +4525,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "535740": {
+      "channel": "Rąbino",
+      "checked_ts": 1795712253.890025,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "535740",
+      "media": "",
+      "page": "https://rabino.tv-polska.eu/film/535740-festyn--powitanie-lata--w-rabinie",
+      "published": "2023-01-01",
+      "title": "Festyn \"Powitanie Lata\" w Rąbinie",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "536154": {
       "channel": "Łanięta",
       "checked_ts": 1795612339.137608,
@@ -4290,6 +4680,19 @@
       "title": "LXIV Sesja Rady Gminy Łanięta, powiat kutnowski - 26.09.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "537954": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712070.0293283,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "537954",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/537954-xxxvii-sesja-rady-powiatu-w-zninie---20-10-2023-r-",
+      "published": "2023-10-20",
+      "title": "XXXVII sesja Rady Powiatu w Żninie - 20.10.2023 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "538064": {
       "channel": "Połajewo",
@@ -4473,6 +4876,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "539343": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712068.8265057,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "539343",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/539343-xxxviii-sesja-rady-powiatu-w-zninie---15-12-2023-r-",
+      "published": "2023-12-15",
+      "title": "XXXVIII sesja Rady Powiatu w Żninie - 15.12.2023 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "539428": {
       "channel": "Myślibórz",
       "checked_ts": 1795614975.9889736,
@@ -4629,6 +5045,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "540076": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712067.6209874,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "540076",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/540076-xxxix-sesja-rady-powiatu-w-zninie---12-01-2024-r-",
+      "published": "2024-01-12",
+      "title": "XXXIX sesja Rady Powiatu w Żninie - 12.01.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "540115": {
       "channel": "Osiek Gmina",
       "checked_ts": 1795615141.8246489,
@@ -4756,6 +5185,19 @@
       "page": "https://powiatdrawski.tv-polska.eu/film/540629-lxviii-sesja-rady-powiatu-drawskiego",
       "published": "2023-01-01",
       "title": "LXVIII sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "540905": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712066.4303737,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "540905",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/540905-xl-sesja-rady-powiatu-w-zninie---23-02-2024-r-",
+      "published": "2024-02-23",
+      "title": "XL sesja Rady Powiatu w Żninie - 23.02.2024 r.",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -4901,6 +5343,19 @@
       "title": "L Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "542047": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712065.2369297,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "542047",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/542047-xli-sesja-rady-powiatu-w-zninie---05-04-2024-r-",
+      "published": "2024-04-05",
+      "title": "XLI sesja Rady Powiatu w Żninie - 05.04.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "542385": {
       "channel": "Łanięta",
@@ -5070,6 +5525,19 @@
       "title": "I Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "542644": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712064.0250902,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "542644",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/542644-i-sesja-rady-powiatu-w-zninie---07-05-2024-r-",
+      "published": "2024-05-07",
+      "title": "I sesja Rady Powiatu w Żninie - 07.05.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "542706": {
       "channel": "Gniewino",
@@ -5526,6 +5994,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "543727": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712143.4791596,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "543727",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/543727--vii-spotkanie-z-weteranami----silni-w-jednosci-z-bialoczerwona--patriotyzm-widziany-oczami-pokolenia-bialoczerwonej-",
+      "published": "2024-01-01",
+      "title": "VII SPOTKANIE Z WETERANAMI  \" SILNI W JEDNOŚCI Z BIAŁOCZERWONĄ. PATRIOTYZM WIDZIANY OCZAMI POKOLENIA BIAŁOCZERWONEJ\"",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "543854": {
       "channel": "Kobylanka",
       "checked_ts": 1795611956.4553692,
@@ -5564,6 +6045,19 @@
       "title": "Sesja Rady Gminy Karnice 26.06.2024",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "544026": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712062.8188338,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "544026",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/544026-ii-sesja-rady-powiatu-w-zninie---26-06-2024-r-",
+      "published": "2024-06-26",
+      "title": "II sesja Rady Powiatu w Żninie - 26.06.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "544040": {
       "channel": "Łanięta",
@@ -5890,6 +6384,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545699": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712061.633941,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "545699",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/545699-iii-sesja-rady-powiatu-w-zninie---12-09-2024-r-",
+      "published": "2024-09-12",
+      "title": "III sesja Rady Powiatu w Żninie - 12.09.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "545851": {
       "channel": "Pełczyce",
       "checked_ts": 1795615209.0325623,
@@ -6123,6 +6630,19 @@
       "title": "V Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "545919": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712059.2219436,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "545919",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/545919-iv-sesja-rady-powiatu-w-zninie---23-09-2024-r-",
+      "published": "2024-09-23",
+      "title": "IV sesja Rady Powiatu w Żninie - 23.09.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "545935": {
       "channel": "Osiek Gmina",
@@ -6592,6 +7112,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546726": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711941.6056194,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546726",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/546726-vi-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2024-01-01",
+      "title": "VI Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "546729": {
       "channel": "Osina",
       "checked_ts": 1795615171.8256483,
@@ -6683,6 +7216,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546793": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712058.0222914,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "546793",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/546793-v-sesja-rady-powiatu-w-zninie---25-10-2024-r-",
+      "published": "2024-10-25",
+      "title": "V sesja Rady Powiatu w Żninie - 25.10.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "546811": {
       "channel": "Bielice",
       "checked_ts": 1795610586.374377,
@@ -6773,6 +7319,19 @@
       "title": "V sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "546964": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712241.8875587,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "546964",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/546964-x-nadzwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2024-01-01",
+      "title": "X nadzwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "547004": {
       "channel": "Kamień Pomorski",
@@ -6891,6 +7450,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547280": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711940.4082284,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547280",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/547280-vii-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2024-01-01",
+      "title": "VII Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "547285": {
       "channel": "Powiat Malborski",
       "checked_ts": 1795657965.6899498,
@@ -6901,6 +7473,19 @@
       "page": "https://powiatmalbork.tv-polska.eu/film/547285-vii-2024-nadzwyczajna-sesja-rady-powiatu-20-11-2024",
       "published": "2024-11-20",
       "title": "VII/2024 nadzwyczajna sesja Rady Powiatu 20.11.2024",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "547309": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711939.2077374,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547309",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/547309-viii-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2024-01-01",
+      "title": "VIII Sesja VII Kadencji Rady Powiatu w Myśliborzu",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -6940,6 +7525,19 @@
       "page": "https://powiatkutnowski.tv-polska.eu/film/547376-xi-sesja-rady-powiatu-kutnowskiego",
       "published": "2024-01-01",
       "title": "XI Sesja Rady Powiatu Kutnowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "547377": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712240.689954,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547377",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/547377-xi-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2024-01-01",
+      "title": "XI zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -7111,6 +7709,19 @@
       "title": "VII Sesja Rady Gminy Manowo, 2024-11-29, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547515": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712108.5240564,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547515",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/547515-ix-sesja-rady-miejskiej-w-przasnyszu-25-11-2024-r-",
+      "published": "2024-11-25",
+      "title": "IX Sesja Rady Miejskiej w Przasnyszu 25.11.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "547517": {
       "channel": "Łanięta",
@@ -7346,6 +7957,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547821": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711938.0087237,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547821",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/547821-ix-nadzwyczajna-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2024-01-01",
+      "title": "IX Nadzwyczajna Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "547909": {
       "channel": "Maszewo",
       "checked_ts": 1795612505.9466512,
@@ -7437,6 +8061,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547948": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712107.3253376,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547948",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/547948-x-sesja-rady-miejskiej-w-przasnyszu-16-12-2024-r-",
+      "published": "2024-12-16",
+      "title": "X Sesja Rady Miejskiej w Przasnyszu 16.12.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "547950": {
       "channel": "Brusy",
       "checked_ts": 1795610681.180171,
@@ -7501,6 +8138,19 @@
       "title": "VIII.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547992": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712056.8278472,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547992",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/547992-vi-sesja-rady-powiatu-w-zninie---19-12-2024-r-",
+      "published": "2024-12-19",
+      "title": "VI sesja Rady Powiatu w Żninie - 19.12.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "547998": {
       "channel": "Łabiszyn",
@@ -7865,6 +8515,19 @@
       "title": "XII Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548107": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712239.4855473,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548107",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/548107-xii-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2024-01-01",
+      "title": "XII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "548148": {
       "channel": "Nowe Warpno",
@@ -8451,6 +9114,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548838": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712106.127631,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548838",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/548838-xi-sesja-rady-miejskiej-w-przasnyszu-27-01-2025-r-",
+      "published": "2025-01-27",
+      "title": "XI Sesja Rady Miejskiej w Przasnyszu 27.01.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "548843": {
       "channel": "Pełczyce",
       "checked_ts": 1795615199.4280972,
@@ -8763,6 +9439,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549078": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712177.0930977,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549078",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/549078-ix-sesja-rady-gminy-przelewice",
+      "published": "2025-01-01",
+      "title": "IX Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "549079": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612571.952576,
@@ -8788,6 +9477,19 @@
       "title": "XI Zwyczajna Sesja Rady Gminy Deszczno 10.02.2025r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549122": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712238.285325,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549122",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/549122-xiii-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XIII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "549138": {
       "channel": "Powiat Malborski",
@@ -8880,6 +9582,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549291": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711936.8067746,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "549291",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/549291-x-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "X Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "549319": {
       "channel": "Powiat Łódzki Wschodni",
       "checked_ts": 1795657930.8817043,
@@ -8890,6 +9605,19 @@
       "page": "https://lodzkiwschodni.tv-polska.eu/film/549319-xii-sesja-rady-powiatu",
       "published": "2025-01-01",
       "title": "XII Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "549345": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711935.6085985,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "549345",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/549345-xi-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XI Sesja VII Kadencji Rady Powiatu w Myśliborzu",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -8918,6 +9646,19 @@
       "title": "XI Nadzwyczajna Sesja Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549404": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712104.9256136,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549404",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/549404-xii-sesja-rady-miejskiej-w-przasnysz-24-02-2025-r-",
+      "published": "2025-02-24",
+      "title": "XII Sesja Rady Miejskiej w Przasnysz 24.02.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "549429": {
       "channel": "Deszczno",
@@ -9022,6 +9763,19 @@
       "title": "XI zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549464": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712055.6244342,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549464",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/549464-vii-sesja-rady-powiatu-w-zninie---27-02-2025-r-",
+      "published": "2025-02-27",
+      "title": "VII sesja Rady Powiatu w Żninie - 27.02.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "549471": {
       "channel": "Osina",
@@ -9204,6 +9958,58 @@
       "title": "XI Sesja Rady Gminy Jaktorów - 27-02-2025, godz. 13:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549598": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711974.0104818,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549598",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/549598-xiii-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XIII sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "549599": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711972.8232787,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549599",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/549599-xiv-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XIV sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "549602": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711971.6129332,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549602",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/549602-xv-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XV sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "549603": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712175.8844163,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549603",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/549603-x-sesja-rady-gminy-przelewice",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "549609": {
       "channel": "Miasto Leżajsk",
@@ -9490,6 +10296,19 @@
       "title": "Sesja nadzwyczajna nr XII Rady Miejskiej w Maszewie - 25.03.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549999": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712103.7265913,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549999",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/549999-xiii-sesja-rady-miejskiej-w-przasnyszu-24-03-2025-r-",
+      "published": "2025-03-24",
+      "title": "XIII Sesja Rady Miejskiej w Przasnyszu 24.03.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "550000": {
       "channel": "Czerwin",
@@ -9881,6 +10700,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550347": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712237.0845544,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550347",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/550347-xiv-nadzwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XIV nadzwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "550350": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712235.88482,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550350",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/550350-xv-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XV zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "550351": {
       "channel": "Powiat Człuchowski",
       "checked_ts": 1795657786.3318717,
@@ -9891,6 +10736,32 @@
       "page": "https://powiatczluchowski.tv-polska.eu/film/550351-xiii-sesja-rady-powiatu-czluchowskiego",
       "published": "2025-01-01",
       "title": "XIII Sesja Rady Powiatu Człuchowskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "550352": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712174.6848295,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550352",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/550352--xi-nadzwyczajna-sesja-rady-gminy-przelewice",
+      "published": "2025-01-01",
+      "title": "XI Nadzwyczajna Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "550354": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711934.4075234,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550354",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/550354-xii-nadzwyczajna-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XII Nadzwyczajna Sesja VII Kadencji Rady Powiatu w Myśliborzu",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -9919,6 +10790,19 @@
       "title": "XII Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550437": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712140.9236345,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550437",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/550437-xiv-sesja-rady-gminy-przasnysz-w-dniu-11-04-2025r",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Gminy Przasnysz w dniu 11-04-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "550442": {
       "channel": "Kępice",
@@ -10076,6 +10960,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550709": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711970.4095402,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550709",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/550709-xvi-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XVI sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "550716": {
       "channel": "Powiat Łódzki Wschodni",
       "checked_ts": 1795657928.4793334,
@@ -10167,6 +11064,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550742": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712054.4220505,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550742",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/550742-viii-sesja-rady-powiatu-w-zninie---24-04-2025-r-",
+      "published": "2025-04-24",
+      "title": "VIII sesja Rady Powiatu w Żninie - 24.04.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "550748": {
       "channel": "Dolice",
       "checked_ts": 1795611111.4387207,
@@ -10192,6 +11102,19 @@
       "title": "15 SESJA RADY MIASTA I GMINY KIERNOZIA 25-04-2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550763": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711969.2155144,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550763",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/550763-xvii-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XVII sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "550769": {
       "channel": "Jaktorów",
@@ -10258,6 +11181,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550822": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711933.207058,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550822",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/550822-xiii-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XIII Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "550839": {
       "channel": "Iłów",
       "checked_ts": 1795611576.403847,
@@ -10283,6 +11219,19 @@
       "title": "XV Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550858": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712173.483127,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550858",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/550858-xii-sesja-rady-gminy-przelewice",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "550888": {
       "channel": "Powiat Malborski",
@@ -10348,6 +11297,19 @@
       "title": "Sesja Nr XV Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550962": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712102.5252197,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550962",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/550962-xiv-sesja-rady-miejskiej-w-przasnyszu-28-04-2025-r-",
+      "published": "2025-04-28",
+      "title": "XIV Sesja Rady Miejskiej w Przasnyszu 28.04.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "550983": {
       "channel": "Mogilno",
@@ -10426,6 +11388,19 @@
       "title": "XVI Sesja Rady Miejskiej Mielna 29.04.2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551030": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712139.7257807,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551030",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/551030-xv-sesja-rady-gminy-przasnysz-w-dniu-08-05-2025r",
+      "published": "2025-01-01",
+      "title": "XV Sesja Rady Gminy Przasnysz w dniu 08-05-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "551050": {
       "channel": "Pełczyce",
@@ -10530,6 +11505,19 @@
       "title": "XIV Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551159": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711930.8172767,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551159",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/551159-xiv-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XIV Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "551169": {
       "channel": "Mieszkowice",
@@ -10674,6 +11662,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551344": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712138.522423,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551344",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/551344-xvi-sesja-rady-gminy-przasnysz-w-dniu-23-05-2025r",
+      "published": "2025-01-01",
+      "title": "XVI Sesja Rady Gminy Przasnysz w dniu 23-05-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "551352": {
       "channel": "Iłów",
       "checked_ts": 1795611575.2029312,
@@ -10738,6 +11739,19 @@
       "title": "XIII Sesja Rady Miejskiej Turku 20 maja 2025r",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551419": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712037.6242194,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551419",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/551419-2025-05-27---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-05-27",
+      "title": "2025-05-27 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "551424": {
       "channel": "Osiek Gmina",
@@ -10921,6 +11935,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551514": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712101.3324544,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551514",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/551514-xv-sesja-rady-miejskiej-w-przasnyszu-26-05-2025-r-",
+      "published": "2025-05-26",
+      "title": "XV Sesja Rady Miejskiej w Przasnyszu 26.05.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "551536": {
       "channel": "Jaktorów",
       "checked_ts": 1795611655.175476,
@@ -10957,6 +11984,19 @@
       "page": "https://lodzkiwschodni.tv-polska.eu/film/551558-xv-sesja-rady-powiatu",
       "published": "2025-01-01",
       "title": "XV Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "551561": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712234.6876876,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551561",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/551561-xvi-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XVI zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -11012,6 +12052,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "551648": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711968.0124085,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551648",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/551648-xviii-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XVIII sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "551649": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711966.809935,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551649",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/551649-xix-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XIX sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "551669": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611330.352004,
@@ -11063,6 +12129,19 @@
       "title": "XIII sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551757": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712036.4273436,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551757",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/551757-2025-06-09---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-06-09",
+      "title": "2025-06-09 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "551774": {
       "channel": "Olszyna",
@@ -11142,6 +12221,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "551844": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712209.4826472,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551844",
+      "media": "",
+      "page": "https://gminapuck.tv-polska.eu/film/551844-xxi-nadzwyczajna-sesja-ix-kadencji-rady-gminy-puck-12-06-2025",
+      "published": "2025-06-12",
+      "title": "XXI Nadzwyczajna Sesja IX kadencji Rady Gminy Puck 12.06.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "551845": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612566.1234386,
@@ -11167,6 +12259,19 @@
       "title": "Sesja nr XVII Rady Gminy Cisna z dnia 10.06.2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551849": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712172.2864416,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551849",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/551849-xiii-sesja-rady-gminy-przelewice",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "551860": {
       "channel": "Osina",
@@ -11246,6 +12351,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551941": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712035.2253065,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551941",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/551941-2025-06-17---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-06-17",
+      "title": "2025-06-17 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "551945": {
       "channel": "Nowe Miasto Lubawskie",
       "checked_ts": 1795615005.9913807,
@@ -11258,6 +12376,19 @@
       "title": "XIII.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551959": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712053.2445335,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551959",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/551959-ix-sesja-rady-powiatu-w-zninie---18-06-2025-r-",
+      "published": "2025-06-18",
+      "title": "IX sesja Rady Powiatu w Żninie - 18.06.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "551963": {
       "channel": "Mielno",
@@ -11584,6 +12715,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552203": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712208.2903717,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552203",
+      "media": "",
+      "page": "https://gminapuck.tv-polska.eu/film/552203-xxii-sesja-ix-kadencji-rady-gminy-puck-26-06-2025",
+      "published": "2025-06-26",
+      "title": "XXII Sesja IX kadencji Rady Gminy Puck 26.06.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "552226": {
       "channel": "Lębork",
       "checked_ts": 1795612257.5342286,
@@ -11633,6 +12777,19 @@
       "page": "https://powiatdrawski.tv-polska.eu/film/552246-viii-uroczysta-sesja-rady-powiatu-drawskiego",
       "published": "2024-01-01",
       "title": "VIII Uroczysta sesja Rady Powiatu Drawskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "552247": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711929.6060464,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552247",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/552247-xv-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XV Sesja VII Kadencji Rady Powiatu w Myśliborzu",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -11779,6 +12936,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552270": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712100.1241026,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552270",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/552270-xvi-sesja-rady-miejskiej-w-przasnyszu-30-06-2025-r-",
+      "published": "2025-06-30",
+      "title": "XVI Sesja Rady Miejskiej w Przasnyszu 30.06.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "552275": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610641.5767517,
@@ -11804,6 +12974,19 @@
       "title": "XI sesja Rady Miejskiej w Gniewie IX kadencji z dnia 30 kwietnia 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552283": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711928.405164,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552283",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/552283-xvi-nadzwyczajna-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XVI Nadzwyczajna Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552284": {
       "channel": "Gniew",
@@ -11857,6 +13040,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552310": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712233.503903,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552310",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/552310-xvii-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XVII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "552321": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612600.7988636,
@@ -11895,6 +13091,32 @@
       "title": "XIII sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552331": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712171.083197,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552331",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/552331-xiv-sesja-rady-gminy-przelewice",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "552345": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711965.6273332,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552345",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/552345-xx-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XX sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552366": {
       "channel": "Mieszkowice",
@@ -11947,6 +13169,19 @@
       "title": "Sesja nr XIX Rady Gminy Cisna z dnia 03.07.2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552411": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712034.0244958,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552411",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/552411-2025-07-08---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-07-08",
+      "title": "2025-07-08 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552426": {
       "channel": "Piątek",
@@ -12169,6 +13404,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552589": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712137.3262033,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552589",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/552589-xvii-sesja-rady-gminy-przasnysz-w-dniu-25-06-2025r",
+      "published": "2025-01-01",
+      "title": "XVII Sesja Rady Gminy Przasnysz w dniu 25-06-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "552590": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712136.1237519,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552590",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/552590-xviii-sesja-rady-gminy-przasnysz-w-dniu-16-07-2025r",
+      "published": "2025-01-01",
+      "title": "XVIII Sesja Rady Gminy Przasnysz w dniu 16-07-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "552598": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612291.132635,
@@ -12299,6 +13560,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552662": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712052.0195322,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552662",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/552662-x-sesja-rady-powiatu-w-zninie---18-07-2025-r-",
+      "published": "2025-07-18",
+      "title": "X sesja Rady Powiatu w Żninie - 18.07.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "552663": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610604.3705714,
@@ -12363,6 +13637,19 @@
       "title": "XV Sesja Rady Miejskiej Turku z 23 lipca 2025r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552774": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712207.0866435,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552774",
+      "media": "",
+      "page": "https://gminapuck.tv-polska.eu/film/552774-xxiii-sesja-ix-kadencji-rady-gminy-puck-24-07-2025",
+      "published": "2025-07-24",
+      "title": "XXIII Sesja IX kadencji Rady Gminy Puck 24.07.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552800": {
       "channel": "Pełczyce",
@@ -12468,6 +13755,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552876": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712097.7240548,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552876",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/552876-xvii-sesja-rady-miejskiej-w-przasnyszu-28-07-2025-r-",
+      "published": "2025-07-28",
+      "title": "XVII Sesja Rady Miejskiej w Przasnyszu 28.07.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "552906": {
       "channel": "Nowe Warpno",
       "checked_ts": 1795615042.2140255,
@@ -12506,6 +13806,19 @@
       "title": "XVIII sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552921": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712205.885424,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552921",
+      "media": "",
+      "page": "https://gminapuck.tv-polska.eu/film/552921-xxiv-nadzwyczajna-sesja-ix-kadencji-rady-gminy-puck-31-07-2025",
+      "published": "2025-07-31",
+      "title": "XXIV Nadzwyczajna Sesja IX kadencji Rady Gminy Puck 31.07.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "552936": {
       "channel": "Jastarnia",
@@ -12558,6 +13871,19 @@
       "title": "XX Nadzwyczajna sesja Rady Miejskiej Mielna 30.07.2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552999": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711927.203711,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552999",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/552999-xvii-nadzwyczajna-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XVII Nadzwyczajna Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "553026": {
       "channel": "Karnice",
@@ -12650,6 +13976,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553190": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712134.9248288,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553190",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/553190-xix-sesja-rady-gminy-przasnysz-w-dniu-08-08-2025r",
+      "published": "2025-01-01",
+      "title": "XIX Sesja Rady Gminy Przasnysz w dniu 08-08-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "553191": {
       "channel": "Jednorożec",
       "checked_ts": 1795611751.2358613,
@@ -12676,6 +14015,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553199": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712032.8221035,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553199",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/553199-2025-08-18---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-08-18",
+      "title": "2025-08-18 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "553220": {
       "channel": "Barwice",
       "checked_ts": 1795610527.567581,
@@ -12688,6 +14040,19 @@
       "title": "XXIII Nadzwyczajna Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553221": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712169.885392,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553221",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/553221-xv-nadzwyczajna-sesja-rady-gminy",
+      "published": "2025-01-01",
+      "title": "XV Nadzwyczajna Sesja Rady Gminy",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "553223": {
       "channel": "Czerwin",
@@ -12714,6 +14079,19 @@
       "title": "XIV Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553281": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711926.0076334,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553281",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/553281-xviii-nadzwyczajna-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XVIII Nadzwyczajna Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "553287": {
       "channel": "Piątek",
@@ -12753,6 +14131,19 @@
       "title": "XVIII zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553340": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712096.5423987,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553340",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/553340-xviii-sesja-rady-miejskiej-w-przasnyszu-25-08-2025-r-",
+      "published": "2025-08-25",
+      "title": "XVIII Sesja Rady Miejskiej w Przasnyszu 25.08.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "553341": {
       "channel": "Czarnocin",
@@ -12883,6 +14274,32 @@
       "title": "XVIII Zwyczajna Sesja Rady Gminy Deszczno 28.08.2025r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553419": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712204.687944,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553419",
+      "media": "",
+      "page": "https://gminapuck.tv-polska.eu/film/553419-xxv-sesja-ix-kadencji-rady-gminy-puck-28-08-2025",
+      "published": "2025-08-28",
+      "title": "XXV Sesja IX kadencji Rady Gminy Puck 28.08.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "553420": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712231.084388,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553420",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/553420-xviii-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XVIII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "553421": {
       "channel": "Kiernozia",
@@ -13026,6 +14443,32 @@
       "title": "XX Sesja Rady Miejskiej w Szczytnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553511": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711963.2121992,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553511",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/553511-xxi-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XXI sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "553512": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711962.0076065,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553512",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/553512-xxii-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XXII sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "553520": {
       "channel": "Bierzwnik",
@@ -13183,6 +14626,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553657": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712031.63832,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553657",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/553657-2025-09-08---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-09-08",
+      "title": "2025-09-08 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "553676": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612289.931804,
@@ -13196,6 +14652,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553726": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712050.8268194,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553726",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/553726-xi-sesja-rady-powiatu-w-zninie---9-09-2025-r-",
+      "published": "2025-09-09",
+      "title": "XI sesja Rady Powiatu w Żninie - 9.09.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "553738": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611070.6425183,
@@ -13208,6 +14677,19 @@
       "title": "XV sesja nadzwyczajna Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553745": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712133.724018,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553745",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/553745-xx-sesja-rady-gminy-przasnysz-w-dniu-10-09-2025r",
+      "published": "2025-01-01",
+      "title": "XX Sesja Rady Gminy Przasnysz w dniu 10-09-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "553768": {
       "channel": "Kępice",
@@ -13247,6 +14729,19 @@
       "title": "XVI Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553819": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712203.4881208,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553819",
+      "media": "",
+      "page": "https://gminapuck.tv-polska.eu/film/553819-xxvi-nadzwyczajna-sesja-ix-kadencji-rady-gminy-puck-10-09-2025",
+      "published": "2025-09-10",
+      "title": "XXVI Nadzwyczajna Sesja IX kadencji Rady Gminy Puck 10.09.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "553821": {
       "channel": "Lębork",
@@ -13300,6 +14795,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553983": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711960.810502,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553983",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/553983-xxiii-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XXIII sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554010": {
       "channel": "Dygowo",
       "checked_ts": 1795611181.0655859,
@@ -13325,6 +14833,19 @@
       "title": "Sesja Nr XIX Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554019": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712095.3247771,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554019",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/554019-xix-sesja-rady-miejskiej-w-przasnyszu-22-09-2025-r-",
+      "published": "2025-09-22",
+      "title": "XIX Sesja Rady Miejskiej w Przasnyszu 22.09.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554024": {
       "channel": "Łabiszyn",
@@ -13443,6 +14964,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554088": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712202.284396,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554088",
+      "media": "",
+      "page": "https://gminapuck.tv-polska.eu/film/554088-xxvii-sesja-ix-kadencji-rady-gminy-puck-25-09-2025",
+      "published": "2025-09-25",
+      "title": "XXVII Sesja IX kadencji Rady Gminy Puck 25.09.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "554089": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712229.8857126,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554089",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/554089-xix-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XIX zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554092": {
       "channel": "Jaktorów",
       "checked_ts": 1795611649.1731794,
@@ -13468,6 +15015,19 @@
       "title": "XVI sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554103": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711959.6088707,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554103",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/554103-xxiv-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XXIV sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554106": {
       "channel": "Krokowa",
@@ -13544,6 +15104,19 @@
       "page": "https://polajewo.tv-polska.eu/film/554133-xi-sesja-rady-gminy-w-polajewie-odbyta-dnia-25-wrzesnia-2025-r---kadencja-2024-2029-",
       "published": "2025-01-01",
       "title": "XI sesja Rady Gminy w Połajewie odbyta dnia 25 września 2025 r. (Kadencja 2024-2029)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "554135": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712168.6903765,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554135",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/554135-xvi-sesja-rady-gminy-przelewice",
+      "published": "2025-01-01",
+      "title": "XVI Sesja Rady Gminy Przelewice",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -13624,6 +15197,19 @@
       "title": "21_XXI Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554171": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711924.8070347,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "554171",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/554171-xix-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XIX Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554185": {
       "channel": "Powiat Człuchowski",
@@ -13768,6 +15354,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554202": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712030.4224455,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554202",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/554202-2025-09-30---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-09-30",
+      "title": "2025-09-30 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554203": {
       "channel": "Karnice",
       "checked_ts": 1795611850.850476,
@@ -13780,6 +15379,19 @@
       "title": "Sesja Rady Gminy Karnice 30-09-2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554208": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712132.5248442,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554208",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/554208-xxi-sesja-rady-gminy-przasnysz-w-dniu-30-09-2025r",
+      "published": "2025-01-01",
+      "title": "XXI Sesja Rady Gminy Przasnysz w dniu 30-09-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554215": {
       "channel": "Olszyna",
@@ -13911,6 +15523,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554331": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712166.2820282,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554331",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/554331-xvii-nadzwyczajna-sesja-rady-gminy",
+      "published": "2025-01-01",
+      "title": "XVII Nadzwyczajna Sesja Rady Gminy",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "554339": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712029.2238357,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554339",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/554339-2025-10-07---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-10-07",
+      "title": "2025-10-07 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554347": {
       "channel": "Czerwin",
       "checked_ts": 1795610950.6191547,
@@ -13949,6 +15587,19 @@
       "title": "XVII sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554406": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712228.6846523,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554406",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/554406-xx-nadzwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XX nadzwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554439": {
       "channel": "Krzynowłoga Mała",
@@ -14054,6 +15705,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554563": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712201.085779,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554563",
+      "media": "",
+      "page": "https://gminapuck.tv-polska.eu/film/554563-xxviii-sesja-ix-kadencji-rady-gminy-puck-16-10-2025",
+      "published": "2025-10-16",
+      "title": "XXVIII Sesja IX kadencji Rady Gminy Puck 16.10.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554578": {
       "channel": "Powiat Łódzki Wschodni",
       "checked_ts": 1795657920.0806322,
@@ -14064,6 +15728,19 @@
       "page": "https://lodzkiwschodni.tv-polska.eu/film/554578-xx-sesja-rady-powiatu",
       "published": "2025-01-01",
       "title": "XX Sesja Rady Powiatu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "554587": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712147.0887702,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554587",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/554587-informacja-o-zakresie-dzialalnosci-urzedu-gminy",
+      "published": "2025-01-01",
+      "title": "Informacja o zakresie działalności Urzędu Gminy",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -14119,6 +15796,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554714": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712198.685378,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554714",
+      "media": "",
+      "page": "https://gminapuck.tv-polska.eu/film/554714-xxix-nadzwyczajna-sesja-ix-kadencji-rady-gminy-puck-23-10-2025",
+      "published": "2025-10-23",
+      "title": "XXIX Nadzwyczajna Sesja IX kadencji Rady Gminy Puck 23.10.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554741": {
       "channel": "Iłów",
       "checked_ts": 1795611569.2217696,
@@ -14157,6 +15847,19 @@
       "title": "XVI sesja Rady Gminy Marianowo w dniu 24 października 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554760": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712048.421823,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554760",
+      "media": "",
+      "page": "https://powiatzninski.tv-polska.eu/film/554760-xii-sesja-rady-powiatu-w-zninie---23-10-2025-r-",
+      "published": "2025-10-23",
+      "title": "XII sesja Rady Powiatu w Żninie - 23.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554761": {
       "channel": "Kamień Pomorski",
@@ -14262,6 +15965,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554805": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712026.8214495,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554805",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/554805-2025-10-28---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-10-28",
+      "title": "2025-10-28 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554806": {
       "channel": "Kiernozia",
       "checked_ts": 1795611931.265358,
@@ -14353,6 +16069,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554853": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712130.137732,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554853",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/554853-xxii-sesja-rady-gminy-przasnysz-w-dniu-29-10-2025r",
+      "published": "2025-01-01",
+      "title": "XXII Sesja Rady Gminy Przasnysz w dniu 29-10-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554859": {
       "channel": "Karnice",
       "checked_ts": 1795611849.6535017,
@@ -14417,6 +16146,19 @@
       "title": "XXI Sesja Rady Gminy Gorzkowice kadencji 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554890": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712227.483468,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554890",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/554890-xxi-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XXI zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554892": {
       "channel": "Kamień Pomorski",
@@ -14483,6 +16225,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554908": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711958.4247446,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554908",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/554908-xxv-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XXV sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554910": {
       "channel": "Krokowa",
       "checked_ts": 1795612113.518394,
@@ -14548,6 +16303,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554922": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712094.12433,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554922",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/554922-xx-sesja-rady-miejskiej-w-przasnysz-27-10-2025-r-",
+      "published": "2025-10-27",
+      "title": "XX Sesja Rady Miejskiej w Przasnysz 27.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "554930": {
       "channel": "Czerwin",
       "checked_ts": 1795610949.4186285,
@@ -14560,6 +16328,19 @@
       "title": "XIX sesja Rady Gminy Czerwin 28.10.2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554949": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712165.0974963,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554949",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/554949-xviii-sesja-rady-gminy-przelewice",
+      "published": "2025-01-01",
+      "title": "XVIII Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "554960": {
       "channel": "Gmina Miejska Szczytno",
@@ -14652,6 +16433,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555083": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711923.6054752,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555083",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/555083-xx-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XX Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "555084": {
       "channel": "Olszyna",
       "checked_ts": 1795615101.020857,
@@ -14743,6 +16537,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555195": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712226.2881489,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555195",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/555195-xxii-nadzwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XXII nadzwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "555244": {
       "channel": "Krokowa",
       "checked_ts": 1795612112.3158448,
@@ -14755,6 +16562,19 @@
       "title": "Nadzwyczajna XXIV sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555261": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712025.6264586,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555261",
+      "media": "",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/555261-2025-11-17---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-11-17",
+      "title": "2025-11-17 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "555273": {
       "channel": "Ilowo Osada",
@@ -15055,6 +16875,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555456": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712092.9251955,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555456",
+      "media": "",
+      "page": "https://przasnysz.tv-polska.eu/film/555456-xxi-sesja-rady-miejskiej-w-przasnyszu-24-11-2025-r-",
+      "published": "2025-11-24",
+      "title": "XXI Sesja Rady Miejskiej w Przasnyszu 24.11.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "555469": {
       "channel": "Połajewo",
       "checked_ts": 1795657661.4876382,
@@ -15132,6 +16965,19 @@
       "title": "XXI  Sesja Rady Gminy Iłów z dnia 21-11-2025r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555493": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712225.082754,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555493",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/555493-xxiii-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XXIII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "555495": {
       "channel": "Krzynowłoga Mała",
@@ -15263,6 +17109,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555545": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711957.207776,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555545",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/555545-xxvi-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XXVI sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "555546": {
       "channel": "Jaktorów",
       "checked_ts": 1795611646.776637,
@@ -15275,6 +17134,19 @@
       "title": "XX Sesja Rady Gminy Jaktorów - 27-11-2025, godz. 13:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555548": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712163.881652,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555548",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/555548-xix-nadzwyczajna-sesja-rady-gminy",
+      "published": "2025-01-01",
+      "title": "XIX Nadzwyczajna Sesja Rady Gminy",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "555552": {
       "channel": "Miastko",
@@ -15380,6 +17252,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555586": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712128.9243336,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555586",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/555586-xxiii-sesja-rady-gminy-przasnysz-w-dniu-28-11-2025r",
+      "published": "2025-01-01",
+      "title": "XXIII Sesja Rady Gminy Przasnysz w dniu 28-11-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "555589": {
       "channel": "Bielice",
       "checked_ts": 1795610571.9684222,
@@ -15418,6 +17303,19 @@
       "title": "XVII sesja Rady Miejskiej w Gniewie z 26 listopada 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555596": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712197.4937468,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555596",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1142027247.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/555596-xxx-sesja-ix-kadencji-rady-gminy-puck-27-11-2025",
+      "published": "2025-11-27",
+      "title": "XXX Sesja IX kadencji Rady Gminy Puck 27.11.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "555598": {
       "channel": "Dygowo",
@@ -15496,6 +17394,45 @@
       "title": "XVIII Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555706": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711922.4047306,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555706",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/555706-cxxii-sesja-rady-powiatu-w-mysliborzu-6-kadencji",
+      "published": "2025-01-01",
+      "title": "CXXII Sesja Rady Powiatu w Myśliborzu 6 kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "555709": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711920.0050027,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555709",
+      "media": "",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/555709-xxi-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2025-01-01",
+      "title": "XXI Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "555710": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712024.4367495,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555710",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1143446369.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/555710-2025-12-04---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-12-04",
+      "title": "2025-12-04 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "555735": {
       "channel": "Łęki Szlacheckie",
@@ -15731,6 +17668,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555975": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712023.2375154,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555975",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1147223002.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/555975-2025-12-16---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-12-16",
+      "title": "2025-12-16 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "555997": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611319.5536828,
@@ -15795,6 +17745,19 @@
       "title": "XIX Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556049": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712223.8853035,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556049",
+      "media": "",
+      "page": "https://miastopuck.tv-polska.eu/film/556049-xxiv-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2025-01-01",
+      "title": "XXIV zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556051": {
       "channel": "Powiat Malborski",
@@ -15874,6 +17837,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556062": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711956.007479,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556062",
+      "media": "",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/556062-xxvii-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2025-01-01",
+      "title": "XXVII sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556074": {
       "channel": "Bielice",
       "checked_ts": 1795610569.57275,
@@ -15939,6 +17915,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556098": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712196.2946694,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556098",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148574554.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/556098-xxxi-sesja-ix-kadencji-rady-gminy-puck-18-12-2025",
+      "published": "2025-12-18",
+      "title": "XXXI Sesja IX kadencji Rady Gminy Puck 18.12.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556099": {
       "channel": "Olszyna",
       "checked_ts": 1795615098.6203015,
@@ -16003,6 +17992,19 @@
       "title": "XXVII SESJA RADY MIEJSKIEJ MIĘDZYCHODU - 16.12.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556126": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712047.2250426,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556126",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1148625139.mp4",
+      "page": "https://powiatzninski.tv-polska.eu/film/556126-xiii-sesja-rady-powiatu-w-zninie---22-12-2025-r-",
+      "published": "2025-12-22",
+      "title": "XIII sesja Rady Powiatu w Żninie - 22.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556127": {
       "channel": "Drawno",
@@ -16095,6 +18097,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "556156": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712127.7261107,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556156",
+      "media": "",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/556156-xxiv-sesja-rady-gminy-przasnysz-w-dniu-22-12-2025r",
+      "published": "2025-01-01",
+      "title": "XXIV Sesja Rady Gminy Przasnysz w dniu 22-12-2025r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556168": {
       "channel": "Dolice",
       "checked_ts": 1795611100.6413207,
@@ -16147,6 +18162,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556213": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712162.6876504,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556213",
+      "media": "",
+      "page": "https://przelewice.tv-polska.eu/film/556213-xx-sesja-rady-gminy-przelewice",
+      "published": "2025-01-01",
+      "title": "XX Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556214": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611476.7890496,
@@ -16172,6 +18200,32 @@
       "title": "XVI Sesja Rady Gminy Boleszkowice w dniu 19 grudnia 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556223": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712022.0335035,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556223",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150081248.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/556223-2025-12-29---sesja-rady-powiatu-w-szczecinku",
+      "published": "2025-12-29",
+      "title": "2025-12-29 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "556228": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712195.0919335,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556228",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150091610.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/556228-xxxii-nadzwyczajna-sesja-ix-kadencji-rady-gminy-puck-29-12-2025",
+      "published": "2025-12-29",
+      "title": "XXXII Nadzwyczajna Sesja IX kadencji Rady Gminy Puck 29.12.2025",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556231": {
       "channel": "Olszyna",
@@ -16365,6 +18419,19 @@
       "page": "https://polajewo.tv-polska.eu/film/556326-xiv-sesja-rady-gminy-w-polajewie---kadencja-2024-2029",
       "published": "2026-01-01",
       "title": "XIV Sesja Rady Gminy w Połajewie - kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "556327": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712091.7344468,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556327",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150966992.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/556327-xxii-sesja-rady-miejskiej-w-przasnyszu-22-12-2025-r-",
+      "published": "2025-12-22",
+      "title": "XXII Sesja Rady Miejskiej w Przasnyszu 22.12.2025 r.",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -16562,6 +18629,19 @@
       "title": "Sesja nr XXI Rady Miejskiej w Maszewie - 16.01.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556626": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712193.8913782,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556626",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1156083713.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/556626-xxxiii-nadzwyczajna-sesja-ix-kadencji-rady-gminy-puck-15-01-2026",
+      "published": "2026-01-15",
+      "title": "XXXIII Nadzwyczajna Sesja IX kadencji Rady Gminy Puck 15.01.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556632": {
       "channel": "Łabiszyn",
@@ -16823,6 +18903,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556803": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712090.5320678,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556803",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159152635.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/556803-xxiii-sesja-rady-miejskiej-w-przasnyszu-26-01-2026-r-",
+      "published": "2026-01-26",
+      "title": "XXIII Sesja Rady Miejskiej w Przasnyszu 26.01.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556815": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611534.3962805,
@@ -16900,6 +18993,19 @@
       "title": "XIV Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556842": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712020.8338602,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556842",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159666902.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/556842-2026-01-29---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-01-29",
+      "title": "2026-01-29 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556850": {
       "channel": "Dolice",
@@ -16992,6 +19098,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556911": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712161.4935563,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556911",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160963072.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/556911-xxi-nadzwyczajna-sesja-rady-gminy",
+      "published": "2026-01-01",
+      "title": "XXI Nadzwyczajna Sesja Rady Gminy",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556912": {
       "channel": "Kępice",
       "checked_ts": 1795611896.4527543,
@@ -17004,6 +19123,19 @@
       "title": "XIX sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556919": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712126.5324597,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556919",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160980492.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/556919-xxv-sesja-rady-gminy-przasnysz-w-dniu-30-01-2026r",
+      "published": "2026-01-01",
+      "title": "XXV Sesja Rady Gminy Przasnysz w dniu 30-01-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "556920": {
       "channel": "Olszyna",
@@ -17122,6 +19254,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556991": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712222.697018,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556991",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1162167116.mp4",
+      "page": "https://miastopuck.tv-polska.eu/film/556991-xxv-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2026-01-01",
+      "title": "XXV zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "556993": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612591.194685,
@@ -17134,6 +19279,19 @@
       "title": "XXI Sesja Rady Miejskiej Turku z dnia 03 lutego 2026r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556997": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711954.8216474,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556997",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1162461056.mp4",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/556997-xxviii-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2026-01-01",
+      "title": "XXVIII sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557000": {
       "channel": "Jaktorów",
@@ -17173,6 +19331,19 @@
       "title": "XXIII Sesja Rady Miejskiej w Leżajsku  (05.02.2026)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557022": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712192.6941159,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557022",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1163202592.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/557022-xxxiv-sesja-ix-kadencji-rady-gminy-puck-29-01-2026",
+      "published": "2026-01-29",
+      "title": "XXXIV Sesja IX kadencji Rady Gminy Puck 29.01.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557023": {
       "channel": "Boleszkowice",
@@ -17316,6 +19487,19 @@
       "title": "XXV Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557135": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712125.3328605,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557135",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1164667990.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/557135-xxvi-sesja-rady-gminy-przasnysz-w-dniu-13-02-2026r",
+      "published": "2026-01-01",
+      "title": "XXVI Sesja Rady Gminy Przasnysz w dniu 13-02-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557152": {
       "channel": "Lewin Kłodzki",
@@ -17642,6 +19826,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557359": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711918.8183708,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557359",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168004799.mp4",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/557359-xxii-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2026-01-01",
+      "title": "XXII Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "557360": {
       "channel": "Dygowo",
       "checked_ts": 1795611173.8410952,
@@ -17654,6 +19851,19 @@
       "title": "XXIII Nadzwyczajna Sesja Rady Gminy Dygowo z dnia 19 lutego 2026 roku",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557362": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712089.3366477,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557362",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168016134.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/557362-xxiv-sesja-rady-miejskiej-w-przasnyszu-23-02-2026-r-",
+      "published": "2026-02-23",
+      "title": "XXIV Sesja Rady Miejskiej w Przasnyszu 23.02.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557371": {
       "channel": "Dobra Gmina",
@@ -17681,6 +19891,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557398": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711917.6142147,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557398",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168448007.mp4",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/557398-xxiii-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2026-01-01",
+      "title": "XXIII Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "557403": {
       "channel": "Pomorskie",
       "checked_ts": 1795657703.5389588,
@@ -17707,6 +19930,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557406": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712046.0274003,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557406",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168479777.mp4",
+      "page": "https://powiatzninski.tv-polska.eu/film/557406-xiv-sesja-rady-powiatu-w-zninie---26-02-2026-r-",
+      "published": "2026-02-26",
+      "title": "XIV sesja Rady Powiatu w Żninie - 26.02.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "557411": {
       "channel": "Dolice",
       "checked_ts": 1795611098.244444,
@@ -17720,6 +19956,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557413": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712220.2933466,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557413",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168514718.mp4",
+      "page": "https://miastopuck.tv-polska.eu/film/557413-xxvi-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2026-01-01",
+      "title": "XXVI zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "557419": {
       "channel": "Barwice",
       "checked_ts": 1795610515.5617905,
@@ -17732,6 +19981,32 @@
       "title": "XXXI Nadzwyczajna Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557420": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712019.6342797,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557420",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168755240.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/557420-2026-02-26---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-02-26",
+      "title": "2026-02-26 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "557423": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711952.4187188,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557423",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168764178.mp4",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/557423-xxix-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2026-01-01",
+      "title": "XXIX sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557426": {
       "channel": "Jastarnia",
@@ -17850,6 +20125,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557462": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712160.2988772,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557462",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169489107.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/557462-xxii-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXII Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "557465": {
       "channel": "Lębork",
       "checked_ts": 1795612250.3349395,
@@ -17862,6 +20150,19 @@
       "title": "XIX Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (27.02.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557466": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712191.4941003,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557466",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169506634.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/557466-xxxv-sesja-ix-kadencji-rady-gminy-puck-26-02-2026",
+      "published": "2026-02-26",
+      "title": "XXXV Sesja IX kadencji Rady Gminy Puck 26.02.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "557468": {
       "channel": "Jaktorów",
@@ -18253,6 +20554,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557756": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712124.1305985,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557756",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1173935104.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/557756-xxvii-sesja-rady-gminy-przasnysz-w-dniu-13-03-2026r",
+      "published": "2026-01-01",
+      "title": "XXVII Sesja Rady Gminy Przasnysz w dniu 13-03-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "557763": {
       "channel": "Drawno",
       "checked_ts": 1795611149.8411725,
@@ -18341,6 +20655,19 @@
       "page": "https://powiatmalbork.tv-polska.eu/film/557829-xxiii-2026-nadzwyczajna-sesja-rady-powiatu-malborskiego",
       "published": "2026-01-01",
       "title": "XXIII/2026 nadzwyczajna Sesja Rady Powiatu Malborskiego",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "557835": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712159.0939794,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557835",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1174726668.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/557835-xxiii-nadzwyczajna-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXIII Nadzwyczajna Sesja Rady Gminy Przelewice",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -18512,6 +20839,19 @@
       "title": "Posiedzenie Komisji do spraw Gminnych Rady Miejskiej w Janowcu Wielkopolskim 24.03.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557991": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712018.4390247,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557991",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1176858105.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/557991-2026-03-24---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-03-24",
+      "title": "2026-03-24 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558007": {
       "channel": "Dziwnów",
@@ -18695,6 +21035,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "558083": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711951.2164237,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558083",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178330580.mp4",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/558083-xxx-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2026-01-01",
+      "title": "XXX sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "558085": {
       "channel": "Pomorskie",
       "checked_ts": 1795657701.142639,
@@ -18759,6 +21112,19 @@
       "title": "XXV sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558095": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712190.2987185,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558095",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178378761.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/558095-xxxvi-sesja-ix-kadencji-rady-gminy-puck-26-03-2026",
+      "published": "2026-03-26",
+      "title": "XXXVI Sesja IX kadencji Rady Gminy Puck 26.03.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558096": {
       "channel": "Gniew",
@@ -19020,6 +21386,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558188": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712086.931721,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558188",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1179479241.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/558188-xxv-sesja-rady-miejskiej-w-przasnyszu-30-03-2026-r-",
+      "published": "2026-03-30",
+      "title": "XXV Sesja Rady Miejskiej w Przasnyszu 30.03.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "558235": {
       "channel": "Pomorze Zachodnie",
       "checked_ts": 1795657714.3434646,
@@ -19163,6 +21542,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558349": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711916.427307,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558349",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1181844474.mp4",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/558349-xxiv-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2026-01-01",
+      "title": "XXIV Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "558394": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611529.597302,
@@ -19188,6 +21580,19 @@
       "title": "XXVII Zwyczajna Sesja Rady Gminy Deszczno 13.04.2026r. (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558429": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712122.9365363,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558429",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1183284029.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/558429-xxviii-sesja-rady-gminy-przasnysz-w-dniu-15-04-2026r",
+      "published": "2026-01-01",
+      "title": "XXVIII Sesja Rady Gminy Przasnysz w dniu 15-04-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558451": {
       "channel": "Maszewo",
@@ -19293,6 +21698,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "558550": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711950.022124,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558550",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1184859851.mp4",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/558550-xxxi-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2026-01-01",
+      "title": "XXXI sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "558570": {
       "channel": "Osina",
       "checked_ts": 1795615153.8354902,
@@ -19318,6 +21736,19 @@
       "title": "XIX.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558623": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712219.092874,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558623",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1185790946.mp4",
+      "page": "https://miastopuck.tv-polska.eu/film/558623-xxvii-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2026-01-01",
+      "title": "XXVII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558630": {
       "channel": "Międzybórz",
@@ -19370,6 +21801,19 @@
       "title": "XX Sesja Rady Gminy Manowo, 2026-04-24, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558654": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712044.8232157,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558654",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186201342.mp4",
+      "page": "https://powiatzninski.tv-polska.eu/film/558654-xv-sesja-rady-powiatu-w-zninie---23-04-2026-r-",
+      "published": "2026-04-23",
+      "title": "XV sesja Rady Powiatu w Żninie - 23.04.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558661": {
       "channel": "Mielno",
@@ -19475,6 +21919,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558685": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712187.9102466,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558685",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186859919.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/558685-xxxvii-sesja-ix-kadencji-rady-gminy-puck-23-04-2026",
+      "published": "2026-04-23",
+      "title": "XXXVII Sesja IX kadencji Rady Gminy Puck 23.04.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "558686": {
       "channel": "Marianowo",
       "checked_ts": 1795612451.9440167,
@@ -19487,6 +21944,19 @@
       "title": "XXI sesja Rady Gminy Marianowo w dniu 24 kwietnia 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558689": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712156.6949363,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558689",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186871718.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/558689-xxiv-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXIV Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558695": {
       "channel": "Lębork",
@@ -19552,6 +22022,19 @@
       "title": "XXV Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558734": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712016.0366566,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558734",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187299942.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/558734-2026-04-28---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-04-28",
+      "title": "2026-04-28 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558747": {
       "channel": "Łęki Szlacheckie",
@@ -19721,6 +22204,19 @@
       "title": "XXV zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558819": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712085.7334619,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558819",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1188953913.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/558819-xxvi-sesja-rdy-miejskiej-w-przasnyszu-27-04-2026-r-",
+      "published": "2026-04-27",
+      "title": "XXVI Sesja Rdy Miejskiej w Przasnyszu 27.04.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "558824": {
       "channel": "Powiat Łódzki Wschodni",
@@ -19917,6 +22413,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "558990": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712014.8342988,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558990",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1191156001.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/558990-2026-05-11---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-05-11",
+      "title": "2026-05-11 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "559006": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711948.819705,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559006",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1191490038.mp4",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/559006-xxxii-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2026-01-01",
+      "title": "XXXII sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559035": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612550.3565218,
@@ -20020,6 +22542,19 @@
       "title": "Gmina Barcin | XXV sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559160": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712121.7330127,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559160",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1193917218.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/559160-xxix-sesja-rady-gminy-przasnysz-w-dniu-19-05-2026r",
+      "published": "2026-01-01",
+      "title": "XXIX Sesja Rady Gminy Przasnysz w dniu 19-05-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559175": {
       "channel": "Janowiec Wielkopolski",
@@ -20385,6 +22920,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559389": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712217.8955374,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559389",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196595852.mp4",
+      "page": "https://miastopuck.tv-polska.eu/film/559389-xxviii-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2026-01-01",
+      "title": "XXVIII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559396": {
       "channel": "Powiat Łódzki Wschodni",
       "checked_ts": 1795657910.4853907,
@@ -20476,6 +23024,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559435": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711915.2144756,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559435",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197275217.mp4",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/559435-xxv-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2026-01-01",
+      "title": "XXV Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "559436": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712186.6932614,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559436",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197285382.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/559436-xxxviii-sesja-ix-kadencji-rady-gminy-puck-28-05-2026",
+      "published": "2026-05-28",
+      "title": "XXXVIII Sesja IX kadencji Rady Gminy Puck 28.05.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559441": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611312.3495421,
@@ -20501,6 +23075,19 @@
       "title": "XXII sesja Rady Gminy Marianowo w dniu 29 maja 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559454": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712084.5332055,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559454",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197332559.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/559454-xxvii-sesja-rady-miejskiej-w-przasnyszu-25-05-2026-r-",
+      "published": "2026-05-25",
+      "title": "XXVII Sesja Rady Miejskiej w Przasnyszu 25.05.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559455": {
       "channel": "Lębork",
@@ -20671,6 +23258,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559509": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712155.4951196,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559509",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197779263.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/559509-xxv-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXV Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559515": {
       "channel": "Czarnocin",
       "checked_ts": 1795610905.013282,
@@ -20748,6 +23348,19 @@
       "title": "XX.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559613": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712013.636893,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559613",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1199999146.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/559613-2026-06-09---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-06-09",
+      "title": "2026-06-09 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559621": {
       "channel": "Bielice",
@@ -21087,6 +23700,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559785": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712154.2964742,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559785",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202034784.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/559785-xxvi-nadzwyczajna-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXVI Nadzwyczajna Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559797": {
       "channel": "Dynów",
       "checked_ts": 1795611205.0373738,
@@ -21178,6 +23804,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559842": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712216.6919904,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559842",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202724028.mp4",
+      "page": "https://miastopuck.tv-polska.eu/film/559842-xxix-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2026-01-01",
+      "title": "XXIX zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "559853": {
       "channel": "Miastko",
       "checked_ts": 1795612519.1695154,
@@ -21216,6 +23855,19 @@
       "title": "XXVII Sesja Rady Miejskiej w Leżajsku. 19.06.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559897": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712012.4440327,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559897",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1203416106.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/559897-2026-06-22---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-06-22",
+      "title": "2026-06-22 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559912": {
       "channel": "Powiat Malborski",
@@ -21294,6 +23946,19 @@
       "title": "XXV sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559958": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712011.2309914,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559958",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204158161.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/559958-2026-06-24---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-06-24",
+      "title": "2026-06-24 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "559964": {
       "channel": "Bielice",
@@ -21490,6 +24155,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "560030": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712215.504277,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560030",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204780775.mp4",
+      "page": "https://miastopuck.tv-polska.eu/film/560030-xxx-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2026-01-01",
+      "title": "XXX zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560034": {
       "channel": "Dolice",
       "checked_ts": 1795611092.237833,
@@ -21513,6 +24191,32 @@
       "page": "https://powiatmiedzychodzki.tv-polska.eu/film/560035-xxvii-sesja-rady-powiatu-miedzychodzkiego--25-06-2026-",
       "published": "2026-06-25",
       "title": "XXVII sesja Rady Powiatu Międzychodzkiego (25.06.2026)",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560039": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712119.3345058,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560039",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204812163.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/560039-xxx-sesja-rady-gminy-przasnysz-w-dniu-24-06-2026r",
+      "published": "2026-01-01",
+      "title": "XXX Sesja Rady Gminy Przasnysz w dniu 24-06-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560040": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712043.628343,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560040",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204817137.mp4",
+      "page": "https://powiatzninski.tv-polska.eu/film/560040-xvi-sesja-rady-powiatu-w-zninie---25-06-2026-r-",
+      "published": "2026-06-25",
+      "title": "XVI sesja Rady Powiatu w Żninie - 25.06.2026 r.",
       "tourism": false,
       "updated": "2026-11-26"
     },
@@ -21555,6 +24259,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560063": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712185.4945374,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560063",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205380150.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/560063-xxxix-sesja-ix-kadencji-rady-gminy-puck-25-06-2026",
+      "published": "2026-06-25",
+      "title": "XXXIX Sesja IX kadencji Rady Gminy Puck 25.06.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560066": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712153.098779,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560066",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205380069.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/560066-xxvii-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXVII Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560072": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611782.4424877,
@@ -21567,6 +24297,19 @@
       "title": "XXVII Sesja Rady Miejskiej w Kamieniu Krajeńskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560074": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711914.0157483,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "560074",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205408483.mp4",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/560074-xxvi-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2026-01-01",
+      "title": "XXVI Sesja VII Kadencji Rady Powiatu w Myśliborzu",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560076": {
       "channel": "Czarne",
@@ -21723,6 +24466,32 @@
       "title": "XXX sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560146": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712083.332371,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560146",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206123922.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/560146-xxviii-sesja-rady-miejskiej-w-przasnyszu-29-06-2026-r-",
+      "published": "2026-06-29",
+      "title": "XXVIII Sesja Rady Miejskiej w Przasnyszu 29.06.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560152": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711947.6217768,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560152",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206250650.mp4",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/560152-xxxiv-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2026-01-01",
+      "title": "XXXIV sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560158": {
       "channel": "Mogilno",
@@ -21945,6 +24714,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560299": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712184.293869,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560299",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1208438487.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/560299-xl-sesja-ix-kadencji-rady-gminy-puck-09-07-2026",
+      "published": "2026-07-09",
+      "title": "XL Sesja IX kadencji Rady Gminy Puck 09.07.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560302": {
       "channel": "Krokowa",
       "checked_ts": 1795612095.5153162,
@@ -22101,6 +24883,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560530": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712042.4244902,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560530",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1211921539.mp4",
+      "page": "https://powiatzninski.tv-polska.eu/film/560530-xvii-sesja-rady-powiatu-w-zninie---21-07-2026-r-",
+      "published": "2026-07-21",
+      "title": "XVII sesja Rady Powiatu w Żninie - 21.07.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560533": {
       "channel": "Gniew",
       "checked_ts": 1795611366.3562427,
@@ -22178,6 +24973,19 @@
       "title": "XXI.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560558": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712010.0355864,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560558",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212311076.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/560558-2026-07-23---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-07-23",
+      "title": "2026-07-23 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560560": {
       "channel": "Dygowo",
@@ -22387,6 +25195,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560669": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712082.1340692,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560669",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214184869.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/560669-xxix-sesja-rady-miejskiej-w-przasnyszu-28-07-2026-r-",
+      "published": "2026-07-28",
+      "title": "XXIX Sesja Rady Miejskiej w Przasnyszu 28.07.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "560674": {
       "channel": "Drawno",
       "checked_ts": 1795611140.2389336,
@@ -22568,6 +25389,32 @@
       "title": "XXVI Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560769": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712118.1324139,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560769",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1215704927.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/560769-xxxi-sesja-rady-gminy-przasnysz-w-dniu-17-07-2026r",
+      "published": "2026-01-01",
+      "title": "XXXI Sesja Rady Gminy Przasnysz w dniu 17-07-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "560770": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712116.9297385,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560770",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1215705387.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/560770-xxxii-sesja-rady-gminy-przasnysz-w-dniu-04-08-2026r",
+      "published": "2026-01-01",
+      "title": "XXXII Sesja Rady Gminy Przasnysz w dniu 04-08-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "560771": {
       "channel": "Manowo",
@@ -23115,6 +25962,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561047": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712183.0910463,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561047",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1220759702.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/561047-xli-sesja-ix-kadencji-rady-gminy-puck-20-08-2026",
+      "published": "2026-08-20",
+      "title": "XLI Sesja IX kadencji Rady Gminy Puck 20.08.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561049": {
       "channel": "Barcin",
       "checked_ts": 1795610472.3592126,
@@ -23179,6 +26039,19 @@
       "title": "Sesja Nr XXIX Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561106": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712115.7330072,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561106",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221710020.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/561106-xxxiii-sesja-rady-gminy-przasnysz-w-dniu-26-08-2026r",
+      "published": "2026-01-01",
+      "title": "XXXIII Sesja Rady Gminy Przasnysz w dniu 26-08-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561109": {
       "channel": "Mielno",
@@ -23271,6 +26144,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561134": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712214.2949722,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561134",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222008872.mp4",
+      "page": "https://miastopuck.tv-polska.eu/film/561134-xxxi-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2026-01-01",
+      "title": "XXXI zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561141": {
       "channel": "Mogilno",
       "checked_ts": 1795614911.2001739,
@@ -23336,6 +26222,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561164": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711946.4243393,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561164",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222605387.mp4",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/561164-xxxv-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2026-01-01",
+      "title": "XXXV sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561169": {
       "channel": "Powiat Łódzki Wschodni",
       "checked_ts": 1795657906.885586,
@@ -23361,6 +26260,32 @@
       "title": "XXVIII sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561174": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712181.8945522,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561174",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222621488.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/561174-xlii-sesja-ix-kadencji-rady-gminy-puck-28-08-2026",
+      "published": "2026-08-28",
+      "title": "XLII Sesja IX kadencji Rady Gminy Puck 28.08.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "561191": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712151.894017,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561191",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222829983.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/561191-xxix-nadzwyczajna-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXIX Nadzwyczajna Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561197": {
       "channel": "Iłów",
@@ -23439,6 +26364,19 @@
       "title": "Sesja nr XXXI Rady Gminy Łęki Szlacheckie z dnia 31.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561223": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712150.6980183,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561223",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223076963.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/561223-xxviii-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXVIII Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561228": {
       "channel": "Miastko",
@@ -23531,6 +26469,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561269": {
+      "channel": "Rąbino",
+      "checked_ts": 1795712257.4992666,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561269",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1224367406.mp4",
+      "page": "https://rabino.tv-polska.eu/film/561269-sesja-gminy-rabino-25-08-2026-r-",
+      "published": "2026-08-25",
+      "title": "Sesja Gminy Rąbino 25.08.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561270": {
       "channel": "Barwice",
       "checked_ts": 1795610510.7609699,
@@ -23608,6 +26559,19 @@
       "title": "XXXIII Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561369": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712080.935074,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561369",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226014487.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/561369-xxx-sesja-rady-miejskiej-w-przasnyszu-31-08-2026-r-",
+      "published": "2026-08-31",
+      "title": "XXX Sesja Rady Miejskiej w Przasnyszu 31.08.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561370": {
       "channel": "Maszewo",
@@ -23738,6 +26702,19 @@
       "title": "XXXI Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561421": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712008.83774,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561421",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226942179.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/561421-2026-09-15---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-09-15",
+      "title": "2026-09-15 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561428": {
       "channel": "Ilowo Osada",
@@ -23960,6 +26937,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "561606": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712041.2229905,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561606",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230142229.mp4",
+      "page": "https://powiatzninski.tv-polska.eu/film/561606-xviii-sesja-rady-powiatu-w-zninie---24-09-2026-r-",
+      "published": "2026-09-24",
+      "title": "XVIII sesja Rady Powiatu w Żninie - 24.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561608": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612646.4372048,
@@ -23999,6 +26989,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "561630": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712149.4994795,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561630",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230824515.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/561630-xxx-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXX Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561634": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610591.1719809,
@@ -24025,6 +27028,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561636": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712114.5318987,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561636",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230863479.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/561636-xxxiv-sesja-rady-gminy-przasnysz-w-dniu-25-09-2026r",
+      "published": "2026-01-01",
+      "title": "XXXIV Sesja Rady Gminy Przasnysz w dniu 25-09-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "561638": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712180.6938698,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561638",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230865296.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/561638-xliii-sesja-ix-kadencji-rady-gminy-puck-24-09-2026",
+      "published": "2026-09-24",
+      "title": "XLIII Sesja IX kadencji Rady Gminy Puck 24.09.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561642": {
       "channel": "Lębork",
       "checked_ts": 1795612241.9334755,
@@ -24037,6 +27066,32 @@
       "title": "XXV Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (25.09.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561646": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711912.8175244,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561646",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230888658.mp4",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/561646-xxvii-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2026-01-01",
+      "title": "XXVII SESJA VII KADENCJI RADY POWIATU W MYŚLIBORZU",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
+    "561647": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712079.7329853,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561647",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230908601.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/561647-xxxi-sesja-rady-miejskiej-w-przasnyszu-21-09-2026-r-",
+      "published": "2026-09-21",
+      "title": "XXXI Sesja Rady Miejskiej w Przasnyszu 21.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561652": {
       "channel": "Drawno",
@@ -24154,6 +27209,19 @@
       "title": "Gmina Barcin | XXVIII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561693": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711945.2197173,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561693",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231555459.mp4",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/561693-xxxvi-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2026-01-01",
+      "title": "XXXVI sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "561696": {
       "channel": "Boleszkowice",
@@ -24584,6 +27652,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561760": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712213.094555,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561760",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1232037247.mp4",
+      "page": "https://miastopuck.tv-polska.eu/film/561760-xxxii-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2026-01-01",
+      "title": "XXXII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "561762": {
       "channel": "Cisna",
       "checked_ts": 1795610790.3878572,
@@ -24883,6 +27964,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562015": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712113.3398018,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562015",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237201088.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/562015-xxxv-sesja-rady-gminy-przasnysz-w-dniu-19-10-2026r",
+      "published": "2026-01-01",
+      "title": "XXXV Sesja Rady Gminy Przasnysz w dniu 19-10-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562018": {
       "channel": "Kutno Gmina",
       "checked_ts": 1795612165.1199834,
@@ -24895,6 +27989,19 @@
       "title": "Sesja nr 34 Rady Gminy Kutno",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562028": {
+      "channel": "Powiat Szczecinecki",
+      "checked_ts": 1795712007.6298096,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562028",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237254528.mp4",
+      "page": "https://powiatszczecinecki.tv-polska.eu/film/562028-2026-10-19---sesja-rady-powiatu-w-szczecinku",
+      "published": "2026-10-19",
+      "title": "2026-10-19 - sesja Rady Powiatu w Szczecinku",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "562040": {
       "channel": "Kocierzew Południowy",
@@ -25039,6 +28146,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "562086": {
+      "channel": "Rąbino",
+      "checked_ts": 1795712256.3014493,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562086",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239280023.mp4",
+      "page": "https://rabino.tv-polska.eu/film/562086-sesja-gminy-rabino-22-09-2026-r-",
+      "published": "2026-09-22",
+      "title": "Sesja Gminy Rąbino 22.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562088": {
       "channel": "Mielno",
       "checked_ts": 1795612610.3944952,
@@ -25051,6 +28171,19 @@
       "title": "XXXIV Sesja Rady Miejskiej Mielna 23.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562089": {
+      "channel": "Puck Gmina",
+      "checked_ts": 1795712179.4905663,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562089",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1239425606.mp4",
+      "page": "https://gminapuck.tv-polska.eu/film/562089-xliv-sesja-ix-kadencji-rady-gminy-puck-22-10-2026",
+      "published": "2026-10-22",
+      "title": "XLIV Sesja IX kadencji Rady Gminy Puck 22.10.2026",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "562094": {
       "channel": "Deszczno",
@@ -25273,6 +28406,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562117": {
+      "channel": "Przasnysz",
+      "checked_ts": 1795712078.5359356,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562117",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240713434.mp4",
+      "page": "https://przasnysz.tv-polska.eu/film/562117-xxxii-sesja-rady-miejskiej-w-przasnyszu-26-10-2026-r-",
+      "published": "2026-10-26",
+      "title": "XXXII Sesja Rady Miejskiej w Przasnyszu 26.10.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562118": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611778.841365,
@@ -25377,6 +28523,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562131": {
+      "channel": "Puck Miasto",
+      "checked_ts": 1795712211.8914452,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562131",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1245357328.mp4",
+      "page": "https://miastopuck.tv-polska.eu/film/562131-xxxiii-zwyczajna-sesja-rady-miasta-puck-ix-kadencji-w-latach-2024---2029",
+      "published": "2026-01-01",
+      "title": "XXXIII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562132": {
       "channel": "Krokowa",
       "checked_ts": 1795612090.7168314,
@@ -25455,6 +28614,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562140": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712112.1327875,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562140",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241297275.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/562140-xxxvi-sesja-rady-gminy-przasnysz-w-dniu-30-10-2026r",
+      "published": "2026-01-01",
+      "title": "XXXVI Sesja Rady Gminy Przasnysz w dniu 30-10-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562141": {
       "channel": "Miastko",
       "checked_ts": 1795612510.7503605,
@@ -25532,6 +28704,19 @@
       "title": "Sesja Nr XXIV/2026 Rady Miejskiej w Mieszkowicach - Kadencja IX",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562154": {
+      "channel": "Powiat Nowosolski",
+      "checked_ts": 1795711944.0159965,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562154",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248233554.mp4",
+      "page": "https://powiatnowosolski.tv-polska.eu/film/562154-xxxvii-sesja-rady-powiatu-nowosolskiego-vii-kadencji",
+      "published": "2026-01-01",
+      "title": "XXXVII sesja Rady Powiatu Nowosolskiego VII kadencji",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "562157": {
       "channel": "Lewin Kłodzki",
@@ -25650,6 +28835,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "562173": {
+      "channel": "Przelewice",
+      "checked_ts": 1795712148.2989476,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562173",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243182469.mp4",
+      "page": "https://przelewice.tv-polska.eu/film/562173-xxxi-sesja-rady-gminy-przelewice",
+      "published": "2026-01-01",
+      "title": "XXXI Sesja Rady Gminy Przelewice",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562174": {
       "channel": "Nowe Miasto Lubawskie",
       "checked_ts": 1795614992.7999032,
@@ -25675,6 +28873,19 @@
       "title": "XXV sesja Rady Gminy Banie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562217": {
+      "channel": "Powiat Myśliborski",
+      "checked_ts": 1795711911.6188855,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562217",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243679129.mp4",
+      "page": "https://powiatmysliborski.tv-polska.eu/film/562217-xxviii-sesja-vii-kadencji-rady-powiatu-w-mysliborzu",
+      "published": "2026-01-01",
+      "title": "XXVIII SESJA VII KADENCJI RADY POWIATU W MYŚLIBORZU",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "562220": {
       "channel": "Janowiec Wielkopolski",
@@ -25702,6 +28913,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562235": {
+      "channel": "Powiat Żniński",
+      "checked_ts": 1795712040.0266445,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562235",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1245091976.mp4",
+      "page": "https://powiatzninski.tv-polska.eu/film/562235-xix-sesja-rady-powiatu-w-zninie---5-11-2026-r-",
+      "published": "2026-11-05",
+      "title": "XIX sesja Rady Powiatu w Żninie - 5.11.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562243": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611517.6021845,
@@ -25714,6 +28938,19 @@
       "title": "XL Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 10.11.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562245": {
+      "channel": "Rąbino",
+      "checked_ts": 1795712255.0996442,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562245",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1246188290.mp4",
+      "page": "https://rabino.tv-polska.eu/film/562245-sesja-rady-gminy-rabino-27-10-2026-r-",
+      "published": "2026-10-27",
+      "title": "Sesja Rady Gminy Rąbino 27.10.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-26"
     },
     "562247": {
       "channel": "Czerwin",
@@ -26274,6 +29511,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562352": {
+      "channel": "Przasnysz Gmina",
+      "checked_ts": 1795712110.9320965,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562352",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1249262035.mp4",
+      "page": "https://gminaprzasnysz.tv-polska.eu/film/562352-xxxvii-sesja-rady-gminy-przasnysz-w-dniu-23-11-2026r",
+      "published": "2026-01-01",
+      "title": "XXXVII Sesja Rady Gminy Przasnysz w dniu 23-11-2026r",
+      "tourism": false,
+      "updated": "2026-11-26"
+    },
     "562353": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611425.1657026,
@@ -26522,7 +29772,7 @@
       "updated": "2026-11-26"
     }
   },
-  "last_run": "2026-11-26T01:52:52.892139+00:00",
+  "last_run": "2026-11-26T16:57:37.499363+00:00",
   "page_cursors": {
     "alfatv": 3,
     "barcin": 4,
@@ -26563,6 +29813,8 @@
     "gminamielno": 4,
     "gminaosiek": 4,
     "gminapiatek": 4,
+    "gminaprzasnysz": 4,
+    "gminapuck": 4,
     "gminaslupsk": 2,
     "gminastargard": 4,
     "gniew": 4,
@@ -26610,6 +29862,7 @@
     "maszewo": 4,
     "miastko": 4,
     "miastolezajsk": 4,
+    "miastopuck": 4,
     "miastoszczytno": 4,
     "miastoturek": 4,
     "miedzyborz": 4,
@@ -26639,6 +29892,16 @@
     "powiatkamienski": 4,
     "powiatkutnowski": 4,
     "powiatmalbork": 4,
+    "powiatmysliborski": 4,
+    "powiatnowosolski": 4,
+    "powiatslawienski": 2,
+    "powiatstargardzki": 4,
+    "powiatszczecinecki": 4,
+    "powiatzninski": 4,
+    "poznan": 2,
+    "przasnysz": 4,
+    "przelewice": 4,
+    "pyrzyce": 2,
     "ugjoniec": 2,
     "ugposwietne": 4,
     "umnowemiasto": 4,
