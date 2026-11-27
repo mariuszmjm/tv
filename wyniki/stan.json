@@ -1,5 +1,5 @@
 {
-  "cursor": 139,
+  "cursor": 153,
   "items": {
     "126976": {
       "channel": "Biały Bór",
@@ -235,6 +235,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13313": {
+      "channel": "Sieja",
+      "checked_ts": 1795744091.2334259,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13313",
+      "media": "",
+      "page": "https://sieja.tv-polska.eu/film/13313-berlinka",
+      "published": "2009-01-01",
+      "title": "Berlinka",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13322": {
       "channel": "Police",
       "checked_ts": 1795657615.63535,
@@ -326,6 +339,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "13337": {
+      "channel": "Recz",
+      "checked_ts": 1795743849.9983282,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13337",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/13337-recz-1936",
+      "published": "1936-01-01",
+      "title": "Recz 1936",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "13340": {
+      "channel": "Rewal",
+      "checked_ts": 1795743912.4040933,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13340",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/13340-wybrzeze-rewalskie---1996r-",
+      "published": "1996-01-01",
+      "title": "Wybrzeże Rewalskie - 1996r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13341": {
       "channel": "Kobylanka",
       "checked_ts": 1795611948.0547197,
@@ -352,6 +391,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13345": {
+      "channel": "Sieja",
+      "checked_ts": 1795744090.0146415,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13345",
+      "media": "",
+      "page": "https://sieja.tv-polska.eu/film/13345-gmina-kobylanka",
+      "published": "2008-01-01",
+      "title": "Gmina Kobylanka",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13346": {
       "channel": "Gorzów Wlkp.",
       "checked_ts": 1795611495.9943852,
@@ -364,6 +416,19 @@
       "title": "Gorzów Wielkopolski - 1992r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13348": {
+      "channel": "Sieja",
+      "checked_ts": 1795744088.818316,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13348",
+      "media": "",
+      "page": "https://sieja.tv-polska.eu/film/13348-inski-park-krajobrazowy---1993r-",
+      "published": "1993-01-01",
+      "title": "Iński Park Krajobrazowy - 1993r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "13349": {
       "channel": "Dębno",
@@ -521,6 +586,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "13369": {
+      "channel": "Resko",
+      "checked_ts": 1795743906.4066541,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13369",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/13369-ziemia-lobeska-1992",
+      "published": "1992-01-01",
+      "title": "Ziemia Łobeska 1992",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13370": {
       "channel": "Chodzież",
       "checked_ts": 1795610730.3766372,
@@ -585,6 +663,19 @@
       "title": "Uzdrowisko Ciechocinek - 1993r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13376": {
+      "channel": "Rewal",
+      "checked_ts": 1795743910.0054264,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13376",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/13376-kawalek-wybrzeza---2008r-",
+      "published": "2008-01-01",
+      "title": "Kawałek wybrzeża - 2008r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "13377": {
       "channel": "Nowogard",
@@ -1262,6 +1353,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13529": {
+      "channel": "Słupsk",
+      "checked_ts": 1795744194.4294333,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "13529",
+      "media": "",
+      "page": "https://slupsk.tv-polska.eu/film/13529-scania-production-slupsk-s-a-",
+      "published": "2010-01-01",
+      "title": "Scania Production Słupsk S.A.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13533": {
       "channel": "Choszczno",
       "checked_ts": 1795610748.3846514,
@@ -1431,6 +1535,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13561": {
+      "channel": "Recz",
+      "checked_ts": 1795743852.400882,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13561",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/13561-termomodernizacja-budynkow-przedszkola-i-szkoly-w-reczu",
+      "published": "2011-01-01",
+      "title": "Termomodernizacja budynków przedszkola i szkoły w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13562": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611355.5558574,
@@ -1495,6 +1612,19 @@
       "title": "Przebudowa promenady. Etap I",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "13588": {
+      "channel": "Resko",
+      "checked_ts": 1795743887.2361946,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13588",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/13588-resko",
+      "published": "2011-01-01",
+      "title": "Resko",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "13589": {
       "channel": "Lasy",
@@ -1717,6 +1847,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "13633": {
+      "channel": "Resko",
+      "checked_ts": 1795743904.0003927,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13633",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/13633---ochrona-wod-zlewni-rzek-drawy-i-regi-----podpisanie-umow",
+      "published": "2012-01-01",
+      "title": "\\\"Ochrona wód zlewni rzek Drawy i Regi\\\" - podpisanie umów",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "13639": {
+      "channel": "Resko",
+      "checked_ts": 1795743902.800886,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13639",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/13639-kampania-spoleczna",
+      "published": "2012-01-01",
+      "title": "Kampania społeczna",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13641": {
       "channel": "Gmina Stargard",
       "checked_ts": 1795611351.9697971,
@@ -1808,6 +1964,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "13665": {
+      "channel": "Sieja",
+      "checked_ts": 1795744086.416251,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13665",
+      "media": "",
+      "page": "https://sieja.tv-polska.eu/film/13665-wokol-klasztoru",
+      "published": "2013-01-01",
+      "title": "Wokół klasztoru",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "13670": {
+      "channel": "Sieja",
+      "checked_ts": 1795744081.6151428,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13670",
+      "media": "",
+      "page": "https://sieja.tv-polska.eu/film/13670-marianowska-historia-meki-panskiej",
+      "published": "2013-01-01",
+      "title": "Marianowska historia Męki Pańskiej",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13672": {
       "channel": "Powiat Stargardzki",
       "checked_ts": 1795711987.214796,
@@ -1834,6 +2016,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "13683": {
+      "channel": "Resko",
+      "checked_ts": 1795743901.6005566,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13683",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/13683-podpisanie-umow-z-wykonawcami-robot-budowlanych-projektu",
+      "published": "2013-01-01",
+      "title": "Podpisanie umów z wykonawcami robót budowlanych projektu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "13684": {
+      "channel": "Sieja",
+      "checked_ts": 1795744084.0734577,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13684",
+      "media": "",
+      "page": "https://sieja.tv-polska.eu/film/13684-gmina-warnice",
+      "published": "2013-01-01",
+      "title": "Gmina Warnice",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13685": {
       "channel": "Powiat Stargardzki",
       "checked_ts": 1795711986.0143976,
@@ -1846,6 +2054,19 @@
       "title": "Stare młyny",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "13686": {
+      "channel": "Sieja",
+      "checked_ts": 1795744082.8174787,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "13686",
+      "media": "",
+      "page": "https://sieja.tv-polska.eu/film/13686-wegorzyno",
+      "published": "2013-01-01",
+      "title": "Węgorzyno",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "13688": {
       "channel": "Powiat Stargardzki",
@@ -2198,6 +2419,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "191891": {
+      "channel": "Resko",
+      "checked_ts": 1795743900.416484,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "191891",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/191891-projekt-ochrona-wod-zlewni-rzek-drawy-i-regi---2014",
+      "published": "2014-01-01",
+      "title": "Projekt Ochrona Wód Zlewni Rzek Drawy i Regi - 2014",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "194931": {
       "channel": "Kościoły Pomorza Zachodniego",
       "checked_ts": 1795612071.525464,
@@ -2249,6 +2483,19 @@
       "title": "Kontrasty Kołobrzegu",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "19587": {
+      "channel": "Rewal",
+      "checked_ts": 1795743911.2119296,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "19587",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/19587-willa-ewy-braun",
+      "published": "2008-01-01",
+      "title": "Willa Ewy Braun",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "19591": {
       "channel": "Powiat Sławieński",
@@ -2627,6 +2874,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "241363": {
+      "channel": "Resko",
+      "checked_ts": 1795743890.8031101,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "241363",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/241363-projekt--ochrona-wod-zlewni-rzek-drawy-i-regi----zakonczenie-projektu",
+      "published": "2015-01-01",
+      "title": "Projekt \"Ochrona Wód Zlewni Rzek Drawy i Regi\" - zakończenie projektu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "241365": {
       "channel": "Pojezierze Drawskie",
       "checked_ts": 1795615253.4390554,
@@ -2821,6 +3081,19 @@
       "title": "Gmina Dębno z drona z komentarzem lektorskim",
       "tourism": true,
       "updated": "2026-11-25"
+    },
+    "391493": {
+      "channel": "Recz",
+      "checked_ts": 1795743851.2058256,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "391493",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/391493-recz-z-drona",
+      "published": "2016-01-01",
+      "title": "Recz z drona",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "397375": {
       "channel": "Dębno",
@@ -3251,6 +3524,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "443393": {
+      "channel": "Resko",
+      "checked_ts": 1795743886.0004811,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "443393",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/443393-bieg-o-strzale-widanta",
+      "published": "2018-01-01",
+      "title": "Bieg o Strzałę Widanta",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "446317": {
       "channel": "alfaTV",
       "checked_ts": 1795609815.2809484,
@@ -3393,6 +3679,19 @@
       "title": "Zakłady Mięsne Łmeat Łuków English ver.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "449886": {
+      "channel": "Rewal",
+      "checked_ts": 1795743908.8079576,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "449886",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/449886-komisja-rewizyjna-rady-gminy-rewal-18-09-2018-r-",
+      "published": "2018-01-01",
+      "title": "Komisja Rewizyjna Rady Gminy Rewal 18-09-2018 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "452312": {
       "channel": "alfaTV",
@@ -3771,6 +4070,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "491286": {
+      "channel": "Recz",
+      "checked_ts": 1795743848.7994347,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "491286",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/491286-pozegnanie-absolwentow-klas-8-szkoly-podstawowej-im--stefana-czarnieckiego-w-reczu",
+      "published": "2020-01-01",
+      "title": "Pożegnanie absolwentów klas 8 Szkoły Podstawowej im. Stefana Czarnieckiego w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "492131": {
       "channel": "alfaTV",
       "checked_ts": 1795609808.50442,
@@ -3835,6 +4147,19 @@
       "title": "XIX Sesja Rady Gminy Czarna Dąbrówka",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "498469": {
+      "channel": "Resko",
+      "checked_ts": 1795743899.1995757,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "498469",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/498469-resko-dla-niepodleglej",
+      "published": "2020-01-01",
+      "title": "Resko dla NIEPODLEGŁEJ",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "499017": {
       "channel": "Gmina Drawsko",
@@ -3901,6 +4226,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "500630": {
+      "channel": "Resko",
+      "checked_ts": 1795743896.8002315,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "500630",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/500630-zyczenia-swiateczne-resko-2020",
+      "published": "2020-01-01",
+      "title": "Życzenia świąteczne Resko 2020",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "501058": {
       "channel": "Gmina Drawsko",
       "checked_ts": 1795611300.347407,
@@ -3940,6 +4278,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "511331": {
+      "channel": "Resko",
+      "checked_ts": 1795743888.4043446,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "511331",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/511331-gmina-resko-z-drona-z-komentarzem-lektorskim",
+      "published": "2017-01-01",
+      "title": "Gmina Resko z drona z komentarzem lektorskim",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "513212": {
       "channel": "Piątek",
       "checked_ts": 1795615213.8347383,
@@ -3966,6 +4317,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "517189": {
+      "channel": "Resko",
+      "checked_ts": 1795743895.6016116,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "517189",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/517189-zyczenia-swiateczne-resko-2021",
+      "published": "2021-01-01",
+      "title": "Życzenia świąteczne Resko 2021",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "519032": {
       "channel": "Łanięta",
       "checked_ts": 1795612311.53931,
@@ -3978,6 +4342,45 @@
       "title": "Podsumowanie roku 2021 w Gminie Łanięta",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "519547": {
+      "channel": "Resko",
+      "checked_ts": 1795743894.400506,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "519547",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/519547-projekt--drzewo-pamieci-odcinek-2",
+      "published": "2022-01-01",
+      "title": "Projekt: Drzewo Pamięci Odcinek 2",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "519550": {
+      "channel": "Resko",
+      "checked_ts": 1795743891.999425,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "519550",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/519550-na-rowerowym-szlaku---gmina-resko",
+      "published": "2022-01-01",
+      "title": "Na rowerowym szlaku - Gmina Resko",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "519661": {
+      "channel": "Resko",
+      "checked_ts": 1795743889.6017478,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "519661",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/519661-projekt--drzewo-pamieci-odcinek-3",
+      "published": "2022-01-01",
+      "title": "Projekt: Drzewo Pamięci Odcinek 3",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "520536": {
       "channel": "Czarna Dąbrowka",
@@ -4004,6 +4407,19 @@
       "title": "Zespół Szkół w Żychlinie",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "521016": {
+      "channel": "Resko",
+      "checked_ts": 1795743893.2036657,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "521016",
+      "media": "",
+      "page": "https://resko.tv-polska.eu/film/521016-rewitalizacja-sznsa-na-aktywna-integracje",
+      "published": "2022-01-01",
+      "title": "Rewitalizacja szansą na aktywną integrację",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "521646": {
       "channel": "Powiat Drawski",
@@ -4421,6 +4837,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "533395": {
+      "channel": "Rewal",
+      "checked_ts": 1795743943.6086864,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "533395",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/533395-lxi-sesja-rady-gminy-rewal---26-01-2023r-",
+      "published": "2023-01-01",
+      "title": "LXI Sesja Rady Gminy Rewal - 26.01.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "533402": {
+      "channel": "Rewal",
+      "checked_ts": 1795743942.410112,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "533402",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/533402-lx-sesja-rady-gminy-rewal---12-01-2023r-",
+      "published": "2023-01-01",
+      "title": "LX Sesja Rady Gminy Rewal - 12.01.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "533489": {
       "channel": "Choszczno",
       "checked_ts": 1795610763.9945226,
@@ -4434,6 +4876,97 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "533538": {
+      "channel": "Rewal",
+      "checked_ts": 1795743941.2092695,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "533538",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/533538-lix-sesja-rady-gminy-rewal---29-12-2022r-",
+      "published": "2022-01-01",
+      "title": "LIX Sesja Rady Gminy Rewal - 29.12.2022r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "533544": {
+      "channel": "Rewal",
+      "checked_ts": 1795743940.01425,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "533544",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/533544-lviii-sesja-rady-gminy-rewal---15-12-2022r-",
+      "published": "2022-01-01",
+      "title": "LVIII Sesja Rady Gminy Rewal - 15.12.2022r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "533555": {
+      "channel": "Rewal",
+      "checked_ts": 1795743938.808113,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "533555",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/533555-lvii-sesja-rady-gminy-rewal---29-11-2022r-",
+      "published": "2022-01-01",
+      "title": "LVII Sesja Rady Gminy Rewal - 29.11.2022r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "533559": {
+      "channel": "Rewal",
+      "checked_ts": 1795743937.6187832,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "533559",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/533559-lvi-sesja-rady-gminy-rewal---17-11-2022r-",
+      "published": "2022-01-01",
+      "title": "LVI Sesja Rady Gminy Rewal - 17.11.2022r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "533582": {
+      "channel": "Rewal",
+      "checked_ts": 1795743936.4067628,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "533582",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/533582-lv-sesja-rady-gminy-rewal---27-10-2022r-",
+      "published": "2022-01-01",
+      "title": "LV Sesja Rady Gminy Rewal - 27.10.2022r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "533609": {
+      "channel": "Rewal",
+      "checked_ts": 1795743935.2244625,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "533609",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/533609-liv-sesja-rady-gminy-rewal---29-09-2022r-",
+      "published": "2022-01-01",
+      "title": "LIV Sesja Rady Gminy Rewal - 29.09.2022r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "533625": {
+      "channel": "Rewal",
+      "checked_ts": 1795743932.814926,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "533625",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/533625-liii-sesja-rady-gminy-rewal---25-08-2022r-",
+      "published": "2022-01-01",
+      "title": "LIII Sesja Rady Gminy Rewal - 25.08.2022r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "534258": {
       "channel": "Nowe Warpno",
       "checked_ts": 1795615061.4367468,
@@ -4446,6 +4979,32 @@
       "title": "XXX Sesja VIII kadencji Rady Miejskiej w Nowym Warpnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "534326": {
+      "channel": "Rewal",
+      "checked_ts": 1795743931.609543,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "534326",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/534326-lxiv-sesja-rady-gminy-rewal---27-04-2023r-",
+      "published": "2023-01-01",
+      "title": "LXIV Sesja Rady Gminy Rewal - 27.04.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "534365": {
+      "channel": "Rewal",
+      "checked_ts": 1795743930.409011,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "534365",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/534365-lxv-sesja-rady-gminy-rewal---18-05-2023r-",
+      "published": "2023-01-01",
+      "title": "LXV Sesja Rady Gminy Rewal - 18.05.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "534421": {
       "channel": "Choszczno",
@@ -4590,6 +5149,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "536693": {
+      "channel": "Rewal",
+      "checked_ts": 1795743929.211003,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "536693",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/536693-lxvi-sesja-rady-gminy-rewal---22-06-2023r-",
+      "published": "2023-01-01",
+      "title": "LXVI Sesja Rady Gminy Rewal - 22.06.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "536695": {
+      "channel": "Rewal",
+      "checked_ts": 1795743928.0084178,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "536695",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/536695-lxvii-sesja-rady-gminy-rewal---30-06-2023r-",
+      "published": "2023-01-01",
+      "title": "LXVII Sesja Rady Gminy Rewal - 30.06.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "536699": {
+      "channel": "Rewal",
+      "checked_ts": 1795743926.806241,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "536699",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/536699-lxviii-sesja-rady-gminy-rewal---11-07-2023r-",
+      "published": "2023-01-01",
+      "title": "LXVIII Sesja Rady Gminy Rewal - 11.07.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "536711": {
       "channel": "Kobylanka",
       "checked_ts": 1795611974.453509,
@@ -4615,6 +5213,19 @@
       "title": "LXIII Sesja Rady Gminy Łanięta, powiat kutnowski - 30.08.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "536954": {
+      "channel": "Rymań",
+      "checked_ts": 1795744040.8159451,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "536954",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/536954-xl-sesja-rady-gminy-ryman-z-dnia-08-wrzesnia-2023-roku",
+      "published": "2023-01-01",
+      "title": "XL Sesja Rady Gminy Rymań z dnia 08 września 2023 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "537227": {
       "channel": "Choszczno",
@@ -4680,6 +5291,19 @@
       "title": "LXIV Sesja Rady Gminy Łanięta, powiat kutnowski - 26.09.2023 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "537571": {
+      "channel": "Rymań",
+      "checked_ts": 1795744039.6128125,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "537571",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/537571-xli-sesja-rady-gminy-ryman-z-dnia-05-pazdziernika-2023-roku",
+      "published": "2023-01-01",
+      "title": "XLI Sesja Rady Gminy Rymań z dnia 05 października 2023 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "537954": {
       "channel": "Powiat Żniński",
@@ -4798,6 +5422,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "538762": {
+      "channel": "Rymań",
+      "checked_ts": 1795744038.413683,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "538762",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/538762-xlii-sesja-rady-gminy-ryman-z-dnia-23-listopada-2023-roku",
+      "published": "2023-01-01",
+      "title": "XLII Sesja Rady Gminy Rymań z dnia 23 listopada 2023 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "538843": {
       "channel": "Łanięta",
       "checked_ts": 1795612334.3393037,
@@ -4876,6 +5513,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "539248": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744049.2167983,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "539248",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/539248-promocja-ksiazki----gmina-rzeczenica-1990---2020-fakty---wydarzenia---ludzie----autorstwa-hanny-i-lecha-zwolinskich-",
+      "published": "2023-01-01",
+      "title": "Promocja książki  „Gmina Rzeczenica 1990 - 2020 fakty – wydarzenia – ludzie”,  autorstwa Hanny i Lecha Zwolińskich.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "539343": {
       "channel": "Powiat Żniński",
       "checked_ts": 1795712068.8265057,
@@ -4888,6 +5538,19 @@
       "title": "XXXVIII sesja Rady Powiatu w Żninie - 15.12.2023 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "539417": {
+      "channel": "Rymań",
+      "checked_ts": 1795744037.2144184,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "539417",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/539417-xliii-sesja-rady-gminy-ryman-z-dnia-19-grudnia-2023-roku",
+      "published": "2023-01-01",
+      "title": "XLIII Sesja Rady Gminy Rymań z dnia 19 grudnia 2023 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "539428": {
       "channel": "Myślibórz",
@@ -5032,6 +5695,84 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "539880": {
+      "channel": "Rewal",
+      "checked_ts": 1795743925.6236358,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "539880",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/539880-lxxii-sesja-rady-gminy-rewal---23-11-2023r-",
+      "published": "2023-01-01",
+      "title": "LXXII Sesja Rady Gminy Rewal - 23.11.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "539915": {
+      "channel": "Rewal",
+      "checked_ts": 1795743924.40921,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "539915",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/539915-lxx-sesja-rady-gminy-rewal---11-10-2023r-",
+      "published": "2023-01-01",
+      "title": "LXX Sesja Rady Gminy Rewal - 11.10.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "539983": {
+      "channel": "Rymań",
+      "checked_ts": 1795744036.0126274,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "539983",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/539983-xliv-sesja-rady-gminy-ryman-z-dnia-12-stycznia-2024-roku",
+      "published": "2024-01-01",
+      "title": "XLIV Sesja Rady Gminy Rymań z dnia 12 stycznia 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "540002": {
+      "channel": "Rewal",
+      "checked_ts": 1795743922.014713,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "540002",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/540002-lxxiv-sesja-rady-gminy-rewal---29-12-2023r-",
+      "published": "2023-01-01",
+      "title": "LXXIV Sesja Rady Gminy Rewal - 29.12.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "540008": {
+      "channel": "Rewal",
+      "checked_ts": 1795743920.8096986,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "540008",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/540008-lxix-sesja-rady-gminy-rewal---21-09-2023r-",
+      "published": "2023-01-01",
+      "title": "LXIX Sesja Rady Gminy Rewal - 21.09.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "540009": {
+      "channel": "Rewal",
+      "checked_ts": 1795743919.60576,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "540009",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/540009-lxxiii-sesja-rady-gminy-rewal---19-12-2023r-",
+      "published": "2023-01-01",
+      "title": "LXXIII Sesja Rady Gminy Rewal - 19.12.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "540068": {
       "channel": "Myślibórz",
       "checked_ts": 1795614969.986202,
@@ -5057,6 +5798,19 @@
       "title": "XXXIX sesja Rady Powiatu w Żninie - 12.01.2024 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "540093": {
+      "channel": "Rewal",
+      "checked_ts": 1795743918.4064527,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "540093",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/540093-lxxi-sesja-rady-gminy-rewal---26-10-2023r-",
+      "published": "2023-01-01",
+      "title": "LXXI Sesja Rady Gminy Rewal - 26.10.2023r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "540115": {
       "channel": "Osiek Gmina",
@@ -5279,6 +6033,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "541583": {
+      "channel": "Rymań",
+      "checked_ts": 1795744034.8139584,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "541583",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/541583-xlv-sesja-rady-gminy-ryman-z-dnia-21-marca-2024-roku",
+      "published": "2024-01-01",
+      "title": "XLV Sesja Rady Gminy Rymań z dnia 21 marca 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "541777": {
       "channel": "Karnice",
       "checked_ts": 1795611872.4519088,
@@ -5343,6 +6110,32 @@
       "title": "L Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "541980": {
+      "channel": "Rewal",
+      "checked_ts": 1795743917.204722,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "541980",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/541980-lxxv-sesja-rady-gminy-rewal---30-01-2024r-",
+      "published": "2024-01-01",
+      "title": "LXXV Sesja Rady Gminy Rewal - 30.01.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "541981": {
+      "channel": "Rewal",
+      "checked_ts": 1795743916.005599,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "541981",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/541981-lxxvi-sesja-rady-gminy-rewal---29-02-2024r-",
+      "published": "2024-01-01",
+      "title": "LXXVI Sesja Rady Gminy Rewal - 29.02.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "542047": {
       "channel": "Powiat Żniński",
@@ -5434,6 +6227,19 @@
       "title": "I Sesja 9 kadencji Rady Gminy Łanięta, powiat kutnowski - 06.05.2024 r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "542564": {
+      "channel": "Rymań",
+      "checked_ts": 1795744033.6114576,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "542564",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/542564-i-sesja-rady-gminy-ryman-z-dnia-06-maja-2024-roku",
+      "published": "2024-01-01",
+      "title": "I Sesja Rady Gminy Rymań z dnia 06 maja 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "542572": {
       "channel": "Połajewo",
@@ -5773,6 +6579,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "543206": {
+      "channel": "Rymań",
+      "checked_ts": 1795744032.4143019,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "543206",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/543206-ii-sesja-rady-gminy-ryman-z-dnia-27-maja-2024-roku",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Gminy Rymań z dnia 27 maja 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "543235": {
       "channel": "Cewice",
       "checked_ts": 1795610713.5818415,
@@ -5916,6 +6735,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "543368": {
+      "channel": "Rewal",
+      "checked_ts": 1795743914.808123,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "543368",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/543368-lxxvii-sesja-rady-gminy-rewal---28-03-2024r-",
+      "published": "2024-01-01",
+      "title": "LXXVII Sesja Rady Gminy Rewal - 28.03.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "543469": {
+      "channel": "Rewal",
+      "checked_ts": 1795743913.6073403,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "543469",
+      "media": "",
+      "page": "https://rewal.tv-polska.eu/film/543469-lxxviii-sesja-rady-gminy-rewal---25-04-2024r-",
+      "published": "2024-01-01",
+      "title": "LXXVIII Sesja Rady Gminy Rewal - 25.04.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "543493": {
       "channel": "Brusy",
       "checked_ts": 1795610687.1866066,
@@ -6045,6 +6890,19 @@
       "title": "Sesja Rady Gminy Karnice 26.06.2024",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "543998": {
+      "channel": "Rymań",
+      "checked_ts": 1795744030.0136154,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "543998",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/543998-iii-sesja-rady-gminy-ryman-z-dnia-27-czerwca-2024-roku",
+      "published": "2024-01-01",
+      "title": "III Sesja Rady Gminy Rymań z dnia 27 czerwca 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "544026": {
       "channel": "Powiat Żniński",
@@ -6241,6 +7099,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "544629": {
+      "channel": "Recz",
+      "checked_ts": 1795743883.6009214,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "544629",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/544629-2024-07-24---iv-sesja-rady-miejskiej-w-reczu-zwolana-w-trybie-nadzwyczajnym",
+      "published": "2024-07-24",
+      "title": "2024-07-24 - IV sesja Rady Miejskiej w Reczu zwołana w trybie nadzwyczajnym",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "544766": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610619.9753032,
@@ -6266,6 +7137,19 @@
       "title": "IV Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "544929": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744188.4308527,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "544929",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/544929-transmisja-v-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "Transmisja V posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "545183": {
       "channel": "Manowo",
@@ -6332,6 +7216,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545413": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744048.0167732,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "545413",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/545413--wspomnienia-z-przeszlosci-----absolwenci-szkoly-podstawowej-w-pienieznicy--do-rocznika-1970-",
+      "published": "2024-01-01",
+      "title": "\"Wspomnienia z Przeszłości\" -  Absolwenci Szkoły Podstawowej w Pieniężnicy, do rocznika 1970.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "545458": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612299.5302713,
@@ -6344,6 +7241,19 @@
       "title": "IV Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "545470": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744187.2324438,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "545470",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/545470-transmisja-vi-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "Transmisja VI posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "545472": {
       "channel": "Cewice",
@@ -6383,6 +7293,19 @@
       "title": "VI Sesja IX kadencji Rady Gminy Łanięta powiat kutnowski - 10.09.2024r. - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "545566": {
+      "channel": "Recz",
+      "checked_ts": 1795743882.4030921,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "545566",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/545566-2024-09-11---v-sesja-rady-miejskiej-w-reczu",
+      "published": "2024-09-11",
+      "title": "2024-09-11 - V sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "545699": {
       "channel": "Powiat Żniński",
@@ -6630,6 +7553,19 @@
       "title": "V Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "545914": {
+      "channel": "Rymań",
+      "checked_ts": 1795744028.8230405,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "545914",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/545914-iv-sesja-rady-gminy-ryman-z-dnia-24-wrzesnia-2024-roku",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Gminy Rymań z dnia 24 września 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "545919": {
       "channel": "Powiat Żniński",
@@ -6930,6 +7866,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546284": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744123.624982,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "546284",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/546284-vi-nadzwyczajna-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2024-01-01",
+      "title": "VI nadzwyczajna sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "546289": {
       "channel": "Dziwnów",
       "checked_ts": 1795611273.946256,
@@ -7059,6 +8008,19 @@
       "title": "VI.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "546640": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744186.0482926,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "546640",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/546640-transmisja-vii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "Transmisja VII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "546642": {
       "channel": "Barcin",
@@ -7242,6 +8204,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546818": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744122.4245899,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "546818",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/546818-vii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2024-01-01",
+      "title": "VII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "546849": {
       "channel": "Kamień Krajeński",
       "checked_ts": 1795611807.6444433,
@@ -7268,6 +8243,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546879": {
+      "channel": "Recz",
+      "checked_ts": 1795743881.202338,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "546879",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/546879-2024-10-31---vi-sesja-rady-miejskiej-w-reczu",
+      "published": "2024-10-31",
+      "title": "2024-10-31 - VI sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "546887": {
       "channel": "Osina",
       "checked_ts": 1795615170.6236057,
@@ -7280,6 +8268,19 @@
       "title": "VI Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "546911": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744156.0254407,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "546911",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/546911-sesja-rady-gminy-siemysl-2024-11-04",
+      "published": "2024-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2024.11.04",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "546916": {
       "channel": "Kobylanka",
@@ -7437,6 +8438,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547237": {
+      "channel": "Rymań",
+      "checked_ts": 1795744027.613251,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547237",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/547237-v-sesja-rady-gminy-ryman-z-dnia-18-listopada-2024-roku",
+      "published": "2024-01-01",
+      "title": "V Sesja Rady Gminy Rymań z dnia 18 listopada 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "547259": {
       "channel": "Osiek Gmina",
       "checked_ts": 1795615133.4263139,
@@ -7567,6 +8581,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547425": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795744008.4133697,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547425",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/547425-viii-sesja-rady-gminy-z-dnia-26-11-2024r-",
+      "published": "2024-01-01",
+      "title": "VIII Sesja Rady Gminy z dnia 26.11.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "547426": {
       "channel": "Dygowo",
       "checked_ts": 1795611194.2421496,
@@ -7618,6 +8645,19 @@
       "title": "IX Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547456": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744121.2215593,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "547456",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/547456-viii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2024-01-01",
+      "title": "VIII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "547462": {
       "channel": "Kamień Krajeński",
@@ -7697,6 +8737,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547507": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744184.8280282,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "547507",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/547507-transmisja-viii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "Transmisja VIII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "547508": {
       "channel": "Manowo",
       "checked_ts": 1795612438.7571,
@@ -7748,6 +8801,19 @@
       "title": "Gmina Barcin | VIII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547537": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744154.8230162,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547537",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/547537-sesja-rady-gminy-siemysl-2024-11-29",
+      "published": "2024-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2024.11.29",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "547551": {
       "channel": "Lewin Kłodzki",
@@ -8087,6 +9153,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547951": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795744007.2126956,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547951",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/547951-ix-sesja-rady-gminy-rogowo-z-dnia-17-12-2024r-",
+      "published": "2024-01-01",
+      "title": "IX Sesja Rady Gminy Rogowo z dnia 17.12.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "547953": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612232.3278427,
@@ -8125,6 +9204,32 @@
       "title": "XII Sesja Rady Powiatu Kutnowskiego",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "547966": {
+      "channel": "Recz",
+      "checked_ts": 1795743880.0037878,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "547966",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/547966-2024-12-18---vii-sesja-rady-miejskiej-w-reczu",
+      "published": "2024-12-18",
+      "title": "2024-12-18 - VII sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "547987": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744183.6314857,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "547987",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/547987-transmisja-ix-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "Transmisja IX posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "547988": {
       "channel": "Nowe Miasto Lubawskie",
@@ -8242,6 +9347,19 @@
       "title": "III SESJA RADY MIEJSKIEJ IX KADENCJI W MYŚLIBORZU z dnia 13.06.2024 - transmisja na żywo",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548012": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744153.624349,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548012",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/548012-sesja-rady-gminy-siemysl-2024-12-19",
+      "published": "2024-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2024.12.19",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "548013": {
       "channel": "Myślibórz",
@@ -8412,6 +9530,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548046": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744120.0232258,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "548046",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/548046-ix-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2024-01-01",
+      "title": "IX sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "548050": {
+      "channel": "Rymań",
+      "checked_ts": 1795744026.4145586,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548050",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/548050-vi-sesja-rady-gminy-ryman-z-dnia-19-grudnia-2024-roku",
+      "published": "2024-01-01",
+      "title": "VI Sesja Rady Gminy Rymań z dnia 19 grudnia 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "548058": {
       "channel": "Manowo",
       "checked_ts": 1795612437.5404592,
@@ -8450,6 +9594,19 @@
       "title": "VIII Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548074": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743976.0109215,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548074",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/548074-viii-sesja-rady-gminy-reczno-dn--20-12-2024-r-",
+      "published": "2024-12-20",
+      "title": "VIII Sesja Rady Gminy Ręczno dn. 20.12.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "548087": {
       "channel": "Kobylanka",
@@ -8919,6 +10076,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548656": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795744006.019177,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548656",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/548656-x-sesja-rady-gminy-rogowo-z-dnia-14-01-2025r",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Gminy Rogowo z dnia 14.01.2025r",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "548675": {
       "channel": "Czerwin",
       "checked_ts": 1795610961.4181702,
@@ -9010,6 +10180,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548796": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744118.8233929,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "548796",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/548796-x-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "X sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "548801": {
       "channel": "Czarne",
       "checked_ts": 1795610863.0133705,
@@ -9036,6 +10219,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "548811": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743974.8071542,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548811",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/548811-ix-sesja-rady-gminy-reczno-dn--29-01-2025-r-",
+      "published": "2025-01-29",
+      "title": "IX Sesja Rady Gminy Ręczno dn. 29.01.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "548812": {
       "channel": "Jaktorów",
       "checked_ts": 1795611659.9876957,
@@ -9061,6 +10257,19 @@
       "title": "VIII Sesja Rady Gminy Boleszkowice w dniu 23.01.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548818": {
+      "channel": "Recz",
+      "checked_ts": 1795743878.800594,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548818",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/548818-2025-01-29---viii-sesja-rady-miejskiej-w-reczu-",
+      "published": "2025-01-29",
+      "title": "2025-01-29 - VIII sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "548825": {
       "channel": "Powiat Kutnowski",
@@ -9153,6 +10362,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548865": {
+      "channel": "Rymań",
+      "checked_ts": 1795744025.2127411,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548865",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/548865-vii-sesja-rady-gminy-ryman-z-dnia-30-stycznia-2025-roku",
+      "published": "2025-01-01",
+      "title": "VII Sesja Rady Gminy Rymań z dnia 30 stycznia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "548869": {
       "channel": "Lębork",
       "checked_ts": 1795612264.7360268,
@@ -9178,6 +10400,19 @@
       "title": "XI Sesja Rady Powiatu",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "548900": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744152.4241579,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "548900",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/548900-sesja-rady-gminy-siemysl-2025-01-31",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.01.31",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "548909": {
       "channel": "Bierzwnik",
@@ -9360,6 +10595,19 @@
       "title": "VI sesja Rady Miejskiej w Gniewie IX kadencji z dnia 30 października 2024 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549017": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744182.4296904,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "549017",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/549017-transmisja-x-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "Transmisja X posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "549022": {
       "channel": "Gniew",
@@ -9660,6 +10908,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "549427": {
+      "channel": "Recz",
+      "checked_ts": 1795743877.6025887,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549427",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/549427-2025-02-26---ix-sesja-rady-miejskiej-w-reczu",
+      "published": "2025-02-26",
+      "title": "2025-02-26 - IX sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "549429": {
       "channel": "Deszczno",
       "checked_ts": 1795611029.8267705,
@@ -9880,6 +11141,19 @@
       "title": "Sesja Rady Miejskiej Miasta Turku IX kadencji - 18 lutego 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549516": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744117.6243925,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "549516",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/549516-xi-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XI sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "549529": {
       "channel": "Lewin Kłodzki",
@@ -10128,6 +11402,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549744": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795744004.8140233,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549744",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/549744-xi-sesja-rady-gminy-rogowo-z-dnia-12-03-2025r",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Gminy Rogowo z dnia 12.03.2025r",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "549752": {
       "channel": "Pełczyce",
       "checked_ts": 1795615198.2261195,
@@ -10219,6 +11506,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "549914": {
+      "channel": "Rymań",
+      "checked_ts": 1795744024.0118175,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549914",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/549914-viii-sesja-rady-gminy-ryman-z-dnia-20-marca-2025-roku",
+      "published": "2025-01-01",
+      "title": "VIII Sesja Rady Gminy Rymań z dnia 20 marca 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "549931": {
       "channel": "Mielno",
       "checked_ts": 1795612635.600797,
@@ -10244,6 +11544,19 @@
       "title": "13 SESJA RADY MIASTA I GMINY KIERNOZIA 21-03-2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549936": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744151.2253087,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "549936",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/549936-sesja-rady-gminy-siemysl-2025-03-21",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.03.21",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "549955": {
       "channel": "Łabiszyn",
@@ -10323,6 +11636,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550002": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744116.4221704,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "550002",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/550002-xii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "550008": {
       "channel": "Bielice",
       "checked_ts": 1795610580.3853939,
@@ -10335,6 +11661,32 @@
       "title": "XII Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550017": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743973.6221473,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550017",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/550017-x-sesja-rady-gminy-reczno-dn--26-03-2025-r-",
+      "published": "2025-03-26",
+      "title": "X Sesja Rady Gminy Ręczno dn. 26.03.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "550022": {
+      "channel": "Recz",
+      "checked_ts": 1795743876.4006953,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550022",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/550022-2025-03-26---x-sesja-rady-miejskiej-w-reczu",
+      "published": "2025-03-26",
+      "title": "2025-03-26 - X sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "550033": {
       "channel": "Powiat Łódzki Wschodni",
@@ -10504,6 +11856,32 @@
       "title": "X Sesja Rady Gminy Manowo, 2025-03-28, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550092": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744150.022712,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550092",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/550092-sesja-rady-gminy-siemysl-2025-03-28",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.03.28",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "550093": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744181.229814,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "550093",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/550093-transmisja-xi-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "Transmisja XI posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "550095": {
       "channel": "Miasto Leżajsk",
@@ -10791,6 +12169,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550435": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744180.0289977,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "550435",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/550435-transmisja-xii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "Transmisja XII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "550437": {
       "channel": "Przasnysz Gmina",
       "checked_ts": 1795712140.9236345,
@@ -10959,6 +12350,19 @@
       "title": "XI Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550705": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744148.821221,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550705",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/550705-sesja-rady-gminy-siemysl-2025-04-24",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.04.24",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "550709": {
       "channel": "Powiat Nowosolski",
@@ -11220,6 +12624,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550853": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744115.2213786,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "550853",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/550853-xiii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XIII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "550858": {
       "channel": "Przelewice",
       "checked_ts": 1795712173.483127,
@@ -11232,6 +12649,19 @@
       "title": "XII Sesja Rady Gminy Przelewice",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "550871": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795744003.6103141,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "550871",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/550871-xii-sesja-rady-gminy-rogowo-z-dnia-29-04-2025r",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Gminy Rogowo z dnia 29.04.2025r",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "550888": {
       "channel": "Powiat Malborski",
@@ -11454,6 +12884,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551076": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744079.2181542,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551076",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/551076-xvi-sesja-rady-gminy-rzeczenica---30-kwietnia-2025-roku",
+      "published": "2025-01-01",
+      "title": "XVI Sesja Rady Gminy Rzeczenica - 30 kwietnia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "551087": {
       "channel": "Nowe Warpno",
       "checked_ts": 1795615044.6149366,
@@ -11492,6 +12935,19 @@
       "title": "XII Sesja Rady Miejskiej w Lęborku IX kadencji 09.05.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551148": {
+      "channel": "Recz",
+      "checked_ts": 1795743875.2130272,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551148",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/551148-2025-05-14---xi-sesja-rady-miejskiej-w-reczu",
+      "published": "2025-05-14",
+      "title": "2025-05-14 - XI sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "551151": {
       "channel": "Krzynowłoga Mała",
@@ -11844,6 +13300,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551451": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744112.8408914,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "551451",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/551451-xiv-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XIV sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "551452": {
       "channel": "Nowe Miasto Lubawskie",
       "checked_ts": 1795615007.2022686,
@@ -11856,6 +13325,32 @@
       "title": "XII.2025 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551455": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795744002.410667,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551455",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/551455-xiii-sesja-rady-gminy-rogowo-z-dnia-27-05-2025r",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Gminy Rogowo z dnia 27.05.2025r",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "551460": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743972.4049199,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551460",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/551460-xi-sesja-rady-gminy-reczno-dn--28-05-2025-r-",
+      "published": "2025-05-28",
+      "title": "XI Sesja Rady Gminy Ręczno dn. 28.05.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "551463": {
       "channel": "Ilowo Osada",
@@ -12039,6 +13534,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551612": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744177.6305013,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "551612",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/551612-transmisja-xiii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "Transmisja XIII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "551614": {
       "channel": "Powiat Kutnowski",
       "checked_ts": 1795657888.8727593,
@@ -12078,6 +13586,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "551664": {
+      "channel": "Rymań",
+      "checked_ts": 1795744022.8111167,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551664",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/551664-ix-sesja-rady-gminy-ryman-z-dnia-30-maja-2025-roku",
+      "published": "2025-01-01",
+      "title": "IX Sesja Rady Gminy Rymań z dnia 30 maja 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "551669": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611330.352004,
@@ -12103,6 +13624,19 @@
       "title": "XIV sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551710": {
+      "channel": "Recz",
+      "checked_ts": 1795743872.7985382,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551710",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/551710-2025-06-06---xii-sesja-rady-miejskiej-w-reczu",
+      "published": "2025-06-06",
+      "title": "2025-06-06 - XII sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "551723": {
       "channel": "Cisna",
@@ -12194,6 +13728,19 @@
       "title": "XIV Sesja Rady Gminy Dygowo z dnia 5 czerwca 2025 roku",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551798": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795744001.210785,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551798",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/551798-xiv--zwolana-w-trybie-nadzwyczajnym--sesja-rady-gminy-rogowo-z-dnia-11-06-2025-r-",
+      "published": "2025-06-11",
+      "title": "XIV (zwołana w trybie nadzwyczajnym) Sesja Rady Gminy Rogowo z dnia 11.06.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "551799": {
       "channel": "Lewin Kłodzki",
@@ -12298,6 +13845,19 @@
       "title": "XIII sesja Rady Gminy Marianowo w dniu 13 czerwca 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551880": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744078.0217187,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "551880",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/551880-xvii-sesja-rady-gminy-rzeczenica---11-czerwca-2025-roku",
+      "published": "2025-01-01",
+      "title": "XVII Sesja Rady Gminy Rzeczenica - 11 czerwca 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "551916": {
       "channel": "Krokowa",
@@ -12429,6 +13989,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "552018": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744147.6257148,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552018",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/552018-sesja-rady-gminy-siemysl-2025-06-23",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.06.23",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "552025": {
+      "channel": "Rymań",
+      "checked_ts": 1795744021.621602,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552025",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/552025-x-sesja-rady-gminy-ryman-z-dnia-23-czerwca-2025-roku",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Gminy Rymań z dnia 23 czerwca 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "552039": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612145.9297743,
@@ -12506,6 +14092,19 @@
       "title": "XII zwyczajna sesja Rady Gminy Jednorożec 18.06.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552093": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743971.2068117,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552093",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/552093-xii-sesja-rady-gminy-reczno-dn--25-06-2025-r-",
+      "published": "2025-06-25",
+      "title": "XII Sesja Rady Gminy Ręczno dn. 25.06.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552094": {
       "channel": "Mieszkowice",
@@ -12702,6 +14301,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552177": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744076.8172696,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552177",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/552177-xviii-sesja-rady-gminy-rzeczenica---27-czerwca-2025-roku",
+      "published": "2025-01-01",
+      "title": "XVIII Sesja Rady Gminy Rzeczenica - 27 czerwca 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "552199": {
       "channel": "Karnice",
       "checked_ts": 1795611853.2507262,
@@ -12727,6 +14339,19 @@
       "title": "XXII Sesja IX kadencji Rady Gminy Puck 26.06.2025",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "552224": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795744000.0120904,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552224",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/552224-xv-sesja-rady-gminy-rogowo-z-dnia-30-czerwca-2025-r-",
+      "published": "2025-01-01",
+      "title": "XV Sesja Rady Gminy Rogowo z dnia 30 czerwca 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552226": {
       "channel": "Lębork",
@@ -12974,6 +14599,19 @@
       "title": "XI sesja Rady Miejskiej w Gniewie IX kadencji z dnia 30 kwietnia 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552277": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744111.624069,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "552277",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/552277-xv-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XV sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552283": {
       "channel": "Powiat Myśliborski",
@@ -13300,6 +14938,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "552481": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744145.224382,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552481",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/552481-sesja-rady-gminy-siemysl-2025-07-10",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.07.10",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "552505": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611545.1958246,
@@ -13625,6 +15276,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552720": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744176.4306178,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "552720",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/552720-transmisja-xiv-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "Transmisja XIV posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "552747": {
+      "channel": "Recz",
+      "checked_ts": 1795743871.5999253,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552747",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/552747-2025-07-23--xiii-sesja-rady-miejskiej-w-reczu",
+      "published": "2025-07-23",
+      "title": "2025-07-23- XIII sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "552748": {
+      "channel": "Recz",
+      "checked_ts": 1795743853.5988011,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552748",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/552748-recz-info---czerwiec-2025",
+      "published": "2025-01-01",
+      "title": "Recz Info - czerwiec 2025",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "552757": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612599.61097,
@@ -13650,6 +15340,19 @@
       "title": "XXIII Sesja IX kadencji Rady Gminy Puck 24.07.2025",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "552791": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743997.6128979,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552791",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/552791-xvi--zwolana-w-trybie-nadzwyczajnym--sesja-rady-gminy-rogowo-z-dnia-25-07-2025-r-",
+      "published": "2025-07-25",
+      "title": "XVI (zwołana w trybie nadzwyczajnym) Sesja Rady Gminy Rogowo z dnia 25.07.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552800": {
       "channel": "Pełczyce",
@@ -13715,6 +15418,19 @@
       "title": "XIII zwyczajna sesja Rady Gminy Jednorożec 28.07.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552839": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743970.0084763,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "552839",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/552839-xiii-sesja-rady-gminy-reczno-dn--23-07-2025-r-",
+      "published": "2025-07-23",
+      "title": "XIII Sesja Rady Gminy Ręczno dn. 23.07.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552840": {
       "channel": "Powiat Łódzki Wschodni",
@@ -13911,6 +15627,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553069": {
+      "channel": "Rymań",
+      "checked_ts": 1795744019.2100105,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553069",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/553069-xi-sesja-rady-gminy-ryman-z-dnia-11-sierpnia-2025-roku",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Gminy Rymań z dnia 11 sierpnia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "553109": {
       "channel": "Brusy",
       "checked_ts": 1795610671.58659,
@@ -13949,6 +15678,19 @@
       "title": "Sesja nr XX Rady Gminy Cisna z dnia 08.08.2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553142": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744144.0239756,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553142",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/553142-sesja-rady-gminy-siemysl-2025-08-13",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.08.13",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "553151": {
       "channel": "Dygowo",
@@ -14027,6 +15769,19 @@
       "title": "2025-08-18 - sesja Rady Powiatu w Szczecinku",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "553206": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744075.6194992,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553206",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/553206-xix-sesja-rady-gminy-rzeczenica---8-sierpnia-2025-roku",
+      "published": "2025-01-01",
+      "title": "XIX Sesja Rady Gminy Rzeczenica - 8 sierpnia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "553220": {
       "channel": "Barwice",
@@ -14184,6 +15939,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553366": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743968.805211,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553366",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/553366-xiv-sesja-rady-gminy-reczno-dn--27-08-2025-r-",
+      "published": "2025-08-27",
+      "title": "XIV Sesja Rady Gminy Ręczno dn. 27.08.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "553378": {
       "channel": "Dygowo",
       "checked_ts": 1795611182.2383704,
@@ -14196,6 +15964,19 @@
       "title": "XVII Sesja Rady Gminy Dygowo z dnia 27 sierpnia 2025 roku",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553380": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744074.4195392,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553380",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/553380-xx-sesja-rady-gminy-rzeczenica---27-sierpnia-2025-roku",
+      "published": "2025-01-01",
+      "title": "XX Sesja Rady Gminy Rzeczenica - 27 sierpnia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "553391": {
       "channel": "Kamień Krajeński",
@@ -14561,6 +16342,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553577": {
+      "channel": "Recz",
+      "checked_ts": 1795743870.39937,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553577",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/553577-2025-09-03--xiv-sesja-rady-miejskiej-w-reczu",
+      "published": "2025-09-03",
+      "title": "2025-09-03- XIV sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "553582": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612142.3198426,
@@ -14625,6 +16419,19 @@
       "title": "XVII Sesja Rady Gminy Jaktorów - 28-08-2025, godz. 15:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553654": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744110.424517,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "553654",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/553654-xvi-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XVI sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "553657": {
       "channel": "Powiat Szczecinecki",
@@ -14782,6 +16589,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553900": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744073.2206874,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553900",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/553900-xxi-sesja-rady-gminy-rzeczenica---17-wrzesnia-2025-roku",
+      "published": "2025-01-01",
+      "title": "XXI Sesja Rady Gminy Rzeczenica - 17 września 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "553901": {
       "channel": "Maszewo",
       "checked_ts": 1795612495.1463442,
@@ -14794,6 +16614,19 @@
       "title": "Sesja nr XVII Rady Miejskiej w Maszewie - 11.09.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553921": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744142.8254504,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "553921",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/553921-sesja-rady-gminy-siemysl-2025-09-18",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.09.18",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "553983": {
       "channel": "Powiat Nowosolski",
@@ -15185,6 +17018,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554165": {
+      "channel": "Rymań",
+      "checked_ts": 1795744018.011218,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554165",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/554165-xii-sesja-rady-gminy-ryman-z-dnia-29-wrzesnia-2025-roku",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Gminy Rymań z dnia 29 września 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "554166": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743967.6077034,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554166",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/554166-xv-sesja-rady-gminy-reczno-dn--29-09-2025-r-",
+      "published": "2025-09-29",
+      "title": "XV Sesja Rady Gminy Ręczno dn. 29.09.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554170": {
       "channel": "Czarnocin",
       "checked_ts": 1795610919.4260454,
@@ -15236,6 +17095,19 @@
       "title": "XVI Sesja Rady Miejskiej Turku z dnia 25 września 2025r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554189": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743996.41019,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554189",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/554189-xvii-sesja-rady-gminy-rogowo-z-dnia-30-09-2025-r-",
+      "published": "2025-09-30",
+      "title": "XVII Sesja Rady Gminy Rogowo z dnia 30.09.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "554190": {
       "channel": "Kiernozia",
@@ -15601,6 +17473,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "554408": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744141.6211295,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554408",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/554408-sesja-rady-gminy-siemysl-2025-10-09",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.10.09",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554439": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612141.1227765,
@@ -15756,6 +17641,32 @@
       "title": "Spotkanie dot. możliwość przywrócenia ruchu pasażerskiego na linii kolejowej nr 281 od Gniezna do Kcyni.17.10.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554666": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744109.224798,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "554666",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/554666-xvii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XVII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "554681": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743965.2088535,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554681",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/554681-xvi-sesja-rady-gminy-reczno-dn--22-10-2025-r-",
+      "published": "2025-10-22",
+      "title": "XVI Sesja Rady Gminy Ręczno dn. 22.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "554701": {
       "channel": "Łęki Szlacheckie",
@@ -15991,6 +17902,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554813": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743964.0058148,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554813",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/554813-xvii-nadzwyczajna-sesja-rady-gminy-reczno-dn--28-10-2025-r-",
+      "published": "2025-10-28",
+      "title": "XVII Nadzwyczajna Sesja Rady Gminy Ręczno dn. 28.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554824": {
       "channel": "Jednorożec",
       "checked_ts": 1795611748.8364413,
@@ -16043,6 +17967,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554839": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744140.4239392,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554839",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/554839-sesja-rady-gminy-siemysl-2025-10-29",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.10.29",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554840": {
       "channel": "Barwice",
       "checked_ts": 1795610523.960467,
@@ -16055,6 +17992,19 @@
       "title": "XXV Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554841": {
+      "channel": "Recz",
+      "checked_ts": 1795743869.199974,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554841",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/554841-2025-10-29--xv-sesja-rady-miejskiej-w-reczu",
+      "published": "2025-10-29",
+      "title": "2025-10-29- XV sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "554846": {
       "channel": "Dygowo",
@@ -16120,6 +18070,19 @@
       "title": "XVII Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554872": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744072.0196874,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554872",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/554872-xxii-sesja-rady-gminy-rzeczenica---29-pazdziernika-2025-r-",
+      "published": "2025-01-01",
+      "title": "XXII Sesja Rady Gminy Rzeczenica - 29 października 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "554876": {
       "channel": "Olszyna",
@@ -16368,6 +18331,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554977": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743995.212478,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "554977",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/554977-xviii-sesja-rady-gminy-rogowo-z-dnia-30-10-2025-r-",
+      "published": "2025-10-30",
+      "title": "XVIII Sesja Rady Gminy Rogowo z dnia 30.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555001": {
       "channel": "Międzychód",
       "checked_ts": 1795612724.5822353,
@@ -16550,6 +18526,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "555239": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744175.2292702,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "555239",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/555239--transmisja-xv-posiedzenia-rady-gminy-skape--w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "Transmisja XV posiedzenia Rady Gminy Skąpe  w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555244": {
       "channel": "Krokowa",
       "checked_ts": 1795612112.3158448,
@@ -16614,6 +18603,32 @@
       "title": "XVI sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555284": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744174.0287056,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "555284",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/555284-transmisja-xvi-posiedzenia-rady-gminy-skape",
+      "published": "2025-01-01",
+      "title": "Transmisja XVI posiedzenia Rady Gminy Skąpe",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "555289": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744070.818759,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555289",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/555289-xxiii-sesja-rady-gminy-rzeczenica---19-listopada-2025-r-",
+      "published": "2025-01-01",
+      "title": "XXIII Sesja Rady Gminy Rzeczenica - 19 listopada 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "555302": {
       "channel": "Osiek Gmina",
@@ -16836,6 +18851,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555440": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744172.8277495,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "555440",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/555440-transmisja-xvii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "Transmisja XVII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555441": {
       "channel": "Czarne",
       "checked_ts": 1795610890.6172175,
@@ -16966,6 +18994,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555489": {
+      "channel": "Recz",
+      "checked_ts": 1795743868.0007765,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555489",
+      "media": "",
+      "page": "https://recz.tv-polska.eu/film/555489-2025-11-26--xvi-sesja-rady-miejskiej-w-reczu",
+      "published": "2025-11-26",
+      "title": "2025-11-26- XVI sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "555490": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744068.420752,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555490",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/555490-xxiv-sesja-rady-gminy-rzeczenica---26-listopada-2025-r-",
+      "published": "2025-01-01",
+      "title": "XXIV Sesja Rady Gminy Rzeczenica - 26 listopada 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555493": {
       "channel": "Puck Miasto",
       "checked_ts": 1795712225.082754,
@@ -17044,6 +19098,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555519": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743994.0437799,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555519",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1141152530.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/555519-xix-sesja-rady-gminy-rogowo-z-dnia-27-11-2025-r-",
+      "published": "2025-11-27",
+      "title": "XIX Sesja Rady Gminy Rogowo z dnia 27.11.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "555526": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744139.2208834,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555526",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/555526-sesja-rady-gminy-siemysl-2025-11-27",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.11.27",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555527": {
       "channel": "Barwice",
       "checked_ts": 1795610521.5727613,
@@ -17095,6 +19175,32 @@
       "title": "Sesja nr XIX Rady Miejskiej w Maszewie - 27.11.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555542": {
+      "channel": "Rymań",
+      "checked_ts": 1795744016.8131344,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555542",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/555542-xiii-sesja-rady-gminy-ryman-z-dnia-27-listopada-2025-roku",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Gminy Rymań z dnia 27 listopada 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "555543": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744108.0221372,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "555543",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/555543-xviii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XVIII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "555544": {
       "channel": "Manowo",
@@ -17381,6 +19487,32 @@
       "title": "XVII sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555673": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743962.8078728,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555673",
+      "media": "",
+      "page": "https://reczno.tv-polska.eu/film/555673-xviii-sesja-rady-gminy-reczno-dn--19-11-2025-r-",
+      "published": "2025-11-19",
+      "title": "XVIII Sesja Rady Gminy Ręczno dn. 19.11.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "555674": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743961.6117349,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "555674",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1143112566.mp4",
+      "page": "https://reczno.tv-polska.eu/film/555674-xix-sesja-rady-gminy-reczno-dn--03-12-2025-r-",
+      "published": "2025-12-03",
+      "title": "XIX Sesja Rady Gminy Ręczno dn. 03.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "555704": {
       "channel": "Gniewoszów",
@@ -17720,6 +19852,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556008": {
+      "channel": "Recz",
+      "checked_ts": 1795743866.8077903,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556008",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1147566842.mp4",
+      "page": "https://recz.tv-polska.eu/film/556008-2025-12-17---xvii-sesja-rady-miejskiej-w-reczu",
+      "published": "2025-12-17",
+      "title": "2025-12-17 - XVII sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556010": {
       "channel": "Nowe Miasto Lubawskie",
       "checked_ts": 1795614999.9918165,
@@ -17733,6 +19878,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556012": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744067.2191074,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556012",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/556012-xxv-sesja-rady-gminy-rzeczenica---17-grudnia-2025-r-",
+      "published": "2025-01-01",
+      "title": "XXV Sesja Rady Gminy Rzeczenica - 17 grudnia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "556020": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743992.810342,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556020",
+      "media": "",
+      "page": "https://rogowopaluki.tv-polska.eu/film/556020-xx-sesja-rady-gminy-rogowo-z-dnia-17-grudnia-2025-r-",
+      "published": "2025-01-01",
+      "title": "XX Sesja Rady Gminy Rogowo z dnia 17 grudnia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556035": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611822.0436068,
@@ -17745,6 +19916,19 @@
       "title": "XIX Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556036": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744138.024236,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556036",
+      "media": "",
+      "page": "https://siemysl.tv-polska.eu/film/556036-sesja-rady-gminy-siemysl-2025-12-18",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2025.12.18",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556049": {
       "channel": "Puck Miasto",
@@ -17850,6 +20034,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "556072": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744171.6279614,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "556072",
+      "media": "",
+      "page": "https://skape.tv-polska.eu/film/556072-transmisja-xviii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "Transmisja XVIII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556074": {
       "channel": "Bielice",
       "checked_ts": 1795610569.57275,
@@ -17875,6 +20072,19 @@
       "title": "XVI Sesja Rady Gminy Manowo, 2025-12-19, godz. 9:30",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556079": {
+      "channel": "Rymań",
+      "checked_ts": 1795744015.6110716,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556079",
+      "media": "",
+      "page": "https://ryman.tv-polska.eu/film/556079-xiv-sesja-rady-gminy-ryman-z-dnia-19-grudnia-2025-roku",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Gminy Rymań z dnia 19 grudnia 2025 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556086": {
       "channel": "Czarne",
@@ -18240,6 +20450,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556242": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744066.0338633,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556242",
+      "media": "",
+      "page": "https://rzeczenica.tv-polska.eu/film/556242-xxvi-sesja-rady-gminy-rzeczenica---29-grudnia-2025-r-",
+      "published": "2025-01-01",
+      "title": "XXVI Sesja Rady Gminy Rzeczenica - 29 grudnia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556246": {
       "channel": "Bielice",
       "checked_ts": 1795610568.3663836,
@@ -18278,6 +20501,32 @@
       "title": "XIX Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556258": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743960.416254,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556258",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150375209.mp4",
+      "page": "https://reczno.tv-polska.eu/film/556258-xx-sesja-rady-gminy-reczno-dn--22-12-2025-r-",
+      "published": "2025-12-22",
+      "title": "XX Sesja Rady Gminy Ręczno dn. 22.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "556259": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743959.214224,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556259",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150375730.mp4",
+      "page": "https://reczno.tv-polska.eu/film/556259-xxi-nadzwyczajna-sesja-rady-gminy-reczno-dn--29-12-2025-r-",
+      "published": "2025-12-29",
+      "title": "XXI Nadzwyczajna Sesja Rady Gminy Ręczno dn. 29.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556264": {
       "channel": "Dobra Gmina",
@@ -18382,6 +20631,19 @@
       "title": "XVI Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556289": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744106.8216887,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "556289",
+      "media": "",
+      "page": "https://siekierczyn.tv-polska.eu/film/556289-xix-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2025-01-01",
+      "title": "XIX sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556293": {
       "channel": "Czerwin",
@@ -18513,6 +20775,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556406": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744170.4409666,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "556406",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1152497386.mp4",
+      "page": "https://skape.tv-polska.eu/film/556406-transmisja-xx-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XX posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556414": {
       "channel": "Dziwnów",
       "checked_ts": 1795611255.9432445,
@@ -18590,6 +20865,19 @@
       "title": "XXI sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556532": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743958.0136425,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556532",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1154570448.mp4",
+      "page": "https://reczno.tv-polska.eu/film/556532-xxii-sesja-rady-gminy-reczno-dn--15-01-2026-r-",
+      "published": "2026-01-15",
+      "title": "XXII Sesja Rady Gminy Ręczno dn. 15.01.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556556": {
       "channel": "Kamień Pomorski",
@@ -18890,6 +21178,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556786": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743991.618926,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556786",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1158793146.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/556786-xxi-sesja-rady-gminy-rogowo-z-dnia-27-01-2026-r-",
+      "published": "2026-01-27",
+      "title": "XXI Sesja Rady Gminy Rogowo z dnia 27.01.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556797": {
       "channel": "Czerwin",
       "checked_ts": 1795610944.621214,
@@ -18941,6 +21242,19 @@
       "title": "XX sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556818": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744064.8258357,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "556818",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159559527.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/556818-xxvii-sesja-rady-gminy-rzeczenica---28-stycznia-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXVII Sesja Rady Gminy Rzeczenica - 28 stycznia 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556823": {
       "channel": "Kamień Krajeński",
@@ -19072,6 +21386,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556881": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744105.6296551,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "556881",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160147537.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/556881-xx-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XX sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556889": {
       "channel": "Powiat Człuchowski",
       "checked_ts": 1795657773.1388319,
@@ -19188,6 +21515,19 @@
       "title": "XXIV Sesja Rady Miejskiej w Czarnem - IX Kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556941": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744169.2383587,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "556941",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1161353826.mp4",
+      "page": "https://skape.tv-polska.eu/film/556941-transmisja-xxi-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XXI posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556955": {
       "channel": "Gniewino",
@@ -19410,6 +21750,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557095": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743956.8150704,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557095",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1164250292.mp4",
+      "page": "https://reczno.tv-polska.eu/film/557095-xxiii-sesja-rady-gminy-reczno-dn--11-02-2026-r-",
+      "published": "2026-02-11",
+      "title": "XXIII Sesja Rady Gminy Ręczno dn. 11.02.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557102": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611475.5922263,
@@ -19461,6 +21814,19 @@
       "title": "XXV  Uroczysta Sesja Rady Gminy Iłów z dnia 08.02.2026r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557121": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744136.8317585,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557121",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1164490174.mp4",
+      "page": "https://siemysl.tv-polska.eu/film/557121-sesja-rady-gminy-siemysl-2026-02-12",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2026.02.12",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "557129": {
       "channel": "Gniewoszów",
@@ -19526,6 +21892,19 @@
       "title": "XVII Sesja Rady Gminy Manowo, 2026-02-16, godz. 8:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557161": {
+      "channel": "Rymań",
+      "checked_ts": 1795744014.4204412,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557161",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1165293212.mp4",
+      "page": "https://ryman.tv-polska.eu/film/557161-xv-sesja-rady-gminy-ryman-z-dnia-12-lutego-2026-roku",
+      "published": "2026-01-01",
+      "title": "XV Sesja Rady Gminy Rymań z dnia 12 lutego 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "557178": {
       "channel": "Cisna",
@@ -19826,6 +22205,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557351": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743990.4197912,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557351",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1167739399.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/557351-xxii-sesja-rady-gminy-rogowo-z-dnia-24-02-2026-r-",
+      "published": "2026-02-24",
+      "title": "XXII Sesja Rady Gminy Rogowo z dnia 24.02.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557359": {
       "channel": "Powiat Myśliborski",
       "checked_ts": 1795711918.8183708,
@@ -19878,6 +22270,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557383": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744063.6271956,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557383",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168372385.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/557383-xxviii-sesja-rady-gminy-rzeczenica---25-lutego-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXVIII Sesja Rady Gminy Rzeczenica - 25 lutego 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "557384": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744104.4274352,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "557384",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168377663.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/557384-xxi-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XXI sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557386": {
       "channel": "Olszyna",
       "checked_ts": 1795615095.0332427,
@@ -19890,6 +22308,19 @@
       "title": "XXVI sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557389": {
+      "channel": "Recz",
+      "checked_ts": 1795743865.6086195,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557389",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168386837.mp4",
+      "page": "https://recz.tv-polska.eu/film/557389-2026-02-26---xviii-sesja-rady-miejskiej-w-reczu",
+      "published": "2026-02-26",
+      "title": "2026-02-26 - XVIII sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "557398": {
       "channel": "Powiat Myśliborski",
@@ -19968,6 +22399,19 @@
       "title": "XXVI zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "557417": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744134.4319642,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557417",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168653831.mp4",
+      "page": "https://siemysl.tv-polska.eu/film/557417-sesja-rady-gminy-siemysl-2026-02-26",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2026.02.26",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "557419": {
       "channel": "Barwice",
@@ -20437,6 +22881,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557573": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744166.839175,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "557573",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170954341.mp4",
+      "page": "https://skape.tv-polska.eu/film/557573-transmisja-xxii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XXII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557633": {
       "channel": "Deszczno",
       "checked_ts": 1795611011.8229647,
@@ -20697,6 +23154,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557846": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744062.4378479,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557846",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1175038426.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/557846-xxix-sesja-rady-gminy-rzeczenica---18-marca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXIX Sesja Rady Gminy Rzeczenica - 18 marca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557864": {
       "channel": "Maszewo",
       "checked_ts": 1795612486.7499382,
@@ -20801,6 +23271,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557982": {
+      "channel": "Rymań",
+      "checked_ts": 1795744013.2316542,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "557982",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1176824213.mp4",
+      "page": "https://ryman.tv-polska.eu/film/557982-xvi-sesja-rady-gminy-ryman-z-dnia-24-marca-2026-roku",
+      "published": "2026-01-01",
+      "title": "XVI Sesja Rady Gminy Rymań z dnia 24 marca 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557984": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611698.3833723,
@@ -20866,6 +23349,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558009": {
+      "channel": "Recz",
+      "checked_ts": 1795743863.2089202,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558009",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177207433.mp4",
+      "page": "https://recz.tv-polska.eu/film/558009-2026-03-25---xix-sesja-rady-miejskiej-w-reczu",
+      "published": "2026-03-25",
+      "title": "2026-03-25 - XIX sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558010": {
       "channel": "Łęki Szlacheckie",
       "checked_ts": 1795612359.539814,
@@ -20892,6 +23388,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558013": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743954.4155095,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558013",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177220640.mp4",
+      "page": "https://reczno.tv-polska.eu/film/558013-xxiv-sesja-rady-gminy-reczno-dn--25-03-2026-r-",
+      "published": "2026-03-25",
+      "title": "XXIV Sesja Rady Gminy Ręczno dn. 25.03.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558014": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611694.787169,
@@ -20904,6 +23413,32 @@
       "title": "XVIII SESJA RADY MIEJSKIEJ W JANOWCU WIELKOPOLSKIM 25.03.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558023": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744102.0286975,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "558023",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177244271.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/558023-xxii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XXII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "558024": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744061.2286315,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558024",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177266469.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/558024-xxx-uroczysta--sesja-rady-gminy-rzeczenica---25-marca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXX Uroczysta  Sesja Rady Gminy Rzeczenica - 25 marca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "558027": {
       "channel": "Kamień Krajeński",
@@ -20956,6 +23491,19 @@
       "title": "XXXII Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558044": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744133.228619,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558044",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177544522.mp4",
+      "page": "https://siemysl.tv-polska.eu/film/558044-sesja-rady-gminy-siemysl-2026-03-26",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2026.03.26",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "558051": {
       "channel": "Jastarnia",
@@ -21308,6 +23856,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558133": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744046.8417203,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558133",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178751940.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/558133-650---lecie-lokacji-miejscowosci-rzeczenica--gwiezdzin--olszanowo---25-marca-2026-roku",
+      "published": "2026-01-01",
+      "title": "650 - lecie lokacji miejscowości Rzeczenica, Gwieździn, Olszanowo - 25 marca 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558145": {
       "channel": "Powiat Kutnowski",
       "checked_ts": 1795657879.2835917,
@@ -21607,6 +24168,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558462": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743989.2185605,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558462",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1183639880.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/558462-xxiii-sesja-rady-gminy-rogowo-z-dnia-15-04-2026-r-",
+      "published": "2026-04-15",
+      "title": "XXIII Sesja Rady Gminy Rogowo z dnia 15.04.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558464": {
       "channel": "Maszewo",
       "checked_ts": 1795612484.3465922,
@@ -21788,6 +24362,19 @@
       "title": "XXX Nadzywczajna Sesja Rady Miejskiej w Międzyborzu 17.04.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558639": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744132.0300126,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558639",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186044572.mp4",
+      "page": "https://siemysl.tv-polska.eu/film/558639-sesja-rady-gminy-siemysl-2026-04-23",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2026.04.23",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "558651": {
       "channel": "Manowo",
@@ -22088,6 +24675,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558762": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744100.8268056,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "558762",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187658776.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/558762-xxiii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XXIII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558775": {
       "channel": "Drawno",
       "checked_ts": 1795611146.24161,
@@ -22127,6 +24727,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558781": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743953.211362,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558781",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187984558.mp4",
+      "page": "https://reczno.tv-polska.eu/film/558781-xxv-sesja-rady-gminy-reczno-dn--29-04-2026-r-",
+      "published": "2026-04-29",
+      "title": "XXV Sesja Rady Gminy Ręczno dn. 29.04.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558784": {
       "channel": "Krokowa",
       "checked_ts": 1795612101.5181384,
@@ -22139,6 +24752,19 @@
       "title": "XXXII sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558785": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744058.8263755,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558785",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1187994664.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/558785-xxxi-sesja-rady-gminy-rzeczenica---29-kwietnia-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXXI Sesja Rady Gminy Rzeczenica - 29 kwietnia 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "558790": {
       "channel": "Gmina Miejska Szczytno",
@@ -22308,6 +24934,19 @@
       "title": "XXV Sesja Rady Gminy Jaktorów",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558917": {
+      "channel": "Recz",
+      "checked_ts": 1795743862.00823,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "558917",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1189994328.mp4",
+      "page": "https://recz.tv-polska.eu/film/558917-2026-05-06---xx-sesja-rady-miejskiej-w-reczu",
+      "published": "2026-05-06",
+      "title": "2026-05-06 - XX sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "558921": {
       "channel": "Gorzkowice",
@@ -22543,6 +25182,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559141": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744165.6393034,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "559141",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1193574397.mp4",
+      "page": "https://skape.tv-polska.eu/film/559141-transmisja-xxiii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XXIII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559160": {
       "channel": "Przasnysz Gmina",
       "checked_ts": 1795712121.7330127,
@@ -22699,6 +25351,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559298": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743986.8205197,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559298",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1195603089.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/559298-xxiv-sesja-rady-gminy-rogowo-z-dnia-26-05-2026-r-",
+      "published": "2026-05-26",
+      "title": "XXIV Sesja Rady Gminy Rogowo z dnia 26.05.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559305": {
       "channel": "Mogilno",
       "checked_ts": 1795614914.8008761,
@@ -22750,6 +25415,19 @@
       "title": "XXV Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559354": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744057.62936,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559354",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196231472.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/559354-xxxii-sesja-rady-gminy-rzeczenica---27-maja-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXXII Sesja Rady Gminy Rzeczenica - 27 maja 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559355": {
       "channel": "Czarne",
@@ -22867,6 +25545,19 @@
       "title": "XXXIII Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559379": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743952.0110118,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559379",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196570805.mp4",
+      "page": "https://reczno.tv-polska.eu/film/559379-xxvi-sesja-rady-gminy-reczno-dn--27-05-2026-r-",
+      "published": "2026-05-27",
+      "title": "XXVI Sesja Rady Gminy Ręczno dn. 27.05.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559381": {
       "channel": "Połajewo",
@@ -23297,6 +25988,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559524": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744164.43601,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "559524",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197978240.mp4",
+      "page": "https://skape.tv-polska.eu/film/559524-transmisja-xxiv-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XXIV posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559534": {
       "channel": "Jaktorów",
       "checked_ts": 1795611639.5862572,
@@ -23401,6 +26105,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559669": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743985.6185367,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559669",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1200692012.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/559669-xxv--zwolana-w-trybie-nadzwyczajnym--sesja-rady-gminy-rogowo-z-dnia-12-06-2026-r-",
+      "published": "2026-06-12",
+      "title": "XXV (zwołana w trybie nadzwyczajnym) Sesja Rady Gminy Rogowo z dnia 12.06.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "559673": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744099.6297157,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "559673",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1200717515.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/559673-xxiv-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XXIV sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559674": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611686.3825624,
@@ -23439,6 +26169,19 @@
       "title": "XXI Sesja Rady Gminy Boleszkowice w dniu 27 maja 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559687": {
+      "channel": "Recz",
+      "checked_ts": 1795743860.80712,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559687",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1200945809.mp4",
+      "page": "https://recz.tv-polska.eu/film/559687-2026-06-12---xxi-sesja-rady-miejskiej-w-reczu",
+      "published": "2026-06-12",
+      "title": "2026-06-12 - XXI sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559709": {
       "channel": "Osina",
@@ -23752,6 +26495,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559813": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744056.4269965,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559813",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202380508.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/559813-xxxiii-sesja-rady-gminy-rzeczenica---17-czerwca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXXIII Sesja Rady Gminy Rzeczenica - 17 czerwca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "559814": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743950.8276885,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559814",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202394418.mp4",
+      "page": "https://reczno.tv-polska.eu/film/559814-xxvii-sesja-rady-gminy-reczno-dn--17-06-2026-r-",
+      "published": "2026-06-17",
+      "title": "XXVII Sesja Rady Gminy Ręczno dn. 17.06.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559816": {
       "channel": "Dziwnów",
       "checked_ts": 1795611246.3418238,
@@ -23947,6 +26716,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559949": {
+      "channel": "Rymań",
+      "checked_ts": 1795744012.019192,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559949",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204134131.mp4",
+      "page": "https://ryman.tv-polska.eu/film/559949-xvii-sesja-rady-gminy-ryman-z-dnia-23-czerwca-2026-roku",
+      "published": "2026-01-01",
+      "title": "XVII Sesja Rady Gminy Rymań z dnia 23 czerwca 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559958": {
       "channel": "Powiat Szczecinecki",
       "checked_ts": 1795712011.2309914,
@@ -24011,6 +26793,19 @@
       "title": "XVII Sesja Rady Gminy w Połajewie odbyta dnia 24 czerwca 2026 r. (Kadencja 2024-2029)",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "559986": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743984.417539,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "559986",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204457431.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/559986-xxvi-sesja-rady-gminy-rogowo-z-dnia-23-06-2026-r-",
+      "published": "2026-06-23",
+      "title": "XXVI Sesja Rady Gminy Rogowo z dnia 23.06.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559988": {
       "channel": "Jednorożec",
@@ -24219,6 +27014,19 @@
       "title": "XVI sesja Rady Powiatu w Żninie - 25.06.2026 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "560046": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744130.8302205,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560046",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204833388.mp4",
+      "page": "https://siemysl.tv-polska.eu/film/560046-sesja-rady-gminy-siemysl-2026-06-25",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2026.06.25",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "560057": {
       "channel": "Mieszkowice",
@@ -24493,6 +27301,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "560155": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744055.226087,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560155",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206366301.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/560155-xxxiv-sesja-rady-gminy-rzeczenica---1-lipca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXXIV Sesja Rady Gminy Rzeczenica - 1 lipca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "560158": {
       "channel": "Mogilno",
       "checked_ts": 1795614913.6111772,
@@ -24518,6 +27339,19 @@
       "title": "XIX Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560167": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744098.4272373,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "560167",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206427932.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/560167-xxv-nadzwyczajna-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XXV nadzwyczajna sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "560179": {
       "channel": "Iłów",
@@ -24844,6 +27678,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560398": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743949.6191285,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560398",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1210221519.mp4",
+      "page": "https://reczno.tv-polska.eu/film/560398-xxviii-sesja-rady-gminy-reczno-dn--15-07-2026-r-",
+      "published": "2026-07-15",
+      "title": "XXVIII Sesja Rady Gminy Ręczno dn. 15.07.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "560400": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744054.0273712,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560400",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1210403211.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/560400-xxxv-sesja-rady-gminy-rzeczenica---15-lipca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXXV Sesja Rady Gminy Rzeczenica - 15 lipca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "560433": {
       "channel": "Jastarnia",
       "checked_ts": 1795611704.4335241,
@@ -24882,6 +27742,19 @@
       "title": "XXXIV Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560515": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743983.2178562,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "560515",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1211617688.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/560515-xxvii--zwolana-w-trybie-nadzwyczajnym--sesja-rady-gminy-rogowo-z-dnia-21-lipca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXVII (zwołana w trybie nadzwyczajnym) Sesja Rady Gminy Rogowo z dnia 21 lipca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "560530": {
       "channel": "Powiat Żniński",
@@ -25338,6 +28211,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560712": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744163.2338793,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "560712",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214518162.mp4",
+      "page": "https://skape.tv-polska.eu/film/560712-transmisja-xxiv-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XXIV posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "560713": {
       "channel": "Drawno",
       "checked_ts": 1795611134.2531292,
@@ -25350,6 +28236,19 @@
       "title": "Jubileusz XV lecia działalności Drawieńskiego Uniwersytetu Trzeciego Wieku",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560714": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744162.0516508,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "560714",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1214523345.mp4",
+      "page": "https://skape.tv-polska.eu/film/560714-transmisja-xxvi-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XXVI posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "560717": {
       "channel": "Pomorze Zachodnie",
@@ -25962,6 +28861,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561042": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744160.8349392,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "561042",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1220747956.mp4",
+      "page": "https://skape.tv-polska.eu/film/561042-transmisja-xxvii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XXVII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561047": {
       "channel": "Puck Gmina",
       "checked_ts": 1795712183.0910463,
@@ -25987,6 +28899,32 @@
       "title": "Gmina Barcin | XXVII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561051": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744097.2255218,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "561051",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1220764528.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/561051-xxvi-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XXVI sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "561054": {
+      "channel": "Recz",
+      "checked_ts": 1795743859.6101792,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561054",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221043126.mp4",
+      "page": "https://recz.tv-polska.eu/film/561054-2026-08-24---xxii-sesja-rady-miejskiej-w-reczu",
+      "published": "2026-08-24",
+      "title": "2026-08-24 - XXII sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561058": {
       "channel": "Kamień Pomorski",
@@ -26209,6 +29147,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561156": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744129.6284547,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561156",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222257680.mp4",
+      "page": "https://siemysl.tv-polska.eu/film/561156-sesja-rady-gminy-siemysl-2026-08-28",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2026.08.28",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561158": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612647.6325316,
@@ -26274,6 +29225,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "561177": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743948.4142144,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561177",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222634456.mp4",
+      "page": "https://reczno.tv-polska.eu/film/561177-xxix-sesja-rady-gminy-reczno-dn--31-08-2026-r-",
+      "published": "2026-08-31",
+      "title": "XXIX Sesja Rady Gminy Ręczno dn. 31.08.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561191": {
       "channel": "Przelewice",
       "checked_ts": 1795712151.894017,
@@ -26286,6 +29250,19 @@
       "title": "XXIX Nadzwyczajna Sesja Rady Gminy Przelewice",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "561194": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744096.0275009,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "561194",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222916144.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/561194-xxvii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XXVII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561197": {
       "channel": "Iłów",
@@ -26403,6 +29380,19 @@
       "title": "XXXV Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561235": {
+      "channel": "Recz",
+      "checked_ts": 1795743858.4086468,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561235",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1223569654.mp4",
+      "page": "https://recz.tv-polska.eu/film/561235-2026-09-02---xxiii-sesja-rady-miejskiej-w-reczu",
+      "published": "2026-09-02",
+      "title": "2026-09-02 - XXIII sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561236": {
       "channel": "Marianowo",
@@ -26872,6 +29862,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "561567": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744052.827524,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561567",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229784580.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/561567-xxxvi-sesja-rady-gminy-rzeczenica---23-wrzesnia-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXXVI Sesja Rady Gminy Rzeczenica - 23 września 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561569": {
       "channel": "Krokowa",
       "checked_ts": 1795612091.9168727,
@@ -26923,6 +29926,19 @@
       "title": "Posiedzenie Komisji Skarg, Wniosków i Petycji Rady Miejskiej w Janowcu Wielkopolskim - 24.09.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561600": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744128.434198,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561600",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230036550.mp4",
+      "page": "https://siemysl.tv-polska.eu/film/561600-sesja-rady-gminy-siemysl-2026-09-24",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2026.09.24",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561603": {
       "channel": "Powiat Międzychodzki",
@@ -27197,6 +30213,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561687": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743982.0174997,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561687",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231286582.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/561687-xxviii-sesja-rady-gminy-rogowo-z-dnia-28-09-2026-r-",
+      "published": "2026-09-28",
+      "title": "XXVIII Sesja Rady Gminy Rogowo z dnia 28.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561690": {
       "channel": "Barcin",
       "checked_ts": 1795610471.159545,
@@ -27209,6 +30238,19 @@
       "title": "Gmina Barcin | XXVIII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561692": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744159.6352627,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "561692",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231554788.mp4",
+      "page": "https://skape.tv-polska.eu/film/561692-transmisja-xxviii-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XXVIII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561693": {
       "channel": "Powiat Nowosolski",
@@ -27548,6 +30590,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561734": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743947.2119625,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561734",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231691584.mp4",
+      "page": "https://reczno.tv-polska.eu/film/561734-xxx-sesja-rady-gminy-reczno-dn--30-09-2026-r-",
+      "published": "2026-09-30",
+      "title": "XXX Sesja Rady Gminy Ręczno dn. 30.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561737": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611055.030921,
@@ -27560,6 +30615,19 @@
       "title": "XXVII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561738": {
+      "channel": "Recz",
+      "checked_ts": 1795743857.2081864,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561738",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231914312.mp4",
+      "page": "https://recz.tv-polska.eu/film/561738-2026-09-30---xxiv-sesja-rady-miejskiej-w-reczu",
+      "published": "2026-09-30",
+      "title": "2026-09-30 - XXIV sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561739": {
       "channel": "Lewin Kłodzki",
@@ -27574,6 +30642,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561741": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744094.8280315,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "561741",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231916808.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/561741-xxviii-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XXVIII sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561744": {
       "channel": "Barwice",
       "checked_ts": 1795610509.5649323,
@@ -27586,6 +30667,19 @@
       "title": "XXXVI Sesja Rady Miejskiej w Barwicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561745": {
+      "channel": "Rymań",
+      "checked_ts": 1795744010.8205383,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561745",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231922623.mp4",
+      "page": "https://ryman.tv-polska.eu/film/561745-xviii-sesja-rady-gminy-ryman-z-dnia-30-wrzesnia-2026-roku",
+      "published": "2026-01-01",
+      "title": "XVIII Sesja Rady Gminy Rymań z dnia 30 września 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561748": {
       "channel": "Połajewo",
@@ -27794,6 +30888,19 @@
       "title": "36_XXXVI Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561837": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743980.8198442,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "561837",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233638167.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/561837-xxix--zwolana-w-trybie-nadzwyczajnym--sesja-rady-gminy-rogowo-z-dnia-7-pazdziernika-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXIX (zwołana w trybie nadzwyczajnym) Sesja Rady Gminy Rogowo z dnia 7 października 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561841": {
       "channel": "Czerwin",
@@ -28393,6 +31500,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562115": {
+      "channel": "Recz",
+      "checked_ts": 1795743856.0037744,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562115",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240640265.mp4",
+      "page": "https://recz.tv-polska.eu/film/562115-2026-10-28---xxv-sesja-rady-miejskiej-w-reczu",
+      "published": "2026-10-28",
+      "title": "2026-10-28 - XXV sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "562116": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612543.1488855,
@@ -28510,6 +31630,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562127": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744127.2298255,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562127",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240881611.mp4",
+      "page": "https://siemysl.tv-polska.eu/film/562127-sesja-rady-gminy-siemysl-2026-10-29",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2026.10.29",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "562130": {
       "channel": "Kępice",
       "checked_ts": 1795611880.8654199,
@@ -28548,6 +31681,32 @@
       "title": "XL Sesja Rady Gminy Krokowa IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562133": {
+      "channel": "Siekierczyn",
+      "checked_ts": 1795744093.6260507,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "562133",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241205807.mp4",
+      "page": "https://siekierczyn.tv-polska.eu/film/562133-xxix-sesja-rady-gminy-siekierczyn-ix-kadencji",
+      "published": "2026-01-01",
+      "title": "XXIX sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562134": {
+      "channel": "Skąpe",
+      "checked_ts": 1795744158.4356441,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "562134",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241203106.mp4",
+      "page": "https://skape.tv-polska.eu/film/562134-transmisja-xxix-posiedzenia-rady-gminy-skape-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "Transmisja XXIX posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "562135": {
       "channel": "Manowo",
@@ -28639,6 +31798,19 @@
       "title": "XXXVIII sesja Rady Miejskiej w Miastku 30.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562142": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744051.6231518,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562142",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242269937.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/562142-xxxvii-sesja-rady-gminy-rzeczenica---28-pazdziernika-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXXVII Sesja Rady Gminy Rzeczenica - 28 października 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "562145": {
       "channel": "Osina",
@@ -28925,6 +32097,19 @@
       "title": "XIX sesja Rady Powiatu w Żninie - 5.11.2026 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "562241": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743979.617344,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562241",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1245376626.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/562241-xxx-sesja-rady-gminy-rogowo-z-dnia-29-pazdziernika-2026-roku",
+      "published": "2026-01-01",
+      "title": "XXX Sesja Rady Gminy Rogowo z dnia 29 października 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "562243": {
       "channel": "Ilowo Osada",
@@ -29628,6 +32813,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562369": {
+      "channel": "Rogowo pow. Źniński",
+      "checked_ts": 1795743978.4175196,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562369",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1249653022.mp4",
+      "page": "https://rogowopaluki.tv-polska.eu/film/562369-xxxi-sesja-rady-gminy-rogowo-z-dnia-24-listopada-2026-roku",
+      "published": "2026-01-01",
+      "title": "XXXI Sesja Rady Gminy Rogowo z dnia 24 listopada 2026 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "562372": {
       "channel": "Jadów",
       "checked_ts": 1795611586.004971,
@@ -29732,6 +32930,58 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562386": {
+      "channel": "Ręczno",
+      "checked_ts": 1795743946.0134668,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562386",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1250059120.mp4",
+      "page": "https://reczno.tv-polska.eu/film/562386-xxxi-sesja-rady-gminy-reczno-dn--25-11-2026-r-",
+      "published": "2026-11-25",
+      "title": "XXXI Sesja Rady Gminy Ręczno dn. 25.11.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562388": {
+      "channel": "Rzeczenica",
+      "checked_ts": 1795744050.42773,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562388",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1250239226.mp4",
+      "page": "https://rzeczenica.tv-polska.eu/film/562388-xxxviii-sesja-rady-gminy-rzeczenica---25-listopada-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXXVIII Sesja Rady Gminy Rzeczenica - 25 listopada 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562389": {
+      "channel": "Recz",
+      "checked_ts": 1795743854.8153973,
+      "date_source": "data w tytule",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562389",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1250238738.mp4",
+      "page": "https://recz.tv-polska.eu/film/562389-2026-11-25---xxvi-sesja-rady-miejskiej-w-reczu",
+      "published": "2026-11-25",
+      "title": "2026-11-25 - XXVI sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562405": {
+      "channel": "Siemyśl",
+      "checked_ts": 1795744126.0273898,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "562405",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1250416888.mp4",
+      "page": "https://siemysl.tv-polska.eu/film/562405-sesja-rady-gminy-siemysl-2026-11-26",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Gminy Siemyśl 2026.11.26",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "67476": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609799.585375,
@@ -29772,7 +33022,7 @@
       "updated": "2026-11-26"
     }
   },
-  "last_run": "2026-11-26T16:57:37.499363+00:00",
+  "last_run": "2026-11-27T01:49:54.429449+00:00",
   "page_cursors": {
     "alfatv": 3,
     "barcin": 4,
@@ -29902,6 +33152,19 @@
     "przasnysz": 4,
     "przelewice": 4,
     "pyrzyce": 2,
+    "recz": 4,
+    "reczno": 4,
+    "resko": 4,
+    "rewal": 4,
+    "rogowopaluki": 4,
+    "ryman": 4,
+    "rypin": 2,
+    "rzeczenica": 4,
+    "sieja": 4,
+    "siekierczyn": 4,
+    "siemysl": 4,
+    "skape": 4,
+    "slawno": 2,
     "ugjoniec": 2,
     "ugposwietne": 4,
     "umnowemiasto": 4,

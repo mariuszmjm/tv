@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-26T16:57:37.579735+00:00
+# Aktualizacja: 2026-11-27T01:49:54.492231+00:00
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXV Sesja Rady Miejskiej Mielna 19.11.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1248308295.mp4
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXIV Sesja Rady Miejskiej Mielna 23.10.2026
@@ -1239,8 +1239,6 @@ https://film.alfatv.pl/~tv/backup_vimeo/1248642509.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1145163666.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXII Rady Gminy Łęki Szlacheckie z dnia 02.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1143737768.mp4
-#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Jednorożec | XVI sesja Rady Gminy Jednorożec 26.11.2025 r.
-https://film.alfatv.pl/~tv/backup_vimeo/1141131130.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXXV Sesja Rady Miejskiej w Międzyborzu 11.08.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1218878800.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXXIV Sesja Rady Miejskiej w Międzyborzu 21.07.2026 r.
@@ -1295,10 +1293,28 @@ https://film.alfatv.pl/~tv/backup_vimeo/1232002521.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1242378619.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Olszyna | XXXV sesja Rady Miejskiej w Olszynie - IX kadencja (na wniosek)
 https://film.alfatv.pl/~tv/backup_vimeo/1249314563.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XX sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1160147537.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXI sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1168377663.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXII sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1177244271.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXIII sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1187658776.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXIV sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1200717515.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXIX sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1241205807.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXV nadzwyczajna sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1206427932.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXVI sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1220764528.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXVII sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1222916144.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXVIII sesja Rady Gminy Siekierczyn IX kadencji
+https://film.alfatv.pl/~tv/backup_vimeo/1231916808.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXVI Sesja Rady MIejskiej w Międzyborzu 17.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1165654101.mp4
-#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXV Sesja Rady Miejskiej w Międzyborzu 26.11.2025 r.
-https://film.alfatv.pl/~tv/backup_vimeo/1165652170.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Deszczno | XXV Zwyczajna Sesja Rady Gminy Deszczno 02.03.2026 r. (2024-2029)
 https://film.alfatv.pl/~tv/backup_vimeo/1169832133.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Deszczno | XXIV Zwyczajna Sesja Rady Gminy Deszczno 11.02.2026 r. (2024-2029)
@@ -1321,6 +1337,26 @@ https://film.alfatv.pl/~tv/backup_vimeo/1231216882.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1239748612.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Deszczno | XXXIII Zwyczajna Sesja Rady Gminy Deszczno 23.11.2026r. (2024-2029r.)
 https://film.alfatv.pl/~tv/backup_vimeo/1249581968.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XX posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1152497386.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXI posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1161353826.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1170954341.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXIII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1193574397.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXIV posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1214518162.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXIV posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1197978240.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXIX posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1241203106.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXVI posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1214523345.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXVII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1220747956.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXVIII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1231554788.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Cisna | Sesja nr XXXIX Rady Gminy Cisna z dnia 28.10.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1240341786.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Miasto Leżajsk | XXXII Sesja Rady Miejskiej w Leżajsku. 26.10.2026
@@ -1383,8 +1419,14 @@ https://film.alfatv.pl/~tv/backup_vimeo/1212553094.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1156515775.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Cisna | Sesja nr XXVI Rady Gminy Cisna z dnia 18.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1156505639.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2026-11-25 - XXVI sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1250238738.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXXI Sesja Rady Gminy Ręczno dn. 25.11.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1250059120.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Żniński | XIX sesja Rady Powiatu w Żninie - 5.11.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1245091976.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2026-10-28 - XXV sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1240640265.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rąbino | Sesja Rady Gminy Rąbino 27.10.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1246188290.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXXII Sesja Rady Miejskiej w Przasnyszu 26.10.2026 r.
@@ -1393,6 +1435,12 @@ https://film.alfatv.pl/~tv/backup_vimeo/1240713434.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1239425606.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-10-19 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1237254528.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2026-09-30 - XXIV sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1231914312.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXX Sesja Rady Gminy Ręczno dn. 30.09.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1231691584.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXVIII Sesja Rady Gminy Rogowo z dnia 28.09.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1231286582.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Żniński | XVIII sesja Rady Powiatu w Żninie - 24.09.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1230142229.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XLIII Sesja IX kadencji Rady Gminy Puck 24.09.2026
@@ -1403,12 +1451,18 @@ https://film.alfatv.pl/~tv/backup_vimeo/1239280023.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1230908601.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-09-15 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1226942179.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2026-09-02 - XXIII sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1223569654.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXX Sesja Rady Miejskiej w Przasnyszu 31.08.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1226014487.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXIX Sesja Rady Gminy Ręczno dn. 31.08.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1222634456.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XLII Sesja IX kadencji Rady Gminy Puck 28.08.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1222621488.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rąbino | Sesja Gminy Rąbino 25.08.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1224367406.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2026-08-24 - XXII sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1221043126.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XLI Sesja IX kadencji Rady Gminy Puck 20.08.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1220759702.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXIX Sesja Rady Miejskiej w Przasnyszu 28.07.2026 r.
@@ -1417,6 +1471,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1214184869.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1212311076.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Żniński | XVII sesja Rady Powiatu w Żninie - 21.07.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1211921539.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXVIII Sesja Rady Gminy Ręczno dn. 15.07.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1210221519.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XL Sesja IX kadencji Rady Gminy Puck 09.07.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1208438487.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXVIII Sesja Rady Miejskiej w Przasnyszu 29.06.2026 r.
@@ -1427,16 +1483,32 @@ https://film.alfatv.pl/~tv/backup_vimeo/1204817137.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1205380150.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-06-24 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1204158161.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXVI Sesja Rady Gminy Rogowo z dnia 23.06.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1204457431.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-06-22 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1203416106.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXVII Sesja Rady Gminy Ręczno dn. 17.06.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1202394418.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2026-06-12 - XXI sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1200945809.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXV (zwołana w trybie nadzwyczajnym) Sesja Rady Gminy Rogowo z dnia 12.06.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1200692012.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-06-09 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1199999146.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XXXVIII Sesja IX kadencji Rady Gminy Puck 28.05.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1197285382.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXVI Sesja Rady Gminy Ręczno dn. 27.05.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1196570805.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXIV Sesja Rady Gminy Rogowo z dnia 26.05.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1195603089.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXVII Sesja Rady Miejskiej w Przasnyszu 25.05.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1197332559.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-05-11 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1191156001.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2026-05-06 - XX sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1189994328.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXV Sesja Rady Gminy Ręczno dn. 29.04.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1187984558.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-04-28 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1187299942.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXVI Sesja Rdy Miejskiej w Przasnyszu 27.04.2026 r.
@@ -1445,10 +1517,16 @@ https://film.alfatv.pl/~tv/backup_vimeo/1188953913.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1186201342.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XXXVII Sesja IX kadencji Rady Gminy Puck 23.04.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1186859919.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXIII Sesja Rady Gminy Rogowo z dnia 15.04.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1183639880.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXV Sesja Rady Miejskiej w Przasnyszu 30.03.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1179479241.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XXXVI Sesja IX kadencji Rady Gminy Puck 26.03.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1178378761.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2026-03-25 - XIX sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1177207433.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXIV Sesja Rady Gminy Ręczno dn. 25.03.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1177220640.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-03-24 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1176858105.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-02-26 - sesja Rady Powiatu w Szczecinku
@@ -1457,16 +1535,26 @@ https://film.alfatv.pl/~tv/backup_vimeo/1168755240.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1168479777.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XXXV Sesja IX kadencji Rady Gminy Puck 26.02.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1169506634.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2026-02-26 - XVIII sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1168386837.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXII Sesja Rady Gminy Rogowo z dnia 24.02.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1167739399.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXIV Sesja Rady Miejskiej w Przasnyszu 23.02.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1168016134.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXIII Sesja Rady Gminy Ręczno dn. 11.02.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1164250292.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-01-29 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1159666902.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XXXIV Sesja IX kadencji Rady Gminy Puck 29.01.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1163202592.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXI Sesja Rady Gminy Rogowo z dnia 27.01.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1158793146.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXIII Sesja Rady Miejskiej w Przasnyszu 26.01.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1159152635.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XXXIII Nadzwyczajna Sesja IX kadencji Rady Gminy Puck 15.01.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1156083713.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXII Sesja Rady Gminy Ręczno dn. 15.01.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1154570448.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XIX nadzwyczajna sesja Rady Gminy Banie
 https://film.alfatv.pl/~tv/backup_vimeo/1201664291.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XX sesja Rady Gminy Banie
@@ -1605,19 +1693,87 @@ https://film.alfatv.pl/~tv/backup_vimeo/1222008872.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1232037247.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Miasto | XXXIII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029
 https://film.alfatv.pl/~tv/backup_vimeo/1245357328.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXIX (zwołana w trybie nadzwyczajnym) Sesja Rady Gminy Rogowo z dnia 7 października 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1233638167.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXVII (zwołana w trybie nadzwyczajnym) Sesja Rady Gminy Rogowo z dnia 21 lipca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1211617688.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXX Sesja Rady Gminy Rogowo z dnia 29 października 2026 roku
+https://film.alfatv.pl/~tv/backup_vimeo/1245376626.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XXXI Sesja Rady Gminy Rogowo z dnia 24 listopada 2026 roku
+https://film.alfatv.pl/~tv/backup_vimeo/1249653022.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rymań | XV Sesja Rady Gminy Rymań z dnia 12 lutego 2026 roku
+https://film.alfatv.pl/~tv/backup_vimeo/1165293212.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rymań | XVI Sesja Rady Gminy Rymań z dnia 24 marca 2026 roku
+https://film.alfatv.pl/~tv/backup_vimeo/1176824213.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rymań | XVII Sesja Rady Gminy Rymań z dnia 23 czerwca 2026 roku
+https://film.alfatv.pl/~tv/backup_vimeo/1204134131.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rymań | XVIII Sesja Rady Gminy Rymań z dnia 30 września 2026 roku
+https://film.alfatv.pl/~tv/backup_vimeo/1231922623.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXIX Sesja Rady Gminy Rzeczenica - 18 marca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1175038426.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXVII Sesja Rady Gminy Rzeczenica - 28 stycznia 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1159559527.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXVIII Sesja Rady Gminy Rzeczenica - 25 lutego 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1168372385.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXX Uroczysta  Sesja Rady Gminy Rzeczenica - 25 marca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1177266469.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXXI Sesja Rady Gminy Rzeczenica - 29 kwietnia 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1187994664.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXXII Sesja Rady Gminy Rzeczenica - 27 maja 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1196231472.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXXIII Sesja Rady Gminy Rzeczenica - 17 czerwca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1202380508.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXXIV Sesja Rady Gminy Rzeczenica - 1 lipca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1206366301.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXXV Sesja Rady Gminy Rzeczenica - 15 lipca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1210403211.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXXVI Sesja Rady Gminy Rzeczenica - 23 września 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1229784580.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXXVII Sesja Rady Gminy Rzeczenica - 28 października 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1242269937.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rzeczenica | XXXVIII Sesja Rady Gminy Rzeczenica - 25 listopada 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1250239226.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Siemyśl | Sesja Rady Gminy Siemyśl 2026.02.12
+https://film.alfatv.pl/~tv/backup_vimeo/1164490174.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Siemyśl | Sesja Rady Gminy Siemyśl 2026.02.26
+https://film.alfatv.pl/~tv/backup_vimeo/1168653831.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Siemyśl | Sesja Rady Gminy Siemyśl 2026.03.26
+https://film.alfatv.pl/~tv/backup_vimeo/1177544522.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Siemyśl | Sesja Rady Gminy Siemyśl 2026.04.23
+https://film.alfatv.pl/~tv/backup_vimeo/1186044572.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Siemyśl | Sesja Rady Gminy Siemyśl 2026.06.25
+https://film.alfatv.pl/~tv/backup_vimeo/1204833388.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Siemyśl | Sesja Rady Gminy Siemyśl 2026.08.28
+https://film.alfatv.pl/~tv/backup_vimeo/1222257680.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Siemyśl | Sesja Rady Gminy Siemyśl 2026.09.24
+https://film.alfatv.pl/~tv/backup_vimeo/1230036550.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Siemyśl | Sesja Rady Gminy Siemyśl 2026.10.29
+https://film.alfatv.pl/~tv/backup_vimeo/1240881611.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Siemyśl | Sesja Rady Gminy Siemyśl 2026.11.26
+https://film.alfatv.pl/~tv/backup_vimeo/1250416888.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2025-12-29 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1150081248.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XXXII Nadzwyczajna Sesja IX kadencji Rady Gminy Puck 29.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1150091610.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XXI Nadzwyczajna Sesja Rady Gminy Ręczno dn. 29.12.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1150375730.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Żniński | XIII sesja Rady Powiatu w Żninie - 22.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1148625139.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Przasnysz | XXII Sesja Rady Miejskiej w Przasnyszu 22.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1150966992.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XX Sesja Rady Gminy Ręczno dn. 22.12.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1150375209.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XXXI Sesja IX kadencji Rady Gminy Puck 18.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1148574554.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2025-12-17 - XVII sesja Rady Miejskiej w Reczu
+https://film.alfatv.pl/~tv/backup_vimeo/1147566842.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2025-12-16 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1147223002.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2025-12-04 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1143446369.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Ręczno | XIX Sesja Rady Gminy Ręczno dn. 03.12.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1143112566.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Puck Gmina | XXX Sesja IX kadencji Rady Gminy Puck 27.11.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1142027247.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Rogowo pow. Źniński | XIX Sesja Rady Gminy Rogowo z dnia 27.11.2025 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1141152530.mp4
