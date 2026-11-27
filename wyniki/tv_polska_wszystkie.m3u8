@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-27T01:49:54.479333+00:00
+# Aktualizacja: 2026-11-27T16:44:02.449326+00:00
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXV Sesja Rady Miejskiej Mielna 19.11.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1248308295.mp4
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXIV Sesja Rady Miejskiej Mielna 23.10.2026
@@ -97,6 +97,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1183369372.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1183658845.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Maszewo | Sesja nr XXIII Rady Miejskiej w Maszewie - 16.03.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1175137030.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | XXI Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 26.02.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1169538498.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Maszewo | Sesja nr XXII Rady Miejskiej w Maszewie - 18.02.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1166591156.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Maszewo | Sesja nr XXI Rady Miejskiej w Maszewie - 16.01.2026 r.
@@ -305,32 +307,80 @@ https://film.alfatv.pl/~tv/backup_vimeo/1205408483.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1230888658.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Powiat Myśliborski | XXVIII SESJA VII KADENCJI RADY POWIATU W MYŚLIBORZU
 https://film.alfatv.pl/~tv/backup_vimeo/1243679129.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | Nadzwyczajna XIX Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia
+https://film.alfatv.pl/~tv/backup_vimeo/1159256387.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | XX Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 29 stycznia 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1169515554.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | XXII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 26 marca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1177617380.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | XXIII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 23 kwietnia 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1186158258.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | XXIV Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 22 maja 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1195500396.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | XXV Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 12 czerwca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1201397127.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | XXVI Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 14 lipca 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1210464736.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | XXVII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 24 września 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1229872781.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stare Czarnowo | XXVIII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 19 listopada 2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1248293075.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stepnica | XIII Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1166347409.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stepnica | XIV Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1177333170.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stepnica | XV Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1204515011.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stepnica | XVI Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1222073211.mp4
+#EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Stepnica | XVII Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1248346752.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Maszewo | Sesja nr XX Rady Miejskiej w Maszewie - 17.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1150018549.mp4
 #EXTINF:-1 group-title="02 Pomorze Zachodnie - Szczecin i okolice",Maszewo | Sesja nr XIX Rady Miejskiej w Maszewie - 27.11.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1141352451.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XXVII Sesja Rady Gminy Manowo -  2026-10-30 -  godz. 9:00
 https://film.alfatv.pl/~tv/backup_vimeo/1241240193.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XXVI Sesja Rady Miejskiej w Suchaniu - 2026-10-27
+https://film.alfatv.pl/~tv/backup_vimeo/1242354267.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XXV Sesja Rady Miejskiej w Suchaniu - 2026-09-29
+https://film.alfatv.pl/~tv/backup_vimeo/1231595114.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XXVI Sesja Rady Gminy Manowo -  2026-09-25 -  godz. 9:00
 https://film.alfatv.pl/~tv/backup_vimeo/1230176837.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XXIV Sesja Rady Miejskiej w Suchaniu - 2026-09-14
+https://film.alfatv.pl/~tv/backup_vimeo/1226566192.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XXIII Sesja Rady Miejskiej w Suchaniu - 2026-08-26
+https://film.alfatv.pl/~tv/backup_vimeo/1222033334.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XXV Sesja Rady Gminy Manowo -  2026-08-05 -  godz. 7:30
 https://film.alfatv.pl/~tv/backup_vimeo/1215709973.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XXIV Sesja Rady Gminy Manowo -  2026-07-29 -  godz. 9:00
 https://film.alfatv.pl/~tv/backup_vimeo/1213853394.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XXII Sesja Rady Miejskiej w Suchaniu - 2026-07-16
+https://film.alfatv.pl/~tv/backup_vimeo/1213073043.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XXII Sesja Rady Miejskiej w Suchaniu - 2026-07-16 ver.2
+https://film.alfatv.pl/~tv/backup_vimeo/1219822813.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XXIII Sesja Rady Gminy Manowo -  2026-07-10 -  godz. 8:00
 https://film.alfatv.pl/~tv/backup_vimeo/1208705366.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XXII Sesja Rady Gminy Manowo -  2026-06-25 -  godz. 9:00
 https://film.alfatv.pl/~tv/backup_vimeo/1204742024.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XXI Sesja Rady Miejskiej w Suchaniu - 2026-06-25
+https://film.alfatv.pl/~tv/backup_vimeo/1207308619.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XX Sesja Rady Miejskiej w Suchaniu - 2026-05-28
+https://film.alfatv.pl/~tv/backup_vimeo/1197330583.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XXI Sesja Rady Gminy Manowo -  2026-05-22 -  godz. 8:00
 https://film.alfatv.pl/~tv/backup_vimeo/1194629764.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XX Sesja Rady Gminy Manowo -  2026-04-24 -  godz. 9:00
 https://film.alfatv.pl/~tv/backup_vimeo/1186197786.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XIX Sesja Rady Miejskiej w Suchaniu - 2026-03-31
+https://film.alfatv.pl/~tv/backup_vimeo/1179156387.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Czarne | IX Czarneński Kiermasz Wielkanocny 28.03.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1181141018.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XIX Sesja Rady Gminy Manowo -  2026-03-27 -  godz. 9:00
 https://film.alfatv.pl/~tv/backup_vimeo/1177665508.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XVIII Sesja Rady Gminy Manowo -  2026-02-27 -  godz. 9:00
 https://film.alfatv.pl/~tv/backup_vimeo/1168822471.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XVIII Sesja Rady Miejskiej w Suchaniu - 2026-02-24
+https://film.alfatv.pl/~tv/backup_vimeo/1168061689.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XVII Sesja Rady Gminy Manowo -  2026-02-16 -  godz. 8:00
 https://film.alfatv.pl/~tv/backup_vimeo/1167345798.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Barwice | XXX Sesja Rady Miejskiej w Barwicach
@@ -429,10 +479,46 @@ https://film.alfatv.pl/~tv/backup_vimeo/1232022014.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1248240138.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Drawno | Zawody wędkarskie o Puchar Burmistrza Drawna 2026
 https://film.alfatv.pl/~tv/backup_vimeo/1214495708.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XL Sesja Rady Gminy z dnia 29.10.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1242356614.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XLI Sesja Rady Gminy z dnia 9.11.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1247160463.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XLII Sesja Rady Gminy z dnia 19.11.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1250005963.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XLIII Sesja Rady Gminy z dnia 24.11.2026r
+https://film.alfatv.pl/~tv/backup_vimeo/1250552764.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XLIV Sesja Rady Gminy z dnia 25.11.2026r
+https://film.alfatv.pl/~tv/backup_vimeo/1250573628.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXX Sesja Rady Gminy Szczecinek z dnia 22.01.2026r
+https://film.alfatv.pl/~tv/backup_vimeo/1167656961.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXXI Sesja Rady Gminy Szczecinek z dnia 27.02.2026r
+https://film.alfatv.pl/~tv/backup_vimeo/1169847628.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXXII Sesja Rady Gminy z dnia 19.03.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1185391811.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXXIII Sesja Rady Gminy z dnia 22.04.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1186909907.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXXIV Sesja Rady Gminy z dnia 28.05.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1196621471.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXXIX Sesja Rady Gminy z dnia 17.09.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1229123946.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXXV Sesja Rady Gminy z dnia 16.06.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1202467035.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXXVI Sesja Rady Gminy z dnia 12.06.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1200730921.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXXVII Sesja Rady Gminy z dnia 15.07.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1210426236.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXXVIII Sesja Rady Gminy z dnia 13.08.2026r.
+https://film.alfatv.pl/~tv/backup_vimeo/1219175010.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XVI Sesja Rady Gminy Manowo -  2025-12-19 -  godz. 9:30
 https://film.alfatv.pl/~tv/backup_vimeo/1148037343.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Suchań | XVII Sesja Rady Miejskiej w Suchaniu - 2025-12-17
+https://film.alfatv.pl/~tv/backup_vimeo/1150004456.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXVIII Sesja Rady Gminy Szczecinek z dnia 10.12.2025
+https://film.alfatv.pl/~tv/backup_vimeo/1194679517.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Manowo | XV Sesja Rady Gminy Manowo -  2025-11-28 -  godz. 8:00
 https://film.alfatv.pl/~tv/backup_vimeo/1141365105.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Szczecinek Gmina | XXVII Sesja Rady Gminy Szczecinek z dnia 28.11.2025
+https://film.alfatv.pl/~tv/backup_vimeo/1143045982.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XXVII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (12.11.2026 r.)
 https://film.alfatv.pl/~tv/backup_vimeo/1247198841.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXXVIII sesja Rady Miejskiej w Miastku 30.10.2026
@@ -673,6 +759,20 @@ https://film.alfatv.pl/~tv/backup_vimeo/1174700989.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1179098103.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Powiat Malborski | XXIX-2026 sesja Rady Powiatu Malborskiego 29-09-2026
 https://film.alfatv.pl/~tv/backup_vimeo/1231594302.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Smołdzino | XIX Sesja Rady Gminy Smołdzino- 2026.03.26
+https://film.alfatv.pl/~tv/backup_vimeo/1247231427.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Smołdzino | XVIII Sesja Rady Gminy Smołdzino- 2026.01.15
+https://film.alfatv.pl/~tv/backup_vimeo/1247231239.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Smołdzino | XX Sesja Rady Gminy Smołdzino- 2026.04.23
+https://film.alfatv.pl/~tv/backup_vimeo/1247231670.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Smołdzino | XXI Sesja Rady Gminy Smołdzino- 2026.06.23
+https://film.alfatv.pl/~tv/backup_vimeo/1247231819.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Smołdzino | XXII Sesja Rady Gminy Smołdzino- 2026.06.23
+https://film.alfatv.pl/~tv/backup_vimeo/1247232543.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Smołdzino | XXIII Sesja Rady Gminy Smołdzino- 2026.09.24
+https://film.alfatv.pl/~tv/backup_vimeo/1247232948.mp4
+#EXTINF:-1 group-title="04 Pomorskie i Żuławy",Smołdzino | XXIV Sesja Rady Gminy Smołdzino- 2026.10.27
+https://film.alfatv.pl/~tv/backup_vimeo/1247233206.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Lębork | XVII Sesja Rady Miejskiej w Lęborku -  kadencja 2024 - 2029 (19.12.2025 r.)
 https://film.alfatv.pl/~tv/backup_vimeo/1148635623.mp4
 #EXTINF:-1 group-title="04 Pomorskie i Żuławy",Miastko | XXIV Sesja Rady Miejskiej w Miastku 19.12.2025
@@ -1279,6 +1379,30 @@ https://film.alfatv.pl/~tv/backup_vimeo/1212634100.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1221737822.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Powiat Kutnowski | XXX Sesja Rady Powiatu Kutnowskiego
 https://film.alfatv.pl/~tv/backup_vimeo/1243180279.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XX Sesji Rady Gminy Sokolniki - część 1
+https://film.alfatv.pl/~tv/backup_vimeo/1160122808.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XX Sesji Rady Gminy Sokolniki - część 2
+https://film.alfatv.pl/~tv/backup_vimeo/1160123984.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXI  nadzwyczajnej Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1174675646.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXII Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1177284120.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXIII  Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1189005958.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXIV nadzwyczajnej Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1194620049.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXIX Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1229822984.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXV  Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1196602861.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXVI  Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1205778444.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXVII nadzwyczajnej Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1212301188.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXVIII Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1229820601.mp4
+#EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Sokolniki | Nagranie z XXX Sesji Rady Gminy Sokolniki
+https://film.alfatv.pl/~tv/backup_vimeo/1241187013.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Czerwin | XXII sesja Rady Gminy Czerwin 30.12.2025
 https://film.alfatv.pl/~tv/backup_vimeo/1150624418.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXIII Rady Gminy Łęki Szlacheckie z dnia 30.12.2025 r.
@@ -1293,22 +1417,48 @@ https://film.alfatv.pl/~tv/backup_vimeo/1248642509.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1145163666.mp4
 #EXTINF:-1 group-title="07 Mazowsze i Łódzkie",Łęki Szlacheckie | Sesja nr XXII Rady Gminy Łęki Szlacheckie z dnia 02.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1143737768.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 37. sesja Rady Miejskiej w Sobótce z dnia 14.10.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1237162206.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 36. sesja Rady Miejskiej w Sobótce z dnia 25.09.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1230842919.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 35. sesja Rady Miejskiej w Sobótce w dniu 24.08.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1221058500.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXXV Sesja Rady Miejskiej w Międzyborzu 11.08.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1218878800.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 34. sesja Rady Miejskiej w Sobótce z dnia 22.07.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1212279945.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXXIV Sesja Rady Miejskiej w Międzyborzu 21.07.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1218878354.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | Nadzwyczajna 33. sesja Rady Miejskiej w Sobótce z dnia 30.06.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1206696848.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXXIII Sesja Rady Miejskiej w Międzyborzu 24.06.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1208061967.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 32. sesja Rady Miejskiej w Sobótce w dniu 24.06.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1204505439.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXXII sesja Rady Miejskiej w Międzyborzu 27.05.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1197349850.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 31. sesja Rady Miejskiej w Sobótce w dniu 27.05.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1196222882.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 30. sesja Rady Miejskiej w Sobótce z dnia 14.05.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1192170095.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXXI sesja Rady Miejskiej w Międzyborzu 29.04.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1197347494.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 29. sesja Rady Miejskiej w Sobótce z dnia 20.04.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1185313275.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXX Nadzywczajna Sesja Rady Miejskiej w Międzyborzu 17.04.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1185853686.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXIX Sesja Rady Miejskiej w Międzyborzu 26.03.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1185851540.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 28. sesja Rady Miejskiej w Sobótce z dnia 26.03.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1177600484.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | Nadzwyczajna 27. sesja Rady Miejskiej w Sobótce z dnia 18.03.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1175076989.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXVIII Sesja Rady Miejskiej w Międzyborzu 26.02.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1185847861.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 26. sesja Rady Miejskiej w Sobótce z dnia 26.02.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1168804677.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 25. sesja Rady Miejskiej w Sobótce z dnia 30.01.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1160182404.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXVII Sesja Rady Miejskiej w Międzyborzu 29.01.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1165655318.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Lewin Kłodzki | XXIX Sesja Rady Gminy Lewin Kłodzki
@@ -1367,8 +1517,32 @@ https://film.alfatv.pl/~tv/backup_vimeo/1220764528.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1222916144.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Siekierczyn | XXVIII sesja Rady Gminy Siekierczyn IX kadencji
 https://film.alfatv.pl/~tv/backup_vimeo/1231916808.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 38. sesja Rady Miejskiej w Sobótce
+https://film.alfatv.pl/~tv/backup_vimeo/1241197566.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 24. sesja Rady Miejskiej w Sobótce z dnia 30.12.2025
+https://film.alfatv.pl/~tv/backup_vimeo/1150958424.mp4
 #EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Międzybórz | XXVI Sesja Rady MIejskiej w Międzyborzu 17.12.2025 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1165654101.mp4
+#EXTINF:-1 group-title="08 Dolny Śląsk i Opolskie",Sobótka | 23. sesja Rady Miejskiej w Sobótce z dnia 27.11.2025
+https://film.alfatv.pl/~tv/backup_vimeo/1142993420.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXV SESJA RADY GMINY STRZELCE Z DNIA 17.11.2026 r. -  IX KADENCJA
+https://film.alfatv.pl/~tv/backup_vimeo/1247884901.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXIV sesja Rady Gminy Strzelce -  IX kadencji -  21.10.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1238263489.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXIII  NADZWYCZAJNA SESJA RADY GMINY STRZELCE -  IX KADENCJI  30.09.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1231945668.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXII NADZWYCZAJNA SESJA RADY GMINY STRZELCE 26.08.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1222025027.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXI NADZWYCZAJNA SESJA RADY GMINY STRZELCE 1.07.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1206752411.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXX NADZWYCZAJNA SESJA RADY GMINY STRZELCE -  IX KADENCJI - 12.06.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1201339321.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXIX NADZWYCZAJNA SESJA RADY GMINY STRZELCE  -  IX KADENCJI -  15.05.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1192530988.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXVIII SESJA RADY GMINY STRZELCE -  IX KADENCJI -   30.04.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1192539702.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXVII SESJA RADY GMINY STRZELCE 20.03.2026 r.
+https://film.alfatv.pl/~tv/backup_vimeo/1177234340.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Deszczno | XXV Zwyczajna Sesja Rady Gminy Deszczno 02.03.2026 r. (2024-2029)
 https://film.alfatv.pl/~tv/backup_vimeo/1169832133.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Deszczno | XXIV Zwyczajna Sesja Rady Gminy Deszczno 11.02.2026 r. (2024-2029)
@@ -1400,9 +1574,9 @@ https://film.alfatv.pl/~tv/backup_vimeo/1170954341.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXIII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
 https://film.alfatv.pl/~tv/backup_vimeo/1193574397.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXIV posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
-https://film.alfatv.pl/~tv/backup_vimeo/1214518162.mp4
-#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXIV posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
 https://film.alfatv.pl/~tv/backup_vimeo/1197978240.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXIV posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1214518162.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXIX posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
 https://film.alfatv.pl/~tv/backup_vimeo/1241203106.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXVI posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
@@ -1411,6 +1585,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1214523345.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1220747956.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Skąpe | Transmisja XXVIII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029
 https://film.alfatv.pl/~tv/backup_vimeo/1231554788.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXVI SESJA RADY GMINY STRZELCE
+https://film.alfatv.pl/~tv/backup_vimeo/1163248743.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Cisna | Sesja nr XXXIX Rady Gminy Cisna z dnia 28.10.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1240341786.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Miasto Leżajsk | XXXII Sesja Rady Miejskiej w Leżajsku. 26.10.2026

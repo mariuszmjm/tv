@@ -1,5 +1,5 @@
 {
-  "cursor": 153,
+  "cursor": 168,
   "items": {
     "126976": {
       "channel": "Biały Bór",
@@ -14,6 +14,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "130726": {
+      "channel": "Suchań",
+      "checked_ts": 1795797731.134609,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "130726",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/130726-dozynki-gminne---suchan-2014---zdjecia-z-drona",
+      "published": "2014-01-01",
+      "title": "Dożynki Gminne - Suchań 2014 - zdjęcia z drona",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13255": {
       "channel": "Dębno",
       "checked_ts": 1795611039.428936,
@@ -26,6 +39,19 @@
       "title": "Biblioteka w Dębnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13257": {
+      "channel": "Stargard",
+      "checked_ts": 1795797629.74156,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13257",
+      "media": "",
+      "page": "https://stargard.tv-polska.eu/film/13257-bramy-i-basteje",
+      "published": "2008-01-01",
+      "title": "Bramy i basteje",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "13258": {
       "channel": "Nowogard",
@@ -52,6 +78,19 @@
       "title": "Hydroplany",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13261": {
+      "channel": "Świnoujście",
+      "checked_ts": 1795797842.3948503,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13261",
+      "media": "",
+      "page": "https://swinoujscie.tv-polska.eu/film/13261-kanal-piastowski",
+      "published": "2009-01-01",
+      "title": "Kanał Piastowski",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "13262": {
       "channel": "Dolice",
@@ -651,6 +690,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13374": {
+      "channel": "Stargard",
+      "checked_ts": 1795797627.34022,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13374",
+      "media": "",
+      "page": "https://stargard.tv-polska.eu/film/13374-stargard-szczecinski---1996r-",
+      "published": "1996-01-01",
+      "title": "Stargard Szczeciński - 1996r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13375": {
       "channel": "Ciechocinek",
       "checked_ts": 1795610783.1842747,
@@ -755,6 +807,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13389": {
+      "channel": "Stargard",
+      "checked_ts": 1795797622.6369443,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13389",
+      "media": "",
+      "page": "https://stargard.tv-polska.eu/film/13389-starowka-stargardzka",
+      "published": "2007-01-01",
+      "title": "Starówka Stargardzka",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13390": {
       "channel": "Gryfino",
       "checked_ts": 1795611509.1943915,
@@ -820,6 +885,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13396": {
+      "channel": "Stargard",
+      "checked_ts": 1795797626.1411839,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13396",
+      "media": "",
+      "page": "https://stargard.tv-polska.eu/film/13396-stargard-i-okolice---1992r-",
+      "published": "1992-01-01",
+      "title": "Stargard i okolice - 1992r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "13397": {
       "channel": "Piła",
       "checked_ts": 1795615247.4364743,
@@ -871,6 +949,19 @@
       "title": "Trzebież",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "13406": {
+      "channel": "Stargard",
+      "checked_ts": 1795797624.961136,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13406",
+      "media": "",
+      "page": "https://stargard.tv-polska.eu/film/13406-stargard-szczecinski----1991r-",
+      "published": "1991-01-01",
+      "title": "Stargard Szczeciński  - 1991r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "13408": {
       "channel": "Kalisz Pomorski",
@@ -2497,6 +2588,32 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "19588": {
+      "channel": "Szczecinek",
+      "checked_ts": 1795797800.9131522,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "19588",
+      "media": "",
+      "page": "https://szczecinek.tv-polska.eu/film/19588-witold-gladkowski---2001r-",
+      "published": "2001-01-01",
+      "title": "Witold Gładkowski - 2001r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "19589": {
+      "channel": "Stargard",
+      "checked_ts": 1795797623.7412286,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "19589",
+      "media": "",
+      "page": "https://stargard.tv-polska.eu/film/19589-stanislaw-kopec---2001-r-",
+      "published": "2001-01-01",
+      "title": "Stanisław Kopeć - 2001 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "19591": {
       "channel": "Powiat Sławieński",
       "checked_ts": 1795711977.6101062,
@@ -2900,6 +3017,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "256860": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797637.1188867,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "256860",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/256860-stepnica---ludzie-z-pasja---czesc-i",
+      "published": "2014-01-01",
+      "title": "Stepnica - Ludzie z pasją - Część I",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "267331": {
       "channel": "Cewice",
       "checked_ts": 1795610694.3768694,
@@ -2965,6 +3095,58 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "304954": {
+      "channel": "Szczecin z drona",
+      "checked_ts": 1795797787.7826593,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "304954",
+      "media": "",
+      "page": "https://szczecinzdrona.tv-polska.eu/film/304954-cmentarz-centralny-w-szczecinie-z-drona",
+      "published": "2015-01-01",
+      "title": "Cmentarz Centralny w Szczecinie z drona",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "308326": {
+      "channel": "Szczecin z drona",
+      "checked_ts": 1795797788.9869301,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "308326",
+      "media": "",
+      "page": "https://szczecinzdrona.tv-polska.eu/film/308326-jesienne-barwy-szczecina-z-drona",
+      "published": "2015-01-01",
+      "title": "Jesienne barwy Szczecina z drona",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "311692": {
+      "channel": "Szczecin z drona",
+      "checked_ts": 1795797791.2987397,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "311692",
+      "media": "",
+      "page": "https://szczecinzdrona.tv-polska.eu/film/311692-obiekty-sportowe-szczecina-z-drona",
+      "published": "2015-01-01",
+      "title": "Obiekty Sportowe Szczecina z drona",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "312151": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797780.5558403,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "312151",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/312151-wszystkich-swietych-na-cmentarzu-centralnym-w-szczecinie-z-drona",
+      "published": "2017-01-01",
+      "title": "Wszystkich Świętych na Cmentarzu Centralnym w Szczecinie z drona",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "31911": {
       "channel": "Kuźnia Raciborska",
       "checked_ts": 1795612193.9242954,
@@ -2978,6 +3160,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "326099": {
+      "channel": "Szczecin z drona",
+      "checked_ts": 1795797790.0190077,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "326099",
+      "media": "",
+      "page": "https://szczecinzdrona.tv-polska.eu/film/326099-swiateczny-szczecin-z-drona-2015",
+      "published": "2015-01-01",
+      "title": "Świąteczny Szczecin z drona 2015",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "338159": {
       "channel": "Polska z drona",
       "checked_ts": 1795657629.2077112,
@@ -2990,6 +3185,19 @@
       "title": "Zimowy Szczecin z drona 2018",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "343227": {
+      "channel": "Szczecin z drona",
+      "checked_ts": 1795797793.5245872,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "343227",
+      "media": "",
+      "page": "https://szczecinzdrona.tv-polska.eu/film/343227-dzielnice-szczecina-z-drona---dabie",
+      "published": "2017-01-01",
+      "title": "Dzielnice Szczecina z drona - Dąbie",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "354603": {
       "channel": "Dębno",
@@ -3108,6 +3316,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "400170": {
+      "channel": "Szczecin z drona",
+      "checked_ts": 1795797792.3534698,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "400170",
+      "media": "",
+      "page": "https://szczecinzdrona.tv-polska.eu/film/400170-dzielnice-szczecina-z-drona---kijewo",
+      "published": "2017-01-01",
+      "title": "Dzielnice Szczecina z drona - Kijewo",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "404029": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609798.0344148,
@@ -3172,6 +3393,58 @@
       "title": "Spółdzielcza Agrofirma Witkowo - Dożynki 2016",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "411132": {
+      "channel": "Szczecin z drona",
+      "checked_ts": 1795797797.0741935,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "411132",
+      "media": "",
+      "page": "https://szczecinzdrona.tv-polska.eu/film/411132-czysta-odra-w-szczecinie",
+      "published": "2017-01-01",
+      "title": "Czysta Odra w Szczecinie",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "416547": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797785.1214306,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "416547",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/416547-zwiastun-filmu--szczecin-z-drona-",
+      "published": "2017-01-01",
+      "title": "Zwiastun filmu \"Szczecin z drona\"",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "416675": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797783.948217,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "416675",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/416675-szczecin-aus-der-drohnenperspektive---teaser-video",
+      "published": "2017-01-01",
+      "title": "Szczecin aus der Drohnenperspektive - Teaser-Video",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "416676": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797781.5274749,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "416676",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/416676-szczecin-from-a-drone---teaser",
+      "published": "2017-01-01",
+      "title": "Szczecin from a drone - teaser",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "418555": {
       "channel": "Pomorskie z drona",
@@ -3524,6 +3797,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "440409": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797767.1388574,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "440409",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/440409-gala-xxvii-edycji-konkursu-dziennikarz-roku",
+      "published": "2018-01-01",
+      "title": "Gala XXVII Edycji Konkursu Dziennikarz Roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "443393": {
       "channel": "Resko",
       "checked_ts": 1795743886.0004811,
@@ -3534,6 +3820,19 @@
       "page": "https://resko.tv-polska.eu/film/443393-bieg-o-strzale-widanta",
       "published": "2018-01-01",
       "title": "Bieg o Strzałę Widanta",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "443950": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797779.1425555,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "443950",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/443950-pum-mieszkancom-szczecina",
+      "published": "2018-01-01",
+      "title": "PUM Mieszkańcom Szczecina",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -3758,6 +4057,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "455881": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797777.9184313,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "455881",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/455881-70-lat-pomorskiego-uniwersytetu-medycznego",
+      "published": "2018-01-01",
+      "title": "70 lat Pomorskiego Uniwersytetu Medycznego",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "455882": {
       "channel": "alfaTV",
       "checked_ts": 1795609802.4712172,
@@ -3914,6 +4226,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "465199": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797775.5260952,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "465199",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/465199-stocznia-szczecinska-im--adolfa-warskiego",
+      "published": "1968-01-01",
+      "title": "Stocznia Szczecińska im. Adolfa Warskiego",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "465699": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797774.3382113,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "465699",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/465699-stocznia-szczecinska-1958--wersja-angielska-",
+      "published": "1958-01-01",
+      "title": "Stocznia Szczecińska 1958 (wersja angielska)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "466287": {
       "channel": "Nowe Warpno",
       "checked_ts": 1795615025.4109054,
@@ -3926,6 +4264,19 @@
       "title": "Koncert polsko-niemieckiego chóru w Kościele w Nowym Warpnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "466455": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797773.1362386,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "466455",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/466455-szczecin---stocznia-im--adolfa-warskiego-1968",
+      "published": "1968-01-01",
+      "title": "Szczecin - Stocznia im. Adolfa Warskiego 1968",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "467608": {
       "channel": "Gmina Słupsk",
@@ -3965,6 +4316,19 @@
       "title": "2019-07-31 Wywiad ze starostą Krzysztofem Lisem",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "478060": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797634.6957934,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "478060",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/478060-nadlesnictwo-goleniow",
+      "published": "2019-01-01",
+      "title": "Nadleśnictwo Goleniów",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "479748": {
       "channel": "Maszewo",
@@ -4096,6 +4460,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "492275": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797635.9277349,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "492275",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/492275-przewodnik-rowerowy-po-pomorzu-zachodnim-cz--3",
+      "published": "2020-01-01",
+      "title": "Przewodnik Rowerowy po Pomorzu Zachodnim cz. 3",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "494098": {
       "channel": "alfaTV",
       "checked_ts": 1795609804.0679975,
@@ -4135,6 +4512,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "497238": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797490.286938,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "497238",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/497238-rada-gminy-smodzino---sesja-2020-10-14",
+      "published": "2020-01-01",
+      "title": "Rada Gminy Smodzino - Sesja 2020.10.14",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "497691": {
       "channel": "Czarna Dąbrowka",
       "checked_ts": 1795610825.1883388,
@@ -4147,6 +4537,19 @@
       "title": "XIX Sesja Rady Gminy Czarna Dąbrówka",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "498408": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797673.2324984,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "498408",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/498408-xxvi-sesja-rady-gminy-strzelce-powiat-kutnowski-05-11-2020r-",
+      "published": "2020-01-01",
+      "title": "XXVI Sesja Rady Gminy Strzelce powiat kutnowski 05.11.2020r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "498469": {
       "channel": "Resko",
@@ -4213,6 +4616,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "500089": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797768.588765,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "500089",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/500089-plac-holdu-pruskiego-i-plac-solidarnosci-w-szczecinie---dawniej-i-dzis",
+      "published": "2020-01-01",
+      "title": "Plac Hołdu Pruskiego i Plac Solidarności w Szczecinie – Dawniej i Dziś",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "500405": {
       "channel": "Czarna Dąbrowka",
       "checked_ts": 1795610821.5889752,
@@ -4278,6 +4694,58 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "506624": {
+      "channel": "Szczecin z drona",
+      "checked_ts": 1795797794.7411602,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "506624",
+      "media": "",
+      "page": "https://szczecinzdrona.tv-polska.eu/film/506624-dzielnice-szczecina-z-drona---majowe",
+      "published": "2017-01-01",
+      "title": "Dzielnice Szczecina z drona - Majowe",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "510814": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797772.2779698,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "510814",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/510814-szczecin-z-drona-z-komentarzem-lektorskim",
+      "published": "2021-01-01",
+      "title": "Szczecin z drona z komentarzem lektorskim",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "510815": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797771.0763223,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "510815",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/510815-szczecin-from-a-drone",
+      "published": "2021-01-01",
+      "title": "Szczecin from a drone",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "510816": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797766.2822225,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "510816",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/510816-stettin-aus-der-drohnenperspektive",
+      "published": "2021-01-01",
+      "title": "Stettin aus der Drohnenperspektive",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "511331": {
       "channel": "Resko",
       "checked_ts": 1795743888.4043446,
@@ -4317,6 +4785,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "516430": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797633.5168605,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "516430",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/516430-polska-jest-w-nas",
+      "published": "2021-01-01",
+      "title": "Polska jest w nas",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "517189": {
       "channel": "Resko",
       "checked_ts": 1795743895.6016116,
@@ -4327,6 +4808,19 @@
       "page": "https://resko.tv-polska.eu/film/517189-zyczenia-swiateczne-resko-2021",
       "published": "2021-01-01",
       "title": "Życzenia świąteczne Resko 2021",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "519020": {
+      "channel": "Szczecin",
+      "checked_ts": 1795797769.5348837,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "519020",
+      "media": "",
+      "page": "https://szczecin.tv-polska.eu/film/519020-wiosna-na-szczecinskich-jasnych-bloniach---14-lutego-2022",
+      "published": "2022-01-01",
+      "title": "Wiosna na szczecińskich Jasnych Błoniach - 14 lutego 2022",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -4498,6 +4992,19 @@
       "title": "Sesja XXXVIII Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "524643": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797639.5193675,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "524643",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/524643-stepnica---investment-film",
+      "published": "2022-01-01",
+      "title": "Stepnica - Investment film",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "526878": {
       "channel": "Choszczno",
@@ -4785,6 +5292,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "532900": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797638.3079538,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "532900",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/532900-polsko---ukrainski-zalew-szczecinski-2022",
+      "published": "2023-01-01",
+      "title": "Polsko - Ukraiński Zalew Szczeciński 2022",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "533023": {
       "channel": "Łanięta",
       "checked_ts": 1795612342.7369084,
@@ -4823,6 +5343,19 @@
       "title": "Koszyczek Wielkanocny 2023",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "533315": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797670.7132072,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "533315",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/533315-xxxii-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2018-2023-z-dnia-11-04-2023-r-",
+      "published": "2023-04-11",
+      "title": "XXXII Sesja Rady Miejskiej w Stepnicy w kadencji 2018-2023 z dnia 11.04.2023 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "533360": {
       "channel": "Czarnocin",
@@ -5071,6 +5604,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "535385": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797669.5111873,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "535385",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/535385-xxxiii-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2018-2023-z-dnia-27-06-2023-r-",
+      "published": "2023-06-27",
+      "title": "XXXIII Sesja Rady Miejskiej w Stepnicy w kadencji 2018-2023 z dnia 27.06.2023 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "535543": {
       "channel": "Łanięta",
       "checked_ts": 1795612340.341328,
@@ -5227,6 +5773,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "537040": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797668.3214185,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "537040",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/537040-xxxiv-sesja-rady-miejskiej-w-stepnicy-z-dnia-13-09-2023-r--w-kadencji-2018---2023",
+      "published": "2023-09-13",
+      "title": "XXXIV Sesja Rady Miejskiej w Stepnicy z dnia 13.09.2023 r. w kadencji 2018 - 2023",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "537227": {
       "channel": "Choszczno",
       "checked_ts": 1795610761.5923738,
@@ -5265,6 +5824,19 @@
       "title": "XLVI Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "537345": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797667.115514,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "537345",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/537345-xxxv-sesja-rady-miejskiej-w-stepnicy-z-dnia-28-09-2023-r--w-kadencji-2018---2023",
+      "published": "2023-09-28",
+      "title": "XXXV Sesja Rady Miejskiej w Stepnicy z dnia 28.09.2023 r. w kadencji 2018 - 2023",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "537399": {
       "channel": "Kobylanka",
@@ -5448,6 +6020,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "538886": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797665.9223127,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "538886",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/538886-xxxvi-sesja-rady-miejskiej-w-stepnicy-z-dnia-29-11-2023-r--w-kadencji-2018---2023",
+      "published": "2023-11-29",
+      "title": "XXXVI Sesja Rady Miejskiej w Stepnicy z dnia 29.11.2023 r. w kadencji 2018 - 2023",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "538937": {
       "channel": "Choszczno",
       "checked_ts": 1795610756.7887466,
@@ -5549,6 +6134,19 @@
       "page": "https://ryman.tv-polska.eu/film/539417-xliii-sesja-rady-gminy-ryman-z-dnia-19-grudnia-2023-roku",
       "published": "2023-01-01",
       "title": "XLIII Sesja Rady Gminy Rymań z dnia 19 grudnia 2023 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "539420": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797664.7203677,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "539420",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/539420-xxxvii-sesja-rady-miejskiej-w-stepnicy-z-dnia-29-11-2023-r--w-kadencji-2018---2023",
+      "published": "2023-11-29",
+      "title": "XXXVII Sesja Rady Miejskiej w Stepnicy z dnia 29.11.2023 r. w kadencji 2018 - 2023",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -5955,6 +6553,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "541003": {
+      "channel": "Suchań",
+      "checked_ts": 1795797732.321826,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "541003",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/541003-dzialania-inwestycyjne-gminy-suchan-w-kadencji-2018-2023",
+      "published": "2024-01-01",
+      "title": "Działania inwestycyjne Gminy Suchań w kadencji 2018-2023",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "541121": {
       "channel": "Kobylanka",
       "checked_ts": 1795611964.8532987,
@@ -6033,6 +6644,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "541560": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797728.4433627,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "541560",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/541560-xlvii-sesja",
+      "published": "2024-01-01",
+      "title": "XLVII Sesja",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "541583": {
       "channel": "Rymań",
       "checked_ts": 1795744034.8139584,
@@ -6043,6 +6667,19 @@
       "page": "https://ryman.tv-polska.eu/film/541583-xlv-sesja-rady-gminy-ryman-z-dnia-21-marca-2024-roku",
       "published": "2024-01-01",
       "title": "XLV Sesja Rady Gminy Rymań z dnia 21 marca 2024 roku",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "541710": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797663.5218396,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "541710",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/541710-xxxviii-sesja-rady-miejskiej-w-stepnicy-z-dnia-26-03-2024-r--w-kadencji-2018---2023",
+      "published": "2024-03-26",
+      "title": "XXXVIII Sesja Rady Miejskiej w Stepnicy z dnia 26.03.2024 r. w kadencji 2018 - 2023",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -6149,6 +6786,19 @@
       "title": "XLI sesja Rady Powiatu w Żninie - 05.04.2024 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "542352": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797727.2279966,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "542352",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/542352-xlviii-sesja",
+      "published": "2024-01-01",
+      "title": "XLVIII Sesja",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "542385": {
       "channel": "Łanięta",
@@ -6345,6 +6995,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "542665": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797726.0373013,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "542665",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/542665-i-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2024-01-01",
+      "title": "I Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "542706": {
       "channel": "Gniewino",
       "checked_ts": 1795611417.9625075,
@@ -6396,6 +7059,19 @@
       "title": "I.2024 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "542784": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797662.3182142,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "542784",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/542784-i-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "I Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "542902": {
       "channel": "Karnice",
@@ -6839,6 +7515,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "543671": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797724.8362608,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "543671",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/543671-ii-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "543727": {
       "channel": "Przelewice",
       "checked_ts": 1795712143.4791596,
@@ -6890,6 +7579,19 @@
       "title": "Sesja Rady Gminy Karnice 26.06.2024",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "543996": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797659.9138901,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "543996",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/543996-ii-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "543998": {
       "channel": "Rymań",
@@ -7034,6 +7736,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "544375": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797619.863977,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "544375",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/544375-nadzwyczajna-iv-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-11-lipca-2024-r-",
+      "published": "2024-01-01",
+      "title": "Nadzwyczajna IV Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 11 lipca 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "544388": {
       "channel": "Kobylanka",
       "checked_ts": 1795611955.2615356,
@@ -7151,6 +7866,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "544985": {
+      "channel": "Suchań",
+      "checked_ts": 1795797763.5220697,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "544985",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/544985-iv-sesja-rady-miejskiej-w-suchaniu---2024-08-13",
+      "published": "2024-08-13",
+      "title": "IV Sesja Rady Miejskiej w Suchaniu - 2024-08-13",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "545183": {
       "channel": "Manowo",
       "checked_ts": 1795612442.3388643,
@@ -7242,6 +7970,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "545468": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797723.641576,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "545468",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/545468-iii-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2024-01-01",
+      "title": "III Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "545470": {
       "channel": "Skąpe",
       "checked_ts": 1795744187.2324438,
@@ -7307,6 +8048,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "545663": {
+      "channel": "Suchań",
+      "checked_ts": 1795797762.333178,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "545663",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/545663-v-sesja-rady-miejskiej-w-suchaniu---2024-09-12",
+      "published": "2024-09-12",
+      "title": "V Sesja Rady Miejskiej w Suchaniu - 2024-09-12",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "545699": {
       "channel": "Powiat Żniński",
       "checked_ts": 1795712061.633941,
@@ -7332,6 +8086,19 @@
       "title": "IV Sesja Rady Miejskiej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "545852": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797618.663435,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545852",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/545852-v-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-5-wrzesnia-2024-r-",
+      "published": "2024-01-01",
+      "title": "V Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 5 września 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "545859": {
       "channel": "Brusy",
@@ -7580,6 +8347,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "545932": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797658.72223,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545932",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/545932-iii-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "III Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "545935": {
       "channel": "Osiek Gmina",
       "checked_ts": 1795615134.6236117,
@@ -7827,6 +8607,84 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "546143": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797521.4897764,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546143",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/546143-ii-sesja-rady-gminy-smoldzino--2024-05-07",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Gminy Smołdzino- 2024.05.07",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "546144": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797520.313266,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546144",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/546144-ii-sesja-rady-gminy-smoldzino--2024-05-27",
+      "published": "2024-01-01",
+      "title": "II Sesja Rady Gminy Smołdzino- 2024.05.27",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "546145": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797519.0808232,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546145",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/546145-iii-sesja-rady-gminy-smoldzino--2024-06-27",
+      "published": "2024-01-01",
+      "title": "III Sesja Rady Gminy Smołdzino- 2024.06.27",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "546148": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797517.896063,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546148",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/546148-iv-sesja-rady-gminy-smoldzino--2024-08-28",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Gminy Smołdzino- 2024.08.28",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "546149": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797516.692787,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546149",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/546149-v-sesja-rady-gminy-smoldzino--2024-09-12",
+      "published": "2024-01-01",
+      "title": "V Sesja Rady Gminy Smołdzino- 2024.09.12",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "546163": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797722.419636,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546163",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/546163-iv-sesja-rady-gminy-studzienice---nadzwyczajna--kadencja-2024--2029-",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Gminy Studzienice - nadzwyczajna (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "546185": {
       "channel": "Powiat Kutnowski",
       "checked_ts": 1795657900.873093,
@@ -7944,6 +8802,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546531": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797704.4309502,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "546531",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/546531-gmina-strzelce--iii-nadzwyczajna-sesja-ix-kadencji-rady-gminy-strzelce-powiat-kutnowski-14-06-2024r-",
+      "published": "2024-01-01",
+      "title": "Gmina Strzelce –III nadzwyczajna Sesja IX kadencji Rady Gminy Strzelce powiat kutnowski 14.06.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "546538": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797703.2371027,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "546538",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/546538-gmina-strzelce---iv-sesja-ix-kadencji-rady-gminy-strzelce-powiat-kutnowski-21-06-2024r-",
+      "published": "2024-01-01",
+      "title": "Gmina Strzelce – IV Sesja IX kadencji Rady Gminy Strzelce powiat kutnowski 21.06.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "546583": {
       "channel": "Poświętne",
       "checked_ts": 1795657757.5480766,
@@ -7995,6 +8879,19 @@
       "title": "III Sesja Rady Gminy Poświętne IX Kadencji z dnia 9 września 2024 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "546619": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797617.4734662,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546619",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/546619-vi-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-17-pazdziernika-2024-r-",
+      "published": "2024-01-01",
+      "title": "VI Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 17 października 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "546627": {
       "channel": "Nowe Miasto Lubawskie",
@@ -8229,6 +9126,32 @@
       "title": "VII Sesja Rady Miejskiej w Kamieniu Krajeńskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "546869": {
+      "channel": "Suchań",
+      "checked_ts": 1795797761.124062,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "546869",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/546869-vi-sesja-rady-miejskiej-w-suchaniu---2024-10-30",
+      "published": "2024-10-30",
+      "title": "VI Sesja Rady Miejskiej w Suchaniu - 2024-10-30",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "546871": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797721.2452264,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546871",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/546871-v-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2024-01-01",
+      "title": "V Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "546876": {
       "channel": "Pełczyce",
@@ -8698,6 +9621,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "547487": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797657.5214124,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547487",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/547487-iv-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "547496": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611081.4333746,
@@ -8710,6 +9646,19 @@
       "title": "VII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547500": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797616.2745204,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547500",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/547500-vii-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-28-listopada-2024-r-",
+      "published": "2024-01-01",
+      "title": "VII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 28 listopada 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "547502": {
       "channel": "Osina",
@@ -8762,6 +9711,19 @@
       "title": "VII Sesja Rady Gminy Manowo, 2024-11-29, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547513": {
+      "channel": "Suchań",
+      "checked_ts": 1795797759.9456668,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "547513",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/547513-vii-sesja-rady-miejskiej-w-suchaniu---2024-11-22",
+      "published": "2024-11-22",
+      "title": "VII sesja Rady Miejskiej w Suchaniu - 2024-11-22",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "547515": {
       "channel": "Przasnysz",
@@ -8958,6 +9920,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547740": {
+      "channel": "Suchań",
+      "checked_ts": 1795797758.7368252,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "547740",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/547740-viii-sesja-rady-miejskiej-w-suchaniu---2024-12-09",
+      "published": "2024-12-09",
+      "title": "VIII Sesja Rady Miejskiej w Suchaniu - 2024-12-09",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "547743": {
       "channel": "Dziwnów",
       "checked_ts": 1795611271.5422533,
@@ -8983,6 +9958,19 @@
       "title": "IX Sesja Rady Miejskiej w Kamieniu Krajeńskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547762": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797702.0247495,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "547762",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/547762-gmina-strzelce---v-sesja-ix-kadencji-rady-gminy-strzelce-powiat-kutnowski-19-07-2024r-",
+      "published": "2024-01-01",
+      "title": "Gmina Strzelce – V Sesja IX kadencji Rady Gminy Strzelce powiat kutnowski 19.07.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "547807": {
       "channel": "Maszewo",
@@ -9608,6 +10596,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "548079": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797656.3290749,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548079",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/548079-v-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2024-01-01",
+      "title": "V Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "548087": {
       "channel": "Kobylanka",
       "checked_ts": 1795611949.254312,
@@ -9620,6 +10621,32 @@
       "title": "IX sesja Rady Gminy 19.12.2024",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548088": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797720.0290833,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "548088",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/548088-vi-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2024-01-01",
+      "title": "VI Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "548095": {
+      "channel": "Suchań",
+      "checked_ts": 1795797757.5316708,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "548095",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/548095-ix-sesja-rady-miejskiej-w-suchaniu---2024-12-16",
+      "published": "2024-12-16",
+      "title": "IX Sesja Rady Miejskiej w Suchaniu - 2024-12-16",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "548098": {
       "channel": "Marianowo",
@@ -9959,6 +10986,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548359": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797615.080766,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548359",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/548359-viii-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-19-grudnia-2024-r-",
+      "published": "2024-01-01",
+      "title": "VIII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 19 grudnia 2024 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "548360": {
       "channel": "Krzynowłoga Mała",
       "checked_ts": 1795612150.7179673,
@@ -9984,6 +11024,19 @@
       "title": "VIII sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548376": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797700.845296,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "548376",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/548376-gmina-strzelce---vi-sesja-ix-kadencji-rady-gminy-strzelce-powiat-kutnowski-23-08-2024r-",
+      "published": "2025-01-01",
+      "title": "Gmina Strzelce – VI Sesja IX kadencji Rady Gminy Strzelce powiat kutnowski 23.08.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "548409": {
       "channel": "Powiat Kutnowski",
@@ -10036,6 +11089,19 @@
       "title": "Sesja Nr XI Rady Miejskiej w Dziwnowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "548519": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797699.6279144,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "548519",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/548519-gmina-strzelce---vii-sesja-ix-kadencji-rady-gminy-strzelce-powiat-kutnowski-30-09-2024r-",
+      "published": "2025-01-01",
+      "title": "Gmina Strzelce – VII Sesja IX kadencji Rady Gminy Strzelce powiat kutnowski 30.09.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "548523": {
       "channel": "Maszewo",
@@ -10349,6 +11415,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548844": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797717.639204,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "548844",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/548844-vii-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2025-01-01",
+      "title": "VII Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "548864": {
       "channel": "Jastarnia",
       "checked_ts": 1795611728.4339013,
@@ -10478,6 +11557,19 @@
       "title": "XI Sesja Rady Powiatu Człuchowskiego",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "548932": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797613.873238,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548932",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/548932-ix-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-30-stycznia-2025-r-",
+      "published": "2025-01-01",
+      "title": "IX Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 30 stycznia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "548965": {
       "channel": "Dygowo",
@@ -10830,6 +11922,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549269": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797716.4354043,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "549269",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/549269-viii-sesja-rady-gminy-studzienice---nadzwyczajna--kadencja-2024--2029-",
+      "published": "2025-01-01",
+      "title": "VIII Sesja Rady Gminy Studzienice - nadzwyczajna (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "549291": {
       "channel": "Powiat Myśliborski",
       "checked_ts": 1795711936.8067746,
@@ -11090,6 +12195,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549491": {
+      "channel": "Suchań",
+      "checked_ts": 1795797756.3259363,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "549491",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/549491-x-sesja-rady-miejskiej-w-suchaniu---2025-02-25",
+      "published": "2025-02-25",
+      "title": "X Sesja Rady Miejskiej w Suchaniu - 2025-02-25",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "549492": {
       "channel": "Manowo",
       "checked_ts": 1795612436.3413775,
@@ -11152,6 +12270,19 @@
       "page": "https://siekierczyn.tv-polska.eu/film/549516-xi-sesja-rady-gminy-siekierczyn-ix-kadencji",
       "published": "2025-01-01",
       "title": "XI sesja Rady Gminy Siekierczyn IX kadencji",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "549528": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797612.6751752,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "549528",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/549528-x-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-27-lutego-2025-r-",
+      "published": "2025-01-01",
+      "title": "X Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 27 lutego 2025 r.",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -11558,6 +12689,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "549938": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797715.235696,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "549938",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/549938-ix-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2025-01-01",
+      "title": "IX Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "549955": {
       "channel": "Łabiszyn",
       "checked_ts": 1795612293.5389593,
@@ -11714,6 +12858,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550042": {
+      "channel": "Suchań",
+      "checked_ts": 1795797755.1262312,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "550042",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/550042-xi-sesja-rady-miejskiej-w-suchaniu---2025-03-26",
+      "published": "2025-03-26",
+      "title": "XI Sesja Rady Miejskiej w Suchaniu - 2025-03-26",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "550043": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611076.634712,
@@ -11726,6 +12883,19 @@
       "title": "XI sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550051": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797655.1267562,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550051",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/550051-vi-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "VI Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "550054": {
       "channel": "Barwice",
@@ -11752,6 +12922,19 @@
       "title": "XII Sesja Rady Gminy Bierzwnik",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550056": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797611.4752395,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550056",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/550056-xi-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-27-marca-2025-r-",
+      "published": "2025-01-01",
+      "title": "XI Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 27 marca 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "550058": {
       "channel": "Jednorożec",
@@ -12338,6 +13521,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550691": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797653.9089024,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550691",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/550691-vii-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "VII Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "550695": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797698.4336383,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "550695",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/550695-gmina-strzelce---viii-sesja-ix-kadencji-rady-gminy-strzelce-powiat-kutnowski-25-10-2024r-",
+      "published": "2025-01-01",
+      "title": "Gmina Strzelce – VIII Sesja IX kadencji Rady Gminy Strzelce powiat kutnowski 25.10.2024r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "550696": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611832.848497,
@@ -12546,6 +13755,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550801": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797609.0678418,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550801",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/550801-xii-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-25-kwietnia-2025-r-",
+      "published": "2025-01-01",
+      "title": "XII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 25 kwietnia 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "550804": {
       "channel": "Barwice",
       "checked_ts": 1795610537.1627264,
@@ -12688,6 +13910,19 @@
       "title": "XIV Sesja Rady Miejskiej w Kamieniu Krajeńskim (Kadencja 2024 - 2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550921": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797587.1333532,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "550921",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/550921-nagranie-z-x-sesji-rady-gminy-sokolniki---czesc-2",
+      "published": "2025-01-01",
+      "title": "Nagranie z X Sesji Rady Gminy Sokolniki - część 2",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "550952": {
       "channel": "Karnice",
@@ -13092,6 +14327,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551300": {
+      "channel": "Suchań",
+      "checked_ts": 1795797752.7346046,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "551300",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/551300-xii-sesja-rady-miejskiej-w-suchaniu---2025-05-21",
+      "published": "2025-05-21",
+      "title": "XII Sesja Rady Miejskiej w Suchaniu - 2025-05-21",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "551302": {
       "channel": "Barcin",
       "checked_ts": 1795610491.560196,
@@ -13365,6 +14613,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551464": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797607.8804574,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551464",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/551464-xiii-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-27-maja-2025-r-",
+      "published": "2025-01-01",
+      "title": "XIII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 27 maja 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "551474": {
       "channel": "Olszyna",
       "checked_ts": 1795615109.425385,
@@ -13390,6 +14651,19 @@
       "title": "XIV Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551492": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797652.7069626,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551492",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/551492-viii-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "VIII Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "551497": {
       "channel": "Dobra Gmina",
@@ -13443,6 +14717,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "551528": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797554.1686006,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "551528",
+      "media": "",
+      "page": "https://sobotka.tv-polska.eu/film/551528-16--sesja-rady-miejskiej-w-sobotce-w-dniu-29-05-2025--cz--1--",
+      "published": "2025-05-29",
+      "title": "16. sesja Rady Miejskiej w Sobótce w dniu 29.05.2025 (cz. 1.)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "551529": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797552.969258,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "551529",
+      "media": "",
+      "page": "https://sobotka.tv-polska.eu/film/551529-16--sesja-rady-miejskiej-w-sobotce-w-dniu-29-05-2025--cz--2--",
+      "published": "2025-05-29",
+      "title": "16. sesja Rady Miejskiej w Sobótce w dniu 29.05.2025 (cz. 2.)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "551536": {
       "channel": "Jaktorów",
       "checked_ts": 1795611655.175476,
@@ -13494,6 +14794,32 @@
       "title": "XVI zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "551563": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797585.9238508,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "551563",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/551563-nagranie-z-xi-sesji-rady-gminy-sokolniki---czesc-1",
+      "published": "2025-01-01",
+      "title": "Nagranie z XI Sesji Rady Gminy Sokolniki - część 1",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "551564": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797584.725431,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "551564",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/551564-nagranie-z-xi-sesji-rady-gminy-sokolniki---czesc-2",
+      "published": "2025-01-01",
+      "title": "Nagranie z XI Sesji Rady Gminy Sokolniki - część 2",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "551588": {
       "channel": "Miasto Leżajsk",
@@ -13676,6 +15002,19 @@
       "title": "2025-06-09 - sesja Rady Powiatu w Szczecinku",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "551772": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797714.0371206,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551772",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/551772-x-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "551774": {
       "channel": "Olszyna",
@@ -13937,6 +15276,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551955": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797651.51541,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551955",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/551955-ix-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024---2029",
+      "published": "2025-01-01",
+      "title": "IX Sesja Rady Miejskiej w Stepnicy w kadencji 2024 - 2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "551959": {
       "channel": "Powiat Żniński",
       "checked_ts": 1795712053.2445335,
@@ -13976,6 +15328,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551972": {
+      "channel": "Suchań",
+      "checked_ts": 1795797751.5350053,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "551972",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/551972-xiii-sesja-rady-miejskiej-w-suchaniu---2025-06-17",
+      "published": "2025-06-17",
+      "title": "XIII Sesja Rady Miejskiej w Suchaniu - 2025-06-17",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "551986": {
       "channel": "Powiat Łódzki Wschodni",
       "checked_ts": 1795657926.0798292,
@@ -13988,6 +15353,32 @@
       "title": "XVI Sesja Rady Powiatu",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "551989": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797583.524043,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "551989",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/551989-nagranie-z-xii-sesji-rady-gminy-sokolniki---czesc-1",
+      "published": "2025-01-01",
+      "title": "Nagranie z XII Sesji Rady Gminy Sokolniki - część 1",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "551990": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797582.3299305,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "551990",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/551990-nagranie-z-xii-sesji-rady-gminy-sokolniki---czesc-2",
+      "published": "2025-01-01",
+      "title": "Nagranie z XII Sesji Rady Gminy Sokolniki - część 2",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552018": {
       "channel": "Siemyśl",
@@ -14132,6 +15523,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552099": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797697.2319682,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "552099",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/552099-xviii-sesja-rady-gminy-strzelce-ix-kadencji-10-06-2025-r--",
+      "published": "2025-06-10",
+      "title": "XVIII SESJA RADY GMINY STRZELCE IX KADENCJI 10.06.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "552105": {
       "channel": "Barcin",
       "checked_ts": 1795610487.9660788,
@@ -14170,6 +15574,19 @@
       "title": "XII Sesja Rady Gminy Manowo, 2025-06-26, godz. 10:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552123": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797551.7776291,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "552123",
+      "media": "",
+      "page": "https://sobotka.tv-polska.eu/film/552123-17--sesja-rady-miejskiej-w-sobotce-w-dniu-25-06-2025-r-",
+      "published": "2025-06-25",
+      "title": "17. sesja Rady Miejskiej w Sobótce w dniu 25.06.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552125": {
       "channel": "Kamień Pomorski",
@@ -14222,6 +15639,19 @@
       "title": "XIX Sesja Rady Miejskiej w Barwicach cz.2",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552143": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797606.6677616,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552143",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/552143-xiv-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-26-czerwca-2025-r-",
+      "published": "2025-01-01",
+      "title": "XIV Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 26 czerwca 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552144": {
       "channel": "Czerwin",
@@ -14339,6 +15769,19 @@
       "title": "XXII Sesja IX kadencji Rady Gminy Puck 26.06.2025",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "552214": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797835.7301846,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552214",
+      "media": "",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/552214-xxi-sesja-rady-gminy-szczecinek-z-dnia-27-06-2025r-",
+      "published": "2025-01-01",
+      "title": "XXI Sesja Rady Gminy Szczecinek z dnia 27.06.2025r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552224": {
       "channel": "Rogowo pow. Źniński",
@@ -15328,6 +16771,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552766": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797696.0551276,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "552766",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/552766-xix-sesja-rady-gminy-strzelce-ix-kadencji-",
+      "published": "2025-01-01",
+      "title": "XIX SESJA RADY GMINY STRZELCE IX KADENCJI",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "552774": {
       "channel": "Puck Gmina",
       "checked_ts": 1795712207.0866435,
@@ -15340,6 +16796,19 @@
       "title": "XXIII Sesja IX kadencji Rady Gminy Puck 24.07.2025",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "552787": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797834.519312,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552787",
+      "media": "",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/552787-xxii-sesja-rady-gminy-szczecinek-z-dnia-16-07-2025r-",
+      "published": "2025-01-01",
+      "title": "XXII Sesja Rady Gminy Szczecinek z dnia 16.07.2025r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552791": {
       "channel": "Rogowo pow. Źniński",
@@ -15392,6 +16861,19 @@
       "title": "X Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552829": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797712.8360195,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "552829",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/552829-xi-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552836": {
       "channel": "Czarnocin",
@@ -15522,6 +17004,19 @@
       "title": "XVIII sesja Rady Miejskiej w Olszynie - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552914": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797550.5895014,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "552914",
+      "media": "",
+      "page": "https://sobotka.tv-polska.eu/film/552914-18--sesja-rady-miejskiej-w-sobotce-w-dniu-30-07-2025",
+      "published": "2025-07-30",
+      "title": "18. sesja Rady Miejskiej w Sobótce w dniu 30.07.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "552921": {
       "channel": "Puck Gmina",
@@ -15861,6 +17356,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553289": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797581.1147814,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "553289",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/553289-nagranie-z-xiii-sesji-rady-gminy-sokolniki",
+      "published": "2025-01-01",
+      "title": "Nagranie z XIII Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "553338": {
       "channel": "Lewin Kłodzki",
       "checked_ts": 1795612220.3266962,
@@ -15949,6 +17457,19 @@
       "page": "https://reczno.tv-polska.eu/film/553366-xiv-sesja-rady-gminy-reczno-dn--27-08-2025-r-",
       "published": "2025-08-27",
       "title": "XIV Sesja Rady Gminy Ręczno dn. 27.08.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "553370": {
+      "channel": "Suchań",
+      "checked_ts": 1795797750.3240993,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "553370",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/553370-xiv-sesja-rady-miejskiej-w-suchaniu---2025-08-26",
+      "published": "2025-08-26",
+      "title": "XIV Sesja Rady Miejskiej w Suchaniu - 2025-08-26",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -16329,6 +17850,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553559": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797549.3834476,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "553559",
+      "media": "",
+      "page": "https://sobotka.tv-polska.eu/film/553559-nadzwyczajna-19--sesja-rady-miejskiej-w-sobotce-z-dnia-29-08-2025",
+      "published": "2025-08-29",
+      "title": "Nadzwyczajna 19. sesja Rady Miejskiej w Sobótce z dnia 29.08.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "553560": {
       "channel": "Krokowa",
       "checked_ts": 1795612117.121439,
@@ -16406,6 +17940,19 @@
       "title": "XVI Sesja Rady Gminy Bielice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553625": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797833.3305848,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "553625",
+      "media": "",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/553625-xxiii-sesja-rady-gminy-szczecinek-z-dnia-04-09-2025r-",
+      "published": "2025-01-01",
+      "title": "XXIII Sesja Rady Gminy Szczecinek z dnia 04.09.2025r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "553627": {
       "channel": "Jaktorów",
@@ -16576,6 +18123,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553891": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797693.6533935,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "553891",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/553891-xx-sesja-rady-gminy-strzelce-25-08-2025-r--",
+      "published": "2025-08-25",
+      "title": "XX SESJA RADY GMINY STRZELCE 25.08.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "553898": {
       "channel": "Czerwin",
       "checked_ts": 1795610951.8239348,
@@ -16615,6 +18175,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553911": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797692.4323986,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "553911",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/553911-xxi-nadzwyczajna-sesja-rady-gminy-strzelce-",
+      "published": "2025-01-01",
+      "title": "XXI NADZWYCZAJNA SESJA RADY GMINY STRZELCE",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "553921": {
       "channel": "Siemyśl",
       "checked_ts": 1795744142.8254504,
@@ -16625,6 +18198,19 @@
       "page": "https://siemysl.tv-polska.eu/film/553921-sesja-rady-gminy-siemysl-2025-09-18",
       "published": "2025-01-01",
       "title": "Sesja Rady Gminy Siemyśl 2025.09.18",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "553976": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797605.4674542,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553976",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/553976-xv-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-18-wrzesnia-2025-r-",
+      "published": "2025-01-01",
+      "title": "XV Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 18 września 2025 r.",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -16888,6 +18474,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "554121": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797691.23271,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "554121",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/554121-xxii-nadzwyczajna-sesja-rady-gminy-strzelce-23-09-2025-r--",
+      "published": "2025-09-23",
+      "title": "XXII NADZWYCZAJNA SESJA RADY GMINY STRZELCE 23.09.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554124": {
       "channel": "Manowo",
       "checked_ts": 1795612430.3409595,
@@ -17070,6 +18669,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "554184": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797711.6398568,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554184",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/554184-xii-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554185": {
       "channel": "Powiat Człuchowski",
       "checked_ts": 1795657777.939974,
@@ -17226,6 +18838,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554201": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797579.9406636,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "554201",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/554201-nagranie-z-xiv-sesji-rady-gminy-sokolniki",
+      "published": "2025-01-01",
+      "title": "Nagranie z XIV Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554202": {
       "channel": "Powiat Szczecinecki",
       "checked_ts": 1795712030.4224455,
@@ -17251,6 +18876,19 @@
       "title": "Sesja Rady Gminy Karnice 30-09-2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554207": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797548.1646245,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "554207",
+      "media": "",
+      "page": "https://sobotka.tv-polska.eu/film/554207-20--sesja-rady-miejskiej-w-sobotce-z-dnia-29-09-2025",
+      "published": "2025-09-29",
+      "title": "20. sesja Rady Miejskiej w Sobótce z dnia 29.09.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "554208": {
       "channel": "Przasnysz Gmina",
@@ -17447,6 +19085,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554363": {
+      "channel": "Suchań",
+      "checked_ts": 1795797749.127706,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "554363",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/554363-xv-sesja-rady-miejskiej-w-suchaniu---2025-10-07",
+      "published": "2025-10-07",
+      "title": "XV Sesja Rady Miejskiej w Suchaniu - 2025-10-07",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554370": {
       "channel": "Mogilno",
       "checked_ts": 1795614928.0030797,
@@ -17459,6 +19110,32 @@
       "title": "XVII sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554374": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797649.118241,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "554374",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/554374-x-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "554390": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797832.134755,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "554390",
+      "media": "",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/554390-xxiv-sesja-rady-gminy-szczecinek-z-dnia-06-10-2025",
+      "published": "2025-10-06",
+      "title": "XXIV Sesja Rady Gminy Szczecinek z dnia 06.10.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "554406": {
       "channel": "Puck Miasto",
@@ -17589,6 +19266,19 @@
       "title": "XIX Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554548": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797546.9669158,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "554548",
+      "media": "",
+      "page": "https://sobotka.tv-polska.eu/film/554548-nadzwyczajna-21--sesja-rady-miejskiej-w-sobotce-z-dnia-15-10-2025",
+      "published": "2025-10-15",
+      "title": "Nadzwyczajna 21. sesja Rady Miejskiej w Sobótce z dnia 15.10.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "554563": {
       "channel": "Puck Gmina",
@@ -17850,6 +19540,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554801": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797830.9274213,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "554801",
+      "media": "",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/554801-xxv-sesja-rady-gminy-szczecinek-z-dnia-28-10-2025",
+      "published": "2025-10-28",
+      "title": "XXV Sesja Rady Gminy Szczecinek z dnia 28.10.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554802": {
       "channel": "Miasto Leżajsk",
       "checked_ts": 1795612559.120051,
@@ -17966,6 +19669,19 @@
       "title": "XVII sesja Rady Miejskiej w Dobrej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554833": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797647.9072177,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "554833",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/554833-xi-nadzwyczajna-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "XI Nadzwyczajna Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "554839": {
       "channel": "Siemyśl",
@@ -18149,6 +19865,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554901": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797578.7302306,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "554901",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/554901-nagranie-z-xv-sesji-rady-gminy-sokolniki",
+      "published": "2025-01-01",
+      "title": "Nagranie z XV Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554904": {
       "channel": "Jastarnia",
       "checked_ts": 1795611716.4337125,
@@ -18331,6 +20060,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554972": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797604.2856896,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "554972",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/554972-xvi-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-30-pazdziernika-2025-r-",
+      "published": "2025-01-01",
+      "title": "XVI Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 30 października 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "554977": {
       "channel": "Rogowo pow. Źniński",
       "checked_ts": 1795743995.212478,
@@ -18341,6 +20083,19 @@
       "page": "https://rogowopaluki.tv-polska.eu/film/554977-xviii-sesja-rady-gminy-rogowo-z-dnia-30-10-2025-r-",
       "published": "2025-10-30",
       "title": "XVIII Sesja Rady Gminy Rogowo z dnia 30.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "554990": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797545.77384,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "554990",
+      "media": "",
+      "page": "https://sobotka.tv-polska.eu/film/554990-22--sesja-rady-miejskiej-w-sobotce-z-dnia-31-10-2025",
+      "published": "2025-10-31",
+      "title": "22. sesja Rady Miejskiej w Sobótce z dnia 31.10.2025",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -18382,6 +20137,19 @@
       "title": "XIV Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555049": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797710.4331465,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555049",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/555049-xiii-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "555077": {
       "channel": "Pełczyce",
@@ -18473,6 +20241,19 @@
       "title": "XVII Sesja Rady Miejskiej Turku z dnia 28 października 2025r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555146": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797690.0297348,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "555146",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/555146-xxiii--sesja-rady-gminy-strzelce-",
+      "published": "2025-01-01",
+      "title": "XXIII  SESJA RADY GMINY STRZELCE",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "555149": {
       "channel": "Lewin Kłodzki",
@@ -18799,6 +20580,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555402": {
+      "channel": "Suchań",
+      "checked_ts": 1795797747.935554,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "555402",
+      "media": "",
+      "page": "https://suchan.tv-polska.eu/film/555402-xvi-sesja-rady-miejskiej-w-suchaniu---2025-11-20",
+      "published": "2025-11-20",
+      "title": "XVI Sesja Rady Miejskiej w Suchaniu - 2025-11-20",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555427": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610636.7890737,
@@ -18824,6 +20618,19 @@
       "title": "Święto niepodległości 11 listopada w Drawnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555431": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797829.7221472,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "555431",
+      "media": "",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/555431-xxvi-sesja-rady-gminy-szczecinek-z-dnia-06-11-2025",
+      "published": "2025-11-06",
+      "title": "XXVI Sesja Rady Gminy Szczecinek z dnia 06.11.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "555433": {
       "channel": "Deszczno",
@@ -19137,6 +20944,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555532": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797709.2515953,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555532",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/555532-xiv-sesja-rady-gminy-studzienice---nadzwyczajna--kadencja-2024--2029-",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Gminy Studzienice - nadzwyczajna (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555535": {
       "channel": "Miastko",
       "checked_ts": 1795612532.3515544,
@@ -19319,6 +21139,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555578": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797576.3234277,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "555578",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/555578-nagranie-z-xvi-sesji-rady-gminy-sokolniki",
+      "published": "2025-01-01",
+      "title": "Nagranie z XVI Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555579": {
       "channel": "Gniew",
       "checked_ts": 1795611377.1549125,
@@ -19475,6 +21308,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555656": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797543.3867223,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "555656",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1142993420.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/555656-23--sesja-rady-miejskiej-w-sobotce-z-dnia-27-11-2025",
+      "published": "2025-11-27",
+      "title": "23. sesja Rady Miejskiej w Sobótce z dnia 27.11.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555657": {
       "channel": "Brusy",
       "checked_ts": 1795610667.9807007,
@@ -19487,6 +21333,19 @@
       "title": "XVII sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555659": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797828.5520084,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "555659",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1143045982.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/555659-xxvii-sesja-rady-gminy-szczecinek-z-dnia-28-11-2025",
+      "published": "2025-11-28",
+      "title": "XXVII Sesja Rady Gminy Szczecinek z dnia 28.11.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "555673": {
       "channel": "Ręczno",
@@ -19605,6 +21464,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555755": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797646.7162383,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555755",
+      "media": "",
+      "page": "https://stepnica.tv-polska.eu/film/555755-xii-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555757": {
       "channel": "Dziwnów",
       "checked_ts": 1795611258.3424246,
@@ -19696,6 +21568,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555858": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797575.1452963,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "555858",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/555858-nagranie-z-xvii--nadzwyczajnej-sesji-rady-gminy-sokolniki",
+      "published": "2025-01-01",
+      "title": "Nagranie z XVII  nadzwyczajnej Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "555875": {
       "channel": "Kiernozia",
       "checked_ts": 1795611928.858412,
@@ -19708,6 +21593,19 @@
       "title": "25 SESJA RADY MIASTA I GMINY KIERNOZIA 9-12-2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555879": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797603.093879,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555879",
+      "media": "",
+      "page": "https://stareczarnowo.tv-polska.eu/film/555879-xvii-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-27-listopada-2025-r-",
+      "published": "2025-01-01",
+      "title": "XVII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 27 listopada 2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "555908": {
       "channel": "Krokowa",
@@ -19812,6 +21710,19 @@
       "title": "2025-12-16 - sesja Rady Powiatu w Szczecinku",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "555976": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797573.9093835,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "555976",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/555976-nagranie-z-xviii--nadzwyczajnej-sesji-rady-gminy-sokolniki",
+      "published": "2025-01-01",
+      "title": "Nagranie z XVIII  nadzwyczajnej Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "555997": {
       "channel": "Gmina Miejska Szczytno",
@@ -19994,6 +21905,19 @@
       "title": "XXII Sesja Rady Powiatu",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "556056": {
+      "channel": "Studzienice",
+      "checked_ts": 1795797706.8643425,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556056",
+      "media": "",
+      "page": "https://studzienice.tv-polska.eu/film/556056-xv-sesja-rady-gminy-studzienice--kadencja-2024--2029-",
+      "published": "2025-01-01",
+      "title": "XV Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556058": {
       "channel": "Marianowo",
@@ -20346,6 +22270,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556187": {
+      "channel": "Suchań",
+      "checked_ts": 1795797746.7320445,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "556187",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150004456.mp4",
+      "page": "https://suchan.tv-polska.eu/film/556187-xvii-sesja-rady-miejskiej-w-suchaniu---2025-12-17",
+      "published": "2025-12-17",
+      "title": "XVII Sesja Rady Miejskiej w Suchaniu - 2025-12-17",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556188": {
       "channel": "Miastko",
       "checked_ts": 1795612528.757616,
@@ -20410,6 +22347,19 @@
       "title": "XVI Sesja Rady Gminy Boleszkowice w dniu 19 grudnia 2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556219": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797824.9242377,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "556219",
+      "media": "",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/556219-xxix-sesja-rady-gminy-szczecinek-z-dnia-29-12-2025r-",
+      "published": "2025-01-01",
+      "title": "XXIX Sesja Rady Gminy Szczecinek z dnia 29.12.2025r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556223": {
       "channel": "Powiat Szczecinecki",
@@ -20580,6 +22530,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556276": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797572.7427495,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556276",
+      "media": "",
+      "page": "https://sokolniki.tv-polska.eu/film/556276-nagranie-z-xix-sesji-rady-gminy-sokolniki",
+      "published": "2025-01-01",
+      "title": "Nagranie z XIX Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556277": {
       "channel": "Kiernozia",
       "checked_ts": 1795611927.6555433,
@@ -20671,6 +22634,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556320": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797542.179258,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "556320",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150958424.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/556320-24--sesja-rady-miejskiej-w-sobotce-z-dnia-30-12-2025",
+      "published": "2025-12-30",
+      "title": "24. sesja Rady Miejskiej w Sobótce z dnia 30.12.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556326": {
       "channel": "Połajewo",
       "checked_ts": 1795657660.294676,
@@ -20696,6 +22672,32 @@
       "title": "XXII Sesja Rady Miejskiej w Przasnyszu 22.12.2025 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "556336": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797688.8397431,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "556336",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/556336-xxv-sesja-rady-gminy-strzelce-",
+      "published": "2025-01-01",
+      "title": "XXV SESJA RADY GMINY STRZELCE",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "556337": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797687.6366842,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "556337",
+      "media": "",
+      "page": "https://strzelce.tv-polska.eu/film/556337-xxiv-sesja-rady-gminy-strzelce-24-11-2025-r--",
+      "published": "2025-11-24",
+      "title": "XXIV SESJA RADY GMINY STRZELCE 24.11.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556357": {
       "channel": "Miasto Turek",
@@ -20943,6 +22945,19 @@
       "title": "XVI Sesja Rady Miejskiej w Łabjszynie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556635": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797601.8726096,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556635",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159256387.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/556635-nadzwyczajna-xix-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia",
+      "published": "2026-01-01",
+      "title": "Nadzwyczajna XIX Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556649": {
       "channel": "Łęki Szlacheckie",
@@ -21386,6 +23401,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556872": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797571.5304198,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556872",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160122808.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/556872-nagranie-z-xx-sesji-rady-gminy-sokolniki---czesc-1",
+      "published": "2026-01-01",
+      "title": "Nagranie z XX Sesji Rady Gminy Sokolniki - część 1",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "556874": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797570.3315094,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "556874",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160123984.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/556874-nagranie-z-xx-sesji-rady-gminy-sokolniki---czesc-2",
+      "published": "2026-01-01",
+      "title": "Nagranie z XX Sesji Rady Gminy Sokolniki - część 2",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "556881": {
       "channel": "Siekierczyn",
       "checked_ts": 1795744105.6296551,
@@ -21411,6 +23452,19 @@
       "title": "XXIII Sesja Rady Powiatu Człuchowskiego",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "556893": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797541.0024552,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "556893",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1160182404.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/556893-25--sesja-rady-miejskiej-w-sobotce-z-dnia-30-01-2026",
+      "published": "2026-01-30",
+      "title": "25. sesja Rady Miejskiej w Sobótce z dnia 30.01.2026",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "556899": {
       "channel": "Dziwnów",
@@ -21710,6 +23764,19 @@
       "title": "XXIV Sesja Rady Miejskiej w Żukowie",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "557037": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797686.461078,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "10 Lubuskie",
+      "id": "557037",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1163248743.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/557037-xxvi-sesja-rady-gminy-strzelce-",
+      "published": "2026-01-01",
+      "title": "XXVI SESJA RADY GMINY STRZELCE",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "557054": {
       "channel": "Marianowo",
@@ -22101,6 +24168,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "557250": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797645.5120606,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557250",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1166347409.mp4",
+      "page": "https://stepnica.tv-polska.eu/film/557250-xiii-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "XIII Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557256": {
       "channel": "Maszewo",
       "checked_ts": 1795612489.1495607,
@@ -22205,6 +24285,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557327": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797823.7375796,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557327",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1167656961.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/557327-xxx-sesja-rady-gminy-szczecinek-z-dnia-22-01-2026r",
+      "published": "2026-01-01",
+      "title": "XXX Sesja Rady Gminy Szczecinek z dnia 22.01.2026r",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557351": {
       "channel": "Rogowo pow. Źniński",
       "checked_ts": 1795743990.4197912,
@@ -22256,6 +24349,19 @@
       "title": "XXIV Sesja Rady Miejskiej w Przasnyszu 23.02.2026 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "557368": {
+      "channel": "Suchań",
+      "checked_ts": 1795797745.5531683,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557368",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168061689.mp4",
+      "page": "https://suchan.tv-polska.eu/film/557368-xviii-sesja-rady-miejskiej-w-suchaniu---2026-02-24",
+      "published": "2026-02-24",
+      "title": "XVIII Sesja Rady Miejskiej w Suchaniu - 2026-02-24",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "557371": {
       "channel": "Dobra Gmina",
@@ -22478,6 +24584,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "557433": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797539.7898922,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "557433",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168804677.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/557433-26--sesja-rady-miejskiej-w-sobotce-z-dnia-26-02-2026",
+      "published": "2026-02-26",
+      "title": "26. sesja Rady Miejskiej w Sobótce z dnia 26.02.2026",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557435": {
       "channel": "Manowo",
       "checked_ts": 1795612424.3391924,
@@ -22608,6 +24727,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "557467": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797600.6821055,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557467",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169515554.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/557467-xx-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-29-stycznia-2026-r-",
+      "published": "2026-01-01",
+      "title": "XX Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 29 stycznia 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557468": {
       "channel": "Jaktorów",
       "checked_ts": 1795611644.3812866,
@@ -22620,6 +24752,19 @@
       "title": "XXIII Sesja Rady Gminy Jaktorów",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557469": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797598.2757778,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557469",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169538498.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/557469-xxi-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-26-02-2026-r-",
+      "published": "2026-02-26",
+      "title": "XXI Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 26.02.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "557482": {
       "channel": "Jednorożec",
@@ -22659,6 +24804,19 @@
       "title": "X Sesja IX Kadencji Rady Miejskiej w Nowym Warpnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557489": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797822.5478966,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557489",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1169847628.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/557489-xxxi-sesja-rady-gminy-szczecinek-z-dnia-27-02-2026r",
+      "published": "2026-01-01",
+      "title": "XXXI Sesja Rady Gminy Szczecinek z dnia 27.02.2026r",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "557490": {
       "channel": "Nowe Warpno",
@@ -23102,6 +25260,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557825": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797569.1259346,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "557825",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1174675646.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/557825-nagranie-z-xxi--nadzwyczajnej-sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXI  nadzwyczajnej Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "557829": {
       "channel": "Powiat Malborski",
       "checked_ts": 1795657944.0973942,
@@ -23164,6 +25335,19 @@
       "page": "https://rzeczenica.tv-polska.eu/film/557846-xxix-sesja-rady-gminy-rzeczenica---18-marca-2026-r-",
       "published": "2026-01-01",
       "title": "XXIX Sesja Rady Gminy Rzeczenica - 18 marca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "557857": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797538.5917695,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "557857",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1175076989.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/557857-nadzwyczajna-27--sesja-rady-miejskiej-w-sobotce-z-dnia-18-03-2026",
+      "published": "2026-03-18",
+      "title": "Nadzwyczajna 27. sesja Rady Miejskiej w Sobótce z dnia 18.03.2026",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -23414,6 +25598,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558018": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797685.25517,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "558018",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177234340.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/558018-xxvii-sesja-rady-gminy-strzelce-20-03-2026-r--",
+      "published": "2026-03-20",
+      "title": "XXVII SESJA RADY GMINY STRZELCE 20.03.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558023": {
       "channel": "Siekierczyn",
       "checked_ts": 1795744102.0286975,
@@ -23437,6 +25634,19 @@
       "page": "https://rzeczenica.tv-polska.eu/film/558024-xxx-uroczysta--sesja-rady-gminy-rzeczenica---25-marca-2026-r-",
       "published": "2026-01-01",
       "title": "XXX Uroczysta  Sesja Rady Gminy Rzeczenica - 25 marca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "558026": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797567.9327328,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "558026",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177284120.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/558026-nagranie-z-xxii-sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXII Sesji Rady Gminy Sokolniki",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -23479,6 +25689,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558034": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797644.3257327,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558034",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177333170.mp4",
+      "page": "https://stepnica.tv-polska.eu/film/558034-xiv-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "XIV Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558043": {
       "channel": "Barwice",
       "checked_ts": 1795610514.3645248,
@@ -23505,6 +25728,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "558048": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797537.3957412,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "558048",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177600484.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/558048--28--sesja-rady-miejskiej-w-sobotce-z-dnia-26-03-2026",
+      "published": "2026-03-26",
+      "title": "28. sesja Rady Miejskiej w Sobótce z dnia 26.03.2026",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558051": {
       "channel": "Jastarnia",
       "checked_ts": 1795611709.2343874,
@@ -23517,6 +25753,19 @@
       "title": "XXIV zwyczajna sesja Rady Miejskiej Jastarni",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558054": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797597.0707004,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558054",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1177617380.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/558054-xxii-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-26-marca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 26 marca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "558055": {
       "channel": "Powiat Łódzki Wschodni",
@@ -23921,6 +26170,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "558167": {
+      "channel": "Suchań",
+      "checked_ts": 1795797744.339468,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558167",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1179156387.mp4",
+      "page": "https://suchan.tv-polska.eu/film/558167-xix-sesja-rady-miejskiej-w-suchaniu---2026-03-31",
+      "published": "2026-03-31",
+      "title": "XIX Sesja Rady Miejskiej w Suchaniu - 2026-03-31",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558171": {
       "channel": "Marianowo",
       "checked_ts": 1795612453.1429746,
@@ -24298,6 +26560,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558575": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797536.1886628,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "558575",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1185313275.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/558575-29--sesja-rady-miejskiej-w-sobotce-z-dnia-20-04-2026",
+      "published": "2026-04-20",
+      "title": "29. sesja Rady Miejskiej w Sobótce z dnia 20.04.2026",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "558576": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797821.33032,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558576",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1185391811.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/558576-xxxii-sesja-rady-gminy-z-dnia-19-03-2026r-",
+      "published": "2026-01-01",
+      "title": "XXXII Sesja Rady Gminy z dnia 19.03.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "558594": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797820.1203446,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558594",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186909907.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/558594-xxxiii-sesja-rady-gminy-z-dnia-22-04-2026r-",
+      "published": "2026-01-01",
+      "title": "XXXIII Sesja Rady Gminy z dnia 22.04.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558615": {
       "channel": "Nowe Miasto Lubawskie",
       "checked_ts": 1795614997.6026893,
@@ -24373,6 +26674,19 @@
       "page": "https://siemysl.tv-polska.eu/film/558639-sesja-rady-gminy-siemysl-2026-04-23",
       "published": "2026-01-01",
       "title": "Sesja Rady Gminy Siemyśl 2026.04.23",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "558644": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797595.8852012,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558644",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186158258.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/558644-xxiii-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-23-kwietnia-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXIII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 23 kwietnia 2026 r.",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -24870,6 +27184,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558838": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797565.5478907,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "558838",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1189005958.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/558838-nagranie-z-xxiii--sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXIII  Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "558856": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612585.1978772,
@@ -25091,6 +27418,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559046": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797534.97815,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "559046",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1192170095.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/559046-30--sesja-rady-miejskiej-w-sobotce-z-dnia-14-05-2026",
+      "published": "2026-05-14",
+      "title": "30. sesja Rady Miejskiej w Sobótce z dnia 14.05.2026",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559049": {
       "channel": "Dygowo",
       "checked_ts": 1795611170.2462623,
@@ -25116,6 +27456,32 @@
       "title": "XXVIII Sesja Rady Miejskiej w Miastku 15.05.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559076": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797682.8589435,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "559076",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1192530988.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/559076-xxix-nadzwyczajna-sesja-rady-gminy-strzelce---ix-kadencji--15-05-2026-r--",
+      "published": "2026-05-15",
+      "title": "XXIX NADZWYCZAJNA SESJA RADY GMINY STRZELCE , IX KADENCJI, 15.05.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "559077": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797681.6661046,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "559077",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1192539702.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/559077-xxviii-sesja-rady-gminy-strzelce--ix-kadencji---30-04-2026-r--",
+      "published": "2026-04-30",
+      "title": "XXVIII SESJA RADY GMINY STRZELCE, IX KADENCJI,  30.04.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559112": {
       "channel": "Janowiec Wielkopolski",
@@ -25234,6 +27600,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559201": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797564.3356774,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559201",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1194620049.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/559201-nagranie-z-xxiv-nadzwyczajnej-sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXIV nadzwyczajnej Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559202": {
       "channel": "Powiat Międzychodzki",
       "checked_ts": 1795657972.8920553,
@@ -25259,6 +27638,19 @@
       "title": "XXI Sesja Rady Gminy Manowo, 2026-05-22, godz. 8:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559222": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797827.3340437,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559222",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1194679517.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/559222-xxviii-sesja-rady-gminy-szczecinek-z-dnia-10-12-2025",
+      "published": "2025-12-10",
+      "title": "XXVIII Sesja Rady Gminy Szczecinek z dnia 10.12.2025",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559224": {
       "channel": "Mielno",
@@ -25324,6 +27716,19 @@
       "title": "Sesja nr XXXI Rady Gminy Cisna z dnia 10.04.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559276": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797594.6839771,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559276",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1195500396.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/559276-xxiv-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-22-maja-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXIV Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 22 maja 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559290": {
       "channel": "Nowe Warpno",
@@ -25415,6 +27820,19 @@
       "title": "XXV Sesja Rady Gminy Dolice",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559352": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797532.5747695,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "559352",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196222882.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/559352-31--sesja-rady-miejskiej-w-sobotce-w-dniu-27-05-2026-r-",
+      "published": "2026-05-27",
+      "title": "31. sesja Rady Miejskiej w Sobótce w dniu 27.05.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559354": {
       "channel": "Rzeczenica",
@@ -25624,6 +28042,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "559393": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797563.1531093,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "559393",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196602861.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/559393-nagranie-z-xxv--sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXV  Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559396": {
       "channel": "Powiat Łódzki Wschodni",
       "checked_ts": 1795657910.4853907,
@@ -25636,6 +28067,19 @@
       "title": "XXVII Sesja Rady Powiatu",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "559399": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797818.9415848,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559399",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196621471.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/559399-xxxiv-sesja-rady-gminy-z-dnia-28-05-2026r-",
+      "published": "2026-01-01",
+      "title": "XXXIV Sesja Rady Gminy z dnia 28.05.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559400": {
       "channel": "Gniewoszów",
@@ -25766,6 +28210,19 @@
       "title": "XXII sesja Rady Gminy Marianowo w dniu 29 maja 2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559453": {
+      "channel": "Suchań",
+      "checked_ts": 1795797741.9516296,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559453",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1197330583.mp4",
+      "page": "https://suchan.tv-polska.eu/film/559453-xx-sesja-rady-miejskiej-w-suchaniu---2026-05-28",
+      "published": "2026-05-28",
+      "title": "XX Sesja Rady Miejskiej w Suchaniu - 2026-05-28",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559454": {
       "channel": "Przasnysz",
@@ -26170,6 +28627,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559677": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797817.7305322,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559677",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1200730921.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/559677-xxxvi-sesja-rady-gminy-z-dnia-12-06-2026r-",
+      "published": "2026-01-01",
+      "title": "XXXVI Sesja Rady Gminy z dnia 12.06.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559687": {
       "channel": "Recz",
       "checked_ts": 1795743860.80712,
@@ -26196,6 +28666,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559713": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797680.4408998,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "559713",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201339321.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/559713-xxx-nadzwyczajna-sesja-rady-gminy-strzelce--ix-kadencji---12-06-2026-r-",
+      "published": "2026-06-12",
+      "title": "XXX NADZWYCZAJNA SESJA RADY GMINY STRZELCE, IX KADENCJI - 12.06.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559718": {
       "channel": "Mieszkowice",
       "checked_ts": 1795612644.033227,
@@ -26208,6 +28691,19 @@
       "title": "Zapraszamy na koncert!",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559725": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797593.4700859,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559725",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201397127.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/559725-xxv-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-12-czerwca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXV Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 12 czerwca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "559735": {
       "channel": "Banie",
@@ -26560,6 +29056,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559828": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797816.5337555,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559828",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1202467035.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/559828-xxxv-sesja-rady-gminy-z-dnia-16-06-2026r-",
+      "published": "2026-01-01",
+      "title": "XXXV Sesja Rady Gminy z dnia 16.06.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559839": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611813.6433442,
@@ -26833,6 +29342,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559995": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797531.3847394,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "559995",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204505439.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/559995--32--sesja-rady-miejskiej-w-sobotce-w-dniu-24-06-2026-r-",
+      "published": "2026-06-24",
+      "title": "32. sesja Rady Miejskiej w Sobótce w dniu 24.06.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "559997": {
       "channel": "Pomorskie",
       "checked_ts": 1795657695.1397336,
@@ -26845,6 +29367,19 @@
       "title": "XX Sesja Rady Gminy Studzienice (kadencja 2024 -2029)",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "559998": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797643.1381931,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559998",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1204515011.mp4",
+      "page": "https://stepnica.tv-polska.eu/film/559998-xv-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "XV Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "560003": {
       "channel": "Miasto Leżajsk",
@@ -27158,6 +29693,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560108": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797561.9352386,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560108",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205778444.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/560108-nagranie-z-xxvi--sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXVI  Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "560109": {
       "channel": "Lębork",
       "checked_ts": 1795612244.333506,
@@ -27366,6 +29914,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560183": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797530.183427,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "560183",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206696848.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/560183-nadzwyczajna-33--sesja-rady-miejskiej-w-sobotce-z-dnia-30-06-2026",
+      "published": "2026-06-30",
+      "title": "Nadzwyczajna 33. sesja Rady Miejskiej w Sobótce z dnia 30.06.2026",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "560184": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611683.98646,
@@ -27391,6 +29952,19 @@
       "title": "XXI sesja Rady Miejskiej w Janowcu Wielkopolskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560192": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797679.2612157,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "560192",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206752411.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/560192-xxxi-nadzwyczajna-sesja-rady-gminy-strzelce-1-07-2026-r--",
+      "published": "2026-07-01",
+      "title": "XXXI NADZWYCZAJNA SESJA RADY GMINY STRZELCE 1.07.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "560202": {
       "channel": "Nowe Warpno",
@@ -27456,6 +30030,19 @@
       "title": "XXVI sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560220": {
+      "channel": "Suchań",
+      "checked_ts": 1795797740.7355556,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560220",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1207308619.mp4",
+      "page": "https://suchan.tv-polska.eu/film/560220-xxi-sesja-rady-miejskiej-w-suchaniu---2026-06-25",
+      "published": "2026-06-25",
+      "title": "XXI Sesja Rady Miejskiej w Suchaniu - 2026-06-25",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "560221": {
       "channel": "Krzynowłoga Mała",
@@ -27704,6 +30291,32 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "560408": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797814.1423872,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560408",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1210426236.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/560408-xxxvii-sesja-rady-gminy-z-dnia-15-07-2026r-",
+      "published": "2026-01-01",
+      "title": "XXXVII Sesja Rady Gminy z dnia 15.07.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "560416": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797592.284527,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "560416",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1210464736.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/560416-xxvi-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-14-lipca-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXVI Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 14 lipca 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "560433": {
       "channel": "Jastarnia",
       "checked_ts": 1795611704.4335241,
@@ -27834,6 +30447,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560552": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797528.986104,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "560552",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212279945.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/560552--34--sesja-rady-miejskiej-w-sobotce-z-dnia-22-07-2026",
+      "published": "2026-07-22",
+      "title": "34. sesja Rady Miejskiej w Sobótce z dnia 22.07.2026",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "560553": {
       "channel": "Nowe Miasto Lubawskie",
       "checked_ts": 1795614995.2009573,
@@ -27846,6 +30472,19 @@
       "title": "XXI.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560556": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797560.7277727,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "560556",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1212301188.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/560556-nagranie-z-xxvii-nadzwyczajnej-sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXVII nadzwyczajnej Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "560558": {
       "channel": "Powiat Szczecinecki",
@@ -27963,6 +30602,19 @@
       "title": "XXVII Sesja Rady Powiatu Kutnowskiego",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "560596": {
+      "channel": "Suchań",
+      "checked_ts": 1795797739.5364542,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560596",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213073043.mp4",
+      "page": "https://suchan.tv-polska.eu/film/560596-xxii-sesja-rady-miejskiej-w-suchaniu---2026-07-16",
+      "published": "2026-07-16",
+      "title": "XXII Sesja Rady Miejskiej w Suchaniu - 2026-07-16",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "560605": {
       "channel": "Jednorożec",
@@ -28744,6 +31396,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "560963": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797812.940674,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560963",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1219175010.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/560963-xxxviii-sesja-rady-gminy-z-dnia-13-08-2026r-",
+      "published": "2026-01-01",
+      "title": "XXXVIII Sesja Rady Gminy z dnia 13.08.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "560964": {
       "channel": "Poświętne",
       "checked_ts": 1795657727.5318146,
@@ -28795,6 +31460,19 @@
       "title": "XIX Sesja Rady Gminy Osiek",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561005": {
+      "channel": "Suchań",
+      "checked_ts": 1795797738.3470354,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561005",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1219822813.mp4",
+      "page": "https://suchan.tv-polska.eu/film/561005-xxii-sesja-rady-miejskiej-w-suchaniu---2026-07-16-ver-2",
+      "published": "2026-07-16",
+      "title": "XXII Sesja Rady Miejskiej w Suchaniu - 2026-07-16 ver.2",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561025": {
       "channel": "Osina",
@@ -28923,6 +31601,19 @@
       "page": "https://recz.tv-polska.eu/film/561054-2026-08-24---xxii-sesja-rady-miejskiej-w-reczu",
       "published": "2026-08-24",
       "title": "2026-08-24 - XXII sesja Rady Miejskiej w Reczu",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "561057": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797527.7859268,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "561057",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221058500.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/561057-35--sesja-rady-miejskiej-w-sobotce-w-dniu-24-08-2026-r-",
+      "published": "2026-08-24",
+      "title": "35. sesja Rady Miejskiej w Sobótce w dniu 24.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-27"
     },
@@ -29095,6 +31786,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "561139": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797678.0350802,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "561139",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222025027.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/561139-xxxii-nadzwyczajna-sesja-rady-gminy-strzelce-26-08-2026-r--",
+      "published": "2026-08-26",
+      "title": "XXXII NADZWYCZAJNA SESJA RADY GMINY STRZELCE 26.08.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561141": {
       "channel": "Mogilno",
       "checked_ts": 1795614911.2001739,
@@ -29107,6 +31811,19 @@
       "title": "XXX sesja Rady Miejskiej w Mogilnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561143": {
+      "channel": "Suchań",
+      "checked_ts": 1795797737.12925,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561143",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222033334.mp4",
+      "page": "https://suchan.tv-polska.eu/film/561143-xxiii-sesja-rady-miejskiej-w-suchaniu---2026-08-26",
+      "published": "2026-08-26",
+      "title": "XXIII Sesja Rady Miejskiej w Suchaniu - 2026-08-26",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561145": {
       "channel": "Lębork",
@@ -29146,6 +31863,19 @@
       "title": "Regaty żeglarskie w Drawnie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561154": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797641.9252255,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561154",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222073211.mp4",
+      "page": "https://stepnica.tv-polska.eu/film/561154-xvi-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "XVI Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561156": {
       "channel": "Siemyśl",
@@ -29628,6 +32358,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561394": {
+      "channel": "Suchań",
+      "checked_ts": 1795797735.9629402,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561394",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1226566192.mp4",
+      "page": "https://suchan.tv-polska.eu/film/561394-xxiv-sesja-rady-miejskiej-w-suchaniu---2026-09-14",
+      "published": "2026-09-14",
+      "title": "XXIV Sesja Rady Miejskiej w Suchaniu - 2026-09-14",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561403": {
       "channel": "Kiernozia",
       "checked_ts": 1795611918.0506966,
@@ -29849,6 +32592,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561537": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797811.75487,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561537",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229123946.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/561537-xxxix-sesja-rady-gminy-z-dnia-17-09-2026r-",
+      "published": "2026-01-01",
+      "title": "XXXIX Sesja Rady Gminy z dnia 17.09.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561544": {
       "channel": "Powiat Kutnowski",
       "checked_ts": 1795657873.2810524,
@@ -29900,6 +32656,45 @@
       "title": "XXIX Sesja Rady Miejskiej w Kamieniu Krajeńskim (Kadencja 2024 - 2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561577": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797559.5472434,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561577",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229820601.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/561577-nagranie-z-xxviii-sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXVIII Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "561579": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797558.3299594,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "561579",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229822984.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/561579-nagranie-z-xxix-sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXIX Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "561592": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797591.0824437,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561592",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229872781.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/561592-xxvii-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-24-wrzesnia-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXVII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 24 września 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561593": {
       "channel": "Gorzkowice",
@@ -30017,6 +32812,19 @@
       "title": "XXX Sesja Rady Gminy Przelewice",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "561631": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797526.5770192,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "561631",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230842919.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/561631-36--sesja-rady-miejskiej-w-sobotce-z-dnia-25-09-2026",
+      "published": "2026-09-25",
+      "title": "36. sesja Rady Miejskiej w Sobótce z dnia 25.09.2026",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561634": {
       "channel": "Bierzwnik",
@@ -30277,6 +33085,19 @@
       "title": "XXIII SESJA RADY GMINY BOLESZKOWICE zwołana w trybie nadzwyczajnym w dniu 21.09.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561698": {
+      "channel": "Suchań",
+      "checked_ts": 1795797734.7409363,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561698",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231595114.mp4",
+      "page": "https://suchan.tv-polska.eu/film/561698-xxv-sesja-rady-miejskiej-w-suchaniu---2026-09-29",
+      "published": "2026-09-29",
+      "title": "XXV Sesja Rady Miejskiej w Suchaniu - 2026-09-29",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "561699": {
       "channel": "Kutno Gmina",
@@ -30681,6 +33502,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "561747": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797676.8526776,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "561747",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1231945668.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/561747-xxxiii--nadzwyczajna-sesja-rady-gminy-strzelce--ix-kadencji--30-09-2026-r--",
+      "published": "2026-09-30",
+      "title": "XXXIII  NADZWYCZAJNA SESJA RADY GMINY STRZELCE, IX KADENCJI  30.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "561748": {
       "channel": "Połajewo",
       "checked_ts": 1795657654.2944393,
@@ -31058,6 +33892,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562010": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797525.3916,
+      "date_source": "data w tytule",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "562010",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1237162206.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/562010--37--sesja-rady-miejskiej-w-sobotce-z-dnia-14-10-2026",
+      "published": "2026-10-14",
+      "title": "37. sesja Rady Miejskiej w Sobótce z dnia 14.10.2026",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "562011": {
       "channel": "Łęki Szlacheckie",
       "checked_ts": 1795612351.1402,
@@ -31200,6 +34047,19 @@
       "title": "XXIV sesja IX kadencji",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562077": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797675.654028,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "562077",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1238263489.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/562077-xxxiv-sesja-rady-gminy-strzelce--ix-kadencji--21-10-2026-r--",
+      "published": "2026-10-21",
+      "title": "XXXIV sesja Rady Gminy Strzelce, IX kadencji, 21.10.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "562079": {
       "channel": "Banie",
@@ -31643,6 +34503,32 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "562128": {
+      "channel": "Sokolniki",
+      "checked_ts": 1795797557.1402247,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562128",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241187013.mp4",
+      "page": "https://sokolniki.tv-polska.eu/film/562128-nagranie-z-xxx-sesji-rady-gminy-sokolniki",
+      "published": "2026-01-01",
+      "title": "Nagranie z XXX Sesji Rady Gminy Sokolniki",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562129": {
+      "channel": "Sobótka",
+      "checked_ts": 1795797524.1919713,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "08 Dolny Śląsk i Opolskie",
+      "id": "562129",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1241197566.mp4",
+      "page": "https://sobotka.tv-polska.eu/film/562129-38--sesja-rady-miejskiej-w-sobotce",
+      "published": "2026-01-01",
+      "title": "38. sesja Rady Miejskiej w Sobótce",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "562130": {
       "channel": "Kępice",
       "checked_ts": 1795611880.8654199,
@@ -31837,6 +34723,32 @@
       "title": "XXVI Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (29.10.2026 r.)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562147": {
+      "channel": "Suchań",
+      "checked_ts": 1795797733.5354097,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562147",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242354267.mp4",
+      "page": "https://suchan.tv-polska.eu/film/562147-xxvi-sesja-rady-miejskiej-w-suchaniu---2026-10-27",
+      "published": "2026-10-27",
+      "title": "XXVI Sesja Rady Miejskiej w Suchaniu - 2026-10-27",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562148": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797810.5374885,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562148",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242356614.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/562148-xl-sesja-rady-gminy-z-dnia-29-10-2026r-",
+      "published": "2026-01-01",
+      "title": "XL Sesja Rady Gminy z dnia 29.10.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "562150": {
       "channel": "Olszyna",
@@ -32163,6 +35075,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562257": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797809.3456137,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562257",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247160463.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/562257-xli-sesja-rady-gminy-z-dnia-9-11-2026r-",
+      "published": "2026-01-01",
+      "title": "XLI Sesja Rady Gminy z dnia 9.11.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "562258": {
       "channel": "Połajewo",
       "checked_ts": 1795657653.096795,
@@ -32202,6 +35127,253 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562264": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797515.5030777,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562264",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562264-vi-sesja-rady-gminy-smoldzino--2024-10-03",
+      "published": "2024-01-01",
+      "title": "VI Sesja Rady Gminy Smołdzino- 2024.10.03",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562265": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797514.3160753,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562265",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562265-vii-sesja-rady-gminy-smoldzino--2024-10-29",
+      "published": "2024-01-01",
+      "title": "VII Sesja Rady Gminy Smołdzino- 2024.10.29",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562266": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797513.1052616,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562266",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562266-viii-sesja-rady-gminy-smoldzino-2024-11-28",
+      "published": "2024-01-01",
+      "title": "VIII Sesja Rady Gminy Smołdzino 2024 11 28",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562267": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797510.7094502,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562267",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562267-ix-sesja-rady-gminy-smoldzino--2024-12-19",
+      "published": "2024-01-01",
+      "title": "IX Sesja Rady Gminy Smołdzino- 2024.12.19",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562268": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797509.5031655,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562268",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562268-x-sesja-rady-gminy-smoldzino--2025-03-27",
+      "published": "2025-01-01",
+      "title": "X Sesja Rady Gminy Smołdzino- 2025.03.27",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562269": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797508.3021088,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562269",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562269-xi-sesja-rady-gminy-smoldzino--2025-04-15",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Gminy Smołdzino- 2025.04.15",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562270": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797507.0989895,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562270",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562270-xii-sesja-rady-gminy-smoldzino--2025-05-22",
+      "published": "2025-01-01",
+      "title": "XII Sesja Rady Gminy Smołdzino- 2025.05.22",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562271": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797505.8975303,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562271",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562271-xiii-sesja-rady-gminy-smoldzino--2025-06-12",
+      "published": "2025-01-01",
+      "title": "XIII Sesja Rady Gminy Smołdzino- 2025.06.12",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562272": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797504.701954,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562272",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562272-xiv-sesja-rady-gminy-smoldzino--2025-09-25",
+      "published": "2025-01-01",
+      "title": "XIV Sesja Rady Gminy Smołdzino- 2025.09.25",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562273": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797503.4996948,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562273",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562273-xv-sesja-rady-gminy-smoldzino--2025-10-28",
+      "published": "2025-01-01",
+      "title": "XV Sesja Rady Gminy Smołdzino- 2025.10.28",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562274": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797502.312096,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562274",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562274-xvi-sesja-rady-gminy-smoldzino--2025-11-25",
+      "published": "2025-01-01",
+      "title": "XVI Sesja Rady Gminy Smołdzino- 2025.11.25",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562275": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797499.9009416,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562275",
+      "media": "",
+      "page": "https://smoldzino.tv-polska.eu/film/562275-xvii-sesja-rady-gminy-smoldzino--2025-12-18",
+      "published": "2025-01-01",
+      "title": "XVII Sesja Rady Gminy Smołdzino- 2025.12.18",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562276": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797498.71276,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562276",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247231239.mp4",
+      "page": "https://smoldzino.tv-polska.eu/film/562276-xviii-sesja-rady-gminy-smoldzino--2026-01-15",
+      "published": "2026-01-01",
+      "title": "XVIII Sesja Rady Gminy Smołdzino- 2026.01.15",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562277": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797497.5071623,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562277",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247231427.mp4",
+      "page": "https://smoldzino.tv-polska.eu/film/562277-xix-sesja-rady-gminy-smoldzino--2026-03-26",
+      "published": "2026-01-01",
+      "title": "XIX Sesja Rady Gminy Smołdzino- 2026.03.26",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562278": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797496.30216,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562278",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247231670.mp4",
+      "page": "https://smoldzino.tv-polska.eu/film/562278-xx-sesja-rady-gminy-smoldzino--2026-04-23",
+      "published": "2026-01-01",
+      "title": "XX Sesja Rady Gminy Smołdzino- 2026.04.23",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562279": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797495.1088903,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562279",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247231819.mp4",
+      "page": "https://smoldzino.tv-polska.eu/film/562279-xxi-sesja-rady-gminy-smoldzino--2026-06-23",
+      "published": "2026-01-01",
+      "title": "XXI Sesja Rady Gminy Smołdzino- 2026.06.23",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562280": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797493.9041357,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562280",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247232543.mp4",
+      "page": "https://smoldzino.tv-polska.eu/film/562280-xxii-sesja-rady-gminy-smoldzino--2026-06-23",
+      "published": "2026-01-01",
+      "title": "XXII Sesja Rady Gminy Smołdzino- 2026.06.23",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562281": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797492.7148597,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562281",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247232948.mp4",
+      "page": "https://smoldzino.tv-polska.eu/film/562281-xxiii-sesja-rady-gminy-smoldzino--2026-09-24",
+      "published": "2026-01-01",
+      "title": "XXIII Sesja Rady Gminy Smołdzino- 2026.09.24",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562282": {
+      "channel": "Smołdzino",
+      "checked_ts": 1795797491.514209,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562282",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247233206.mp4",
+      "page": "https://smoldzino.tv-polska.eu/film/562282-xxiv-sesja-rady-gminy-smoldzino--2026-10-27",
+      "published": "2026-01-01",
+      "title": "XXIV Sesja Rady Gminy Smołdzino- 2026.10.27",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "562285": {
       "channel": "Powiat Człuchowski",
       "checked_ts": 1795657759.936977,
@@ -32240,6 +35412,19 @@
       "title": "37 SESJA RADY MIASTA I GMINY KIERNOZIA 03.11.26",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562296": {
+      "channel": "Strzelce",
+      "checked_ts": 1795797674.438402,
+      "date_source": "data w tytule",
+      "group": "10 Lubuskie",
+      "id": "562296",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1247884901.mp4",
+      "page": "https://strzelce.tv-polska.eu/film/562296-xxxv-sesja-rady-gminy-strzelce-z-dnia-17-11-2026-r---ix-kadencja",
+      "published": "2026-11-17",
+      "title": "XXXV SESJA RADY GMINY STRZELCE Z DNIA 17.11.2026 r., IX KADENCJA",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "562300": {
       "channel": "Dąbrowice",
@@ -32592,6 +35777,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562333": {
+      "channel": "Stare Czarnowo",
+      "checked_ts": 1795797589.8936205,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562333",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248293075.mp4",
+      "page": "https://stareczarnowo.tv-polska.eu/film/562333-xxviii-sesja-ix-kadencji-rady-gminy-stare-czarnowo-z-dnia-19-listopada-2026-r-",
+      "published": "2026-01-01",
+      "title": "XXVIII Sesja IX kadencji Rady Gminy Stare Czarnowo z dnia 19 listopada 2026 r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "562334": {
       "channel": "Mielno",
       "checked_ts": 1795612609.194824,
@@ -32604,6 +35802,19 @@
       "title": "XXXV Sesja Rady Miejskiej Mielna 19.11.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562335": {
+      "channel": "Stepnica",
+      "checked_ts": 1795797640.7275085,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562335",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1248346752.mp4",
+      "page": "https://stepnica.tv-polska.eu/film/562335-xvii-sesja-rady-miejskiej-w-stepnicy-w-kadencji-2024-2029",
+      "published": "2026-01-01",
+      "title": "XVII Sesja Rady Miejskiej w Stepnicy w kadencji 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-27"
     },
     "562338": {
       "channel": "Jadów",
@@ -32930,6 +36141,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562384": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797808.1392963,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562384",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1250005963.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/562384-xlii-sesja-rady-gminy-z-dnia-19-11-2026r-",
+      "published": "2026-01-01",
+      "title": "XLII Sesja Rady Gminy z dnia 19.11.2026r.",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "562386": {
       "channel": "Ręczno",
       "checked_ts": 1795743946.0134668,
@@ -32982,6 +36206,32 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "562415": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797806.9536626,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562415",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1250552764.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/562415-xliii-sesja-rady-gminy-z-dnia-24-11-2026r",
+      "published": "2026-01-01",
+      "title": "XLIII Sesja Rady Gminy z dnia 24.11.2026r",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
+    "562418": {
+      "channel": "Szczecinek Gmina",
+      "checked_ts": 1795797805.7330558,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562418",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1250573628.mp4",
+      "page": "https://gminaszczecinek.tv-polska.eu/film/562418-xliv-sesja-rady-gminy-z-dnia-25-11-2026r",
+      "published": "2026-01-01",
+      "title": "XLIV Sesja Rady Gminy z dnia 25.11.2026r",
+      "tourism": false,
+      "updated": "2026-11-27"
+    },
     "67476": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609799.585375,
@@ -33022,7 +36272,7 @@
       "updated": "2026-11-26"
     }
   },
-  "last_run": "2026-11-27T01:49:54.429449+00:00",
+  "last_run": "2026-11-27T16:44:02.394863+00:00",
   "page_cursors": {
     "alfatv": 3,
     "barcin": 4,
@@ -33067,6 +36317,7 @@
     "gminapuck": 4,
     "gminaslupsk": 2,
     "gminastargard": 4,
+    "gminaszczecinek": 4,
     "gniew": 4,
     "gniewino": 4,
     "gniewoszow": 4,
@@ -33164,7 +36415,20 @@
     "siekierczyn": 4,
     "siemysl": 4,
     "skape": 4,
+    "slaskie": 2,
     "slawno": 2,
+    "smoldzino": 4,
+    "sobotka": 4,
+    "sokolniki": 4,
+    "stareczarnowo": 4,
+    "stargard": 2,
+    "stepnica": 4,
+    "strzelce": 4,
+    "studzienice": 4,
+    "suchan": 4,
+    "szczecin": 4,
+    "szczecinek": 2,
+    "szczecinzdrona": 2,
     "ugjoniec": 2,
     "ugposwietne": 4,
     "umnowemiasto": 4,
