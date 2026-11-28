@@ -1,6 +1,19 @@
 {
-  "cursor": 168,
+  "cursor": 187,
   "items": {
+    "119232": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829546.5375576,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "119232",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/119232-drawa-i-25-jezior",
+      "published": "2014-01-01",
+      "title": "Drawa i 25 jezior",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "126976": {
       "channel": "Biały Bór",
       "checked_ts": 1795610552.760743,
@@ -209,6 +222,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13284": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829283.5671988,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13284",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/13284-zbawienne-zgnile-bagna",
+      "published": "2008-01-01",
+      "title": "Zbawienne zgniłe bagna",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "13299": {
       "channel": "Darłowo",
       "checked_ts": 1795610966.2203221,
@@ -377,6 +403,32 @@
       "title": "Międzyzdroje",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "13335": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829441.1044054,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13335",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/13335-widuchowa",
+      "published": "2010-01-01",
+      "title": "Widuchowa",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "13336": {
+      "channel": "Trzebiatów",
+      "checked_ts": 1795829323.7484581,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13336",
+      "media": "",
+      "page": "https://trzebiatow.tv-polska.eu/film/13336-725-lat-trzebiatowa",
+      "published": "2002-01-01",
+      "title": "725 lat Trzebiatowa",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "13337": {
       "channel": "Recz",
@@ -560,6 +612,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "13361": {
+      "channel": "Trzcianka",
+      "checked_ts": 1795829274.8440082,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "13361",
+      "media": "",
+      "page": "https://trzcianka.tv-polska.eu/film/13361-trzcianka-i-okolice",
+      "published": "1999-01-01",
+      "title": "Trzcianka i okolice",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "13362": {
       "channel": "Kujawsko-Pomorskie",
       "checked_ts": 1795612155.534238,
@@ -741,6 +806,19 @@
       "title": "Ziemia Nowogardzka - 1992r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13378": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829581.7067447,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "13378",
+      "media": "",
+      "page": "https://zlocieniec.tv-polska.eu/film/13378-zlocieniec-2009r-",
+      "published": "2009-01-01",
+      "title": "Złocieniec 2009r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "13380": {
       "channel": "Gryfino",
@@ -924,6 +1002,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13400": {
+      "channel": "Trzebiatów",
+      "checked_ts": 1795829322.5405424,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13400",
+      "media": "",
+      "page": "https://trzebiatow.tv-polska.eu/film/13400-trzebiatow---1992r-",
+      "published": "1992-01-01",
+      "title": "Trzebiatów - 1992r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "13401": {
       "channel": "Koszalin",
       "checked_ts": 1795612053.5225976,
@@ -936,6 +1027,19 @@
       "title": "Koszalińskie - panorama biznesu -1994r.",
       "tourism": true,
       "updated": "2026-11-25"
+    },
+    "13402": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829284.7568066,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13402",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/13402-trzcinsko-zdroj",
+      "published": "2007-01-01",
+      "title": "Trzcińsko-Zdrój",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "13403": {
       "channel": "Police",
@@ -1093,6 +1197,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "13444": {
+      "channel": "Trzcianka",
+      "checked_ts": 1795829276.056551,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "13444",
+      "media": "",
+      "page": "https://trzcianka.tv-polska.eu/film/13444-trzcianka---1992r-",
+      "published": "1992-01-01",
+      "title": "Trzcianka - 1992r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "13445": {
       "channel": "Kujawsko-Pomorskie",
       "checked_ts": 1795612156.7176325,
@@ -1170,6 +1287,32 @@
       "title": "OSM Stargard Szczeciński - 1991r",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "13461": {
+      "channel": "Wronki",
+      "checked_ts": 1795829520.126259,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "13461",
+      "media": "",
+      "page": "https://wronki.tv-polska.eu/film/13461-budowa-fabryki-lodowek-amica-wronki---1996r-",
+      "published": "1996-01-01",
+      "title": "Budowa fabryki lodówek Amica Wronki - 1996r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "13462": {
+      "channel": "Wronki",
+      "checked_ts": 1795829521.389116,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "06 Kujawy i Wielkopolska",
+      "id": "13462",
+      "media": "",
+      "page": "https://wronki.tv-polska.eu/film/13462-amica-wronki---1995r-",
+      "published": "1995-01-01",
+      "title": "Amica Wronki - 1995r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "13469": {
       "channel": "Powiat Stargardzki",
@@ -1691,6 +1834,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "13575": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829439.8859296,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13575",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/13575-niezwyklosci-widuchowej",
+      "published": "2011-01-01",
+      "title": "Niezwykłości Widuchowej",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "13576": {
+      "channel": "Trzebiatów",
+      "checked_ts": 1795829321.3421655,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13576",
+      "media": "",
+      "page": "https://trzebiatow.tv-polska.eu/film/13576-szlak-slonia",
+      "published": "2011-01-01",
+      "title": "Szlak Słonia",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "13585": {
       "channel": "Powiat Kamieński",
       "checked_ts": 1795657843.2716892,
@@ -1768,6 +1937,19 @@
       "title": "Cicha noc",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "13600": {
+      "channel": "Trzebiatów",
+      "checked_ts": 1795829318.9448445,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "13600",
+      "media": "",
+      "page": "https://trzebiatow.tv-polska.eu/film/13600-cztery-koscioly",
+      "published": "2012-01-01",
+      "title": "Cztery kościoły",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "13601": {
       "channel": "Pyrzyce",
@@ -1951,6 +2133,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "13636": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829442.3021073,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "13636",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/13636-kampania-spoleczna",
+      "published": "2012-01-01",
+      "title": "Kampania społeczna",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "13639": {
       "channel": "Resko",
       "checked_ts": 1795743902.800886,
@@ -2080,6 +2275,19 @@
       "title": "Marianowska historia Męki Pańskiej",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "13671": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829582.9174337,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "13671",
+      "media": "",
+      "page": "https://zlocieniec.tv-polska.eu/film/13671-spot-reklamowy---gmina-zlocieniec--",
+      "published": "2013-01-01",
+      "title": "Spot reklamowy \\\"Gmina Złocieniec\\\"",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "13672": {
       "channel": "Powiat Stargardzki",
@@ -2262,6 +2470,19 @@
       "title": "Letnie Drawno widziane okiem drona",
       "tourism": true,
       "updated": "2026-11-25"
+    },
+    "140275": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829545.359348,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "140275",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/140275-jomsborg---wrota-pomorza",
+      "published": "2014-01-01",
+      "title": "Jomsborg – Wrota Pomorza",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "143371": {
       "channel": "Nowogard",
@@ -2835,6 +3056,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "19625": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829282.3567033,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "19625",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/19625-gmina-trzcinsko-zdroj---zdjecia-z-drona",
+      "published": "2013-01-01",
+      "title": "Gmina Trzcińsko-Zdrój - zdjęcia z drona",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "19646": {
       "channel": "Międzyzdroje",
       "checked_ts": 1795612741.6463687,
@@ -2926,6 +3160,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "231489": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829542.930142,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "231489",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/231489-przejscia-graniczne",
+      "published": "2015-01-01",
+      "title": "Przejścia Graniczne",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "233778": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609787.5739918,
@@ -2991,6 +3238,19 @@
       "tourism": true,
       "updated": "2026-11-25"
     },
+    "239239": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829541.7368143,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "239239",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/239239-tajemnice-urzedowego-gmachu",
+      "published": "2015-01-01",
+      "title": "Tajemnice urzędowego gmachu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "241363": {
       "channel": "Resko",
       "checked_ts": 1795743890.8031101,
@@ -3017,6 +3277,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "246715": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829540.5338304,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "246715",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/246715-wies-konca-swiata",
+      "published": "2015-01-01",
+      "title": "Wieś końca świata",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "253271": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829539.3440568,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "253271",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/253271-wokol-kragu",
+      "published": "2015-01-01",
+      "title": "Wokół Krągu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "256860": {
       "channel": "Stepnica",
       "checked_ts": 1795797637.1188867,
@@ -3030,6 +3316,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "262028": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829538.1265452,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "262028",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/262028-historyczna-cedynia",
+      "published": "2015-01-01",
+      "title": "Historyczna Cedynia",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "267331": {
       "channel": "Cewice",
       "checked_ts": 1795610694.3768694,
@@ -3042,6 +3341,32 @@
       "title": "Spływ kajakowy rzeką Bukowiną (Gmina Cewice)",
       "tourism": true,
       "updated": "2026-11-25"
+    },
+    "271757": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829537.0418434,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "271757",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/271757-jadac-do-glinnej",
+      "published": "2015-01-01",
+      "title": "Jadąc do Glinnej",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "272735": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829535.741048,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "272735",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/272735-dzika-odra",
+      "published": "2015-01-01",
+      "title": "Dzika Odra",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "273213": {
       "channel": "Cewice",
@@ -3069,6 +3394,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "281042": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829533.3407109,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "281042",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/281042-tuczno",
+      "published": "2015-01-01",
+      "title": "Tuczno",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "281063": {
       "channel": "Barlinek",
       "checked_ts": 1795610502.4128017,
@@ -3094,6 +3432,84 @@
       "title": "Agrofirma Witkowo - Żniwa 2015",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "294744": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829532.2424126,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "294744",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/294744-odkrywanie-wyspy-wolin",
+      "published": "2015-01-01",
+      "title": "Odkrywanie Wyspy Wolin",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "294745": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829530.9297488,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "294745",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/294745-jezioro-osobliwosci",
+      "published": "2015-01-01",
+      "title": "Jezioro osobliwości",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "299481": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829529.758592,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "299481",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/299481-swidwinskie-historie",
+      "published": "2015-01-01",
+      "title": "Świdwińskie historie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "299483": {
+      "channel": "Wałcz",
+      "checked_ts": 1795829330.5676346,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "299483",
+      "media": "",
+      "page": "https://walcz.tv-polska.eu/film/299483-oblicza-walcza",
+      "published": "2015-01-01",
+      "title": "Oblicza Wałcza",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "300822": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829526.1552134,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "300822",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/300822-czaplinek",
+      "published": "2015-01-01",
+      "title": "Czaplinek",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "300824": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829528.5392592,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "300824",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/300824-wrzosowiska--zubry-i----",
+      "published": "2015-01-01",
+      "title": "Wrzosowiska, żubry i ...",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "304954": {
       "channel": "Szczecin z drona",
@@ -3238,6 +3654,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "369904": {
+      "channel": "Wałcz",
+      "checked_ts": 1795829329.2758622,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "369904",
+      "media": "",
+      "page": "https://walcz.tv-polska.eu/film/369904-walcz-z-drona",
+      "published": "2016-01-01",
+      "title": "Wałcz z drona",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "377110": {
       "channel": "Nowe Warpno",
       "checked_ts": 1795615027.9142244,
@@ -3303,6 +3732,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "395220": {
+      "channel": "Zapiski Łazęgi",
+      "checked_ts": 1795829527.3444974,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "09 Śląskie i Małopolskie",
+      "id": "395220",
+      "media": "",
+      "page": "https://zapiskilazegi.tv-polska.eu/film/395220-most-europejski",
+      "published": "2016-01-01",
+      "title": "Most Europejski",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "397375": {
       "channel": "Dębno",
       "checked_ts": 1795611043.0828779,
@@ -3367,6 +3809,19 @@
       "title": "Agrofirma Witkowo Cooperative (English)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "406300": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829281.1561651,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "406300",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/406300-gminne-obchody-odzyskania-niepodleglosci---10-listopada-2016r-",
+      "published": "2016-01-01",
+      "title": "GMINNE OBCHODY ODZYSKANIA NIEPODLEGŁOŚCI - 10 LISTOPADA 2016r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "406647": {
       "channel": "Agrofirma Witkowo",
@@ -3458,6 +3913,19 @@
       "title": "Zalew i Mierzeja Wiślana",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "420812": {
+      "channel": "Warnice",
+      "checked_ts": 1795829339.5567687,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "420812",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/420812-gmina-warnice-z-drona---zaborsko",
+      "published": "2017-01-01",
+      "title": "Gmina Warnice z drona - Zaborsko",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "422750": {
       "channel": "Cewice",
@@ -4174,6 +4642,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "460763": {
+      "channel": "Trzebiatów",
+      "checked_ts": 1795829320.2583349,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "01 Pomorze Zachodnie - wybrzeże",
+      "id": "460763",
+      "media": "",
+      "page": "https://trzebiatow.tv-polska.eu/film/460763-ulan-z-trzebiatowa",
+      "published": "1995-01-01",
+      "title": "Ułan z Trzebiatowa",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "461105": {
       "channel": "Police",
       "checked_ts": 1795657619.2344904,
@@ -4629,6 +5110,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "500171": {
+      "channel": "test",
+      "checked_ts": 1795829236.3966122,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "500171",
+      "media": "",
+      "page": "https://test.tv-polska.eu/film/500171-test",
+      "published": "2020-01-01",
+      "title": "test",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "500405": {
       "channel": "Czarna Dąbrowka",
       "checked_ts": 1795610821.5889752,
@@ -4654,6 +5148,19 @@
       "title": "Życzenia świąteczne Resko 2020",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "500846": {
+      "channel": "test",
+      "checked_ts": 1795829235.2009563,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "500846",
+      "media": "",
+      "page": "https://test.tv-polska.eu/film/500846-test-2",
+      "published": "2020-01-01",
+      "title": "test 2",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "501058": {
       "channel": "Gmina Drawsko",
@@ -4681,6 +5188,58 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "503002": {
+      "channel": "test",
+      "checked_ts": 1795829233.9883633,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "503002",
+      "media": "",
+      "page": "https://test.tv-polska.eu/film/503002-testowe-wideo",
+      "published": "2021-01-01",
+      "title": "Testowe wideo",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "504110": {
+      "channel": "test",
+      "checked_ts": 1795829232.786197,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "12 Kanały tematyczne i inne",
+      "id": "504110",
+      "media": "",
+      "page": "https://test.tv-polska.eu/film/504110-testowy_film",
+      "published": "2021-01-01",
+      "title": "Testowy_film",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "505482": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829271.9180791,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "505482",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/505482-xlii-nadzwyczajna-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2021-01-01",
+      "title": "XLII nadzwyczajna sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "505765": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829270.7214978,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "505765",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/505765-xliii-sesja-rady-miasta-tomaszowa-mazowieckiego",
+      "published": "2021-01-01",
+      "title": "XLIII sesja Rady Miasta Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "505841": {
       "channel": "Drawno",
       "checked_ts": 1795611128.2409067,
@@ -4706,6 +5265,45 @@
       "title": "Dzielnice Szczecina z drona - Majowe",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "507764": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829269.5242212,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "507764",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/507764-xliv-sesja-rady-miasta-tomaszowa-mazowieckiego",
+      "published": "2021-01-01",
+      "title": "XLIV sesja Rady Miasta Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "509694": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829268.3240535,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "509694",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/509694-xlvi-nadzwyczajna-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2021-01-01",
+      "title": "XLVI nadzwyczajna sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "509695": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829267.1431746,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "509695",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/509695-xlv-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2021-01-01",
+      "title": "XLV sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "510814": {
       "channel": "Szczecin",
@@ -4759,6 +5357,32 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "512217": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829265.888373,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "512217",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/512217-park-bulwary",
+      "published": "2021-01-01",
+      "title": "Park Bulwary",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "512472": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829241.9272797,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "512472",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/512472-bieg-malinowskiego",
+      "published": "2021-01-01",
+      "title": "Bieg Malinowskiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "513212": {
       "channel": "Piątek",
       "checked_ts": 1795615213.8347383,
@@ -4771,6 +5395,19 @@
       "title": "Las Witowski - Silne Błota",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "514478": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829264.7256734,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "514478",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/514478-l-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2021-01-01",
+      "title": "L sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "515702": {
       "channel": "Międzyzdroje",
@@ -4966,6 +5603,123 @@
       "title": "Powiat Drawski - Gmina Czaplinek z drona",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "522744": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829262.322327,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "522744",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/522744-xlvii-sesja-rady-miejskiej-tomaszowa-mazowieckigo",
+      "published": "2021-01-01",
+      "title": "XLVII sesja Rady Miejskiej Tomaszowa Mazowieckigo",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "522745": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829261.116728,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "522745",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/522745-xlviii-sesja-rady-miejskiej-tomaszowa-mazowieckigo",
+      "published": "2021-01-01",
+      "title": "XLVIII sesja Rady Miejskiej Tomaszowa Mazowieckigo",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "522746": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829259.9104855,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "522746",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/522746-xlix-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2021-01-01",
+      "title": "XLIX sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "522748": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829258.7000704,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "522748",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/522748-li-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2021-01-01",
+      "title": "LI sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "522751": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829257.524148,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "522751",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/522751-lii-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2021-01-01",
+      "title": "LII sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "522752": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829256.3146958,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "522752",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/522752-liii-nadzwyczajna-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2022-01-01",
+      "title": "LIII nadzwyczajna sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "522754": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829255.130384,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "522754",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/522754-liv-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2022-01-01",
+      "title": "LIV sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "522756": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829253.9211535,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "522756",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/522756-lv-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2022-01-01",
+      "title": "LV sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "522759": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829251.5272648,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "522759",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/522759-lvi-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2022-01-01",
+      "title": "LVI sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "523788": {
       "channel": "Choszczno",
@@ -5409,6 +6163,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "533519": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829250.323124,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "533519",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/533519-lvii-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2022-01-01",
+      "title": "LVII sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "533538": {
       "channel": "Rewal",
       "checked_ts": 1795743941.2092695,
@@ -5499,6 +6266,84 @@
       "title": "LIII Sesja Rady Gminy Rewal - 25.08.2022r.",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "534019": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829249.1299934,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "534019",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/534019-lviii--sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2023-01-01",
+      "title": "LVIII  sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "534020": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829247.937487,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "534020",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/534020-lix--sesja-rady-miejskiej-tomaszowa-mazowieckiego-cz-1",
+      "published": "2023-01-01",
+      "title": "LIX  sesja Rady Miejskiej Tomaszowa Mazowieckiego cz.1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "534023": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829246.7291307,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "534023",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/534023-lix-sesja-rady-miejskiej-tomaszowa-mazowieckiego-cz-2",
+      "published": "2023-01-01",
+      "title": "LIX sesja Rady Miejskiej Tomaszowa Mazowieckiego cz.2",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "534024": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829245.5219674,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "534024",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/534024-lx--nadzwyczajna-sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2023-01-01",
+      "title": "LX  nadzwyczajna sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "534030": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829244.330599,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "534030",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/534030-lxi--sesja-rady-miejskiej-tomaszowa-mazowieckiego",
+      "published": "2023-01-01",
+      "title": "LXI  sesja Rady Miejskiej Tomaszowa Mazowieckiego",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "534036": {
+      "channel": "Tomaszów Mazowiecki",
+      "checked_ts": 1795829243.1188354,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "534036",
+      "media": "",
+      "page": "https://tomaszowmazowiecki.tv-polska.eu/film/534036-lxii-sesja-rady-miejskiej-tomaszowa-mazowieckiego-cz--i",
+      "published": "2023-01-01",
+      "title": "LXII sesja Rady Miejskiej Tomaszowa Mazowieckiego cz. I",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "534258": {
       "channel": "Nowe Warpno",
@@ -6566,6 +7411,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "541058": {
+      "channel": "Warnice",
+      "checked_ts": 1795829340.6436481,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "541058",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/541058-gazeta-gminna---1-2024",
+      "published": "2024-01-01",
+      "title": "Gazeta Gminna - 1/2024",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "541121": {
       "channel": "Kobylanka",
       "checked_ts": 1795611964.8532987,
@@ -6787,6 +7645,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "542194": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829285.9490952,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "542194",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/542194-prace-inwestycyjne-przebudowy-drogi-w-dobropolu",
+      "published": "2024-01-01",
+      "title": "Prace inwestycyjne przebudowy drogi w Dobropolu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "542352": {
       "channel": "Studzienice",
       "checked_ts": 1795797727.2279966,
@@ -6825,6 +7696,32 @@
       "title": "Sesja Rady Gminy Karnice 26.04.2024",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "542412": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829473.500826,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "542412",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/542412-sesja-nr-lxi-2024-rady-gminy-widuchowa--kadencja-2018-2023",
+      "published": "2024-01-01",
+      "title": "Sesja Nr LXI/2024 Rady Gminy Widuchowa, kadencja 2018-2023",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "542413": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829472.3166702,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "542413",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/542413-sesja-nr-lxii-2024-rady-gminy-widuchowa--kadencja-2018-2023",
+      "published": "2024-01-01",
+      "title": "Sesja Nr LXII/2024 Rady Gminy Widuchowa, kadencja 2018-2023",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "542495": {
       "channel": "alfaTV",
@@ -7060,6 +7957,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "542756": {
+      "channel": "Wicko",
+      "checked_ts": 1795829437.0688448,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "542756",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/542756-i-sesja-ix-kadencji-rady-gminy-wicko---7-maja-2024-roku-",
+      "published": "2024-01-01",
+      "title": "I sesja IX kadencji Rady Gminy Wicko - 7 maja 2024 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "542784": {
       "channel": "Stepnica",
       "checked_ts": 1795797662.3182142,
@@ -7112,6 +8022,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "542923": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829471.0915537,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "542923",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/542923-sesja-nr-i-2024-rady-gminy-widuchowa--kadencja-2024-2029--czesc-1",
+      "published": "2024-01-01",
+      "title": "Sesja Nr I/2024 Rady Gminy Widuchowa, kadencja 2024-2029. Część 1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "542924": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829469.8844461,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "542924",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/542924-sesja-nr-i-2024-rady-gminy-widuchowa--kadencja-2024-2029--czesc-2",
+      "published": "2024-01-01",
+      "title": "Sesja Nr I/2024 Rady Gminy Widuchowa, kadencja 2024-2029. Część 2",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "542985": {
       "channel": "Gniewino",
       "checked_ts": 1795611415.5586383,
@@ -7137,6 +8073,19 @@
       "title": "Sesja I Rady Miejskiej w Choszcznie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "543065": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829404.5399544,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "543065",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/543065-ii-sesja-rady-miejskiej-w-wegorzynie",
+      "published": "2024-01-01",
+      "title": "II sesja Rady Miejskiej w Węgorzynie",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "543114": {
       "channel": "Choszczno",
@@ -7385,6 +8334,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "543281": {
+      "channel": "Wicko",
+      "checked_ts": 1795829435.8767412,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "543281",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/543281-ii-sesja-ix-kadencji-rady-gminy-wicko---28-maja-2024-roku-",
+      "published": "2024-01-01",
+      "title": "II sesja IX kadencji Rady Gminy Wicko - 28 maja 2024 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "543314": {
       "channel": "Połajewo",
       "checked_ts": 1795657677.0869305,
@@ -7541,6 +8503,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "543798": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829403.322524,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "543798",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/543798-iii-sesja-rady-miejskiej-w-wegorzynie",
+      "published": "2024-01-01",
+      "title": "III sesja Rady Miejskiej w Węgorzynie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "543854": {
       "channel": "Kobylanka",
       "checked_ts": 1795611956.4553692,
@@ -7553,6 +8528,19 @@
       "title": "III Sesja Rady Gminy 20.06.2024",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "543960": {
+      "channel": "Wicko",
+      "checked_ts": 1795829434.6891813,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "543960",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/543960-iii-sesja-ix-kadencji-rady-gminy-wicko---25-czerwca-2024-roku-",
+      "published": "2024-01-01",
+      "title": "III sesja IX kadencji Rady Gminy Wicko - 25 czerwca 2024 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "543979": {
       "channel": "Połajewo",
@@ -7801,6 +8789,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "544621": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829468.7101982,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "544621",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/544621-sesja-nr-iii-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2024-01-01",
+      "title": "Sesja Nr III/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "544622": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829467.5093918,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "544622",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/544622-sesja-nr-ii-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2024-01-01",
+      "title": "Sesja Nr II/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "544627": {
       "channel": "Pełczyce",
       "checked_ts": 1795615210.226254,
@@ -7878,6 +8892,19 @@
       "title": "IV Sesja Rady Miejskiej w Suchaniu - 2024-08-13",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "545134": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829315.9539142,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "545134",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/545134-iv---sesja-rady-miejskiej-w-trzcinsku---zdroju---23-08-2024-r-",
+      "published": "2024-08-23",
+      "title": "IV - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 23.08.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "545183": {
       "channel": "Manowo",
@@ -8529,6 +9556,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546017": {
+      "channel": "Wicko",
+      "checked_ts": 1795829433.4911003,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546017",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/546017-iv-sesja-ix-kadencji-rady-gminy-wicko---24-wrzesnia-2024-roku-",
+      "published": "2024-01-01",
+      "title": "IV sesja IX kadencji Rady Gminy Wicko - 24 września 2024 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "546037": {
       "channel": "Bielice",
       "checked_ts": 1795610587.5677998,
@@ -8697,6 +9737,32 @@
       "title": "VIII Sesja Rady Powiatu Kutnowskiego",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "546208": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829314.7592473,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546208",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/546208-v---sesja-rady-miejskiej-w-trzcinsku---zdroju---27-09-2024-r-",
+      "published": "2024-09-27",
+      "title": "V - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 27.09.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "546214": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829402.1241088,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "546214",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/546214-iv-sesja-rady-miejskiej-w-wegorzynie",
+      "published": "2024-01-01",
+      "title": "IV Sesja Rady Miejskiej w Węgorzynie",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "546219": {
       "channel": "Powiat Kutnowski",
@@ -8971,6 +10037,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "546722": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829313.559544,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "546722",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/546722-vi---sesja-rady-miejskiej-w-trzcinsku---zdroju---25-10-2024-r-",
+      "published": "2024-10-25",
+      "title": "VI - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 25.10.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "546726": {
       "channel": "Powiat Myśliborski",
       "checked_ts": 1795711941.6056194,
@@ -9087,6 +10166,19 @@
       "title": "V sesja Rady Powiatu w Żninie - 25.10.2024 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "546810": {
+      "channel": "Wicko",
+      "checked_ts": 1795829432.2794018,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "546810",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/546810-v-sesja-ix-kadencji-rady-gminy-wicko---29-pazdziernika-2024-roku-",
+      "published": "2024-01-01",
+      "title": "V sesja IX kadencji Rady Gminy Wicko - 29 października 2024 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "546811": {
       "channel": "Bielice",
@@ -9309,6 +10401,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547068": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829400.931436,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "547068",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/547068-v-sesja-rady-miejskiej-w-wegorzynie",
+      "published": "2024-01-01",
+      "title": "V sesja Rady Miejskiej w Węgorzynie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "547104": {
       "channel": "Dziwnów",
       "checked_ts": 1795611272.7437801,
@@ -9347,6 +10452,19 @@
       "title": "VII sesja Rady Miejskiej w Piątku",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547219": {
+      "channel": "Warnice",
+      "checked_ts": 1795829371.8549716,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547219",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/547219-vii-sesja-rady-gminy-warnice---05-11-2024-r-",
+      "published": "2024-11-05",
+      "title": "VII Sesja Rady Gminy Warnice - 05.11.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "547232": {
       "channel": "Lewin Kłodzki",
@@ -9764,6 +10882,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "547529": {
+      "channel": "Wicko",
+      "checked_ts": 1795829431.0830736,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "547529",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/547529-vi-sesja-ix-kadencji-rady-gminy-wicko---26-listopada-2024-roku-",
+      "published": "2024-01-01",
+      "title": "VI sesja IX kadencji Rady Gminy Wicko - 26 listopada 2024 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "547537": {
       "channel": "Siemyśl",
       "checked_ts": 1795744154.8230162,
@@ -9802,6 +10933,19 @@
       "title": "IX Sesja Rady Gminy w Krzynowłodze Małej",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547563": {
+      "channel": "Warnice",
+      "checked_ts": 1795829370.645879,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "547563",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/547563-viii-nadzwyczajna-sesja-rady-gminy-warnice---27-11-2024-r-",
+      "published": "2024-11-27",
+      "title": "VIII Nadzwyczajna Sesja Rady Gminy Warnice - 27.11.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "547572": {
       "channel": "Marianowo",
@@ -10024,6 +11168,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "547894": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829399.726696,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "547894",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/547894-vi-sesja-rady-miejskiej-w-wegorzynie---09-12-2024-r-",
+      "published": "2024-12-09",
+      "title": "VI Sesja Rady Miejskiej w Węgorzynie - 09.12.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "547909": {
       "channel": "Maszewo",
       "checked_ts": 1795612505.9466512,
@@ -10075,6 +11232,19 @@
       "title": "VIII Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "547930": {
+      "channel": "Wicko",
+      "checked_ts": 1795829429.878039,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "547930",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/547930-vii-sesja-ix-kadencji-rady-gminy-wicko---17-grudnia-2024-roku-",
+      "published": "2024-01-01",
+      "title": "VII sesja IX kadencji Rady Gminy Wicko - 17 grudnia 2024 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "547937": {
       "channel": "Międzychód",
@@ -10544,6 +11714,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "548054": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829398.5352776,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "548054",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/548054-vii-sesja-rady-miejskiej-w-wegorzynie",
+      "published": "2024-01-01",
+      "title": "VII Sesja Rady Miejskiej w Węgorzynie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "548058": {
       "channel": "Manowo",
       "checked_ts": 1795612437.5404592,
@@ -10712,6 +11895,58 @@
       "title": "XII zwyczajna Sesja Rady Miasta Puck IX Kadencji w latach 2024 - 2029",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "548136": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829312.3530548,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548136",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/548136-vii---sesja-rady-miejskiej-w-trzcinsku---zdroju---29-11-2024-r-",
+      "published": "2024-11-29",
+      "title": "VII - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 29.11.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "548137": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829311.167162,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548137",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/548137-viii---sesja-rady-miejskiej-w-trzcinsku---zdroju---20-12-2024-r-",
+      "published": "2024-12-20",
+      "title": "VIII - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 20.12.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "548138": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829309.9511461,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548138",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/548138-swiateczne-zyczenia-od-burmistrza-i-przewodniczacego-rady-miejskiej",
+      "published": "2024-01-01",
+      "title": "Świąteczne życzenia od Burmistrza i Przewodniczącego Rady Miejskiej",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "548145": {
+      "channel": "Warnice",
+      "checked_ts": 1795829369.447576,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548145",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/548145-ix-sesja-rady-gminy-warnice---20-12-2024-r-",
+      "published": "2024-12-20",
+      "title": "IX Sesja Rady Gminy Warnice - 20.12.2024 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "548148": {
       "channel": "Nowe Warpno",
@@ -11220,6 +12455,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "548786": {
+      "channel": "Wicko",
+      "checked_ts": 1795829428.6472712,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "548786",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/548786-viii-sesja-ix-kadencji-rady-gminy-wicko---28-stycznia-2025-roku-",
+      "published": "2025-01-01",
+      "title": "VIII sesja IX kadencji Rady Gminy Wicko - 28 stycznia 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "548789": {
       "channel": "Mielno",
       "checked_ts": 1795612638.004221,
@@ -11571,6 +12819,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "548945": {
+      "channel": "Warnice",
+      "checked_ts": 1795829368.241579,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "548945",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/548945-x-sesja-rady-gminy-warnice---29-01-2025-r-",
+      "published": "2025-01-29",
+      "title": "X Sesja Rady Gminy Warnice - 29.01.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "548965": {
       "channel": "Dygowo",
       "checked_ts": 1795611191.8432426,
@@ -11661,6 +12922,19 @@
       "title": "IX sesja Rady Gminy Kocierzew Południowy",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549010": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829308.7533553,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "549010",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/549010-ix---sesja-rady-miejskiej-w-trzcinsku---zdroju---31-01-2025-r-",
+      "published": "2025-01-31",
+      "title": "IX - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 31.01.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "549014": {
       "channel": "Karnice",
@@ -12104,6 +13378,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "549452": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829397.3245177,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "549452",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/549452-viii-sesja-rady-miejskiej-w-wegorzynie---27-02-2025-r-",
+      "published": "2025-02-27",
+      "title": "VIII Sesja Rady Miejskiej w Węgorzynie - 27.02.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "549456": {
       "channel": "Bierzwnik",
       "checked_ts": 1795610611.5748813,
@@ -12350,6 +13637,19 @@
       "title": "XI Sesja Rady Gminy Dygowo z dnia 26 lutego 2025 roku",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "549556": {
+      "channel": "Warnice",
+      "checked_ts": 1795829367.059519,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "549556",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/549556-xi-sesja-rady-gminy-warnice---27-02-2025-r-",
+      "published": "2025-02-27",
+      "title": "XI Sesja Rady Gminy Warnice - 27.02.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "549565": {
       "channel": "Jaktorów",
@@ -12884,6 +14184,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550049": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829396.1286263,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "550049",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/550049-ix-sesja-rady-miejskiej-w-wegorzynie---27-03-2025-r-",
+      "published": "2025-03-27",
+      "title": "IX Sesja Rady Miejskiej w Węgorzynie - 27.03.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "550051": {
       "channel": "Stepnica",
       "checked_ts": 1795797655.1267562,
@@ -13092,6 +14405,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "550108": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829307.5656939,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550108",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/550108-x---sesja-rady-miejskiej-w-trzcinsku---zdroju---28-03-2025-r-",
+      "published": "2025-03-28",
+      "title": "X - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 28.03.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "550109": {
       "channel": "Gmina Miejska Szczytno",
       "checked_ts": 1795611331.555716,
@@ -13235,6 +14561,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "550250": {
+      "channel": "Wicko",
+      "checked_ts": 1795829426.2858977,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "550250",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/550250-ix-sesja-ix-kadencji-rady-gminy-wicko---31-marca-2025-roku-",
+      "published": "2025-01-01",
+      "title": "IX sesja IX kadencji Rady Gminy Wicko - 31 marca 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "550264": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612603.1973825,
@@ -13260,6 +14599,19 @@
       "title": "Gmina Barcin | XI sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550309": {
+      "channel": "Warnice",
+      "checked_ts": 1795829365.8521566,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550309",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/550309-xii-sesja-rady-gminy-warnice---27-03-2025-r-",
+      "published": "2025-03-27",
+      "title": "XII Sesja Rady Gminy Warnice - 27.03.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "550347": {
       "channel": "Puck Miasto",
@@ -13820,6 +15172,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "550837": {
+      "channel": "Wicko",
+      "checked_ts": 1795829425.0825155,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "550837",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/550837-x-sesja-ix-kadencji-rady-gminy-wicko---29-kwietnia-2025-roku-",
+      "published": "2025-01-01",
+      "title": "X sesja IX kadencji Rady Gminy Wicko - 29 kwietnia 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "550839": {
       "channel": "Iłów",
       "checked_ts": 1795611576.403847,
@@ -13845,6 +15210,19 @@
       "title": "XV Sesja Rady Gminy Lewin Kłodzki",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "550851": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829393.7139618,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "550851",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/550851-x-sesja-rady-miejskiej-w-wegorzynie---29-04-2025-r-",
+      "published": "2025-04-29",
+      "title": "X Sesja Rady Miejskiej w Węgorzynie - 29.04.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "550853": {
       "channel": "Siekierczyn",
@@ -13923,6 +15301,19 @@
       "title": "Nagranie z X Sesji Rady Gminy Sokolniki - część 2",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "550948": {
+      "channel": "Warnice",
+      "checked_ts": 1795829364.6669455,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "550948",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/550948-xiii-sesja-rady-gminy-warnice---29-04-2025-r-",
+      "published": "2025-04-29",
+      "title": "XIII Sesja Rady Gminy Warnice - 29.04.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "550952": {
       "channel": "Karnice",
@@ -14457,6 +15848,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "551423": {
+      "channel": "Wicko",
+      "checked_ts": 1795829423.867179,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551423",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/551423-xi-sesja-ix-kadencji-rady-gminy-wicko---27-maja-2025-roku-",
+      "published": "2025-01-01",
+      "title": "XI sesja IX kadencji Rady Gminy Wicko - 27 maja 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "551424": {
       "channel": "Osiek Gmina",
       "checked_ts": 1795615128.6238096,
@@ -14652,6 +16056,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551482": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829305.1541908,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551482",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/551482-xi---sesja-rady-miejskiej-w-trzcinsku---zdroju---23-05-2025-r-",
+      "published": "2025-05-23",
+      "title": "XI - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 23.05.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "551492": {
       "channel": "Stepnica",
       "checked_ts": 1795797652.7069626,
@@ -14704,6 +16121,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551512": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829603.3101928,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "551512",
+      "media": "",
+      "page": "https://zlocieniec.tv-polska.eu/film/551512-2025-05-29-xiv-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2025-01-01",
+      "title": "2025.05.29 XIV Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "551514": {
       "channel": "Przasnysz",
       "checked_ts": 1795712101.3324544,
@@ -14716,6 +16146,19 @@
       "title": "XV Sesja Rady Miejskiej w Przasnyszu 26.05.2025 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "551525": {
+      "channel": "Warnice",
+      "checked_ts": 1795829363.4535427,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "551525",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/551525-xiv-sesja-rady-gminy-warnice---28-05-2025-r-",
+      "published": "2025-05-28",
+      "title": "XIV Sesja Rady Gminy Warnice - 28.05.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "551528": {
       "channel": "Sobótka",
@@ -14951,6 +16394,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "551706": {
+      "channel": "Wicko",
+      "checked_ts": 1795829422.6623669,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "551706",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/551706-xii-nadzwyczajna-sesja-ix-kadencji-rady-gminy-wicko---5-czerwca-2025-roku-",
+      "published": "2025-01-01",
+      "title": "XII nadzwyczajna sesja IX kadencji Rady Gminy Wicko - 5 czerwca 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "551710": {
       "channel": "Recz",
       "checked_ts": 1795743872.7985382,
@@ -15054,6 +16510,19 @@
       "title": "Zakup nowego ciężkiego samochodu ratowniczo-gaśniczego dla Ochotniczej Straży Pożarnej w Czerwinie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "551790": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829392.5431204,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "551790",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/551790-xi-sesja-rady-miejskiej-w-wegorzynie",
+      "published": "2025-01-01",
+      "title": "XI Sesja Rady Miejskiej w Węgorzynie",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "551796": {
       "channel": "Dygowo",
@@ -15445,6 +16914,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552068": {
+      "channel": "Warnice",
+      "checked_ts": 1795829361.0502841,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552068",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/552068-xv-sesja-rady-gminy-warnice---13-06-2025-r-",
+      "published": "2025-06-13",
+      "title": "XV Sesja Rady Gminy Warnice - 13.06.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "552071": {
       "channel": "Barcin",
       "checked_ts": 1795610489.1605422,
@@ -15614,6 +17096,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "552132": {
+      "channel": "Wicko",
+      "checked_ts": 1795829421.4717307,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "552132",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/552132-xiii-sesja-ix-kadencji-rady-gminy-wicko---24-czerwca-2025-roku-",
+      "published": "2025-01-01",
+      "title": "XIII sesja IX kadencji Rady Gminy Wicko - 24 czerwca 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "552137": {
       "channel": "Barwice",
       "checked_ts": 1795610534.768711,
@@ -15717,6 +17212,32 @@
       "title": "XVII Sesja Rady Gminy Iłów z dnia 26.06.2025 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552173": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829303.9513474,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552173",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/552173-xii---sesja-rady-miejskiej-w-trzcinsku---zdroju---27-06-2025-r-",
+      "published": "2025-06-27",
+      "title": "XII - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 27.06.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "552175": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829602.1198213,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552175",
+      "media": "",
+      "page": "https://zlocieniec.tv-polska.eu/film/552175-2025-06-26-xv-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2025-01-01",
+      "title": "2025.06.26 XV Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "552176": {
       "channel": "Dolice",
@@ -16758,6 +18279,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "552756": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829600.929606,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "552756",
+      "media": "",
+      "page": "https://zlocieniec.tv-polska.eu/film/552756-2025-07-22-xvi-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2025-01-01",
+      "title": "2025.07.22 XVI Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "552757": {
       "channel": "Miasto Turek",
       "checked_ts": 1795612599.61097,
@@ -16939,6 +18473,19 @@
       "title": "18_XVIII Sesja Rady Gminy Czarnocin_IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "552854": {
+      "channel": "Warnice",
+      "checked_ts": 1795829359.855596,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "552854",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/552854-xvi-nadzwyczajna-sesja-rady-gminy-warnice---25-07-2025-r-",
+      "published": "2025-07-25",
+      "title": "XVI Nadzwyczajna Sesja Rady Gminy Warnice - 25.07.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "552863": {
       "channel": "Czarnocin",
@@ -17577,6 +19124,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553413": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829466.3157248,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553413",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553413-sesja-nr-iv-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2024-01-01",
+      "title": "Sesja Nr IV/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "553414": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829465.1053574,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553414",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553414-sesja-nr-v-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2024-01-01",
+      "title": "Sesja Nr V/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "553415": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829462.7070832,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553415",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553415-sesja-nr-vi-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2024-01-01",
+      "title": "Sesja Nr VI/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "553419": {
       "channel": "Puck Gmina",
       "checked_ts": 1795712204.687944,
@@ -17654,6 +19240,97 @@
       "title": "XVIII Sesja Rady Powiatu",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "553447": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829461.50412,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553447",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553447-sesja-nr-vii-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr VII/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "553448": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829460.2749999,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553448",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553448-sesja-nr-viii-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr VIII/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "553449": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829459.1079264,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553449",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553449-sesja-nr-ix-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr IX/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "553450": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829457.8691232,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553450",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553450-sesja-nr-x-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr X/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "553451": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829456.705657,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553451",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553451-sesja-nr-xi-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr XI/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "553453": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829455.5083919,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553453",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553453-sesja-nr-xii-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr XII/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "553454": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829454.3018126,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553454",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/553454-sesja-nr-xiii-2024-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr XIII/2024 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "553456": {
       "channel": "Dziwnów",
@@ -17967,6 +19644,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "553642": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829302.7848709,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "553642",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/553642-xiii---sesja-rady-miejskiej-w-trzcinsku---zdroju---29-08-2025-r-",
+      "published": "2025-08-29",
+      "title": "XIII - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 29.08.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "553654": {
       "channel": "Siekierczyn",
       "checked_ts": 1795744110.424517,
@@ -18109,6 +19799,19 @@
       "title": "XIV Sesja Rady Miejskiej w Lęborku, kadencja 2024 - 2029 (12.09.2025 r.)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "553875": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829391.3045857,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "553875",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/553875-xii-sesja-rady-miejskiej-w-wegorzynie---16-09-2025",
+      "published": "2025-09-16",
+      "title": "XII Sesja Rady Miejskiej w Węgorzynie - 16.09.2025",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "553885": {
       "channel": "Łęki Szlacheckie",
@@ -18435,6 +20138,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554094": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829599.7236238,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "554094",
+      "media": "",
+      "page": "https://zlocieniec.tv-polska.eu/film/554094-2025-09-25-xvii-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2025-01-01",
+      "title": "2025.09.25 XVII Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "554103": {
       "channel": "Powiat Nowosolski",
       "checked_ts": 1795711959.6088707,
@@ -18499,6 +20215,19 @@
       "title": "XIII Sesja Rady Gminy Manowo, 2025-09-26, godz. 9:00",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554129": {
+      "channel": "Wicko",
+      "checked_ts": 1795829420.2721367,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554129",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/554129-xiv-sesja-ix-kadencji-rady-gminy-wicko---23-wrzesnia-2025-roku-",
+      "published": "2025-01-01",
+      "title": "XIV sesja IX kadencji Rady Gminy Wicko - 23 września 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "554130": {
       "channel": "Kiernozia",
@@ -18968,6 +20697,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "554290": {
+      "channel": "Warnice",
+      "checked_ts": 1795829358.661079,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "554290",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/554290-xvii-sesja-rady-gminy-warnice---26-09-2025-r-",
+      "published": "2025-09-26",
+      "title": "XVII Sesja Rady Gminy Warnice - 26.09.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "554292": {
       "channel": "Marianowo",
       "checked_ts": 1795612460.3447502,
@@ -19045,6 +20787,32 @@
       "title": "XVII Nadzwyczajna Sesja Rady Gminy",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "554336": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829509.572514,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554336",
+      "media": "",
+      "page": "https://wladyslawowo.tv-polska.eu/film/554336-sesja-rady-miejskiej-wladyslawowa-w-dniu-30-09-2025r--czesc-1",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 30.09.2025r. cześć 1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "554337": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829508.3424947,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554337",
+      "media": "",
+      "page": "https://wladyslawowo.tv-polska.eu/film/554337-sesja-rady-miejskiej-wladyslawowa-w-dniu-30-09-2025r--czesc-2",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 30.09.2025r. cześć 2",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "554339": {
       "channel": "Powiat Szczecinecki",
@@ -19409,6 +21177,19 @@
       "title": "XXIX Nadzwyczajna Sesja IX kadencji Rady Gminy Puck 23.10.2025",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "554730": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829301.5447161,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "554730",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/554730-xiv---sesja-rady-miejskiej-w-trzcinsku---zdroju---03-10-2025-r-",
+      "published": "2025-10-03",
+      "title": "XIV - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 03.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "554741": {
       "channel": "Iłów",
@@ -19839,6 +21620,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "554891": {
+      "channel": "Wicko",
+      "checked_ts": 1795829419.0565267,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "554891",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/554891-xv-sesja-ix-kadencji-rady-gminy-wicko---28-pazdziernika-2025-roku-",
+      "published": "2025-01-01",
+      "title": "XV sesja IX kadencji Rady Gminy Wicko - 28 października 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "554892": {
       "channel": "Kamień Pomorski",
       "checked_ts": 1795611824.4456255,
@@ -19851,6 +21645,19 @@
       "title": "XVII Sesja Rady Miejskiej (2024-2029)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "554894": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829598.509941,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "554894",
+      "media": "",
+      "page": "https://zlocieniec.tv-polska.eu/film/554894-2025-10-30-xviii-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2025-01-01",
+      "title": "2025.10.30 XVIII Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "554900": {
       "channel": "Lewin Kłodzki",
@@ -20099,6 +21906,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "555000": {
+      "channel": "Warnice",
+      "checked_ts": 1795829357.4767926,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555000",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/555000-xviii-sesja-rady-gminy-warnice---30-10-2025-r-",
+      "published": "2025-10-30",
+      "title": "XVIII Sesja Rady Gminy Warnice - 30.10.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "555001": {
       "channel": "Międzychód",
       "checked_ts": 1795612724.5822353,
@@ -20125,6 +21945,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555012": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829507.145101,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555012",
+      "media": "",
+      "page": "https://wladyslawowo.tv-polska.eu/film/555012-sesja-rady-miejskiej-wladyslawowa-w-dniu-29-10-2025r--czesc-1",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 29.10.2025r. cześć 1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "555013": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829505.948929,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555013",
+      "media": "",
+      "page": "https://wladyslawowo.tv-polska.eu/film/555013-sesja-rady-miejskiej-wladyslawowa-w-dniu-29-10-2025r--czesc-2",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 29.10.2025r. cześć 2",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "555016": {
       "channel": "Osina",
       "checked_ts": 1795615159.8238301,
@@ -20137,6 +21983,19 @@
       "title": "XIV Sesja Rady Gminy Osina",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555018": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829390.130459,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "555018",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/555018-xiii-sesja-rady-miejskiej-w-wegorzynie---29-10-2025",
+      "published": "2025-10-29",
+      "title": "XIII Sesja Rady Miejskiej w Węgorzynie - 29.10.2025",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "555049": {
       "channel": "Studzienice",
@@ -20333,6 +22192,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555246": {
+      "channel": "Warnice",
+      "checked_ts": 1795829356.2607903,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555246",
+      "media": "",
+      "page": "https://warnice.tv-polska.eu/film/555246-xix-sesja-rady-gminy-warnice---07-11-2025-r-",
+      "published": "2025-11-07",
+      "title": "XIX Sesja Rady Gminy Warnice - 07.11.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "555261": {
       "channel": "Powiat Szczecinecki",
       "checked_ts": 1795712025.6264586,
@@ -20345,6 +22217,19 @@
       "title": "2025-11-17 - sesja Rady Powiatu w Szczecinku",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "555272": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829300.350016,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555272",
+      "media": "",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/555272-xv---sesja-rady-miejskiej-w-trzcinsku---zdroju---14-11-2025-r-",
+      "published": "2025-11-14",
+      "title": "XV - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 14.11.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "555273": {
       "channel": "Ilowo Osada",
@@ -20866,6 +22751,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555498": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829388.9190762,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "555498",
+      "media": "",
+      "page": "https://wegorzyno.tv-polska.eu/film/555498-xiv-sesja-rady-miejskiej-w-wegorzynie---26-11-2025",
+      "published": "2025-11-26",
+      "title": "XIV Sesja Rady Miejskiej w Węgorzynie - 26.11.2025",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "555507": {
+      "channel": "Wicko",
+      "checked_ts": 1795829417.8861141,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555507",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/555507-xvi-sesja-ix-kadencji-rady-gminy-wicko---25-listopada-2025-roku-",
+      "published": "2025-01-01",
+      "title": "XVI sesja IX kadencji Rady Gminy Wicko - 25 listopada 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "555509": {
       "channel": "Dobra Gmina",
       "checked_ts": 1795611067.0314224,
@@ -20969,6 +22880,19 @@
       "title": "XXII Sesja Rady Miejskiej w Miastku 27.11.2025",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "555536": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829597.3262355,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "555536",
+      "media": "",
+      "page": "https://zlocieniec.tv-polska.eu/film/555536-2025-11-27-xix-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2025-01-01",
+      "title": "2025.11.27 XIX Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "555539": {
       "channel": "Jastarnia",
@@ -21269,6 +23193,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "555613": {
+      "channel": "Warnice",
+      "checked_ts": 1795829355.0566037,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "555613",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1142077302.mp4",
+      "page": "https://warnice.tv-polska.eu/film/555613-xx-nadzwyczajna-sesja-rady-gminy-warnice---28-11-2025-r-",
+      "published": "2025-11-28",
+      "title": "XX Nadzwyczajna Sesja Rady Gminy Warnice - 28.11.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "555625": {
       "channel": "Dolice",
       "checked_ts": 1795611101.8391347,
@@ -21372,6 +23309,32 @@
       "title": "XIX Sesja Rady Gminy Ręczno dn. 03.12.2025 r.",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "555689": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829504.739136,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555689",
+      "media": "",
+      "page": "https://wladyslawowo.tv-polska.eu/film/555689-sesja-rady-miejskiej-wladyslawowa-w-dniu-26-11-2025r--czesc-1",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 26.11.2025r. cześć 1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "555690": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829503.5480874,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "555690",
+      "media": "",
+      "page": "https://wladyslawowo.tv-polska.eu/film/555690-sesja-rady-miejskiej-wladyslawowa-w-dniu-26-11-2025r--czesc-2",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 26.11.2025r. cześć 2",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "555704": {
       "channel": "Gniewoszów",
@@ -21841,6 +23804,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "556046": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829596.130421,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "556046",
+      "media": "",
+      "page": "https://zlocieniec.tv-polska.eu/film/556046-2025-12-18--xx-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2025-01-01",
+      "title": "2025.12.18  XX Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "556049": {
       "channel": "Puck Miasto",
       "checked_ts": 1795712223.8853035,
@@ -22205,6 +24181,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556151": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829299.1635356,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556151",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1174669503.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/556151-xvi---sesja-rady-miejskiej-w-trzcinsku---zdroju---04-12-2025-r--",
+      "published": "2025-12-04",
+      "title": "XVI - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 04.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "556152": {
       "channel": "Pomorze Zachodnie",
       "checked_ts": 1795657717.9374611,
@@ -22400,6 +24389,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556232": {
+      "channel": "Warnice",
+      "checked_ts": 1795829353.853145,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "556232",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1150281949.mp4",
+      "page": "https://warnice.tv-polska.eu/film/556232-xxi-sesja-rady-gminy-warnice---19-12-2025-r-",
+      "published": "2025-12-19",
+      "title": "XXI Sesja Rady Gminy Warnice - 19.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "556242": {
       "channel": "Rzeczenica",
       "checked_ts": 1795744066.0338633,
@@ -22412,6 +24414,32 @@
       "title": "XXVI Sesja Rady Gminy Rzeczenica - 29 grudnia 2025 r.",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "556244": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829502.3756785,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556244",
+      "media": "",
+      "page": "https://wladyslawowo.tv-polska.eu/film/556244-sesja-rady-miejskiej-wladyslawowa-w-dniu-17-12-2025r--czesc-1",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 17.12.2025r. cześć 1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "556245": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829501.1412292,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556245",
+      "media": "",
+      "page": "https://wladyslawowo.tv-polska.eu/film/556245-sesja-rady-miejskiej-wladyslawowa-w-dniu-17-12-2025r--czesc-2",
+      "published": "2025-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 17.12.2025r. cześć 2",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "556246": {
       "channel": "Bielice",
@@ -22621,6 +24649,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556301": {
+      "channel": "Wicko",
+      "checked_ts": 1795829415.4863145,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556301",
+      "media": "",
+      "page": "https://wicko.tv-polska.eu/film/556301-xvii-sesja-ix-kadencji-rady-gminy-wicko---30-grudnia-2025-roku-",
+      "published": "2025-01-01",
+      "title": "XVII sesja IX kadencji Rady Gminy Wicko - 30 grudnia 2025 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "556307": {
       "channel": "Iłów",
       "checked_ts": 1795611564.3959064,
@@ -22751,6 +24792,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556378": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829498.7550306,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556378",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1152185638.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/556378-nadzwyczajna-sesja-rady-miejskiej-wladyslawowa-w-dniu-02-01-2026r--czesc-1",
+      "published": "2026-01-01",
+      "title": "Nadzwyczajna Sesja Rady Miejskiej Władysławowa w dniu 02.01.2026r. cześć 1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "556382": {
       "channel": "Mogilno",
       "checked_ts": 1795614924.3968098,
@@ -22776,6 +24830,32 @@
       "title": "XV Sesja Rady Miejskiej w Łabiszynie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "556388": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829387.7468371,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "556388",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1152224935.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/556388-xv-sesja-rady-miejskiej-w-wegorzynie---16-12-2025-r-",
+      "published": "2025-12-16",
+      "title": "XV Sesja Rady Miejskiej w Węgorzynie - 16.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "556400": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829497.572465,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556400",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1152486059.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/556400-nadzwyczajna-sesja-rady-miejskiej-wladyslawowa-w-dniu-02-01-2026r--czesc-2",
+      "published": "2026-01-01",
+      "title": "Nadzwyczajna Sesja Rady Miejskiej Władysławowa w dniu 02.01.2026r. cześć 2",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "556406": {
       "channel": "Skąpe",
@@ -23336,6 +25416,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "556848": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829496.3764594,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556848",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159678456.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/556848-sesja-rady-miejskiej-wladyslawowa-w-dniu-28-01-2026r--czesc-1",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 28.01.2026r. cześć 1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "556849": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829495.1643472,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "556849",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1159681714.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/556849-sesja-rady-miejskiej-wladyslawowa-w-dniu-28-01-2026r--czesc-2",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 28.01.2026r. cześć 2",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "556850": {
       "channel": "Dolice",
       "checked_ts": 1795611099.4397705,
@@ -23557,6 +25663,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "556926": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829594.9251332,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "556926",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1161042193.mp4",
+      "page": "https://zlocieniec.tv-polska.eu/film/556926-2026-01-29-xxi-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2026-01-01",
+      "title": "2026.01.29 XXI Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "556931": {
       "channel": "Czarne",
       "checked_ts": 1795610887.01916,
@@ -23765,6 +25884,32 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "557035": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829297.9163218,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557035",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1174671007.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/557035-xvii---sesja-rady-miejskiej-w-trzcinsku---zdroju---19-12-2025-r-",
+      "published": "2025-12-19",
+      "title": "XVII - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 19.12.2025 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "557036": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829295.5493019,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557036",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1163244528.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/557036-xviii---sesja-rady-miejskiej-w-trzcinsku---zdroju---30-01-2026-r-",
+      "published": "2026-01-30",
+      "title": "XVIII - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 30.01.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "557037": {
       "channel": "Strzelce",
       "checked_ts": 1795797686.461078,
@@ -23777,6 +25922,19 @@
       "title": "XXVI SESJA RADY GMINY STRZELCE",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "557052": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829386.5289934,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557052",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1163545069.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/557052-xvi-sesja-rady-miejskiej-w-wegorzynie---05-02-2026-r-",
+      "published": "2026-02-05",
+      "title": "XVI Sesja Rady Miejskiej w Węgorzynie - 05.02.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "557054": {
       "channel": "Marianowo",
@@ -24115,6 +26273,19 @@
       "title": "XXIV Sesja Rady Miejskiej w Leżajsku (16.02.2026)",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557217": {
+      "channel": "Wicko",
+      "checked_ts": 1795829414.2899199,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557217",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1165944037.mp4",
+      "page": "https://wicko.tv-polska.eu/film/557217-xviii-sesja-ix-kadencji-rady-gminy-wicko---17-lutego-2026-roku-",
+      "published": "2026-01-01",
+      "title": "XVIII sesja IX kadencji Rady Gminy Wicko - 17 lutego 2026 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "557227": {
       "channel": "Łęki Szlacheckie",
@@ -24518,6 +26689,19 @@
       "title": "Sesja Rady Gminy Siemyśl 2026.02.26",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "557418": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829592.5305164,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557418",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1168754410.mp4",
+      "page": "https://zlocieniec.tv-polska.eu/film/557418-2026-02-26-xxii-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2026-01-01",
+      "title": "2026.02.26 XXII Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "557419": {
       "channel": "Barwice",
@@ -24961,6 +27145,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557547": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829385.3251898,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557547",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170627476.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/557547-nadzwyczajna-sesja-rady-miejskiej-w-wegorzynie---25-02-2026-r-",
+      "published": "2026-02-25",
+      "title": "Nadzwyczajna Sesja Rady Miejskiej w Węgorzynie - 25.02.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "557552": {
       "channel": "Czarne",
       "checked_ts": 1795610884.629066,
@@ -25013,6 +27210,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "557557": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829493.9675643,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "557557",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1170664747.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/557557-sesja-rady-miejskiej-wladyslawowa-w-dniu-25-02-2026r-",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 25.02.2026r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "557561": {
       "channel": "Gorzkowice",
       "checked_ts": 1795611474.3884058,
@@ -25051,6 +27261,19 @@
       "title": "Transmisja XXII posiedzenia Rady Gminy Skąpe w kadencji 2024-2029",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "557631": {
+      "channel": "Warnice",
+      "checked_ts": 1795829352.660279,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "557631",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1172033906.mp4",
+      "page": "https://warnice.tv-polska.eu/film/557631-xxii-sesja-rady-gminy-warnice---27-02-2026-r-",
+      "published": "2026-02-27",
+      "title": "XXII Sesja Rady Gminy Warnice - 27.02.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "557633": {
       "channel": "Deszczno",
@@ -25454,6 +27677,19 @@
       "title": "XXX Nadzwyczajna Sesja Rady Gminy Iłowo-Osada z dnia 23.03.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "557980": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829382.920701,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "557980",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1176814619.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/557980-xviii-sesja-rady-miejskiej-w-wegorzynie---24-03-2026-r-",
+      "published": "2026-03-24",
+      "title": "XVIII Sesja Rady Miejskiej w Węgorzynie - 24.03.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "557982": {
       "channel": "Rymań",
@@ -26092,6 +28328,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558125": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829591.3374722,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558125",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178718405.mp4",
+      "page": "https://zlocieniec.tv-polska.eu/film/558125-2026-03-26-xxiii-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2026-01-01",
+      "title": "2026.03.26 XXIII Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "558132": {
       "channel": "Krokowa",
       "checked_ts": 1795612102.7155442,
@@ -26118,6 +28367,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "558144": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829492.7581177,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558144",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178800050.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/558144-sesja-rady-miejskiej-wladyslawowa-w-dniu-25-03-2026r--",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 25.03.2026r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "558145": {
       "channel": "Powiat Kutnowski",
       "checked_ts": 1795657879.2835917,
@@ -26143,6 +28405,19 @@
       "title": "XXII sesja IX kadencji Rady Miejskiej w Kępicach",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558153": {
+      "channel": "Wicko",
+      "checked_ts": 1795829413.0807672,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558153",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1178895800.mp4",
+      "page": "https://wicko.tv-polska.eu/film/558153-xix-sesja-ix-kadencji-rady-gminy-wicko---31-marca-2026-roku-",
+      "published": "2026-01-01",
+      "title": "XIX sesja IX kadencji Rady Gminy Wicko - 31 marca 2026 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "558155": {
       "channel": "Powiat Malborski",
@@ -26365,6 +28640,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558319": {
+      "channel": "Warnice",
+      "checked_ts": 1795829350.2556639,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558319",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1181452588.mp4",
+      "page": "https://warnice.tv-polska.eu/film/558319-xxiii-sesja-rady-gminy-warnice---27-03-2026-r-",
+      "published": "2026-03-27",
+      "title": "XXIII Sesja Rady Gminy Warnice - 27.03.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "558349": {
       "channel": "Powiat Myśliborski",
       "checked_ts": 1795711916.427307,
@@ -26417,6 +28705,84 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "558437": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829451.9261837,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558437",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/558437-sesja-nr-xiv-2025-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr XIV/2025 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "558438": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829450.699187,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558438",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/558438-sesja-nr-xv-2025-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr XV/2025 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "558439": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829449.5164406,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558439",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/558439-sesja-nr-xvi-2025-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2025-01-01",
+      "title": "Sesja Nr XVI/2025 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "558440": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829448.2990062,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558440",
+      "media": "",
+      "page": "https://widuchowa.tv-polska.eu/film/558440-sesja-nr-xvii-2025-rady-gminy-widuchowa--kadencja-2024-2029---czesc-i",
+      "published": "2025-01-01",
+      "title": "Sesja Nr XVII/2025 Rady Gminy Widuchowa, kadencja 2024-2029 - część I",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "558443": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829447.1183183,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558443",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1183357305.mp4",
+      "page": "https://widuchowa.tv-polska.eu/film/558443-sesja-nr-xviii-2026-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2026-01-01",
+      "title": "Sesja Nr XVIII/2026 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "558444": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829445.9139757,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558444",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1183358028.mp4",
+      "page": "https://widuchowa.tv-polska.eu/film/558444-sesja-nr-xx-2026-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2026-01-01",
+      "title": "Sesja Nr XX/2026 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "558451": {
       "channel": "Maszewo",
       "checked_ts": 1795612485.5468035,
@@ -26429,6 +28795,32 @@
       "title": "Sesja nr XXIV Rady Miejskiej w Maszewie 09.04.2026 - część 1",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558454": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829444.7211297,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558454",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1183476675.mp4",
+      "page": "https://widuchowa.tv-polska.eu/film/558454-sesja-nr-xvii-2025-rady-gminy-widuchowa--kadencja-2024-2029---czesc-ii",
+      "published": "2026-01-01",
+      "title": "Sesja Nr XVII/2025 Rady Gminy Widuchowa, kadencja 2024-2029 - część II",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "558455": {
+      "channel": "Widuchowa",
+      "checked_ts": 1795829443.502987,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558455",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1183500307.mp4",
+      "page": "https://widuchowa.tv-polska.eu/film/558455-sesja-nr-xix-2026-rady-gminy-widuchowa--kadencja-2024-2029",
+      "published": "2026-01-01",
+      "title": "Sesja Nr XIX/2026 Rady Gminy Widuchowa, kadencja 2024-2029",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "558462": {
       "channel": "Rogowo pow. Źniński",
@@ -26885,6 +29277,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558699": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829294.356862,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558699",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186916807.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/558699-xix---sesja-rady-miejskiej-w-trzcinsku---zdroju---27-03-2026-r-",
+      "published": "2026-03-27",
+      "title": "XIX - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 27.03.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "558700": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829293.1545715,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "558700",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1186921792.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/558700-xx---sesja-rady-miejskiej-w-trzcinsku---zdroju---24-04-2026-r-",
+      "published": "2026-04-24",
+      "title": "XX - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 24.04.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "558711": {
       "channel": "Ilowo Osada",
       "checked_ts": 1795611528.4009283,
@@ -27184,6 +29602,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "558835": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829381.7279592,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558835",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1189000416.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/558835-xix-sesja-rady-miejskiej-w-wegorzynie---28-04-2026-r-",
+      "published": "2026-04-28",
+      "title": "XIX Sesja Rady Miejskiej w Węgorzynie - 28.04.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "558838": {
       "channel": "Sokolniki",
       "checked_ts": 1795797565.5478907,
@@ -27209,6 +29640,32 @@
       "title": "XXV Sesja Rady Miejskiej Turku z dnia 29 kwietnia 2026r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "558859": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829590.124245,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "558859",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1189274945.mp4",
+      "page": "https://zlocieniec.tv-polska.eu/film/558859-2026-04-30-xxiv-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2026-01-01",
+      "title": "2026.04.30 XXIV Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "558865": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829491.5693126,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "558865",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1189290111.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/558865-sesja-rady-miejskiej-wladyslawowa-w-dniu-29-04-2026r--",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 29.04.2026r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "558871": {
       "channel": "Dolice",
@@ -27456,6 +29913,19 @@
       "title": "XXVIII Sesja Rady Miejskiej w Miastku 15.05.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559070": {
+      "channel": "Warnice",
+      "checked_ts": 1795829349.0599563,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559070",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1192506048.mp4",
+      "page": "https://warnice.tv-polska.eu/film/559070-xxiv-sesja-rady-gminy-warnice---30-04-2026-r-",
+      "published": "2026-04-30",
+      "title": "XXIV Sesja Rady Gminy Warnice - 30.04.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "559076": {
       "channel": "Strzelce",
@@ -27821,6 +30291,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559344": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829380.5538352,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559344",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196211437.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/559344-xx-sesja-rady-miejskiej-w-wegorzynie---27-05-2026-r-",
+      "published": "2026-05-27",
+      "title": "XX Sesja Rady Miejskiej w Węgorzynie - 27.05.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "559352": {
       "channel": "Sobótka",
       "checked_ts": 1795797532.5747695,
@@ -28029,6 +30512,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559388": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829490.3695216,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "559388",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196588196.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/559388-sesja-rady-miejskiej-wladyslawowa-w-dniu-27-05-2026r-",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 27.05.2026r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "559389": {
       "channel": "Puck Miasto",
       "checked_ts": 1795712217.8955374,
@@ -28119,6 +30615,19 @@
       "title": "XXV Sesja Rady Powiatu Kutnowskiego",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "559412": {
+      "channel": "Wicko",
+      "checked_ts": 1795829411.8916686,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "559412",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1196659081.mp4",
+      "page": "https://wicko.tv-polska.eu/film/559412-xx-sesja-ix-kadencji-rady-gminy-wicko---26-maja-2026-roku-",
+      "published": "2026-01-01",
+      "title": "XX sesja IX kadencji Rady Gminy Wicko - 26 maja 2026 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "559414": {
       "channel": "Kamień Pomorski",
@@ -28484,6 +30993,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "559559": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829588.9343429,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "559559",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1199303731.mp4",
+      "page": "https://zlocieniec.tv-polska.eu/film/559559-2026-05-28-xxv-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2026-01-01",
+      "title": "2026.05.28 XXV Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "559562": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829291.98435,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559562",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1199308589.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/559562-xxi---sesja-rady-miejskiej-w-trzcinsku---zdroju---29-05-2026-r-",
+      "published": "2026-05-29",
+      "title": "XXI - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 29.05.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "559611": {
       "channel": "Czerwin",
       "checked_ts": 1795610938.6189084,
@@ -28743,6 +31278,19 @@
       "title": "XXX Sesja Rady Miejskiej w Miastku 03.06.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "559747": {
+      "channel": "Warnice",
+      "checked_ts": 1795829347.8499134,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559747",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1201685244.mp4",
+      "page": "https://warnice.tv-polska.eu/film/559747-xxv-sesja-rady-gminy-warnice---29-05-2026-r-",
+      "published": "2026-05-29",
+      "title": "XXV Sesja Rady Gminy Warnice - 29.05.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "559748": {
       "channel": "Kocierzew Południowy",
@@ -29159,6 +31707,19 @@
       "title": "XXVI/2026 Sesja Rady Powiatu 2026-06-22",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "559922": {
+      "channel": "Warnice",
+      "checked_ts": 1795829346.6675677,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "559922",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1203784128.mp4",
+      "page": "https://warnice.tv-polska.eu/film/559922-xxvi-sesja-rady-gminy-warnice---19-06-2026-r-",
+      "published": "2026-06-19",
+      "title": "XXVI Sesja Rady Gminy Warnice - 19.06.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "559925": {
       "channel": "Marianowo",
@@ -29680,6 +32241,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560090": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829587.7199714,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560090",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205688223.mp4",
+      "page": "https://zlocieniec.tv-polska.eu/film/560090-2026-06-25-xxvi-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2026-01-01",
+      "title": "2026.06.25 XXVI Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "560098": {
       "channel": "Boleszkowice",
       "checked_ts": 1795610627.184105,
@@ -29719,6 +32293,45 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "560112": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829487.9744887,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560112",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205784102.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/560112-sesja-rady-miejskiej-wladyslawowa-w-dniu-25-06-2026r--czesc-1",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 25.06.2026r. cześć 1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "560113": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829486.7558029,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560113",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205784827.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/560113-sesja-rady-miejskiej-wladyslawowa-w-dniu-25-06-2026r--czesc-2",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 25.06.2026r. cześć 2",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "560114": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829485.5530186,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560114",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205785667.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/560114-sesja-rady-miejskiej-wladyslawowa-w-dniu-25-06-2026r--czesc-3",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 25.06.2026r. cześć 3",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "560115": {
       "channel": "Gniewoszów",
       "checked_ts": 1795611429.9686937,
@@ -29731,6 +32344,19 @@
       "title": "XXIV Sesja Rady Gminy w Gniewoszowie",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560117": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829484.3754187,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560117",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1205786038.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/560117-sesja-rady-miejskiej-wladyslawowa-w-dniu-25-06-2026r--czesc-4",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 25.06.2026r. cześć 4",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "560126": {
       "channel": "Piątek",
@@ -29770,6 +32396,19 @@
       "title": "XXIII sesja Rady Miejskiej w Piątku",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560129": {
+      "channel": "Warnice",
+      "checked_ts": 1795829345.457479,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "560129",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206035912.mp4",
+      "page": "https://warnice.tv-polska.eu/film/560129-xxvii-nadzwyczajna-sesja-rady-gminy-warnice---30-06-2026-r-",
+      "published": "2026-06-30",
+      "title": "XXVII Nadzwyczajna Sesja Rady Gminy Warnice - 30.06.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "560130": {
       "channel": "Piątek",
@@ -29900,6 +32539,19 @@
       "title": "XXV nadzwyczajna sesja Rady Gminy Siekierczyn IX kadencji",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "560172": {
+      "channel": "Wicko",
+      "checked_ts": 1795829410.677167,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560172",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1206445590.mp4",
+      "page": "https://wicko.tv-polska.eu/film/560172-xxi-sesja-ix-kadencji-rady-gminy-wicko---30-czerwca-2026-roku-",
+      "published": "2026-01-01",
+      "title": "XXI sesja IX kadencji Rady Gminy Wicko - 30 czerwca 2026 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "560179": {
       "channel": "Iłów",
@@ -30238,6 +32890,19 @@
       "title": "XXX Sesja Rady Miejskiej w Czarnem - IX kadencja",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560338": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829379.3262823,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560338",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1209510146.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/560338-xxi-sesja-rady-miejskiej-w-wegorzynie---13-07-2026-r-",
+      "published": "2026-07-13",
+      "title": "XXI Sesja Rady Miejskiej w Węgorzynie - 13.07.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "560343": {
       "channel": "Powiat Człuchowski",
@@ -30655,6 +33320,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "560645": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829378.0844753,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "560645",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1213822921.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/560645-nadzwyczajna-sesja-rady-miejskiej-w-wegorzynie---28-07-2026-r-",
+      "published": "2026-07-28",
+      "title": "Nadzwyczajna Sesja Rady Miejskiej w Węgorzynie - 28.07.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "560647": {
       "channel": "Łęki Szlacheckie",
       "checked_ts": 1795612353.5402517,
@@ -31070,6 +33748,19 @@
       "title": "XXVIII Sesja Rady Gminy Jednorożec 12.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "560880": {
+      "channel": "Wicko",
+      "checked_ts": 1795829409.471594,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "560880",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1217602658.mp4",
+      "page": "https://wicko.tv-polska.eu/film/560880-xxii-sesja-ix-kadencji-rady-gminy-wicko---11-sierpnia-2026-roku-",
+      "published": "2026-01-01",
+      "title": "XXII sesja IX kadencji Rady Gminy Wicko - 11 sierpnia 2026 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "560892": {
       "channel": "Krzynowłoga Mała",
@@ -31734,6 +34425,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "561118": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829586.5564747,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561118",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1221754520.mp4",
+      "page": "https://zlocieniec.tv-polska.eu/film/561118-2026-08-26-xxvii-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2026-01-01",
+      "title": "2026.08.26 XXVII Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "561119": {
       "channel": "Janowiec Wielkopolski",
       "checked_ts": 1795611680.3850622,
@@ -31967,6 +34671,19 @@
       "title": "XXIX Sesja Rady Gminy Ręczno dn. 31.08.2026 r.",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "561185": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829376.9261668,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561185",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1222689548.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/561185-xxiii-sesja-rady-miejskiej-w-wegorzynie---27-08-2026-r-",
+      "published": "2026-08-27",
+      "title": "XXIII Sesja Rady Miejskiej w Węgorzynie - 27.08.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "561191": {
       "channel": "Przelewice",
@@ -32215,6 +34932,32 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561277": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829483.1570535,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561277",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1224532035.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/561277-sesja-rady-miejskiej-wladyslawowa-w-dniu-31-08-2026r----czesc-1",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 31.08.2026r. - część 1",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "561278": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829481.9685013,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561278",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1224534817.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/561278-sesja-rady-miejskiej-wladyslawowa-w-dniu-31-08-2026r----czesc-2",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 31.08.2026r. - część 2",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "561316": {
       "channel": "Czerwin",
       "checked_ts": 1795610936.2187638,
@@ -32462,6 +35205,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "561433": {
+      "channel": "Warnice",
+      "checked_ts": 1795829344.2587392,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561433",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1227240885.mp4",
+      "page": "https://warnice.tv-polska.eu/film/561433-xxviii-nadzwyczajna-sesja-rady-gminy-warnice---31-08-2026-r-",
+      "published": "2026-08-31",
+      "title": "XXVIII Nadzwyczajna Sesja Rady Gminy Warnice - 31.08.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "561450": {
       "channel": "Dynów",
       "checked_ts": 1795611201.4394577,
@@ -32591,6 +35347,45 @@
       "title": "XXII.2026 Sesja Rady Miejskiej w Nowym Mieście Lubawskim",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561529": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829290.7605546,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561529",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229103765.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/561529-xxii---sesja-rady-miejskiej-w-trzcinsku---zdroju---26-06-2026-r-",
+      "published": "2026-06-26",
+      "title": "XXII - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 26.06.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "561532": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829289.5454183,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561532",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229107697.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/561532-xxiii---sesja-rady-miejskiej-w-trzcinsku---zdroju---26-08-2026-r-",
+      "published": "2026-08-26",
+      "title": "XXIII - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 26.08.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "561533": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829288.3664846,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561533",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1229115179.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/561533-xxiv---sesja-rady-miejskiej-w-trzcinsku---zdroju---21-09-2026-r-",
+      "published": "2026-09-21",
+      "title": "XXIV - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 21.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "561537": {
       "channel": "Szczecinek Gmina",
@@ -32760,6 +35555,19 @@
       "title": "XVIII sesja Rady Powiatu w Żninie - 24.09.2026 r.",
       "tourism": false,
       "updated": "2026-11-26"
+    },
+    "561607": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829585.340715,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561607",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1230157174.mp4",
+      "page": "https://zlocieniec.tv-polska.eu/film/561607-2026-09-24-xxviii-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2026-01-01",
+      "title": "2026.09.24 XXVIII Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "561608": {
       "channel": "Mieszkowice",
@@ -33684,6 +36492,19 @@
       "tourism": false,
       "updated": "2026-11-26"
     },
+    "561807": {
+      "channel": "Wicko",
+      "checked_ts": 1795829408.3143067,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561807",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233053128.mp4",
+      "page": "https://wicko.tv-polska.eu/film/561807-xxiii-sesja-ix-kadencji-rady-gminy-wicko---29-wrzesnia-2026-roku-",
+      "published": "2026-01-01",
+      "title": "XXIII sesja IX kadencji Rady Gminy Wicko - 29 września 2026 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "561819": {
       "channel": "Osina",
       "checked_ts": 1795615149.0371978,
@@ -33736,6 +36557,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "561839": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829480.7604122,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "561839",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233656450.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/561839-sesja-rady-miejskiej-wladyslawowa-w-dniu-30-09-2026r-",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 30.09.2026r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "561841": {
       "channel": "Czerwin",
       "checked_ts": 1795610935.0173097,
@@ -33748,6 +36582,19 @@
       "title": "XXX sesja Rady Gminy Czerwin 06.10.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561849": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829375.722424,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "561849",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1233957612.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/561849-xxiv-sesja-rady-miejskiej-w-wegorzynie---07-10-2026-r-",
+      "published": "2026-10-07",
+      "title": "XXIV sesja Rady Miejskiej w Węgorzynie - 07.10.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "561856": {
       "channel": "Kiernozia",
@@ -33774,6 +36621,19 @@
       "title": "XXXVI Sesja Rady Gminy Gniewino",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "561865": {
+      "channel": "Warnice",
+      "checked_ts": 1795829343.0617828,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "561865",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1234054366.mp4",
+      "page": "https://warnice.tv-polska.eu/film/561865-xxix-sesja-rady-gminy-warnice---30-09-2026-r-",
+      "published": "2026-09-30",
+      "title": "XXIX Sesja Rady Gminy Warnice - 30.09.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "561866": {
       "channel": "Kamień Pomorski",
@@ -34451,6 +37311,19 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562123": {
+      "channel": "Węgorzyno",
+      "checked_ts": 1795829374.529066,
+      "date_source": "data w tytule",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562123",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1240769642.mp4",
+      "page": "https://wegorzyno.tv-polska.eu/film/562123-xxv-sesja-rady-miejskiej-w-wegorzynie---29-10-2026-r-",
+      "published": "2026-10-29",
+      "title": "XXV Sesja Rady Miejskiej w Węgorzynie - 29.10.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "562124": {
       "channel": "Czarne",
       "checked_ts": 1795610860.6124313,
@@ -34698,6 +37571,32 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "562143": {
+      "channel": "Władysławowo",
+      "checked_ts": 1795829479.552188,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562143",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242269933.mp4",
+      "page": "https://wladyslawowo.tv-polska.eu/film/562143-sesja-rady-miejskiej-wladyslawowa-w-dniu-28-10-2026r-",
+      "published": "2026-01-01",
+      "title": "Sesja Rady Miejskiej Władysławowa w dniu 28.10.2026r.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562144": {
+      "channel": "Złocieniec",
+      "checked_ts": 1795829584.119133,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "03 Pomorze Zachodnie - pojezierza",
+      "id": "562144",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242280819.mp4",
+      "page": "https://zlocieniec.tv-polska.eu/film/562144-2026-10-29-xxix-sesja-rady-miejskiej-w-zlociencu",
+      "published": "2026-01-01",
+      "title": "2026.10.29 XXIX Sesja Rady Miejskiej w Złocieńcu",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "562145": {
       "channel": "Osina",
       "checked_ts": 1795615147.835863,
@@ -34749,6 +37648,19 @@
       "title": "XL Sesja Rady Gminy z dnia 29.10.2026r.",
       "tourism": false,
       "updated": "2026-11-27"
+    },
+    "562149": {
+      "channel": "Trzcińsko-Zdrój",
+      "checked_ts": 1795829287.155291,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562149",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1242365097.mp4",
+      "page": "https://trzcinskozdroj.tv-polska.eu/film/562149-xxv---sesja-rady-miejskiej-w-trzcinsku---zdroju---23-10-2026-r-",
+      "published": "2026-10-23",
+      "title": "XXV - Sesja Rady Miejskiej w Trzcińsku - Zdroju - 23.10.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "562150": {
       "channel": "Olszyna",
@@ -34945,6 +37857,305 @@
       "tourism": false,
       "updated": "2026-11-25"
     },
+    "562187": {
+      "channel": "Zelów",
+      "checked_ts": 1795829578.9325247,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562187",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243327554.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562187-vi-sesja-nadzwyczajna-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "VI sesja nadzwyczajna Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562188": {
+      "channel": "Zelów",
+      "checked_ts": 1795829577.7275505,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562188",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243330809.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562188-vii-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "VII sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562189": {
+      "channel": "Zelów",
+      "checked_ts": 1795829576.5365348,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562189",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243340275.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562189-viii-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "VIII sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562190": {
+      "channel": "Zelów",
+      "checked_ts": 1795829575.3360941,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562190",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243381737.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562190-ix-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "IX sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562191": {
+      "channel": "Zelów",
+      "checked_ts": 1795829574.1429095,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562191",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243391817.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562191-x-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "X sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562192": {
+      "channel": "Zelów",
+      "checked_ts": 1795829572.9381464,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562192",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243444538.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562192-xi-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XI sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562193": {
+      "channel": "Zelów",
+      "checked_ts": 1795829571.740185,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562193",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243453479.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562193-xii-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XII sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562194": {
+      "channel": "Zelów",
+      "checked_ts": 1795829570.5421417,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562194",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243459257.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562194-xiii-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XIII sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562195": {
+      "channel": "Zelów",
+      "checked_ts": 1795829568.1215858,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562195",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243465060.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562195-xiv-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XIV sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562196": {
+      "channel": "Zelów",
+      "checked_ts": 1795829566.9408474,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562196",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243467074.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562196-xv-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XV sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562197": {
+      "channel": "Zelów",
+      "checked_ts": 1795829565.7517366,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562197",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243479265.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562197-xvi-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XVI sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562198": {
+      "channel": "Zelów",
+      "checked_ts": 1795829564.5406265,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562198",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243484724.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562198-xvii-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XVII sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562199": {
+      "channel": "Zelów",
+      "checked_ts": 1795829563.3637242,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562199",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243486665.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562199-xviii-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XVIII sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562200": {
+      "channel": "Zelów",
+      "checked_ts": 1795829562.1525688,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562200",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243488349.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562200-xix-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XIX sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562201": {
+      "channel": "Zelów",
+      "checked_ts": 1795829560.9403763,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562201",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243489253.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562201-xx-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XX sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562202": {
+      "channel": "Zelów",
+      "checked_ts": 1795829559.7415245,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562202",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243599486.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562202-xxi-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XXI sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562205": {
+      "channel": "Zelów",
+      "checked_ts": 1795829557.3369675,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562205",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243617921.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562205-xxii-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XXII sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562206": {
+      "channel": "Zelów",
+      "checked_ts": 1795829556.1361268,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562206",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243622506.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562206-xxiii-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XXIII sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562208": {
+      "channel": "Zelów",
+      "checked_ts": 1795829554.929205,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562208",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243624948.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562208-xxiv-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XXIV sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562209": {
+      "channel": "Zelów",
+      "checked_ts": 1795829553.739533,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562209",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243628804.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562209-xxv-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XXV sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562210": {
+      "channel": "Zelów",
+      "checked_ts": 1795829552.5398521,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562210",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243632038.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562210-xxvi-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XXVI sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562211": {
+      "channel": "Zelów",
+      "checked_ts": 1795829551.3545127,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562211",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243634901.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562211-xxvii-sesja-nadzwyczanja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XXVII sesja nadzwyczanja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562212": {
+      "channel": "Zelów",
+      "checked_ts": 1795829550.1388214,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562212",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243635282.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562212-xxviii-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XXVIII sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "562215": {
       "channel": "Banie",
       "checked_ts": 1795609817.8970792,
@@ -34983,6 +38194,32 @@
       "title": "XXIV Sesja Rady Miejskiej w Janowcu Wielkopolskim 05.11.2026",
       "tourism": false,
       "updated": "2026-11-25"
+    },
+    "562222": {
+      "channel": "Wicko",
+      "checked_ts": 1795829407.0759928,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "04 Pomorskie i Żuławy",
+      "id": "562222",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1243791919.mp4",
+      "page": "https://wicko.tv-polska.eu/film/562222-xxiv-sesja-ix-kadencji-rady-gminy-wicko---3-listopada-2026-roku-",
+      "published": "2026-01-01",
+      "title": "XXIV sesja IX kadencji Rady Gminy Wicko - 3 listopada 2026 roku.",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
+    "562223": {
+      "channel": "Warnice",
+      "checked_ts": 1795829341.8659463,
+      "date_source": "data w tytule",
+      "group": "02 Pomorze Zachodnie - Szczecin i okolice",
+      "id": "562223",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1244093054.mp4",
+      "page": "https://warnice.tv-polska.eu/film/562223-xxx-sesja-rady-gminy-warnice---30-10-2026-r-",
+      "published": "2026-10-30",
+      "title": "XXX Sesja Rady Gminy Warnice - 30.10.2026 r.",
+      "tourism": false,
+      "updated": "2026-11-28"
     },
     "562233": {
       "channel": "Miasto Turek",
@@ -36232,6 +39469,19 @@
       "tourism": false,
       "updated": "2026-11-27"
     },
+    "562422": {
+      "channel": "Zelów",
+      "checked_ts": 1795829548.9202886,
+      "date_source": "rok produkcji (dolna granica)",
+      "group": "07 Mazowsze i Łódzkie",
+      "id": "562422",
+      "media": "https://film.alfatv.pl/~tv/backup_vimeo/1250609288.mp4",
+      "page": "https://zelow.tv-polska.eu/film/562422-xxix-sesja-rady-miejskiej-w-zelowie",
+      "published": "2026-01-01",
+      "title": "XXIX sesja Rady Miejskiej w Zelowie",
+      "tourism": false,
+      "updated": "2026-11-28"
+    },
     "67476": {
       "channel": "Agrofirma Witkowo",
       "checked_ts": 1795609799.585375,
@@ -36272,7 +39522,7 @@
       "updated": "2026-11-26"
     }
   },
-  "last_run": "2026-11-27T16:44:02.394863+00:00",
+  "last_run": "2026-11-28T01:33:23.310207+00:00",
   "page_cursors": {
     "alfatv": 3,
     "barcin": 4,
@@ -36318,6 +39568,7 @@
     "gminaslupsk": 2,
     "gminastargard": 4,
     "gminaszczecinek": 4,
+    "gminawolin": 2,
     "gniew": 4,
     "gniewino": 4,
     "gniewoszow": 4,
@@ -36429,9 +39680,27 @@
     "szczecin": 4,
     "szczecinek": 2,
     "szczecinzdrona": 2,
+    "test": 2,
+    "tomaszowmazowiecki": 4,
+    "trzcianka": 2,
+    "trzcinskozdroj": 4,
+    "trzebiatow": 2,
     "ugjoniec": 2,
     "ugposwietne": 4,
     "umnowemiasto": 4,
-    "witkowo": 3
+    "walcz": 2,
+    "warminskomazurskiezdrona": 2,
+    "warnice": 4,
+    "wegorzyno": 4,
+    "wicko": 4,
+    "widuchowa": 4,
+    "wielkopolskie": 4,
+    "witkowo": 3,
+    "wladyslawowo": 4,
+    "wloclawek": 2,
+    "wronki": 2,
+    "zapiskilazegi": 4,
+    "zelow": 4,
+    "zlocieniec": 2
   }
 }
