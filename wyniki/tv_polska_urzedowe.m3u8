@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 # TV-Polska.eu - prywatny katalog linkow; filmy pozostaja na serwerach nadawcow
-# Aktualizacja: 2026-11-28T01:33:23.376229+00:00
+# Aktualizacja: 2026-11-28T15:35:04.518127+00:00
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXV Sesja Rady Miejskiej Mielna 19.11.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1248308295.mp4
 #EXTINF:-1 group-title="01 Pomorze Zachodnie - wybrzeże",Mielno | XXXIV Sesja Rady Miejskiej Mielna 23.10.2026
@@ -451,6 +451,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1224507460.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1231920399.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Barwice | XXXVII Sesja Rady Miejskiej w Barwicach
 https://film.alfatv.pl/~tv/backup_vimeo/1240146109.mp4
+#EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Barwice | XXXVIII Sesja Rady Miejskiej w Barwicach
+https://film.alfatv.pl/~tv/backup_vimeo/1250414654.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Czarne | XXIV Sesja Rady Miejskiej w Czarnem - IX Kadencja
 https://film.alfatv.pl/~tv/backup_vimeo/1161033045.mp4
 #EXTINF:-1 group-title="03 Pomorze Zachodnie - pojezierza",Czarne | XXIX Sesja Rady Miejskiej w Czarnem IX kadencja
@@ -1023,6 +1025,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1204752828.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1220775033.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Barcin | Gmina Barcin | XXVIII sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029
 https://film.alfatv.pl/~tv/backup_vimeo/1231547693.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Barcin | Gmina Barcin | XXX sesja Rady Miejskiej w Barcinie | Kadencja 2024-2029
+https://film.alfatv.pl/~tv/backup_vimeo/1250522289.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | Posiedzenie Komisji do spraw Gminnych
 https://film.alfatv.pl/~tv/backup_vimeo/1206697014.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Janowiec Wielkopolski | XXI sesja Rady Miejskiej w Janowcu Wielkopolskim
@@ -1109,6 +1113,18 @@ https://film.alfatv.pl/~tv/backup_vimeo/1204452460.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1208728162.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Połajewo | XX sesja Rady Gminy w Połajewie odbyta dnia 12 listopada 2026 r. (Kadencja 2024-2029)
 https://film.alfatv.pl/~tv/backup_vimeo/1247162647.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Żnin | XIX sesja Rady Miejskiej w Żninie
+https://film.alfatv.pl/~tv/backup_vimeo/1206746572.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Żnin | XVI sesja Rady Miejskiej w Żninie
+https://film.alfatv.pl/~tv/backup_vimeo/1170192910.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Żnin | XVII sesja Rady Miejskiej w Żninie
+https://film.alfatv.pl/~tv/backup_vimeo/1178430861.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Żnin | XVIII sesja Rady Miejskiej w Żninie
+https://film.alfatv.pl/~tv/backup_vimeo/1195277921.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Żnin | XX sesja Rady Miejskiej w Żninie
+https://film.alfatv.pl/~tv/backup_vimeo/1226548497.mp4
+#EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Żnin | XXI sesja Rady Miejskiej w Żninie
+https://film.alfatv.pl/~tv/backup_vimeo/1247244310.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XIX Sesja Rady Miejskiej
 https://film.alfatv.pl/~tv/backup_vimeo/1206405900.mp4
 #EXTINF:-1 group-title="06 Kujawy i Wielkopolska",Łabiszyn | XV Sesja Rady Miejskiej w Łabiszynie
@@ -1649,20 +1665,32 @@ https://film.alfatv.pl/~tv/backup_vimeo/1150958424.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1165654101.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXV SESJA RADY GMINY STRZELCE Z DNIA 17.11.2026 r. -  IX KADENCJA
 https://film.alfatv.pl/~tv/backup_vimeo/1247884901.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXX zwyczajna Sesja Rady Gminy Zwierzyn (28.10.2026 - kadencja 2024-2029 - )
+https://film.alfatv.pl/~tv/backup_vimeo/1240467933.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXIV sesja Rady Gminy Strzelce -  IX kadencji -  21.10.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1238263489.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXIII  NADZWYCZAJNA SESJA RADY GMINY STRZELCE -  IX KADENCJI  30.09.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1231945668.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXII NADZWYCZAJNA SESJA RADY GMINY STRZELCE 26.08.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1222025027.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXVII nadzwyczajna Sesja Rady Gminy Zwierzyn (27.07.2026 - kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1213272060.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXXI NADZWYCZAJNA SESJA RADY GMINY STRZELCE 1.07.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1206752411.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXVI zwyczajna Sesja Rady Gminy Zwierzyn (24.06.2026 - kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1204481858.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXX NADZWYCZAJNA SESJA RADY GMINY STRZELCE -  IX KADENCJI - 12.06.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1201339321.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXV zwyczajna Sesja Rady Gminy Zwierzyn (27.05.2026 - kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1196028652.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXIX NADZWYCZAJNA SESJA RADY GMINY STRZELCE  -  IX KADENCJI -  15.05.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1192530988.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXVIII SESJA RADY GMINY STRZELCE -  IX KADENCJI -   30.04.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1192539702.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXIV zwyczajna Sesja Rady Gminy Zwierzyn (20.04.2026 - kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1184845104.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXIII zwyczajna Sesja Rady Gminy Zwierzyn (25.03.2026 - kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1176984290.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXVII SESJA RADY GMINY STRZELCE 20.03.2026 r.
 https://film.alfatv.pl/~tv/backup_vimeo/1177234340.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Deszczno | XXV Zwyczajna Sesja Rady Gminy Deszczno 02.03.2026 r. (2024-2029)
@@ -1709,6 +1737,16 @@ https://film.alfatv.pl/~tv/backup_vimeo/1220747956.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1231554788.mp4
 #EXTINF:-1 group-title="10 Lubuskie",Strzelce | XXVI SESJA RADY GMINY STRZELCE
 https://film.alfatv.pl/~tv/backup_vimeo/1163248743.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXII zwyczajna Sesja Rady Gminy Zwierzyn (kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1164007715.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXIX zwyczajna Sesja Rady Gminy Zwierzyn - 2026.09.28 (kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1231679942.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXVIII zwyczajna Sesja Rady Gminy Zwierzyn (kadencja 2024-2029 -  26.08.2026r.)
+https://film.alfatv.pl/~tv/backup_vimeo/1221702479.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XXXI zwyczajna Sesja Rady Gminy Zwierzyn - 2026.11 - 25 (kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1250291715.mp4
+#EXTINF:-1 group-title="10 Lubuskie",Zwierzyn | XX nadzwyczajna Sesja Rady Gminy Zwierzyn (08.12.2025 - kadencja 2024-2029)
+https://film.alfatv.pl/~tv/backup_vimeo/1144502666.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Cisna | Sesja nr XXXIX Rady Gminy Cisna z dnia 28.10.2026
 https://film.alfatv.pl/~tv/backup_vimeo/1240341786.mp4
 #EXTINF:-1 group-title="11 Podkarpacie i Polska Wschodnia",Miasto Leżajsk | XXXII Sesja Rady Miejskiej w Leżajsku. 26.10.2026
@@ -1881,6 +1919,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1177207433.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1177220640.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-03-24 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1176858105.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Związek Zachodniopomorskiej Strefy Centralnej | X Sesja Zgromadzenia Związku Zachodniopomorskiej Strefy Centralnej - 17.03.2026
+https://film.alfatv.pl/~tv/backup_vimeo/1185235642.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2026-02-26 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1168755240.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Żniński | XIV sesja Rady Powiatu w Żninie - 26.02.2026 r.
@@ -1909,6 +1949,12 @@ https://film.alfatv.pl/~tv/backup_vimeo/1156083713.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1154570448.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XIX nadzwyczajna sesja Rady Gminy Banie
 https://film.alfatv.pl/~tv/backup_vimeo/1201664291.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XVI sesja Rady Gminy Banie
+https://film.alfatv.pl/~tv/backup_vimeo/1152494858.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XVII nadzwyczajna sesja Rady Gminy Banie
+https://film.alfatv.pl/~tv/backup_vimeo/1170564326.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XVIII sesja Rady Gminy Banie
+https://film.alfatv.pl/~tv/backup_vimeo/1190373614.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XX sesja Rady Gminy Banie
 https://film.alfatv.pl/~tv/backup_vimeo/1208714232.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Banie | XXI nadzwyczajna sesja Rady Gminy Banie
@@ -2119,6 +2165,8 @@ https://film.alfatv.pl/~tv/backup_vimeo/1150375209.mp4
 https://film.alfatv.pl/~tv/backup_vimeo/1148574554.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Recz | 2025-12-17 - XVII sesja Rady Miejskiej w Reczu
 https://film.alfatv.pl/~tv/backup_vimeo/1147566842.mp4
+#EXTINF:-1 group-title="12 Kanały tematyczne i inne",Związek Zachodniopomorskiej Strefy Centralnej | IX Sesja Zgromadzenia Związku Zachodniopomorskiej Strefy Centralnej - 17.12.2025
+https://film.alfatv.pl/~tv/backup_vimeo/1185214894.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2025-12-16 - sesja Rady Powiatu w Szczecinku
 https://film.alfatv.pl/~tv/backup_vimeo/1147223002.mp4
 #EXTINF:-1 group-title="12 Kanały tematyczne i inne",Powiat Szczecinecki | 2025-12-04 - sesja Rady Powiatu w Szczecinku
